@@ -4,6 +4,81 @@ Bitácora del proyecto, en español simple. Cada sesión de trabajo agrega lo qu
 
 ---
 
+## Sesión 3 — 8 de agosto de 2026 — Paso 1: leer la home y filtrar candidatos
+
+### Qué se pidió
+Que el detector lea la página principal (la "home") y arme la lista de
+remates que probablemente tengan vinilos, para después (en otro paso) entrar
+solo a esos. Sin entrar todavía a cada remate ni armar ninguna app.
+
+### Qué se hizo
+Escribí el programa **`paso1_remates.js`**. Hace esto:
+
+1. **Baja la home** `https://www.remotes.com.uy/`. Puede bajarla en vivo, o
+   usar un archivo `home.html` que se le pase (por si la red da problemas).
+2. **Lee todos los remates** que aparecen ahí. Descubrí que cada remate está
+   en un bloque de HTML que empieza con
+   `<a class="selectRemateLabel" href="participar/remate/NÚMERO">`, y adentro
+   trae: empresa rematadora, departamento (un cartelito azul), la descripción
+   (en una etiqueta `<h4>`), la dirección ("Dónde"), el teléfono, el
+   rematador y la fecha/hora (guardada como "timestamp", un número que
+   convierto a fecha de Uruguay).
+3. **Filtra por palabras clave** (sin distinguir mayúsculas ni tildes):
+   vinilo, vinilos, disco, discos, LP, long play, álbum, música, tocadiscos,
+   colección, coleccionable(s), antigüedad(es), multirubro, sucesión.
+   El filtro es **amplio a propósito**: prefiere traer de más.
+4. **Guarda dos archivos**:
+   - `remates-candidatos.json` → solo los remates que pasaron el filtro.
+   - `remates-todos.json` → todos los remates de la home (para revisar a mano).
+5. **Muestra en pantalla** la lista de candidatos, ordenada por fecha (los
+   más próximos primero).
+
+### Resultado real (corrida del 8/8/2026)
+- **98 remates** en total en la home.
+- **39 candidatos** con palabras clave.
+- Palabras que más aparecieron: `antigüedades` (18), `coleccionables` (14),
+  `colección` (9), `sucesión` (5), `multirubro` (3), `vinilos` (2),
+  `discos` (2), `música` (1), `vinilo` (1).
+
+**Remates que mencionan vinilos/discos/música DIRECTAMENTE en la home**
+(los más prometedores):
+- **7580** — Rincón del Vintage (Montevideo): "REMATE ÚNICO DEDICADO POR
+  ENTERO AL ARTE... VINILOS ÚNICOS...".
+- **7443** — Legado Remates (Canelones): menciona "vinilos".
+- **7393** — Mage Remates (Montevideo): "...Discos de Vinilo y mucho más"
+  (este es el que ya analizamos: tiene 6 vinilos).
+- **7576** — Gardiol y otros (Colonia): "discos" + coleccionables.
+- **7533** — Import Remates (Montevideo): libros, CDs y "música".
+
+(El resto de los 39 son de antigüedades / colección / sucesión, donde
+suelen aparecer vinilos aunque no lo digan en el título. Por eso conviene
+igual entrar a revisarlos en el Paso 2.)
+
+### Cómo usarlo
+```
+# Opción A: baja la home en vivo
+node paso1_remates.js
+
+# Opción B: usar una home ya descargada
+curl -s "https://www.remotes.com.uy/" > home.html
+node paso1_remates.js home.html
+```
+
+### Cosas para tener en cuenta / a mejorar
+- **Fechas viejas:** la home muestra también algunos remates cuya fecha ya
+  pasó (por ejemplo del 5/8, y hoy es 8/8). Los dejé todos por ahora, con su
+  fecha, para no perder ninguno. En el Paso 2 podemos filtrar por fecha si
+  querés ver solo los futuros.
+- **Zona horaria:** las fechas se muestran en hora de Uruguay
+  (America/Montevideo).
+- **El JSON cambia** cada vez que se corre (según lo que haya en la home),
+  por eso está en `.gitignore`. Guardé una foto de ejemplo en
+  `ejemplo-remates-candidatos.json` para que se vea el formato.
+- Todavía **no** entramos a cada remate ni miramos los lotes; eso es el
+  Paso 2.
+
+---
+
 ## Sesión 2 — 8 de agosto de 2026 — ¡RESUELTO!
 
 ### Resumen de una línea

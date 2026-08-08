@@ -1,4 +1,6 @@
 node_modules/
 lotes.json
+remates-todos.json
+remates-candidatos.json
 *.html
 profile/
