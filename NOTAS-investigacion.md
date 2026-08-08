@@ -4,6 +4,36 @@ Bitácora del proyecto, en español simple. Cada sesión de trabajo agrega lo qu
 
 ---
 
+## Sesión 4 — 8 de agosto de 2026 — Filtro de fecha (solo remates activos)
+
+### Qué se pidió
+Que la lista muestre **solo los remates que todavía no cerraron**, y que
+esté **ordenada por fecha de cierre más próxima primero** (lo que está por
+vencer, arriba).
+
+### Qué se hizo (dentro de `paso1_remates.js`)
+1. **Descartar los ya finalizados:** cuando corre el programa, mira la hora
+   actual y saca de la lista todo remate cuya fecha/hora ya pasó.
+2. **Fecha dudosa:** si un remate no tiene una fecha clara en la home, NO se
+   descarta; se incluye igual pero queda marcado con `"fechaDudosa": true`
+   (y en pantalla aparece con un aviso "⚠️ FECHA DUDOSA"). Estos van al final
+   de la lista.
+3. **Orden:** de la fecha de cierre más próxima a la más lejana.
+
+Nota técnica: la home trae una sola fecha por remate (la etiqueta "Cuándo"),
+que es la que usamos como fecha de cierre. Es el único dato de fecha
+disponible en la página principal.
+
+### Resultado real (corrida del 8/8/2026)
+- 39 candidatos con palabras clave.
+- **16 descartados** por estar ya finalizados.
+- **23 candidatos activos** quedaron en la lista, ordenados por vencimiento.
+- El primero de la lista vence el 09/08 a las 11:00 (Jorge Perujo).
+
+El archivo `ejemplo-remates-candidatos.json` fue actualizado con estos 23.
+
+---
+
 ## Sesión 3 — 8 de agosto de 2026 — Paso 1: leer la home y filtrar candidatos
 
 ### Qué se pidió

@@ -192,18 +192,34 @@ async function obtenerHtml() {
 
   const todos = extraerRemates(html);
 
-  // Marcar candidatos.
-  const candidatos = [];
+  // Momento en que corre el programa (para descartar remates ya cerrados).
+  const ahora = Math.floor(Date.now() / 1000);
+
+  // Marcar candidatos (los que tienen palabras clave).
+  const candidatosBase = [];
   for (const r of todos) {
     const kw = coincidencias(r);
     if (kw.length > 0) {
-      candidatos.push({ ...r, palabrasClave: kw });
+      // fechaDudosa = no pudimos leer una fecha/hora clara del remate.
+      const fechaDudosa = !r.timestamp;
+      candidatosBase.push({ ...r, fechaDudosa, palabrasClave: kw });
     }
   }
 
-  // Ordenar por fecha (los más próximos primero).
-  const porFecha = (a, b) => (a.timestamp || 0) - (b.timestamp || 0);
-  todos.sort(porFecha);
+  // Filtrar: quedarnos solo con los que TODAVÍA NO CERRARON.
+  //  - Si el remate tiene fecha y ya pasó  -> se descarta.
+  //  - Si el remate tiene fecha futura      -> se incluye.
+  //  - Si el remate no tiene fecha clara    -> se incluye igual (fecha dudosa).
+  const candidatos = candidatosBase.filter(
+    (r) => r.fechaDudosa || r.timestamp >= ahora
+  );
+  const descartadosPorFecha = candidatosBase.length - candidatos.length;
+
+  // Ordenar por fecha de cierre más próxima primero.
+  // Los de "fecha dudosa" (sin fecha) van al final.
+  const clave = (r) => (r.timestamp ? r.timestamp : Infinity);
+  const porFecha = (a, b) => clave(a) - clave(b);
+  todos.sort((a, b) => (a.timestamp || Infinity) - (b.timestamp || Infinity));
   candidatos.sort(porFecha);
 
   // Guardar resultados.
@@ -212,12 +228,14 @@ async function obtenerHtml() {
 
   // Mostrar en pantalla.
   console.log(`\nRemates encontrados en la home: ${todos.length}`);
-  console.log(`Remates CANDIDATOS (con palabras clave): ${candidatos.length}\n`);
+  console.log(`Candidatos con palabras clave: ${candidatosBase.length}`);
+  console.log(`  - descartados por estar ya finalizados: ${descartadosPorFecha}`);
+  console.log(`Candidatos ACTIVOS (no cerrados): ${candidatos.length}\n`);
   console.log('='.repeat(70));
   for (const r of candidatos) {
     console.log(`\n[Remate ${r.id}] ${r.empresa || '(sin empresa)'}`);
     console.log(`  Lugar:  ${r.lugar || r.departamento || '(sin lugar)'}`);
-    console.log(`  Fecha:  ${r.fecha || '(sin fecha)'}`);
+    console.log(`  Fecha:  ${r.fecha || '(sin fecha)'}${r.fechaDudosa ? '  ⚠️ FECHA DUDOSA' : ''}`);
     console.log(`  Coincide por: ${r.palabrasClave.join(', ')}`);
     const desc = (r.descripcion || '').slice(0, 160);
     console.log(`  Descripción: ${desc}${(r.descripcion || '').length > 160 ? '…' : ''}`);
