@@ -4,6 +4,100 @@ Bitácora del proyecto, en español simple. Cada sesión de trabajo agrega lo qu
 
 ---
 
+## Sesión 2 — 8 de agosto de 2026 — ¡RESUELTO!
+
+### Resumen de una línea
+Los lotes (número, título, descripción, precio base y más) **ya vienen
+dentro del HTML** de la página del remate, guardados en una variable de
+JavaScript llamada `items`. No hace falta ninguna API secreta ni WebSocket
+para leer las descripciones. Con un simple `curl` alcanza.
+
+### Cómo lo encontramos (contado sencillo)
+
+1. Ya con la red habilitada, bajé la home y la página del remate 7393:
+   ambas responden **HTTP 200** (o sea, todo bien).
+2. Revisé el HTML del remate 7393. Marcelo tenía razón: no se ven las
+   descripciones "a simple vista" en la parte visible de la página.
+3. Pero al mirar el HTML por dentro, encontré que la página trae **todos
+   los datos de los lotes escondidos en una línea de JavaScript**:
+
+   ```
+   var items = [{"id":1065913,"remate":7393,"lote":"1",
+   "titulo":"Bowl de Cerámica ...","descripcion":"*largo: 23,5 cm...",
+   "base":"150.000000", ...}, {...}, ...]
+   ```
+
+   Es una lista con **los 85 lotes** del remate, cada uno con su número,
+   título, descripción, moneda y precio base. La página usa esa lista para
+   ir "dibujando" los lotes con JavaScript — por eso Marcelo no las veía en
+   el texto plano, pero los datos **siempre estuvieron ahí, en el HTML**.
+
+### Por qué esto es una gran noticia
+
+- **No necesitamos una API ni permisos especiales.** Con bajar la página
+  (como hace cualquier navegador) ya tenemos todo.
+- Es **rápido y liviano**: una sola descarga por remate.
+- Funciona **sin ejecutar JavaScript**, así que el detector puede ser un
+  programa muy simple.
+
+### La receta técnica (para reproducirlo)
+
+1. Descargar la página del remate:
+   `https://www.remotes.com.uy/participar/remate/<NUMERO>`
+2. Buscar en el HTML el texto `var items = ` y leer la lista JSON que le
+   sigue (desde el `[` hasta el `]` que lo cierra).
+3. Eso es un JSON con todos los lotes. Campos útiles de cada lote:
+   - `lote` → número del lote (ej: "46")
+   - `titulo` → descripción principal (acá dice si es un vinilo)
+   - `descripcion` → detalles extra (medidas, etc.)
+   - `moneda` + `base` → precio base
+   - `id`, `remate`, `cantidad` → identificadores y stock
+
+El script `extraer.js` (guardado en el repo) hace exactamente esto.
+
+### Ejemplo real: lotes del remate 7393 (85 lotes en total)
+
+Este remate es de antigüedades y objetos de colección. Entre ellos hay
+**6 lotes de vinilos/discos**, que el detector encontró automáticamente
+buscando palabras como "vinilo", "disco", "LP":
+
+- **Lote 46** — Disco de vinilo del álbum "Dezembros" de Maria Bethânia
+  (RCA, 1986). Base $250.
+- **Lote 47** — Disco de vinilo "Selección 25 Aniversario" de Carlos
+  Gardel (Odeon, 1960). Base $300.
+- **Lote 48** — Disco de vinilo "Y te has quedado sola" de Los Iracundos
+  (RCA Victor, 1974). Base $250.
+- **Lote 49** — Álbum "A Qué Le Llaman Distancia" de Atahualpa Yupanqui
+  (Odeon, 1960). Base $250.
+- **Lote 50** — Disco álbum homónimo de Sandro, el "Álbum Rojo"
+  (CBS, 1969). Base $250.
+- **Lote 51** — Disco "El grito de la tierra" de Mercedes Sosa
+  (Philips, 1970). Base $250.
+
+(La lista completa de los 85 lotes queda en el archivo `lotes-7393.json`,
+generado por el script.)
+
+### Detalle técnico menor (por si aparece más adelante)
+
+- Dentro del HTML también hay un `SOCKET_URL` / `wss://www.remotes.com.uy/socket`.
+  Eso es el **WebSocket de la subasta en vivo** (para ver las ofertas en
+  tiempo real mientras corre el remate). **No** lo necesitamos para leer las
+  descripciones de los lotes — esas ya están en `var items`. Lo dejo anotado
+  por si en el futuro querés mostrar precios/ofertas en vivo.
+- El sitio está detrás de Cloudflare, pero no molestó: respondió normal.
+
+### Próximos pasos sugeridos (para la siguiente sesión)
+
+1. Armar un pequeño programa que:
+   a. Lea la home para sacar la lista de remates activos.
+   b. Entre a cada remate, extraiga `items`, y filtre los que son vinilos.
+   c. Arme un aviso (lista de vinilos encontrados, con remate, lote y base).
+2. Mejorar el filtro de vinilos (palabras clave, evitar falsos positivos
+   como "disco" de freno o "disco" duro, etc.).
+3. Ver si conviene que corra solo cada cierto tiempo y te avise.
+
+---
+
 ## Sesión 1 — 8 de agosto de 2026
 
 ### Objetivo de la sesión
