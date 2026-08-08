@@ -4,6 +4,82 @@ Bitácora del proyecto, en español simple. Cada sesión de trabajo agrega lo qu
 
 ---
 
+## Sesión 5 — 8 de agosto de 2026 — Paso 2: leer los lotes y armar la lista de vinilos
+
+### Qué se pidió
+Entrar a cada remate candidato, leer sus lotes (con el método de `extraer.js`)
+y armar la lista final de vinilos, con un filtro MÁS FINO que el de la home
+(la palabra "disco" sola no alcanza). Para cada vinilo: número de lote,
+artista y álbum, sello y año (si aparecen), precio base, enlace a la imagen
+y enlace directo al lote. Todo agrupado por remate, solo remates que no
+cerraron, ordenados por cierre más próximo primero.
+
+### Qué se hizo
+Escribí **`paso2_vinilos.js`**. Toma los candidatos del Paso 1
+(`remates-candidatos.json`), entra a cada remate (baja la página en vivo, o
+usa una cache local para pruebas), lee la variable `items` con los lotes, y
+aplica un **filtro fino de vinilos**.
+
+### Cómo funciona el filtro fino (lo importante)
+Mira el CONTEXTO, no una sola palabra:
+
+- **Señales fuertes** (con una alcanza): "vinilo", "long play"/"elepé", "LP",
+  "acetato", "33/45/78 RPM", "disco de vinilo", "discos de pasta" (los de 78
+  RPM, antiguos), o la frase "sello discográfico".
+- **Sello conocido + contexto**: RCA, Odeon, Philips, CBS, Columbia, EMI,
+  Polydor, Continental, etc. — pero SOLO cuenta si además hay contexto de
+  música. Así "Juguera Philips" o "Lámpara Philips" NO se cuelan.
+- **Combinaciones**: "álbum" + (sello o año), "disco" + "álbum", etc.
+- **Descarta equipos y muebles**: tocadiscos, mini componentes, "disqueros"
+  (muebles para discos), estanterías... salvo que traigan una cantidad real
+  de discos (ej: "34 discos de pasta").
+- Ignora usos falsos: "disco duro", "disco de freno", "álbum de figuritas".
+
+También intenta sacar **artista y álbum** del título (formato "Artista -
+Título", entre paréntesis, o "…de Fulano…"). Es aproximado (el título es
+texto libre), pero **siempre queda el título completo** por las dudas.
+
+### Resultado real (corrida del 8/8/2026)
+Revisó los **23 remates activos** (los otros 16 candidatos ya habían cerrado,
+filtrados por fecha como se pidió). Encontró **78 vinilos en 6 remates**:
+
+| Cierre | Remate | Empresa (lugar) | Vinilos |
+|--------|--------|-----------------|---------|
+| 09/08 11:00 | 7441 | Jorge Perujo (Montevideo) | 1 (34 discos de pasta) |
+| 09/08 17:00 | 7480 | Escritorio de Remates CV (Colonia) | 1 (13 discos vinilos) |
+| 09/08 20:00 | 7393 | Mage Remates (Montevideo) | 6 |
+| 11/08 18:59 | 7580 | Rincón del Vintage (Montevideo) | 65 |
+| 11/08 19:00 | 7576 | Gardiol y otros (Colonia) | 1 |
+| 17/08 15:00 | 7568 | Valentina Rodríguez (Montevideo) | 4 (Beatles) |
+
+El remate **7580 (Rincón del Vintage)** es el premio gordo: 65 vinilos
+(Beatles, Eric Clapton, George Harrison, Supertramp, Alice Cooper,
+Whitesnake, Journey...).
+
+### Cómo usarlo
+```
+node paso1_remates.js      # arma remates-candidatos.json
+node paso2_vinilos.js      # entra a cada uno y arma vinilos-encontrados.json
+```
+El resultado queda en `vinilos-encontrados.json` (agrupado por remate). Se
+guardó una foto en `ejemplo-vinilos-encontrados.json`.
+
+### Qué se afinó durante el trabajo (por si sirve)
+En las primeras corridas aparecían falsos positivos: electrodomésticos
+Philips, medallas con año y guión ("El País - Campeón 1987"), y un mueble
+"disquero". Se corrigieron exigiendo contexto musical y descartando
+equipos/muebles. También se recuperó un hallazgo que se escapaba: un lote de
+"34 discos de pasta".
+
+### Cosas para tener en cuenta / a mejorar
+- **Artista/álbum son aproximados** en títulos con redacción libre; el título
+  completo siempre queda guardado.
+- El filtro se puede seguir afinando con más sellos o casos raros.
+- Falta (próximos pasos): ver estado de cada lote (si ya se vendió), precios
+  en vivo, y quizás una app/aviso automático.
+
+---
+
 ## Sesión 4 — 8 de agosto de 2026 — Filtro de fecha (solo remates activos)
 
 ### Qué se pidió
