@@ -78,10 +78,22 @@ main { padding: 12px 12px 32px; max-width: 640px; margin: 0 auto; }
   padding: 14px;
   margin-bottom: 12px;
   box-shadow: var(--sombra);
-  text-decoration: none;
   color: inherit;
+  cursor: pointer;
 }
 .card-remate:active { transform: scale(.99); }
+
+.card-fila { display: flex; gap: 12px; align-items: flex-start; }
+.remate-foto {
+  flex: 0 0 auto;
+  width: 72px;
+  height: 72px;
+  border-radius: 10px;
+  object-fit: cover;
+  background: #d9d3c8 url('icons/icon-192.png') center/70% no-repeat;
+}
+@media (prefers-color-scheme: dark) { .remate-foto { background-color: #2c261f; } }
+.card-texto { min-width: 0; flex: 1; }
 
 .card-nombre {
   font-size: 1.05rem;
@@ -98,15 +110,44 @@ main { padding: 12px 12px 32px; max-width: 640px; margin: 0 auto; }
 .card-meta { font-size: .82rem; color: var(--texto-suave); margin: 0; line-height: 1.5; }
 .card-meta .sep { opacity: .5; }
 
+.card-pie {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-top: 12px;
+  flex-wrap: wrap;
+}
 .badge {
   display: inline-block;
-  margin-top: 10px;
   background: var(--ambar);
   color: #2b2000;
   font-weight: 700;
   font-size: .82rem;
   padding: 4px 10px;
   border-radius: 999px;
+}
+
+/* Estrellas de puntuación manual */
+.estrellas { display: inline-flex; align-items: center; gap: 1px; }
+.estrella {
+  border: 0;
+  background: transparent;
+  color: #c9b89a;
+  font-size: 1.7rem;
+  line-height: 1;
+  padding: 2px 3px;
+  cursor: pointer;
+  min-width: 34px;   /* objetivo táctil cómodo */
+  min-height: 40px;
+}
+.estrella.activa { color: var(--ambar); }
+.estrella:active { transform: scale(1.2); }
+.estrellas-label {
+  font-size: .74rem;
+  color: var(--texto-suave);
+  margin-left: 6px;
+  min-width: 62px;
 }
 
 /* --- Pantalla 2: detalle --- */
@@ -135,27 +176,69 @@ main { padding: 12px 12px 32px; max-width: 640px; margin: 0 auto; }
 }
 .btn-remate:active { opacity: .9; }
 
-.conteo-vinilos {
-  font-size: .95rem;
-  font-weight: 700;
-  margin: 4px 2px 10px;
+/* Barra de filtro (cantidad + solo destacados) */
+.barra-filtro {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin: 4px 2px 12px;
+  flex-wrap: wrap;
+}
+.conteo-vinilos { font-size: .95rem; font-weight: 700; }
+.btn-filtro {
+  border: 1px solid var(--borde);
+  background: var(--tarjeta);
+  color: var(--texto);
+  font-size: .85rem;
+  font-weight: 600;
+  padding: 8px 12px;
+  border-radius: 999px;
+  cursor: pointer;
+}
+.btn-filtro.activo {
+  background: var(--ambar);
+  color: #2b2000;
+  border-color: var(--ambar);
 }
 
-/* Tarjeta de vinilo */
+/* Tarjeta de vinilo (contenedor con corazón encima) */
 .card-vinilo {
-  display: flex;
-  gap: 12px;
-  align-items: center;
+  position: relative;
   background: var(--tarjeta);
   border: 1px solid var(--borde);
   border-radius: 14px;
-  padding: 10px;
   margin-bottom: 10px;
   box-shadow: var(--sombra);
+}
+.card-vinilo:active { transform: scale(.99); }
+.vinilo-link {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  padding: 10px;
+  padding-right: 52px; /* espacio para el corazón */
   text-decoration: none;
   color: inherit;
 }
-.card-vinilo:active { transform: scale(.99); }
+
+/* Botón destacar (corazón) */
+.btn-fav {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 40px;
+  height: 40px;
+  border: 0;
+  background: transparent;
+  color: #c9b89a;
+  font-size: 1.5rem;
+  line-height: 1;
+  cursor: pointer;
+  border-radius: 50%;
+}
+.btn-fav.activo { color: #e0245e; }
+.btn-fav:active { transform: scale(1.2); }
 
 .vinilo-foto {
   flex: 0 0 auto;

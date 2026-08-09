@@ -2,9 +2,11 @@
 
 // ---------------------------------------------------------------------------
 // Detector de Vinilos — lógica de la PWA.
-// Lee vinilos.json (el que genera paso2_vinilos.js), muestra dos pantallas:
-//  1) lista de remates con vinilos, 2) detalle de un remate con sus vinilos.
+// Pantalla 1: lista de remates con vinilos (con puntuación manual por estrellas).
+// Pantalla 2: detalle del remate con sus vinilos (con destacados y filtro).
 // Funciona sin internet: guarda la última copia de los datos en el celular.
+// Las puntuaciones y los destacados se guardan en el celular y sobreviven a
+// las actualizaciones de datos (se asocian al id, no a la posición).
 // ---------------------------------------------------------------------------
 
 var ICONO = 'icons/icon-192.png';
@@ -13,8 +15,57 @@ var barraTitulo = document.getElementById('tituloBarra');
 var btnAtras = document.getElementById('btnAtras');
 var aviso = document.getElementById('aviso');
 
-var datos = [];        // remates con vinilos
-var actualizado = null; // fecha de la última descarga de datos
+var datos = [];         // remates con vinilos
+var actualizado = null;  // fecha de la última descarga de datos
+var soloDestacados = false; // filtro de la pantalla 2
+
+// --- Guardado en el celular (localStorage) ---------------------------------
+
+var KEY_PUNTOS = 'puntuaciones';   // { remateId: 0..5 }
+var KEY_DESTACADOS = 'destacados'; // { viniloId: true }
+
+function leerMapa(key) {
+  try { return JSON.parse(localStorage.getItem(key) || '{}') || {}; }
+  catch (e) { return {}; }
+}
+function guardarMapa(key, obj) {
+  try { localStorage.setItem(key, JSON.stringify(obj)); } catch (e) { /* nada */ }
+}
+
+// Puntuación de un remate (0 a 5). Arranca en 0 (sin puntuar).
+function getPuntos(remateId) {
+  var m = leerMapa(KEY_PUNTOS);
+  var v = m[String(remateId)];
+  return typeof v === 'number' ? v : 0;
+}
+function setPuntos(remateId, valor) {
+  var m = leerMapa(KEY_PUNTOS);
+  if (valor > 0) m[String(remateId)] = valor;
+  else delete m[String(remateId)];
+  guardarMapa(KEY_PUNTOS, m);
+}
+
+// Destacado de un vinilo (usa el id estable del lote; respaldo: remate:lote).
+function claveVinilo(remateId, v) {
+  if (v.id != null) return 'id:' + v.id;
+  return 'rl:' + remateId + ':' + v.lote;
+}
+function esDestacado(clave) {
+  return leerMapa(KEY_DESTACADOS)[clave] === true;
+}
+function toggleDestacado(clave) {
+  var m = leerMapa(KEY_DESTACADOS);
+  if (m[clave]) delete m[clave]; else m[clave] = true;
+  guardarMapa(KEY_DESTACADOS, m);
+  return m[clave] === true;
+}
+function contarDestacados(remate) {
+  var n = 0;
+  remate.vinilos.forEach(function (v) {
+    if (esDestacado(claveVinilo(remate.id, v))) n++;
+  });
+  return n;
+}
 
 // --- Utilidades ------------------------------------------------------------
 
@@ -40,10 +91,22 @@ function precio(v) {
 }
 
 function nombreDisco(v) {
-  // Si tenemos artista Y álbum, mostramos "Artista — Álbum" (limpio).
   if (v.artista && v.album) return v.artista + ' — ' + v.album;
-  // Si no se pudo separar bien, mostramos el título completo (no perder info).
   return v.titulo || v.album || v.artista || 'Disco';
+}
+
+// Crea una <img> que no manda Referer (para que el servidor no la bloquee)
+// y que, si falla, muestra el ícono genérico como respaldo.
+function crearFoto(clase, url, alt) {
+  var img = document.createElement('img');
+  img.className = clase;
+  img.loading = 'lazy';
+  img.alt = alt || '';
+  img.referrerPolicy = 'no-referrer';
+  img.setAttribute('referrerpolicy', 'no-referrer');
+  img.src = url || ICONO;
+  img.onerror = function () { this.onerror = null; this.src = ICONO; };
+  return img;
 }
 
 // --- Carga de datos (con respaldo offline) ---------------------------------
@@ -55,16 +118,14 @@ function cargarDatos() {
       return r.json();
     })
     .then(function (json) {
-      // Guardar copia local para uso sin internet.
       try {
         localStorage.setItem('vinilos-data', JSON.stringify(json));
         localStorage.setItem('vinilos-fecha', new Date().toISOString());
-      } catch (e) { /* almacenamiento lleno o bloqueado: seguimos igual */ }
+      } catch (e) { /* almacenamiento lleno o bloqueado */ }
       actualizado = new Date();
       return json;
     })
     .catch(function () {
-      // Sin internet: usar la última copia guardada.
       var guardado = localStorage.getItem('vinilos-data');
       if (guardado) {
         var f = localStorage.getItem('vinilos-fecha');
@@ -77,12 +138,60 @@ function cargarDatos() {
 }
 
 function prepararDatos(json) {
-  // Solo remates que tienen vinilos, ordenados por cierre más próximo.
   return (json || [])
     .filter(function (r) { return r.vinilos && r.vinilos.length > 0; })
     .sort(function (a, b) {
       return (a.timestamp || Infinity) - (b.timestamp || Infinity);
     });
+}
+
+// Foto representativa del remate: la primera foto de sus vinilos (la portada).
+function fotoRemate(r) {
+  for (var i = 0; i < r.vinilos.length; i++) {
+    if (r.vinilos[i].imagen) return r.vinilos[i].imagen;
+  }
+  return null;
+}
+
+// --- Estrellas (puntuación manual) -----------------------------------------
+
+function crearEstrellas(remateId) {
+  var cont = el('div', 'estrellas');
+  cont.setAttribute('role', 'radiogroup');
+  cont.setAttribute('aria-label', 'Puntuar remate de 0 a 5');
+
+  function pintar() {
+    var val = getPuntos(remateId);
+    var botones = cont.querySelectorAll('.estrella');
+    for (var i = 0; i < botones.length; i++) {
+      var n = i + 1;
+      botones[i].textContent = n <= val ? '★' : '☆';
+      botones[i].classList.toggle('activa', n <= val);
+      botones[i].setAttribute('aria-checked', n === val ? 'true' : 'false');
+    }
+    etiqueta.textContent = val ? (val + '/5') : 'sin puntuar';
+  }
+
+  for (var n = 1; n <= 5; n++) {
+    (function (num) {
+      var b = el('button', 'estrella', '☆');
+      b.type = 'button';
+      b.setAttribute('aria-label', num + ' estrella' + (num > 1 ? 's' : ''));
+      b.addEventListener('click', function (ev) {
+        ev.preventDefault();
+        ev.stopPropagation();
+        var actual = getPuntos(remateId);
+        // Tocar la misma estrella actual la baja a 0 (permite despuntuar).
+        setPuntos(remateId, actual === num ? 0 : num);
+        pintar();
+      });
+      cont.appendChild(b);
+    })(n);
+  }
+  var etiqueta = el('span', 'estrellas-label', 'sin puntuar');
+  cont.appendChild(etiqueta);
+  pintar();
+  return cont;
 }
 
 // --- Pantalla 1: lista de remates ------------------------------------------
@@ -98,17 +207,20 @@ function pantallaLista() {
   }
 
   var totalVinilos = datos.reduce(function (s, r) { return s + r.vinilos.length; }, 0);
-  var resumen = el('p', 'actualizado',
+  contenido.appendChild(el('p', 'actualizado',
     totalVinilos + ' vinilos en ' + datos.length + ' remates' +
-    (actualizado ? ' · actualizado ' + fechaCorta(actualizado) : ''));
-  contenido.appendChild(resumen);
+    (actualizado ? ' · actualizado ' + fechaCorta(actualizado) : '')));
 
   datos.forEach(function (r) {
-    var card = el('a', 'card-remate');
-    card.href = '#/r/' + r.id;
+    var card = el('div', 'card-remate');
 
-    card.appendChild(el('p', 'card-nombre', r.nombre || 'Remate'));
-    if (r.empresa) card.appendChild(el('p', 'card-empresa', r.empresa));
+    // Fila superior: foto + textos
+    var fila = el('div', 'card-fila');
+    fila.appendChild(crearFoto('remate-foto', fotoRemate(r), r.nombre || 'Remate'));
+
+    var texto = el('div', 'card-texto');
+    texto.appendChild(el('p', 'card-nombre', r.nombre || 'Remate'));
+    if (r.empresa) texto.appendChild(el('p', 'card-empresa', r.empresa));
 
     var meta = el('p', 'card-meta');
     if (r.lugar) meta.appendChild(document.createTextNode('📍 ' + r.lugar));
@@ -117,10 +229,22 @@ function pantallaLista() {
       meta.appendChild(document.createTextNode('🕒 ' + r.fecha));
     }
     if (r.fechaDudosa) meta.appendChild(document.createTextNode('  ⚠️ fecha dudosa'));
-    card.appendChild(meta);
+    texto.appendChild(meta);
+    fila.appendChild(texto);
+    card.appendChild(fila);
 
+    // Fila inferior: cantidad de vinilos + estrellas
+    var pie = el('div', 'card-pie');
     var n = r.vinilos.length;
-    card.appendChild(el('span', 'badge', '🎵 ' + n + (n === 1 ? ' vinilo' : ' vinilos')));
+    pie.appendChild(el('span', 'badge', '🎵 ' + n + (n === 1 ? ' vinilo' : ' vinilos')));
+    pie.appendChild(crearEstrellas(r.id));
+    card.appendChild(pie);
+
+    // Tocar la tarjeta (menos las estrellas) abre el detalle.
+    card.addEventListener('click', function (ev) {
+      if (ev.target.closest('.estrellas')) return;
+      location.hash = '#/r/' + r.id;
+    });
 
     contenido.appendChild(card);
   });
@@ -147,56 +271,107 @@ function pantallaDetalle(id) {
   cab.appendChild(el('h2', 'detalle-titulo', r.nombre || 'Remate'));
 
   var sub = el('p', 'detalle-sub');
-  if (r.empresa) { var b = el('b', null, r.empresa); sub.appendChild(b); sub.appendChild(document.createElement('br')); }
+  if (r.empresa) { sub.appendChild(el('b', null, r.empresa)); sub.appendChild(document.createElement('br')); }
   if (r.lugar) { sub.appendChild(document.createTextNode('📍 ' + r.lugar)); sub.appendChild(document.createElement('br')); }
   if (r.fecha) sub.appendChild(document.createTextNode('🕒 ' + r.fecha + (r.fechaDudosa ? '  ⚠️ fecha dudosa' : '')));
   cab.appendChild(sub);
 
   if (r.url) {
     var btn = el('a', 'btn-remate', 'Ver remate completo en la web ↗');
-    btn.href = r.url;
-    btn.target = '_blank';
-    btn.rel = 'noopener';
+    btn.href = r.url; btn.target = '_blank'; btn.rel = 'noopener';
     cab.appendChild(btn);
   }
   contenido.appendChild(cab);
 
+  // Barra de filtro: cantidad + "solo destacados"
+  var barra = el('div', 'barra-filtro');
   var n = r.vinilos.length;
-  contenido.appendChild(el('p', 'conteo-vinilos', '🎵 ' + n + (n === 1 ? ' vinilo' : ' vinilos')));
+  var nDest = contarDestacados(r);
+  barra.appendChild(el('span', 'conteo-vinilos', '🎵 ' + n + (n === 1 ? ' vinilo' : ' vinilos')));
 
-  // Lista de vinilos
-  r.vinilos.forEach(function (v) {
-    var card = el('a', 'card-vinilo');
-    if (v.enlaceLote) { card.href = v.enlaceLote; card.target = '_blank'; card.rel = 'noopener'; }
-
-    var img = document.createElement('img');
-    img.className = 'vinilo-foto';
-    img.loading = 'lazy';
-    img.alt = nombreDisco(v);
-    img.src = v.imagen || ICONO;
-    img.onerror = function () { this.onerror = null; this.src = ICONO; };
-    card.appendChild(img);
-
-    var info = el('div', 'vinilo-info');
-    info.appendChild(el('p', 'vinilo-titulo', nombreDisco(v)));
-
-    var datosP = el('p', 'vinilo-datos');
-    datosP.appendChild(document.createTextNode('Lote ' + (v.lote != null ? v.lote : '?') + '  ·  '));
-    var pr = el('span', 'vinilo-precio', precio(v) || 'sin base');
-    datosP.appendChild(pr);
-    info.appendChild(datosP);
-
-    if (v.sello || v.anio) {
-      var chips = el('div', 'chips');
-      if (v.sello) chips.appendChild(el('span', 'chip', v.sello));
-      if (v.anio) chips.appendChild(el('span', 'chip', v.anio));
-      info.appendChild(chips);
-    }
-    card.appendChild(info);
-    card.appendChild(el('span', 'flecha', '›'));
-
-    contenido.appendChild(card);
+  var toggle = el('button', 'btn-filtro');
+  toggle.type = 'button';
+  function pintarToggle() {
+    toggle.textContent = (soloDestacados ? '★ Solo destacados' : '☆ Solo destacados') +
+      ' (' + contarDestacados(r) + ')';
+    toggle.classList.toggle('activo', soloDestacados);
+  }
+  toggle.addEventListener('click', function () {
+    soloDestacados = !soloDestacados;
+    dibujarVinilos();
+    pintarToggle();
   });
+  pintarToggle();
+  barra.appendChild(toggle);
+  contenido.appendChild(barra);
+
+  // Contenedor de la lista de vinilos (se redibuja al filtrar)
+  var lista = el('div', 'lista-vinilos');
+  contenido.appendChild(lista);
+
+  function dibujarVinilos() {
+    lista.innerHTML = '';
+    var visibles = r.vinilos.filter(function (v) {
+      return !soloDestacados || esDestacado(claveVinilo(r.id, v));
+    });
+    if (!visibles.length) {
+      lista.appendChild(estado(soloDestacados
+        ? 'Todavía no marcaste ningún vinilo como destacado en este remate.'
+        : 'Sin vinilos.'));
+      return;
+    }
+    visibles.forEach(function (v) { lista.appendChild(crearCardVinilo(r, v)); });
+  }
+  dibujarVinilos();
+}
+
+function crearCardVinilo(r, v) {
+  var card = el('div', 'card-vinilo');
+  var clave = claveVinilo(r.id, v);
+
+  // Enlace principal (foto + info) que abre el lote en la web.
+  var link = el('a', 'vinilo-link');
+  if (v.enlaceLote) { link.href = v.enlaceLote; link.target = '_blank'; link.rel = 'noopener'; }
+
+  link.appendChild(crearFoto('vinilo-foto', v.imagen, nombreDisco(v)));
+
+  var info = el('div', 'vinilo-info');
+  info.appendChild(el('p', 'vinilo-titulo', nombreDisco(v)));
+
+  var datosP = el('p', 'vinilo-datos');
+  datosP.appendChild(document.createTextNode('Lote ' + (v.lote != null ? v.lote : '?') + '  ·  '));
+  datosP.appendChild(el('span', 'vinilo-precio', precio(v) || 'sin base'));
+  info.appendChild(datosP);
+
+  if (v.sello || v.anio) {
+    var chips = el('div', 'chips');
+    if (v.sello) chips.appendChild(el('span', 'chip', v.sello));
+    if (v.anio) chips.appendChild(el('span', 'chip', v.anio));
+    info.appendChild(chips);
+  }
+  link.appendChild(info);
+  card.appendChild(link);
+
+  // Botón destacar (corazón), separado del enlace.
+  var fav = el('button', 'btn-fav');
+  fav.type = 'button';
+  function pintarFav() {
+    var on = esDestacado(clave);
+    fav.textContent = on ? '♥' : '♡';
+    fav.classList.toggle('activo', on);
+    fav.setAttribute('aria-pressed', on ? 'true' : 'false');
+    fav.setAttribute('aria-label', on ? 'Quitar de destacados' : 'Marcar como destacado');
+  }
+  fav.addEventListener('click', function (ev) {
+    ev.preventDefault();
+    ev.stopPropagation();
+    toggleDestacado(clave);
+    pintarFav();
+  });
+  pintarFav();
+  card.appendChild(fav);
+
+  return card;
 }
 
 // --- Estados / navegación --------------------------------------------------
@@ -212,8 +387,8 @@ function fechaCorta(d) {
 function enrutar() {
   var h = location.hash || '#/';
   var m = h.match(/^#\/r\/(.+)$/);
-  if (m) pantallaDetalle(m[1]);
-  else pantallaLista();
+  if (m) { pantallaDetalle(m[1]); }
+  else { soloDestacados = false; pantallaLista(); }
   window.scrollTo(0, 0);
 }
 
@@ -238,9 +413,8 @@ cargarDatos()
       'Conectate a internet y volvé a abrir la app.'));
   });
 
-// Registrar el service worker (para que funcione sin internet e instalable).
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', function () {
-    navigator.serviceWorker.register('sw.js').catch(function () { /* sin SW: la app igual funciona online */ });
+    navigator.serviceWorker.register('sw.js').catch(function () { /* sin SW igual anda online */ });
   });
 }

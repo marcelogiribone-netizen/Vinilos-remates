@@ -1,34 +1,5 @@
 [
   {
-    "id": "7441",
-    "nombre": "VOLVIMOS CON UN EXCELENTE REMATE DE SUCESIÓN DE UNA GRAN PROPIEDAD EN PUNTA GORDA!!!! FILATELIA, MONEDAS, BILLETES, ANTIGÜEDADES, ART. DE CAMPING, MOBILIARIO, ELECTRODOMÉSTICOS, COLECCIONES, ETC. DE TODO COMO EN BOTICA, NO DEJE DE REVISAR DIARIAMENTE Y DEJAR SU PRE OFERTA.",
-    "empresa": "Jorge Perujo",
-    "departamento": "Montevideo",
-    "lugar": "Punta Gorda, Montevideo",
-    "fecha": "09/08/2026, 11:00",
-    "fechaISO": "2026-08-09T14:00:00.000Z",
-    "timestamp": 1786284000,
-    "fechaDudosa": false,
-    "url": "https://www.remotes.com.uy/participar/remate/7441",
-    "totalLotes": 319,
-    "vinilos": [
-      {
-        "lote": "275",
-        "titulo": "Lote con 34 discos de pasta, varios artistas",
-        "artista": null,
-        "album": null,
-        "anio": null,
-        "moneda": "$",
-        "base": 1000,
-        "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1073141/0b7daa2d160eda423b263d43ab16d9c5.JPG",
-        "enlaceLote": "https://www.remotes.com.uy/participar/remate/7441?lote=275",
-        "motivos": [
-          "\"discos de pasta\" (78 RPM)"
-        ]
-      }
-    ]
-  },
-  {
     "id": "7480",
     "nombre": "Atención !!  Importante Subasta De Antigüedades , Platería Criolla, Numismatica , Arte y Joyas . Ya Podes Dejar Tu Pre Oferta.Hacemos envíos a todo el país. Faltan Subir Lotes",
     "empresa": "Escritorio de Remates CV",
@@ -42,6 +13,7 @@
     "totalLotes": 613,
     "vinilos": [
       {
+        "id": 1077869,
         "lote": "118",
         "titulo": "13 discos vinilos años 1970s, excelente estado, Plateros, Demis Roussos, Julio Iglesias, Charles Aznavour, Erasmo Carlos, Basilio, y autores varios Los MH Positivos, Alta Tensión",
         "artista": null,
@@ -85,6 +57,7 @@
     "totalLotes": 85,
     "vinilos": [
       {
+        "id": 1076997,
         "lote": "46",
         "titulo": "Disco de vinilo del álbum \"Dezembros\" de la cantante brasileña Maria Bethânia, lanzado originalmente por el sello RCA en 1986",
         "artista": "Maria Bethânia",
@@ -103,6 +76,7 @@
         ]
       },
       {
+        "id": 1076998,
         "lote": "47",
         "titulo": "Disco de vinilo \"Selección 25 Aniversario\" de Carlos Gardel, editado bajo el sello discográfico Odeon. Editado en 1960",
         "artista": "Carlos Gardel",
@@ -122,6 +96,7 @@
         ]
       },
       {
+        "id": 1076999,
         "lote": "48",
         "titulo": "Disco de vinilo \"Y te has quedado sola\" de la banda de pop melódico uruguaya Los Iracundos, editado originalmente en 1974 bajo el sello discográfico RCA Victor.",
         "artista": "Los Iracundos",
@@ -141,6 +116,7 @@
         ]
       },
       {
+        "id": 1077002,
         "lote": "49",
         "titulo": "Álbum \"A Qué Le Llaman Distancia\" de Atahualpa Yupanqui, publicado en Uruguay en 1960 por el sello Odeon. Incluye un clásico como \"El Arriero\"",
         "artista": "Atahualpa Yupanqui",
@@ -157,6 +133,7 @@
         ]
       },
       {
+        "id": 1077001,
         "lote": "50",
         "titulo": "Disco álbum homónimo de Sandro (muchas veces conocido como el Álbum Rojo), lanzado originalmente en 1969 bajo el legendario sello discográfico CBS.",
         "artista": "Sandro",
@@ -174,6 +151,7 @@
         ]
       },
       {
+        "id": 1077000,
         "lote": "51",
         "titulo": "Disco \"El grito de la tierra\", un álbum de estudio clave de la legendaria cantante argentina Mercedes Sosa, lanzado originalmente en 1970 bajo el sello discográfico Philips.",
         "artista": "Mercedes Sosa",
@@ -234,6 +212,7 @@
     "totalLotes": 209,
     "vinilos": [
       {
+        "id": 1087278,
         "lote": "2",
         "titulo": "The Beatles - Rock 'N' Roll Music. (Doble LP.). Álbum recopilatorio que reúne interpretaciones de clásicos del rock and roll grabadas por The Beatles. Una excelente selección del repertorio más enérgico de la banda, presentada en formato doble. La tapa tiene un texto escrito a mano en la parte posterior",
         "artista": "The Beatles",
@@ -248,6 +227,7 @@
         ]
       },
       {
+        "id": 1087281,
         "lote": "5",
         "titulo": "Eric Clapton – Pop History Vol. 3. (Doble LP.). Recopilación dedicada a distintas etapas de la trayectoria de Eric Clapton, incluyendo grabaciones con bandas y proyectos en los que participó. Un recorrido por la evolución de uno de los guitarristas más reconocidos del rock.",
         "artista": "Eric Clapton",
@@ -262,6 +242,7 @@
         ]
       },
       {
+        "id": 1087282,
         "lote": "6",
         "titulo": "Eric Clapton – There's One in Every Crowd. Álbum de estudio publicado en 1975, con una marcada influencia del blues y el rock. Incluye temas como \"Swing Low, Sweet Chariot\" y \"Pretty Blue Eyes\". La tapa presenta 4 pequeñas perforaciones circulares en los bordes, tal como se aprecia",
         "artista": "Eric Clapton",
@@ -277,6 +258,7 @@
         ]
       },
       {
+        "id": 1087283,
         "lote": "7",
         "titulo": "George Harrison – Viviendo en el Mundo Material. Segundo álbum de estudio de George Harrison tras la separación de The Beatles. Contiene el éxito \"Give Me Love (Give Me Peace on Earth)\" y refleja la profunda influencia espiritual presente en esta etapa de su carrera. Tanto la tapa como el disco, presentan algunos escritos a mano",
         "artista": "George Harrison",
@@ -291,6 +273,7 @@
         ]
       },
       {
+        "id": 1087284,
         "lote": "7B",
         "titulo": "Supertramp - Even in the Quietest Moments... (1977)\nDisco de Oro en USA y Platino en Canadá, +3 millones vendidos. Llegó al Top 20 en USA y número 1 en Canadá, Incluye el tema Give a Little Bit. Fabricado en Uruguay, el vinilo presenta algunas leves marcas por desgaste y uso, buen estado en general.",
         "artista": "Supertramp",
@@ -306,6 +289,7 @@
         ]
       },
       {
+        "id": 1087285,
         "lote": "8",
         "titulo": "Alice Cooper – Bienvenido a mi Pesadilla. Primer álbum de estudio de Alice Cooper como solista. Es un disco conceptual que narra las pesadillas de un niño llamado Steven. Considerado una de las obras más representativas del shock rock, incluye canciones como \"Only Women Bleed\" y \"Department of Youth\". El disco presenta un nombre escrito a mano",
         "artista": "Alice Cooper",
@@ -320,6 +304,7 @@
         ]
       },
       {
+        "id": 1087286,
         "lote": "9",
         "titulo": "Whitesnake – Saints & Sinners. Álbum de estudio publicado en 1982 que consolidó el sonido hard rock de Whitesnake. Incluye \"Here I Go Again\", canción que posteriormente alcanzaría éxito mundial con su nueva versión de 1987.",
         "artista": "Whitesnake",
@@ -335,6 +320,7 @@
         ]
       },
       {
+        "id": 1087288,
         "lote": "11",
         "titulo": "Journey – Departure. Álbum publicado en 1980 que marcó la consolidación internacional de Journey. Incluye el éxito \"Any Way You Want It\", uno de los temas más representativos de la banda.",
         "artista": "Journey",
@@ -350,6 +336,7 @@
         ]
       },
       {
+        "id": 1087290,
         "lote": "13",
         "titulo": "Santana – Amigos. Álbum de estudio publicado en 1976. Incluye \"Europa (Earth's Cry Heaven's Smile)\", una de las composiciones instrumentales más reconocidas de Carlos Santana.",
         "artista": "Santana",
@@ -365,6 +352,7 @@
         ]
       },
       {
+        "id": 1087291,
         "lote": "14",
         "titulo": "Santana – Festival. Álbum de estudio editado en 1977 que continúa la fusión característica de rock, jazz y ritmos latinos desarrollada por Santana durante esa década.",
         "artista": "Santana",
@@ -380,6 +368,7 @@
         ]
       },
       {
+        "id": 1087292,
         "lote": "15",
         "titulo": "Santana – Marathon. Álbum de estudio publicado en 1979. Incluye \"You Know That I Love You\" y refleja la transición de Santana hacia un sonido más orientado al rock contemporáneo sin abandonar sus raíces latinas.",
         "artista": "Santana",
@@ -395,6 +384,7 @@
         ]
       },
       {
+        "id": 1087293,
         "lote": "16",
         "titulo": "Carlos Santana – Havana Moon. Álbum de estudio publicado en 1983, con un enfoque más cercano al rock y al blues. Incluye versiones de autores como Chuck Berry, Bo Diddley y Willie Nelson, mostrando una faceta distinta dentro de la trayectoria de Carlos Santana.",
         "artista": "Carlos Santana",
@@ -410,6 +400,7 @@
         ]
       },
       {
+        "id": 1087294,
         "lote": "16B",
         "titulo": "Louis Armstrong y Eddie Condon - En el Festival de Newport (Año 1957)\n+50 millones de discos vendidos, Grammy Lifetime Achievement, Salón de la Fama del Rock 1990. Este disco es en vivo en el Festival de Newport 1956, el festival de jazz más famoso del mundo. Incluye Rockin' Chair y Struttin' With Some Barbecue.\nFabricado en Uruguay por CBS Columbia",
         "artista": "Louis Armstrong y Eddie Condon",
@@ -426,6 +417,7 @@
         ]
       },
       {
+        "id": 1087295,
         "lote": "17",
         "titulo": "Jefferson Airplane – Bark. Álbum de estudio publicado en 1971 y el primero editado por el sello propio de la banda, Grunt Records. Representa la transición del sonido psicodélico de Jefferson Airplane hacia una etapa más orientada al rock de los años setenta.",
         "artista": "Jefferson Airplane",
@@ -441,6 +433,7 @@
         ]
       },
       {
+        "id": 1087298,
         "lote": "20",
         "titulo": "The Guess Who – Comparte la Tierra. Edición en español del álbum Share the Land, publicado originalmente en 1970. Incluye temas como \"Share the Land\", \"Bus Rider\" y \"Hand Me Down World\", pertenecientes a una de las etapas más exitosas de la banda canadiense. La parte trasera de la tapa presenta unas letras escritas a mano",
         "artista": "The Guess Who",
@@ -456,6 +449,7 @@
         ]
       },
       {
+        "id": 1087299,
         "lote": "21",
         "titulo": "The Guess Who – Nacidos en Canadá. Álbum recopilatorio editado para el mercado latinoamericano, que reúne algunas de las canciones más representativas de The Guess Who. Una buena introducción al repertorio de una de las bandas canadienses más importantes del rock. Tanto la tapa como la etiqueta del disco presentan rayaduras con lapicera, tal como se aprecia",
         "artista": "The Guess Who",
@@ -470,6 +464,7 @@
         ]
       },
       {
+        "id": 1087300,
         "lote": "22",
         "titulo": "Procol Harum – Grand Hotel. Álbum de estudio publicado en 1973. Considerado una de las obras más refinadas de la banda, combina rock progresivo con influencias de la música clásica y arreglos orquestales. Viene con un hermoso folletito con las letras de las canciones y dibujos",
         "artista": "Procol Harum",
@@ -485,6 +480,7 @@
         ]
       },
       {
+        "id": 1087301,
         "lote": "23",
         "titulo": "Traffic – Best of Traffic. Álbum recopilatorio que reúne algunas de las grabaciones más representativas de Traffic, banda liderada por Steve Winwood. Refleja la fusión de rock, blues, folk y jazz que caracterizó su trayectoria.",
         "artista": "Traffic",
@@ -499,6 +495,7 @@
         ]
       },
       {
+        "id": 1087302,
         "lote": "24",
         "titulo": "Ry Cooder – Borderline. Álbum de estudio publicado en 1980. Combina rock, rhythm & blues y música tradicional estadounidense, mostrando el reconocido estilo guitarrístico de Ry Cooder.",
         "artista": "Ry Cooder",
@@ -514,6 +511,7 @@
         ]
       },
       {
+        "id": 1087303,
         "lote": "25",
         "titulo": "Cat Stevens – Izitso. Álbum de estudio publicado en 1977. Destaca por incorporar nuevos elementos electrónicos sin abandonar el estilo melódico característico de Cat Stevens. Incluye el éxito \"Old Schoolyard\".",
         "artista": "Cat Stevens",
@@ -529,6 +527,7 @@
         ]
       },
       {
+        "id": 1087304,
         "lote": "26",
         "titulo": "Cat Stevens – Numbers. Álbum conceptual publicado en 1975, inspirado en una historia escrita por el propio Cat Stevens, cuenta la historia de un castillo con una máquina que reparte los números del 1 al 9 al universo, ambientado en el planeta ficticio Polygor y viene con un precioso folleto con la historia. Combina folk rock con un enfoque narrativo poco habitual dentro de su discografía",
         "artista": "Cat Stevens",
@@ -544,6 +543,7 @@
         ]
       },
       {
+        "id": 1087305,
         "lote": "27",
         "titulo": "Elton John – Caribou. Álbum de estudio publicado en 1974 que alcanzó rapidamente el número 1 en las listas de éxitos tanto en Estados Unidos como en Reino Unido. Incluye éxitos como \"The Bitch Is Back\" y \"Don't Let the Sun Go Down on Me\", dos de las canciones más reconocidas de Elton John.",
         "artista": "Elton John",
@@ -559,6 +559,7 @@
         ]
       },
       {
+        "id": 1087306,
         "lote": "27B",
         "titulo": "Otro disco de Elton John – Caribou. Artista con 7 discos número 1 seguidos en USA, +300 millones vendidos, 5 Grammys. Esta edición uruguaya trae todos los títulos en español.",
         "artista": "Otro disco de Elton John",
@@ -573,6 +574,7 @@
         ]
       },
       {
+        "id": 1087307,
         "lote": "28",
         "titulo": "Elton John – 21 at 33. Álbum de estudio publicado en 1980. Incluye el sencillo \"Little Jeannie\", uno de los mayores éxitos de Elton John durante esa etapa de su carrera. El título del disco celebra que era su disco número 21 y que el músico tenía 33 años de edad",
         "artista": "Elton John",
@@ -588,6 +590,7 @@
         ]
       },
       {
+        "id": 1087308,
         "lote": "29",
         "titulo": "Elton John – Too Low for Zero. Álbum publicado en 1983 que marcó el reencuentro de Elton John con su histórico letrista Bernie Taupin. Incluye éxitos como \"I'm Still Standing\" y \"I Guess That's Why They Call It the Blues\".",
         "artista": "Elton John",
@@ -603,6 +606,7 @@
         ]
       },
       {
+        "id": 1087309,
         "lote": "29B",
         "titulo": "Phil Collins – …But Seriously. Vinilo de pop rock del músico británico Phil Collins, editado originalmente en 1989 e incluye canciones como “Another Day in Paradise”. El disco viene con un encarte con imágenes de la grabación del disco y con la letra de las canciones",
         "artista": "Phil Collins",
@@ -618,6 +622,7 @@
         ]
       },
       {
+        "id": 1087310,
         "lote": "30",
         "titulo": "Rod Stewart – Never a Dull Moment. Álbum de estudio publicado en 1972. Incluye \"You Wear It Well\" y la versión de \"Twistin' the Night Away\", consolidando una de las etapas más exitosas de Rod Stewart.",
         "artista": "Rod Stewart",
@@ -633,6 +638,7 @@
         ]
       },
       {
+        "id": 1087311,
         "lote": "31",
         "titulo": "Carpenters – Now & Then. Álbum de estudio publicado en 1973 que destaca por su concepto dividido entre el presente y la nostalgia. Incluye el éxito \"Yesterday Once More\", una de las canciones más reconocidas del dúo formado por Karen y Richard Carpenter.",
         "artista": "Carpenters",
@@ -648,6 +654,7 @@
         ]
       },
       {
+        "id": 1087313,
         "lote": "33",
         "titulo": "Berlin – Pleasure Victim. Álbum de estudio publicado en 1982. Incluye el éxito \"Sex (I'm A...)\", uno de los temas que consolidó a Berlin como una de las bandas representativas del new wave y synth-pop de los años ochenta.",
         "artista": "Berlin",
@@ -663,6 +670,7 @@
         ]
       },
       {
+        "id": 1087314,
         "lote": "34",
         "titulo": "Saturday Night Fever – The Original Movie Soundtrack. (Doble LP.). Banda sonora original de la película Saturday Night Fever. Incluye clásicos de los Bee Gees como \"Stayin' Alive\", \"Night Fever\" y \"How Deep Is Your Love\", además de otros artistas que definieron la era de la música disco. Vendió más de 40 millones de copias a nivel mundial y fue merecedor de un Grammy",
         "artista": "Saturday Night Fever",
@@ -677,6 +685,7 @@
         ]
       },
       {
+        "id": 1087315,
         "lote": "35",
         "titulo": "Varios Artistas – Una Noche con Blue Note. Vol. 1. Álbum recopilatorio dedicado al catálogo del histórico sello Blue Note Records, reconocido por sus grabaciones de jazz. Reúne interpretaciones de destacados artistas vinculados a uno de los sellos más importantes del género.",
         "artista": "Varios Artistas",
@@ -691,6 +700,7 @@
         ]
       },
       {
+        "id": 1087317,
         "lote": "37",
         "titulo": "Tom Jones – She's a Lady. Álbum de estudio publicado en 1971. Incluye \"She's a Lady\", uno de los mayores éxitos internacionales de Tom Jones y una de las canciones más representativas de su carrera.",
         "artista": "Tom Jones",
@@ -706,6 +716,7 @@
         ]
       },
       {
+        "id": 1087318,
         "lote": "38",
         "titulo": "Siouxsie and the Banshees – Peepshow. Álbum de estudio publicado en 1988. Incluye los sencillos \"Peek-a-Boo\" y \"The Killing Jar\", consolidando la evolución de la banda hacia un sonido más sofisticado dentro del post-punk y el rock alternativo.",
         "artista": "Siouxsie and the Banshees",
@@ -721,6 +732,7 @@
         ]
       },
       {
+        "id": 1087319,
         "lote": "39",
         "titulo": "Varios Artistas - High Power. Álbum recopilatorio de pop y rock internacional de comienzos de los años ochenta. Incluye artistas como Daryl Hall & John Oates, Frida, A Flock of Seagulls, Rick Springfield, Alabama y Player.",
         "artista": "Varios Artistas",
@@ -735,6 +747,7 @@
         ]
       },
       {
+        "id": 1087320,
         "lote": "40",
         "titulo": "Varios Artistas - High-Power Vol. 2 Superdisco. Álbum recopilatorio que reúne éxitos internacionales de la época, orientado al pop y la música disco. Forma parte de la serie High-Power, editada para el mercado latinoamericano.",
         "artista": "Varios Artistas",
@@ -749,6 +762,7 @@
         ]
       },
       {
+        "id": 1087322,
         "lote": "42",
         "titulo": "Varios Artistas –  I Love Music II. Álbum recopilatorio con una selección de éxitos internacionales de distintos intérpretes. Representa el formato de compilaciones temáticas ampliamente difundidas durante las décadas de 1970 y 1980. Cuenta con canciones de grandes íconos de la época como Cindy Lauper, Sade, Berlin, Toto, etc.",
         "artista": "Varios Artistas",
@@ -764,6 +778,7 @@
         ]
       },
       {
+        "id": 1087323,
         "lote": "43",
         "titulo": "Varios Artistas –  Ton Ton Vol. 2. Álbum recopilatorio de varios artistas lanzado en 1977 en Urruguay, vinculado a la discoteca Ton Ton. El LP incluye música pop, rock, disco y funk con canciones de artistas internacionales famosos de la época",
         "artista": "Varios Artistas",
@@ -779,6 +794,7 @@
         ]
       },
       {
+        "id": 1087324,
         "lote": "43B",
         "titulo": "Los Cuatro Ases - Hits de Hollywood. El cuarteto vocal americano más famoso de los 50. Vendieron millones de discos con el tema Love Is a Many-Splendored Thing, tema ganador del Oscar 1955. Prensaje uruguayo por Decca, año 1960 aprox. Incluye versiones de clásicos de Hollywood: La Vuelta al Mundo, Amor es una Cosa Esplendorosa, Tres Monedas en la Fuente, entre otros. La tapa presenta roturas",
         "artista": "Los Cuatro Ases",
@@ -795,6 +811,7 @@
         ]
       },
       {
+        "id": 1087330,
         "lote": "46B",
         "titulo": "Los Fronterizos - Mundialmente.El conjunto folklórico argentino más famoso del mundo. Vendieron millones de discos en los 60s y 70s en toda América. Prensaje uruguayo por Philips, año 1966 aprox. Tapa icónica con el globo terráqueo y los 4 gauchos. Incluye Al Viejo Paraná, Rogativa de Loncomeo, Melinda y El Espejito. Ganadores de premios como \"Mejor Grupo Coral\" según la contratapa.",
         "artista": "Los Fronterizos",
@@ -811,6 +828,7 @@
         ]
       },
       {
+        "id": 1087332,
         "lote": "47",
         "titulo": "Pink Floyd – The Wall. (Doble LP.). Álbum conceptual publicado en 1979 que cuenta la historia de Pink, una estrella de rock que se aisla del mundo. Es considerado una de las obras más importantes de la historia del rock. Incluye clásicos como \"Another Brick in the Wall (Part 2)\", \"Comfortably Numb\" y \"Run Like Hell\".",
         "artista": "Pink Floyd",
@@ -826,6 +844,7 @@
         ]
       },
       {
+        "id": 1087333,
         "lote": "48",
         "titulo": "Pink Floyd – Atom Heart Mother. Álbum de estudio publicado en 1970, reconocido por su extensa suite orquestal que da nombre al disco. Representa una etapa clave en la evolución del sonido progresivo de Pink Floyd.",
         "artista": "Pink Floyd",
@@ -842,6 +861,7 @@
         ]
       },
       {
+        "id": 1087334,
         "lote": "49",
         "titulo": "Jimi Hendrix – Experience. Álbum recopilatorio dedicado a la obra de Jimi Hendrix junto a The Jimi Hendrix Experience. Reúne algunas de las grabaciones más representativas del guitarrista considerado una de las figuras más influyentes de la historia del rock. La tapa presenta unos pequeños escritos a mano, tal como se aprecia",
         "artista": "Jimi Hendrix",
@@ -856,6 +876,7 @@
         ]
       },
       {
+        "id": 1087335,
         "lote": "50",
         "titulo": "Creedence Clearwater Revival – Willy and the Poor Boys. Álbum clásico de rock estadounidense de 1969, incluye temas emblemáticos como “Fortunate Son” y “Down on the Corner”. Muy apreciado por fans del rock clásico y coleccionistas de vinilos vintage. La etiqueta del disco presenta un nombre escrito a mano",
         "artista": "Creedence Clearwater Revival",
@@ -871,6 +892,7 @@
         ]
       },
       {
+        "id": 1087336,
         "lote": "51",
         "titulo": "Deep Purple – Stormbringer. Álbum de estudio publicado en 1974 durante la etapa de Deep Purple con David Coverdale y Glenn Hughes. Combina hard rock con influencias de funk y soul, mostrando una evolución en el sonido de la banda. La tapa del disco tiene pegotines con el nombre del disco y de las canciones escritos a mano y la etiqueta del disco presenta otro con una fecha escrita a mano",
         "artista": "Deep Purple",
@@ -886,6 +908,7 @@
         ]
       },
       {
+        "id": 1087337,
         "lote": "52",
         "titulo": "Fleetwood Mac – Rumours. Considerado uno de los álbumes más importantes de la historia del rock y más vendidos de la historia de la música. Incluye éxitos como \"Dreams\", \"Go Your Own Way\", \"Don't Stop\" y \"You Make Loving Fun\". Este disco ganó el Grammy al álbum del año en 1978. La tapa presenta señales de deterioro, tal como se aprecia",
         "artista": "Fleetwood Mac",
@@ -901,6 +924,7 @@
         ]
       },
       {
+        "id": 1087338,
         "lote": "53",
         "titulo": "Yes – Relayer. Álbum de estudio publicado en 1974. Destaca por sus extensas composiciones y es considerado una de las obras más ambiciosas del rock progresivo británico. Es ampliamente reconocido por ser el único disco de estudio en el que participó el virtuoso tecladista suizo Patrick Moraz",
         "artista": "Yes",
@@ -916,6 +940,7 @@
         ]
       },
       {
+        "id": 1087339,
         "lote": "54",
         "titulo": "Amy Winehouse – Back to Black. Segundo y último álbum de estudio de Amy Winehouse. Incluye éxitos como \"Rehab\", \"Back to Black\", \"You Know I'm No Good\" y \"Tears Dry on Their Own\", convirtiéndose en una de las obras más influyentes del soul contemporáneo, ganando 5 premios Grammy en 2008 y consagrando a la artista a nivel mundial",
         "artista": "Amy Winehouse",
@@ -931,6 +956,7 @@
         ]
       },
       {
+        "id": 1087341,
         "lote": "56",
         "titulo": "Paul McCartney – All the Best! Disco 1. Primera parte del álbum recopilatorio All the Best!, que reúne algunos de los mayores éxitos de Paul McCartney como solista y con Wings. La tapa y el sobre del disco presentan algunos detalles y un nombre estampado con un sello, tal como se aprecia",
         "artista": "Paul McCartney",
@@ -945,6 +971,7 @@
         ]
       },
       {
+        "id": 1087342,
         "lote": "57",
         "titulo": "Paul McCartney – All the Best! Disco 2. Segunda parte del álbum recopilatorio All the Best!, completando una selección de los principales éxitos de la carrera de Paul McCartney posteriores a The Beatles. La tapa y el disco presentan un sello con escritos, tal como se aprecia",
         "artista": "Paul McCartney",
@@ -959,6 +986,7 @@
         ]
       },
       {
+        "id": 1087343,
         "lote": "58",
         "titulo": "Cat Stevens – Extranjero. Vinilo de época de Cat Stevens, edición en español del álbum Foreigner, lanzado en Uruguay en 1974. El álbum fue grabado en Jamaica, pero se aleja del estilo folk habitual de Stevens, incorporando influencias de rhythm & blues.Esta edición uruguaya específica fue lanzada por el sello Island Records. La etiqueta del disco tiene un nombre escrito en lápiz",
         "artista": "Cat Stevens",
@@ -974,6 +1002,7 @@
         ]
       },
       {
+        "id": 1087345,
         "lote": "60",
         "titulo": "ABBA – Voulez-Vous. Álbum de estudio publicado en 1979. Incluye éxitos como \"Voulez-Vous\", \"Chiquitita\", \"Does Your Mother Know\" e \"I Have a Dream\", pertenecientes a una de las etapas más exitosas del grupo sueco.",
         "artista": "ABBA",
@@ -989,6 +1018,7 @@
         ]
       },
       {
+        "id": 1087346,
         "lote": "61",
         "titulo": "Los Shakers – Los Shakers. Álbum debut de una de las bandas más importantes del rock uruguayo. Influenciados por el sonido de The Beatles, Los Shakers fueron pioneros del rock en español y una referencia fundamental de la música rioplatense de los años sesenta. La tapa del disco presenta escritos en lapicera",
         "artista": "Los Shakers",
@@ -1003,6 +1033,7 @@
         ]
       },
       {
+        "id": 1087347,
         "lote": "62",
         "titulo": "KC and the Sunshine Band – KC and the Sunshine Band. Álbum de estudio publicado en 1975. Incluye éxitos como \"That's the Way (I Like It)\", \"Get Down Tonight\" y \"Boogie Shoes\", referentes de la música disco y el funk de los años setenta. Este vinilo es considerado la obra cumbre y definitiva de la banda, consolidándola a nivel mundial y definiendo el sonido festivo de Miami de mediados de los 70",
         "artista": "KC and the Sunshine Band",
@@ -1018,6 +1049,7 @@
         ]
       },
       {
+        "id": 1087348,
         "lote": "63",
         "titulo": "Kenny Rogers – Grandes Éxitos. Álbum recopilatorio que reúne algunas de las canciones más representativas de Kenny Rogers, una de las figuras más reconocidas del country y el pop estadounidense.",
         "artista": "Kenny Rogers",
@@ -1032,6 +1064,7 @@
         ]
       },
       {
+        "id": 1087350,
         "lote": "65",
         "titulo": "Joan Manuel Serrat – Dedicado a Antonio Machado, poeta. Edición Uruguaya del álbum publicado en 1969 en homenaje al poeta español Antonio Machado. Musicaliza varios de sus poemas y es considerado una de las obras más destacadas de la discografía de Serrat.",
         "artista": "Joan Manuel Serrat",
@@ -1047,6 +1080,7 @@
         ]
       },
       {
+        "id": 1087353,
         "lote": "68",
         "titulo": "Joan Manuel Serrat – Para Piel de Manzana. Álbum grabado en México en 1976. Incluye canciones como Piel De Manzana, A Ese Pájaro Dorado…, La Aristocracia Del Barrio, entre otras. La tapa presenta un nombre escrito en lapicera en su parte posterior",
         "artista": "Joan Manuel Serrat",
@@ -1062,6 +1096,7 @@
         ]
       },
       {
+        "id": 1087355,
         "lote": "69",
         "titulo": "Joan Baez – Come From the Shadows. Álbum de estudio publicado en 1972. Combina canciones de contenido social y político con composiciones de estilo folk, representando una etapa importante de la carrera de Joan Baez. La etiqueta del disco tiene un nombre escrito a mano",
         "artista": "Joan Baez",
@@ -1077,6 +1112,7 @@
         ]
       },
       {
+        "id": 1087356,
         "lote": "69B",
         "titulo": "Quilapayún - Quilapayún Nº3. El grupo más importante de la Nueva Canción Chilena. Exiliados a Francia tras el golpe de Pinochet en 1973. Grupo emblema de la resistencia latinoamericana, este disco es pre-golpe de estado año 1970, los discos de ellos fueron quemados y censurados. Difícil de conseguir sano, la banda sonora de Allende, prohibido en la dictadura. Fabricado por Odeon en Uruguay.",
         "artista": "Quilapayún",
@@ -1093,6 +1129,7 @@
         ]
       },
       {
+        "id": 1087359,
         "lote": "71",
         "titulo": "Alfredo Zitarrosa – En Vivo. Álbum registrado en su histórico concierto de 1983 en Buenos Aires, que refleja la profundidad interpretativa de Alfredo Zitarrosa, una de las voces más importantes del folclore uruguayo y rioplatense.",
         "artista": "Alfredo Zitarrosa",
@@ -1108,6 +1145,7 @@
         ]
       },
       {
+        "id": 1087360,
         "lote": "72",
         "titulo": "Joan Baez – Navidad. Álbum dedicado al repertorio tradicional navideño interpretado por Joan Baez, con arreglos que conservan el estilo folk característico de la artista. La tapa del disco presenta detalles de desgaste, tal como se aprecia",
         "artista": "Joan Baez",
@@ -1122,6 +1160,7 @@
         ]
       },
       {
+        "id": 1087362,
         "lote": "74",
         "titulo": "Tony Mottola – Guitar... Paris. Álbum instrumental del reconocido guitarrista estadounidense Tony Mottola. Presenta una selección de melodías inspiradas en el repertorio y la atmósfera musical parisina. La tapa del disco presenta un nombre escrito a mano",
         "artista": "Tony Mottola",
@@ -1136,6 +1175,7 @@
         ]
       },
       {
+        "id": 1087363,
         "lote": "75",
         "titulo": "Ryoko Moriyama – Original Best Hits. Álbum recopilatorio de la cantante japonesa Ryoko Moriyama, una de las intérpretes más reconocidas de la música popular japonesa. Reúne algunas de las grabaciones más representativas de su carrera. La tapa del disco presenta un escrito a mano",
         "artista": "Ryoko Moriyama",
@@ -1150,6 +1190,7 @@
         ]
       },
       {
+        "id": 1087365,
         "lote": "77",
         "titulo": "Numa Moraes – La Patria Compañero. Álbum de folclore y canción popular uruguaya lanzado en 1971, incluye canciones como La Padilla, La Patria compañero, Palabras de Guerrillero, entre otras",
         "artista": "Numa Moraes",
@@ -1165,6 +1206,7 @@
         ]
       },
       {
+        "id": 1087367,
         "lote": "77C",
         "titulo": "Más Refrescos Musicales. Serie bailable especial. Recopilatorio argentino lanzado en 1986 como continuación de la serie bailable de Discos CBS. El álbum reúne una gran variedad de géneros latinos, pop y clásicos. La tapa presenta detalles",
         "artista": "Discos CBS. El",
@@ -1181,6 +1223,7 @@
         ]
       },
       {
+        "id": 1087368,
         "lote": "77D",
         "titulo": "Otro vinilo: Más Refrescos Musicales. Serie bailable especial. Recopilatorio argentino lanzado en 1986 como continuación de la serie bailable de Discos CBS. El álbum reúne una gran variedad de géneros latinos, pop y clásicos. La tapa presenta un nombre escrito a mano",
         "artista": "Discos CBS. El",
@@ -1213,6 +1256,7 @@
     "totalLotes": 79,
     "vinilos": [
       {
+        "id": 1087135,
         "lote": "29",
         "titulo": "DISCOS VINILO RIOPLATENSE",
         "artista": null,
@@ -1382,6 +1426,7 @@
     "totalLotes": 138,
     "vinilos": [
       {
+        "id": 1085859,
         "lote": "1",
         "titulo": "1)  Disco LP ( BEATLES) Featurin Tony Sheridan  1973 Industria Uruguaya",
         "artista": "BEATLES",
@@ -1397,6 +1442,7 @@
         ]
       },
       {
+        "id": 1085860,
         "lote": "2",
         "titulo": "Disco LP ( BEATLES) Let It Be 1970 Industria Uruguaya",
         "artista": "BEATLES",
@@ -1412,6 +1458,7 @@
         ]
       },
       {
+        "id": 1085861,
         "lote": "3",
         "titulo": "3)  Disco LP ( BEATLES) Rubber Soul 1965 Industria Uruguaya",
         "artista": "BEATLES",
@@ -1427,6 +1474,7 @@
         ]
       },
       {
+        "id": 1085862,
         "lote": "4",
         "titulo": "4)  Disco LP ( BEATLES) Por Favor Yo Industria Argentina  Algunas Marquitas de Uso",
         "artista": "BEATLES",

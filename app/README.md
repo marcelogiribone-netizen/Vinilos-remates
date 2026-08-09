@@ -6,15 +6,24 @@ genera `paso2_vinilos.js`).
 
 ## Qué tiene
 - **Pantalla 1 (lista):** los remates que tienen vinilos, ordenados por el que
-  cierra primero. De cada uno: nombre del remate, empresa, lugar, fecha/hora
-  de cierre y cuántos vinilos tiene.
+  cierra primero. De cada uno: foto (portada), nombre del remate, empresa,
+  lugar, fecha/hora de cierre y cuántos vinilos tiene. Además se puede
+  **puntuar cada remate a mano con estrellas (0 a 5)**.
 - **Pantalla 2 (detalle):** al tocar un remate, se ven sus vinilos con foto,
   artista y álbum, número de lote, precio base y sello/año. Cada vinilo lleva
-  directo a ese lote en la web, y hay un botón al remate completo.
+  directo a ese lote en la web, y hay un botón al remate completo. Cada vinilo
+  se puede **marcar como destacado (corazón)** y hay un **filtro "solo
+  destacados"**.
 - **Funciona sin internet:** guarda la última copia de los datos y de las
   fotos ya vistas.
 - **Instalable en Android** desde Chrome (tiene manifest, service worker e
   ícono).
+
+## Lo mío (puntuaciones y destacados)
+Las estrellas de cada remate y los corazones de cada vinilo son **tuyos**: se
+guardan en el celular y **sobreviven a las actualizaciones** de datos (se
+asocian al remate y al lote por su id, no a su posición en la lista). Son dos
+cosas separadas: destacar un vinilo NO cambia la puntuación del remate.
 
 ## Archivos
 - `index.html`, `styles.css`, `app.js` — la app.

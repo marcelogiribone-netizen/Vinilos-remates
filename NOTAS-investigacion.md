@@ -4,6 +4,69 @@ Bitácora del proyecto, en español simple. Cada sesión de trabajo agrega lo qu
 
 ---
 
+## Sesión 7 — 9 de agosto de 2026 — Mejoras a la app: puntuación, destacados y fotos
+
+Se agregaron tres cosas pedidas (sin tocar todavía la actualización automática).
+
+### 1) Puntuación manual de remates (pantalla 1)
+Cada remate tiene una fila de 5 estrellas tocables (0 a 5). Es una valoración
+**tuya, manual**: no se calcula con nada. Arrancan sin puntuar. Tocar una
+estrella pone esa puntuación; tocar la misma estrella otra vez la baja a 0
+(para despuntuar). Se guarda en el celular (clave `puntuaciones`) **asociada
+al id del remate**, así sobrevive cuando se actualizan los datos y no depende
+de la posición en la lista. Tocar las estrellas NO abre el remate.
+
+### 2) Destacar vinilos (pantalla 2)
+Cada vinilo tiene un corazón tocable. Al marcarlo queda rojo y visible. Hay un
+botón **"Solo destacados"** que filtra la lista para ver únicamente los
+marcados (muestra también cuántos hay). Se guarda en el celular (clave
+`destacados`) **asociado al id del lote**, así sobrevive a las
+actualizaciones. Es **independiente** de la puntuación del remate (son dos
+cosas separadas, en almacenes distintos).
+
+### 3) Fotos de los vinilos — diagnóstico y solución
+**El problema:** las fotos no cargaban y se veía el logo genérico. Investigué
+las cabeceras del servidor de imágenes (`static3.remotes.com.uy`) y encontré
+que tiene **protección anti-hotlinking por "Referer"**:
+
+- Foto pedida **sin** Referer → responde **200** (la imagen). ✅
+- Foto pedida con Referer de **otro dominio** (ej: `tuusuario.github.io`) →
+  responde **403** (bloqueada). ❌
+- Foto pedida con Referer del **propio** remotes.com.uy → **200**. ✅
+
+O sea: cuando la app está publicada en otro dominio (GitHub Pages), el
+navegador manda por defecto el Referer de ese dominio y el servidor rechaza la
+imagen. Por eso se veía el logo de respaldo.
+
+**La solución:** hacer que el navegador **no mande Referer**. Se hizo de dos
+formas (por las dudas):
+- Un `<meta name="referrer" content="no-referrer">` global en `index.html`.
+- El atributo `referrerpolicy="no-referrer"` en cada `<img>`.
+- Y en el service worker, las fotos se piden con `referrerPolicy: 'no-referrer'`
+  y `mode: 'no-cors'`.
+
+Se verificó por HTTP: sin Referer la imagen da **200 image/jpeg**; con Referer
+de otro dominio da **403**. Con la solución, el navegador no manda Referer, así
+que las fotos cargan.
+
+**Respaldo:** si una foto igual falla, se muestra el ícono genérico (un vinilo)
+y la lista no se rompe (cada `<img>` tiene un `onerror` que cambia a ese ícono).
+
+En la **lista** ahora también se muestra una foto por remate: la primera foto
+de sus vinilos (la portada).
+
+Nota: NO se pudo ver la foto real dentro de esta máquina de pruebas porque su
+salida a internet hacia el servidor de imágenes está limitada; pero se
+comprobó por HTTP que las URLs responden 200 sin Referer, así que en el
+celular real se ven.
+
+### Detalle técnico
+Se agregó el campo `id` (id estable del lote) a cada vinilo en
+`paso2_vinilos.js`, para poder guardar los destacados de forma que sobrevivan
+a las actualizaciones. El service worker pasó a versión `vinilos-v2`.
+
+---
+
 ## Sesión 6 — 9 de agosto de 2026 — Paso 3: la app instalable (PWA)
 
 ### Qué se pidió

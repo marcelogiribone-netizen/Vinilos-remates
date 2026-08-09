@@ -314,6 +314,7 @@ async function obtenerRemateHtml(id) {
       if (!an.esVinilo) continue;
       const foto = Array.isArray(it.foto) && it.foto.length ? it.foto[0] : null;
       vinilos.push({
+        id: it.id, // id estable del lote (para guardar destacados que sobrevivan actualizaciones)
         lote: it.lote,
         titulo: it.titulo,
         artista: extraerArtista(it.titulo),

@@ -5,7 +5,7 @@
    - Las fotos de los discos se guardan a medida que se ven (para verlas
      después sin conexión). */
 
-var VERSION = 'vinilos-v1';
+var VERSION = 'vinilos-v2';
 var APP_SHELL = [
   './',
   'index.html',
@@ -52,10 +52,14 @@ self.addEventListener('fetch', function (e) {
   }
 
   // 2) Fotos de los discos: guardado primero, y si no está, se baja y guarda.
+  //    Se pide SIN Referer y en modo no-cors: el servidor bloquea (403) las
+  //    imágenes con Referer de otro dominio, pero sin Referer las devuelve.
   if (url.hostname === IMG_HOST) {
     e.respondWith(
       caches.match(req).then(function (hit) {
-        return hit || fetch(req).then(function (resp) {
+        if (hit) return hit;
+        var pedido = new Request(req.url, { mode: 'no-cors', referrerPolicy: 'no-referrer' });
+        return fetch(pedido).then(function (resp) {
           var copia = resp.clone();
           caches.open(VERSION).then(function (c) { c.put(req, copia); });
           return resp;
