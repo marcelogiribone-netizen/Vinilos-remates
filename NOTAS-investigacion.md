@@ -4,6 +4,89 @@ Bitácora del proyecto, en español simple. Cada sesión de trabajo agrega lo qu
 
 ---
 
+## Sesión 6 — 9 de agosto de 2026 — Paso 3: la app instalable (PWA)
+
+### Qué se pidió
+Una PWA (app web instalable) para el celular, con dos pantallas, que lea el
+JSON de `paso2_vinilos.js`, funcione sin internet y sea instalable en Android.
+
+### Qué se hizo
+Toda la app quedó en la carpeta **`app/`**:
+- `index.html`, `styles.css`, `app.js` — la aplicación.
+- `manifest.webmanifest` — para poder instalarla.
+- `sw.js` — el "service worker" (hace que ande sin internet).
+- `icons/icon-192.png`, `icons/icon-512.png` — el ícono (un vinilo).
+- `vinilos.json` — los datos (copia de `vinilos-encontrados.json`).
+
+**Pantalla 1 (lista):** remates con vinilos, ordenados por cierre más
+próximo. Muestra nombre del remate (recortado con "…" si es largo), empresa,
+lugar, fecha/hora y cuántos vinilos tiene. NO muestra el número de remate.
+
+**Pantalla 2 (detalle):** título = nombre del remate; abajo en letra chica la
+empresa, el lugar y la fecha; botón "Ver remate completo"; y la lista de
+vinilos con foto, artista — álbum, número de lote, precio base y chips de
+sello/año. Cada vinilo es tocable y abre ese lote en la web.
+
+### Detalle técnico: el "nombre del remate"
+La web no muestra el número de remate, así que se usa el **nombre real** que
+figura en el `<title>` de la página de cada remate, con el patrón
+"Participá del remate de EMPRESA: NOMBRE". Se toma la primera línea de ese
+nombre. Se agregó al `paso2_vinilos.js` (campo `nombre` en el JSON).
+
+### Cómo funciona sin internet
+- La app (pantallas, ícono) se guarda la primera vez que se abre.
+- Los datos (`vinilos.json`) usan "red primero": si hay internet trae lo
+  último; si no, muestra la última copia guardada (con un aviso).
+- Las fotos de los discos se van guardando a medida que se ven.
+
+### Probado
+Se probó con un navegador real (Chromium) en tamaño de celular:
+- Las dos pantallas se ven bien y son legibles con una mano. ✔
+- El service worker se registra. ✔
+- **Sin conexión**: se corta internet, se recarga, y los 6 remates y sus
+  vinilos siguen apareciendo. ✔
+- Las URLs de las fotos responden HTTP 200 (se ven en el celular real). ✔
+
+### CÓMO INSTALARLA EN EL CELULAR (para Marcelo)
+
+La app necesita estar publicada en una dirección con "https" para poder
+instalarse. La forma más fácil y gratis es **GitHub Pages** (el proyecto ya
+está en GitHub):
+
+1. **Publicar (una sola vez):**
+   - En la computadora/celular, entrá a GitHub, al repositorio del proyecto.
+   - Andá a **Settings → Pages**.
+   - En "Build and deployment", elegí **Deploy from a branch**.
+   - Elegí la rama `main` (o la rama del proyecto) y carpeta `/ (root)`,
+     y guardá.
+   - Esperá 1–2 minutos. GitHub te va a dar una dirección tipo
+     `https://TU-USUARIO.github.io/Vinilos-remates/app/`.
+
+2. **Instalar en el celular (Android + Chrome):**
+   - Abrí esa dirección (`.../app/`) en **Chrome**.
+   - Tocá el menú de Chrome (los tres puntitos, arriba a la derecha).
+   - Tocá **"Agregar a la pantalla de inicio"** o **"Instalar aplicación"**.
+   - Confirmá. Va a aparecer el ícono del vinilo en tu pantalla, como
+     cualquier app.
+   - (Si no aparece la opción, esperá unos segundos o recargá; a veces
+     Chrome tarda en ofrecer instalar.)
+
+3. **Usarla:**
+   - Se abre a pantalla completa, como una app normal.
+   - Funciona aunque estés sin datos: muestra lo último guardado.
+
+Nota: mientras no tengamos la actualización automática (próximo paso), los
+datos se refrescan cuando corrés de nuevo `paso1` + `paso2` y actualizás el
+archivo `app/vinilos.json` en el repo.
+
+### Próximos pasos sugeridos
+- Que los datos se actualicen solos (que la app o un proceso corra `paso1` +
+  `paso2` cada tanto y actualice `vinilos.json`).
+- Guardar favoritos / marcar vinilos que te interesan.
+- Filtro o buscador por artista dentro de la app.
+
+---
+
 ## Sesión 5 — 8 de agosto de 2026 — Paso 2: leer los lotes y armar la lista de vinilos
 
 ### Qué se pidió

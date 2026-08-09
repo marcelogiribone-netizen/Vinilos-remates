@@ -45,6 +45,34 @@ function normalizar(texto) {
     .toLowerCase();
 }
 
+// Convierte entidades HTML comunes a texto normal (para nombres con tildes).
+function decodeHtml(s) {
+  if (!s) return '';
+  const named = {
+    aacute: 'á', eacute: 'é', iacute: 'í', oacute: 'ó', uacute: 'ú',
+    Aacute: 'Á', Eacute: 'É', Iacute: 'Í', Oacute: 'Ó', Uacute: 'Ú',
+    ntilde: 'ñ', Ntilde: 'Ñ', uuml: 'ü', Uuml: 'Ü',
+    amp: '&', quot: '"', apos: "'", nbsp: ' ', lt: '<', gt: '>',
+    laquo: '«', raquo: '»', hellip: '…', mdash: '—', ndash: '–', deg: '°',
+  };
+  return s
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(parseInt(n, 10)))
+    .replace(/&#x([0-9a-fA-F]+);/g, (_, n) => String.fromCodePoint(parseInt(n, 16)))
+    .replace(/&([a-zA-Z]+);/g, (m, name) => (name in named ? named[name] : m));
+}
+
+// Saca el NOMBRE del remate del <title>: "Participá del remate de EMPRESA: NOMBRE".
+// Devuelve la primera línea del nombre (un título corto y legible).
+function extraerNombreRemate(html, fallback) {
+  const m = html.match(/<title>([\s\S]*?)<\/title>/i);
+  if (!m) return fallback || null;
+  const t = decodeHtml(m[1]).trim();
+  const mm = t.match(/remate de\s*.*?:\s*([\s\S]*)/i);
+  const texto = (mm ? mm[1] : t).trim();
+  const primeraLinea = texto.split(/\r?\n/)[0].trim();
+  return primeraLinea || fallback || null;
+}
+
 const dormir = (ms) => new Promise((r) => setTimeout(r, ms));
 
 // --- Extraer los lotes (var items) del HTML de un remate --------------------
@@ -267,14 +295,16 @@ async function obtenerRemateHtml(id) {
       html = await obtenerRemateHtml(rem.id);
     } catch (e) {
       console.error(`ERROR: ${e.message}`);
-      resultado.push({ ...datosRemate(rem), error: e.message, vinilos: [] });
+      resultado.push({ ...datosRemate(rem, rem.descripcion), error: e.message, vinilos: [] });
       continue;
     }
+
+    const nombre = extraerNombreRemate(html, rem.descripcion);
 
     const items = extraerItems(html);
     if (!items) {
       console.error('sin lotes legibles');
-      resultado.push({ ...datosRemate(rem), error: 'no se pudo leer var items', vinilos: [] });
+      resultado.push({ ...datosRemate(rem, nombre), error: 'no se pudo leer var items', vinilos: [] });
       continue;
     }
 
@@ -300,7 +330,7 @@ async function obtenerRemateHtml(id) {
 
     console.error(`${items.length} lotes, ${vinilos.length} vinilos`);
     totalVinilos += vinilos.length;
-    resultado.push({ ...datosRemate(rem), totalLotes: items.length, vinilos });
+    resultado.push({ ...datosRemate(rem, nombre), totalLotes: items.length, vinilos });
 
     if (!CACHE_DIR) await dormir(ESPERA_MS);
   }
@@ -329,9 +359,10 @@ async function obtenerRemateHtml(id) {
   console.log('\nGuardado: vinilos-encontrados.json');
 })();
 
-function datosRemate(rem) {
+function datosRemate(rem, nombre) {
   return {
     id: rem.id,
+    nombre: nombre || rem.descripcion || null,
     empresa: rem.empresa,
     departamento: rem.departamento,
     lugar: rem.lugar,

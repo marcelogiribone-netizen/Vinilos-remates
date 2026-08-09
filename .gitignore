@@ -3,6 +3,9 @@ lotes.json
 remates-todos.json
 remates-candidatos.json
 vinilos-encontrados.json
-*.html
+/*.html
 profile/
 cache/
+
+# Nota: la app vive en app/ y SÍ se versiona (incluye app/vinilos.json,
+# que es la copia de datos que lee la PWA).
