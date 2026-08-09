@@ -1,11 +1,11 @@
-/* Service Worker del Detector de Vinilos.
+/* Service Worker de DigBin (detector de vinilos).
    - Guarda la app (HTML/CSS/JS/íconos) para que abra sin internet.
    - Los datos (vinilos.json) usan "red primero": si hay internet trae lo
      último; si no, usa lo guardado.
    - Las fotos de los discos se guardan a medida que se ven (para verlas
      después sin conexión). */
 
-var VERSION = 'vinilos-v3';
+var VERSION = 'digbin-v4';
 var APP_SHELL = [
   './',
   'index.html',

@@ -4,6 +4,32 @@ Bitácora del proyecto, en español simple. Cada sesión de trabajo agrega lo qu
 
 ---
 
+## Sesión 9 — 9 de agosto de 2026 — La app se llama DigBin (nombre + ícono)
+
+### Nombre nuevo
+La app pasó a llamarse **DigBin** (la idea: "dig" = revolver/excavar, "bin" =
+cajón de discos de disquería → revolver el cajón de discos). Se cambió en todo
+lo visible para el usuario:
+- Manifest: `name` y `short_name` = "DigBin" (lo que se lee bajo el ícono al
+  instalarla).
+- Título de la página (`<title>`).
+- Encabezado dentro de la app (barra de arriba en la pantalla de Remates).
+- README de la app.
+
+No se cambió el nombre del repositorio ni de los archivos de código (solo lo
+visible).
+
+### Ícono nuevo
+El anterior era un vinilo genérico. El nuevo es acorde al nombre: un **cajón
+de discos** con fundas de colores y un **vinilo saliendo** (revolver el
+cajón). Simple y reconocible en tamaño chico. Se generó con
+`generar_iconos.js` (Node puro, sin librerías) en 192 y 512 px. El mismo
+cajón se usa además como imagen de respaldo cuando una foto no carga.
+
+Detalle técnico: el service worker pasó a `digbin-v4`.
+
+---
+
 ## Sesión 8 — 9 de agosto de 2026 — App: estrella automática, menú y Colección
 
 Tres cambios más (sin tocar todavía la actualización automática).

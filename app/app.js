@@ -1,7 +1,7 @@
 'use strict';
 
 // ---------------------------------------------------------------------------
-// Detector de Vinilos — lógica de la PWA.
+// DigBin — lógica de la PWA (detector de vinilos en remates de remotes.com.uy).
 // Pantalla 1: lista de remates con vinilos (con puntuación manual por estrellas).
 // Pantalla 2: detalle del remate con sus vinilos (con destacados y filtro).
 // Funciona sin internet: guarda la última copia de los datos en el celular.
@@ -206,7 +206,7 @@ function crearEstrellas(remateId) {
 // --- Pantalla 1: lista de remates ------------------------------------------
 
 function pantallaLista() {
-  barraTitulo.textContent = 'Vinilos en remates';
+  barraTitulo.textContent = 'DigBin';
   btnAtras.hidden = true;
   contenido.innerHTML = '';
 

@@ -1,7 +1,7 @@
 {
-  "name": "Detector de Vinilos — remotes.com.uy",
-  "short_name": "Vinilos",
-  "description": "Vinilos encontrados en los remates activos de remotes.com.uy",
+  "name": "DigBin",
+  "short_name": "DigBin",
+  "description": "Revolvé el cajón: vinilos en los remates activos de remotes.com.uy",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

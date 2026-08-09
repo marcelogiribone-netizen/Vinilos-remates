@@ -1,8 +1,9 @@
-# Detector de Vinilos — App (PWA)
+# DigBin — App (PWA)
 
-App web instalable en el celular que muestra los vinilos encontrados en los
-remates activos de remotes.com.uy. Lee el archivo `vinilos.json` (el que
-genera `paso2_vinilos.js`).
+**DigBin** ("revolver el cajón de discos") es una app web instalable en el
+celular que muestra los vinilos encontrados en los remates activos de
+remotes.com.uy. Lee el archivo `vinilos.json` (el que genera
+`paso2_vinilos.js`).
 
 ## Qué tiene
 - **Pantalla 1 (lista):** los remates que tienen vinilos, ordenados por el que
