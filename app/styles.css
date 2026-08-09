@@ -67,7 +67,42 @@ html, body {
 }
 .btn-atras:active { background: rgba(255,255,255,.18); }
 
-main { padding: 12px 12px 32px; max-width: 640px; margin: 0 auto; }
+/* deja lugar abajo para la barra de pestañas fija */
+main {
+  padding: 12px 12px calc(76px + env(safe-area-inset-bottom));
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+/* Barra de pestañas (menú de navegación abajo) */
+.tabbar {
+  position: fixed;
+  left: 0; right: 0; bottom: 0;
+  z-index: 15;
+  display: flex;
+  background: var(--tarjeta);
+  border-top: 1px solid var(--borde);
+  padding-bottom: env(safe-area-inset-bottom);
+  box-shadow: 0 -1px 6px rgba(0,0,0,.08);
+}
+.tab {
+  flex: 1;
+  border: 0;
+  background: transparent;
+  color: var(--texto-suave);
+  padding: 8px 4px 10px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  font-size: .78rem;
+  font-weight: 600;
+}
+.tab-ico { font-size: 1.5rem; line-height: 1; }
+.tab.activo { color: var(--rojo); }
+.tab.activo .tab-ico { transform: scale(1.05); }
+@media (prefers-color-scheme: dark) { .tab.activo { color: var(--ambar); } }
 
 /* --- Pantalla 1: lista de remates --- */
 .card-remate {
@@ -275,11 +310,31 @@ main { padding: 12px 12px 32px; max-width: 640px; margin: 0 auto; }
 }
 .flecha { flex: 0 0 auto; color: var(--texto-suave); font-size: 1.4rem; }
 
+/* Línea "En: <remate> · cierre" dentro de las tarjetas de la Colección */
+.coleccion-remate {
+  font-size: .82rem;
+  color: var(--texto-suave);
+  border-top: 1px solid var(--borde);
+  padding: 8px 52px 10px 12px;
+  line-height: 1.5;
+}
+.coleccion-remate-nombre {
+  color: var(--rojo);
+  font-weight: 700;
+  text-decoration: none;
+}
+@media (prefers-color-scheme: dark) { .coleccion-remate-nombre { color: var(--ambar); } }
+.coleccion-remate-nombre:active { text-decoration: underline; }
+.coleccion-cierre { white-space: nowrap; }
+
 /* Mensajes / estados */
-.estado { text-align: center; color: var(--texto-suave); padding: 40px 20px; }
+.estado { text-align: center; color: var(--texto-suave); padding: 40px 24px; line-height: 1.6; }
+.estado-titulo { font-size: 1.2rem; font-weight: 700; color: var(--texto); margin: 0 0 8px; }
+.estado-ayuda { font-size: .9rem; margin-top: 12px; }
 .aviso {
   position: fixed;
-  left: 12px; right: 12px; bottom: 12px;
+  left: 12px; right: 12px;
+  bottom: calc(84px + env(safe-area-inset-bottom)); /* arriba de la barra */
   background: #2b2b2b; color: #fff;
   padding: 10px 14px; border-radius: 10px;
   font-size: .85rem; text-align: center;

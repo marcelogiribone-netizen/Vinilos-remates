@@ -32,16 +32,24 @@ function guardarMapa(key, obj) {
   try { localStorage.setItem(key, JSON.stringify(obj)); } catch (e) { /* nada */ }
 }
 
-// Puntuación de un remate (0 a 5). Arranca en 0 (sin puntuar).
+// Puntuación de un remate (0 a 5).
+// IMPORTANTE: distinguimos "sin puntuar" (no hay clave) de "puntuado en 0 por
+// el usuario" (hay clave con valor 0). Por eso setPuntos guarda SIEMPRE el
+// valor (incluso el 0), y solo estaPuntuado() sabe si el usuario ya lo tocó.
+function getPuntosRaw(remateId) {
+  var v = leerMapa(KEY_PUNTOS)[String(remateId)];
+  return typeof v === 'number' ? v : undefined; // undefined = sin puntuar
+}
+function estaPuntuado(remateId) {
+  return getPuntosRaw(remateId) !== undefined;
+}
 function getPuntos(remateId) {
-  var m = leerMapa(KEY_PUNTOS);
-  var v = m[String(remateId)];
-  return typeof v === 'number' ? v : 0;
+  var v = getPuntosRaw(remateId);
+  return v === undefined ? 0 : v;
 }
 function setPuntos(remateId, valor) {
   var m = leerMapa(KEY_PUNTOS);
-  if (valor > 0) m[String(remateId)] = valor;
-  else delete m[String(remateId)];
+  m[String(remateId)] = valor; // guarda siempre (incluso 0) = puntuación manual
   guardarMapa(KEY_PUNTOS, m);
 }
 
@@ -161,7 +169,8 @@ function crearEstrellas(remateId) {
   cont.setAttribute('aria-label', 'Puntuar remate de 0 a 5');
 
   function pintar() {
-    var val = getPuntos(remateId);
+    var raw = getPuntosRaw(remateId);
+    var val = raw === undefined ? 0 : raw;
     var botones = cont.querySelectorAll('.estrella');
     for (var i = 0; i < botones.length; i++) {
       var n = i + 1;
@@ -169,7 +178,7 @@ function crearEstrellas(remateId) {
       botones[i].classList.toggle('activa', n <= val);
       botones[i].setAttribute('aria-checked', n === val ? 'true' : 'false');
     }
-    etiqueta.textContent = val ? (val + '/5') : 'sin puntuar';
+    etiqueta.textContent = raw === undefined ? 'sin puntuar' : (val + '/5');
   }
 
   for (var n = 1; n <= 5; n++) {
@@ -320,12 +329,17 @@ function pantallaDetalle(id) {
         : 'Sin vinilos.'));
       return;
     }
-    visibles.forEach(function (v) { lista.appendChild(crearCardVinilo(r, v)); });
+    visibles.forEach(function (v) {
+      lista.appendChild(crearCardVinilo(r, v, {
+        onFav: function () { pintarToggle(); if (soloDestacados) dibujarVinilos(); }
+      }));
+    });
   }
   dibujarVinilos();
 }
 
-function crearCardVinilo(r, v) {
+function crearCardVinilo(r, v, opciones) {
+  opciones = opciones || {};
   var card = el('div', 'card-vinilo');
   var clave = claveVinilo(r.id, v);
 
@@ -352,6 +366,21 @@ function crearCardVinilo(r, v) {
   link.appendChild(info);
   card.appendChild(link);
 
+  // En la Colección: mostrar de qué remate es y cuándo cierra.
+  // El nombre del remate es tocable y lleva al detalle DENTRO de la app.
+  if (opciones.mostrarRemate) {
+    var linea = el('div', 'coleccion-remate');
+    linea.appendChild(document.createTextNode('En: '));
+    var enlaceRemate = el('a', 'coleccion-remate-nombre', r.nombre || 'Remate');
+    enlaceRemate.href = '#/r/' + r.id;
+    linea.appendChild(enlaceRemate);
+    if (r.fecha) {
+      var cierre = el('span', 'coleccion-cierre', ' · 🕒 ' + r.fecha);
+      linea.appendChild(cierre);
+    }
+    card.appendChild(linea);
+  }
+
   // Botón destacar (corazón), separado del enlace.
   var fav = el('button', 'btn-fav');
   fav.type = 'button';
@@ -365,13 +394,63 @@ function crearCardVinilo(r, v) {
   fav.addEventListener('click', function (ev) {
     ev.preventDefault();
     ev.stopPropagation();
-    toggleDestacado(clave);
+    var ahoraOn = toggleDestacado(clave);
+    // Estrella automática: al DESTACAR, si el remate nunca fue puntuado,
+    // ponerle 1 estrella. Si ya tiene puntuación manual (incluso 0), no tocar.
+    // Al quitar el corazón, la estrella queda como está (no se borra sola).
+    if (ahoraOn && !estaPuntuado(r.id)) setPuntos(r.id, 1);
     pintarFav();
+    if (opciones.onFav) opciones.onFav(ahoraOn);
   });
   pintarFav();
   card.appendChild(fav);
 
   return card;
+}
+
+// --- Pantalla Colección: todos mis vinilos destacados ----------------------
+
+function pantallaColeccion() {
+  barraTitulo.textContent = 'Mi colección';
+  btnAtras.hidden = true;
+  contenido.innerHTML = '';
+
+  // Juntar los destacados de TODOS los remates, con su contexto de remate.
+  var items = [];
+  datos.forEach(function (r) {
+    r.vinilos.forEach(function (v) {
+      if (esDestacado(claveVinilo(r.id, v))) items.push({ r: r, v: v });
+    });
+  });
+  // Ordenar por fecha de cierre del remate, más próxima primero.
+  items.sort(function (a, b) {
+    return (a.r.timestamp || Infinity) - (b.r.timestamp || Infinity);
+  });
+
+  if (!items.length) {
+    var vacio = el('div', 'estado');
+    vacio.appendChild(el('p', 'estado-titulo', '💿 Tu colección está vacía'));
+    vacio.appendChild(el('p', null,
+      'Acá van a aparecer los vinilos que marques como destacados.'));
+    vacio.appendChild(el('p', 'estado-ayuda',
+      'Andá a "Remates", entrá a un remate y tocá el corazón ♡ de los discos ' +
+      'que te interesen. Cada uno va a quedar guardado acá, con el remate al ' +
+      'que pertenece y su fecha de cierre.'));
+    contenido.appendChild(vacio);
+    return;
+  }
+
+  contenido.appendChild(el('p', 'actualizado',
+    items.length + (items.length === 1 ? ' vinilo destacado' : ' vinilos destacados')));
+
+  var lista = el('div', 'lista-vinilos');
+  contenido.appendChild(lista);
+  items.forEach(function (it) {
+    lista.appendChild(crearCardVinilo(it.r, it.v, {
+      mostrarRemate: true,
+      onFav: function () { pantallaColeccion(); } // al quitar, se refresca la lista
+    }));
+  });
 }
 
 // --- Estados / navegación --------------------------------------------------
@@ -386,10 +465,31 @@ function fechaCorta(d) {
 
 function enrutar() {
   var h = location.hash || '#/';
-  var m = h.match(/^#\/r\/(.+)$/);
-  if (m) { pantallaDetalle(m[1]); }
-  else { soloDestacados = false; pantallaLista(); }
+  if (h === '#/coleccion') {
+    pantallaColeccion();
+  } else {
+    var m = h.match(/^#\/r\/(.+)$/);
+    if (m) { pantallaDetalle(m[1]); }
+    else { soloDestacados = false; pantallaLista(); }
+  }
+  actualizarTabbar(h);
   window.scrollTo(0, 0);
+}
+
+// Menú de navegación (pestañas de abajo): Remates / Colección.
+var tabs = Array.prototype.slice.call(document.querySelectorAll('.tab'));
+tabs.forEach(function (t) {
+  t.addEventListener('click', function () { location.hash = t.getAttribute('data-hash'); });
+});
+function actualizarTabbar(h) {
+  h = h || location.hash || '#/';
+  var enColeccion = (h === '#/coleccion');
+  tabs.forEach(function (t) {
+    var esTabColeccion = (t.getAttribute('data-hash') === '#/coleccion');
+    var activo = esTabColeccion ? enColeccion : !enColeccion;
+    t.classList.toggle('activo', activo);
+    t.setAttribute('aria-current', activo ? 'page' : 'false');
+  });
 }
 
 btnAtras.addEventListener('click', function () {

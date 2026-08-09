@@ -5,7 +5,7 @@
    - Las fotos de los discos se guardan a medida que se ven (para verlas
      después sin conexión). */
 
-var VERSION = 'vinilos-v2';
+var VERSION = 'vinilos-v3';
 var APP_SHELL = [
   './',
   'index.html',

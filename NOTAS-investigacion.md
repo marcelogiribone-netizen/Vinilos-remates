@@ -4,6 +4,56 @@ Bitácora del proyecto, en español simple. Cada sesión de trabajo agrega lo qu
 
 ---
 
+## Sesión 8 — 9 de agosto de 2026 — App: estrella automática, menú y Colección
+
+Tres cambios más (sin tocar todavía la actualización automática).
+
+### 1) Estrella automática al destacar
+Cuando marcás un vinilo con el corazón, si ese remate **nunca fue puntuado**,
+la app le pone **1 estrella automáticamente**. Reglas respetadas:
+- Si ya le pusiste una puntuación manual (cualquiera, **incluso 0 a
+  propósito**), NO se toca. Tu puntuación manual siempre gana.
+- Si después sacás el corazón, la estrella **queda** (no se borra sola).
+
+Para que esto funcione bien, internamente ahora se distingue **"sin puntuar"**
+(no existe la clave guardada) de **"puntuado en 0 por vos"** (existe la clave
+con valor 0). Antes el 0 se borraba; ahora se guarda siempre. En las estrellas,
+la etiqueta muestra "sin puntuar" o "0/5" según el caso.
+
+### 2) Menú de navegación (pestañas abajo)
+Se agregó una **barra de pestañas fija abajo** (cómoda para una mano) con dos
+secciones:
+- **Remates** 💿 → el listado de siempre (pantalla 1).
+- **Colección** ♥ → la nueva pantalla.
+La pestaña activa se resalta. El detalle de un remate sigue dentro de
+"Remates".
+
+### 3) Pantalla "Colección"
+Muestra **todos los vinilos marcados con corazón**, de cualquier remate,
+**ordenados por fecha de cierre (más próxima primero)**. Cada vinilo muestra:
+foto, artista y álbum, número de lote, precio base, chips de sello/año, y —lo
+importante— **de qué remate es y cuándo cierra**. Así ya no perdés de vista a
+qué remate pertenece lo que marcaste.
+- Tocar el vinilo (foto/datos) abre ese **lote en la web**.
+- El **nombre del remate es tocable** y lleva a la pantalla de ese remate
+  **dentro de la app**.
+- Si no hay ninguno marcado, aparece un **mensaje amable** explicando cómo
+  agregar (ir a Remates, entrar a un remate y tocar el corazón).
+- Desde la Colección también podés **quitar** un destacado (y desaparece).
+
+### Probado (navegador, tamaño celular)
+- Destacar sin puntuar → pone 1 estrella. ✔
+- Destacar con 0 manual → queda en 0 (no lo pisa). ✔
+- Quitar el corazón → la estrella queda. ✔
+- Distingue "sin puntuar" de "0/5". ✔
+- Colección: 2 destacados ordenados por cierre, nombre de remate tocable que
+  lleva al detalle, con fecha de cierre visible. ✔
+- Menú con 2 pestañas y mensaje de vacío. Sin errores. ✔
+
+Detalle técnico: el service worker pasó a `vinilos-v3`.
+
+---
+
 ## Sesión 7 — 9 de agosto de 2026 — Mejoras a la app: puntuación, destacados y fotos
 
 Se agregaron tres cosas pedidas (sin tocar todavía la actualización automática).

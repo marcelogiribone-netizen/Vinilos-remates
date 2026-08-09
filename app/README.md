@@ -19,11 +19,20 @@ genera `paso2_vinilos.js`).
 - **Instalable en Android** desde Chrome (tiene manifest, service worker e
   ícono).
 
+- **Menú abajo (dos pestañas):** **Remates** (el listado) y **Colección**.
+- **Colección:** todos los vinilos que marcaste con corazón, de cualquier
+  remate, ordenados por cierre más próximo, mostrando de qué remate son y
+  cuándo cierran. El nombre del remate es tocable y lleva a ese remate.
+
 ## Lo mío (puntuaciones y destacados)
 Las estrellas de cada remate y los corazones de cada vinilo son **tuyos**: se
 guardan en el celular y **sobreviven a las actualizaciones** de datos (se
 asocian al remate y al lote por su id, no a su posición en la lista). Son dos
 cosas separadas: destacar un vinilo NO cambia la puntuación del remate.
+
+**Estrella automática:** al marcar un vinilo con el corazón, si el remate nunca
+fue puntuado, se le pone 1 estrella. Si ya le pusiste una puntuación manual
+(incluso 0), no se toca. Si sacás el corazón, la estrella queda.
 
 ## Archivos
 - `index.html`, `styles.css`, `app.js` — la app.
