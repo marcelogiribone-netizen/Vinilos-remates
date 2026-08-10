@@ -4,6 +4,62 @@ Bitácora del proyecto, en español simple. Cada sesión de trabajo agrega lo qu
 
 ---
 
+## Sesión 12 — 10 de agosto de 2026 — Falsos negativos del filtro (diagnóstico y arreglo)
+
+### El problema
+En el remate 7580 (Rincón del Vintage) faltaban discos reales (falsos
+negativos). Se hizo un diagnóstico instrumentado (sin adivinar).
+
+### Diagnóstico
+- **Extracción:** 211 lotes extraídos = 211 en el HTML → NO se pierde ningún
+  lote. El problema estaba 100% en el FILTRO. (El remate tiene lotes con sufijo
+  como 7B/46C y uno #1000; por eso la numeración tiene huecos, pero están todos.)
+- **Patrón real de los falsos negativos:**
+  1. **Plural no reconocido:** la regla `\balbum\b` no matcheaba "álbumes"
+     (plural). Muchos discos que solo dicen "álbumes" se perdían.
+  2. **"álbum" exigía año o sello:** discos que dicen "Álbum de estudio/en
+     vivo" sin año se descartaban.
+  3. **"disco" no bastaba** aunque tuviera año y "música".
+  4. **Contexto musical muy angosto:** no incluía "música", "canciones",
+     "recopilatorio", "banda sonora", "varios artistas", "grabado en 19xx", etc.
+  5. Discos descritos solo como **"Artista – Título"** (sin la palabra
+     álbum/disco) eran invisibles.
+
+### El arreglo (qué reglas cambiaron y por qué)
+- "álbum" ahora es **plural-aware** (álbum/álbumes/albums).
+- Se acepta **"álbum"** o **"disco"** por sí solos (ya filtrados los usos no
+  musicales), y el formato **"Artista – Título" + contexto musical**.
+- El **contexto musical** se amplió pero con términos CONFIABLES (banda sonora,
+  varios artistas, recopilatorio, folclore, grabado en 19xx, etc.), evitando
+  palabras ambiguas ("conjunto", "banda", "tema") que aparecen en bazar.
+- **Descartes reforzados** para NO aflojar: arte/cine/objetos (óleo, "sobre
+  tela/durabor", cuadro, súper 8, proyector, diapositiva, VHS, chapita,
+  teléfono…), filatelia (álbumes de sellos) y equipos/muebles (disquero) se
+  rechazan ANTES. Se cuidó de no descartar discos por mencionar extras del
+  empaque ("afiche interno", "folleto", "láminas").
+- Se ignora el prefijo de número de lote tipo **"L 335 - 15 piezas -"** al
+  detectar el formato Artista-Título (evita falsos positivos masivos en remates
+  que numeran así).
+
+### Resultado (remate 7580)
+- Antes: 65 aceptados (se perdían discos). Ahora: **92**, con **todos** los
+  discos (lotes ~1–77) incluidos y **cero** arte/cine colado (lotes ~78–193:
+  óleos, pósters, películas, diapositivas, etc. quedan afuera).
+- Otros remates de control: 7393 sigue en 6; los de antigüedades (6241, 7492,
+  7520, 7385, 7524) en 0 (sin falsos positivos). En 7460 quedó 1 (una colección
+  de CDs/DVDs de rock: música real, no vinilo — falso positivo menor).
+
+### Chequeo permanente de extracción
+`paso2_vinilos.js` ahora compara, por cada remate, la cantidad de lotes
+extraídos contra un conteo independiente del HTML. Si extrae de menos, avisa
+fuerte y termina con error (exit 1) → la corrida diaria se pone en ROJO y NO se
+publican datos incompletos (quedan los del día anterior hasta revisar).
+
+Nota técnica: `paso2_vinilos.js` ahora exporta sus funciones (se puede
+`require()` sin correr el proceso) para diagnóstico/tests.
+
+---
+
 ## Sesión 11 — 10 de agosto de 2026 — Actualización automática diaria + vencidos
 
 Cuatro cosas.

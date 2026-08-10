@@ -100,6 +100,27 @@ function extraerItems(html) {
   }
 }
 
+// Cuenta, de forma INDEPENDIENTE de la extracción, cuántos objetos-lote hay en
+// el bloque `var items = [ ... ]` (contando el campo "identificador":). Sirve de
+// control: si la extracción devuelve menos lotes que esto, algo se cortó.
+function contarLotesEnHTML(html) {
+  const i = html.indexOf('var items = ');
+  if (i < 0) return null;
+  const start = html.indexOf('[', i);
+  let depth = 0, end = -1, inStr = false, esc = false;
+  for (let p = start; p < html.length; p++) {
+    const c = html[p];
+    if (esc) { esc = false; continue; }
+    if (c === '\\') { esc = true; continue; }
+    if (c === '"') { inStr = !inStr; continue; }
+    if (inStr) continue;
+    if (c === '[') depth++;
+    else if (c === ']') { depth--; if (depth === 0) { end = p; break; } }
+  }
+  if (end < 0) return null;
+  return (html.slice(start, end + 1).match(/"identificador":/g) || []).length;
+}
+
 // --- Filtro FINO de vinilos -------------------------------------------------
 
 // Sellos discográficos conocidos (los que pidió Marcelo + algunos comunes).
@@ -110,14 +131,39 @@ const SELLOS = [
 ];
 
 // Usos de "disco" que NO son vinilos (para no confundirnos).
-const DISCO_FALSO = /disco[s]?\s+(duro[s]?|rigido[s]?|de\s+freno|de\s+corte|compacto[s]?|de\s+embrague|de\s+arranque|de\s+amoladora|diamantado[s]?|abrasivo[s]?|flexible[s]?|de\s+sierra|de\s+oro\b|de\s+arado|de\s+cardan)/i;
+const DISCO_FALSO = /disco[s]?\s+(duro[s]?|rigido[s]?|de\s+freno|de\s+corte|compacto[s]?|de\s+embrague|de\s+arranque|de\s+amoladora|diamantado[s]?|abrasivo[s]?|flexible[s]?|de\s+sierra|de\s+oro\b|de\s+arado|de\s+cardan|de\s+ceramica|de\s+bronce|de\s+metal|de\s+madera|de\s+piedra|solar)/i;
 
 // Usos de "álbum" que NO son discos.
-const ALBUM_FALSO = /album\s+de\s+(figuritas|fotos|foto|estampas|autografos|sellos|postales|familiar|recortes|figus|cromos|laminas)/i;
+const ALBUM_FALSO = /album\s+de\s+(figuritas|fotos|foto|estampas|estampillas|autografos|sellos|postales|familiar|familia|recortes|figus|cromos|laminas)/i;
 
-// Contexto musical (palabras que confirman que hablamos de un disco musical).
-// NO incluye "disco"/"álbum" sueltos a propósito (esos son señales aparte).
-const MUSICA_CTX = /(vinilo|long\s*play|\blp[s]?\b|elepe|\b(33|45|78)\s*rpm\b|acetato|discografic|grabaci|sencillo|banda\s+sonora|soundtrack|\bcompilad|\brecopilaci|varios\s+artistas|artistas\s+varios|grandes\s+exitos|\d+\s+discos)/;
+// Cosas que NO son discos: arte (óleos, acuarelas, cuadros) y cine/objetos
+// (películas, súper 8, diapositivas, proyectores, chapitas, etc.). Si aparece
+// alguno de estos, el lote se descarta (a menos que haya una señal FUERTE de
+// vinilo, que se evalúa antes).
+//
+// OJO: acá van SOLO señales inequívocas del objeto físico. NO se incluyen
+// palabras como "afiche", "folleto", "láminas", "dibujos", "carpeta" o "cinta",
+// porque las descripciones de DISCOS suelen mencionarlas como extras del
+// empaque (ej: "incluye afiche interno", "folleto con las letras", "dibujos de
+// la portada") y estaban descartando discos reales por error. Los pósters,
+// carpetas de láminas, etc. genuinos igual se rechazan porque no tienen ninguna
+// señal de disco musical.
+// (No se incluyen "película" ni "pintura" sueltas: aparecen en biografías de
+//  discos —ej: "participó en películas", "pintura de la tapa"—. Los objetos de
+//  cine reales se detectan por "súper 8"/"VHS"/"proyector"; las pinturas por
+//  "óleo"/"acuarela"/"sobre tela|lienzo|durabor|...".)
+const NO_DISCO = /\b(oleo|acuarela|serigraf\w*|xilograf\w*|litograf\w*|aguafuerte[s]?|oleografia[s]?|cuadro[s]?|cuadrito[s]?|gobelino[s]?|proyector\w*|diapositiva[s]?|videocaseter\w*|vhs|cassette[s]?|casete[s]?|compresor\w*|chapita[s]?|portarretrato[s]?|telefono[s]?|escanea)\b|\bsuper\s?8\b|\bcodigo\s+qr\b|\bsobre\s+(tela|lienzo|durabor|fibra|madera|carton|cartulina)\b/;
+
+// Filatelia (álbumes de SELLOS/estampillas): NO son discos. Se detecta con
+// frases específicas de sellos postales, sin tocar "sello discográfico".
+const FILATELIA = /\b(filateli\w*|estampillas?|sellos\s+(coloniales|postales|conmemorativos|antiguos)|cientos\s+de\s+sellos|sellos\s+en\s+album|album\s+de\s+sellos|coleccion\s+de\s+sellos)\b/;
+
+// Contexto musical CONFIABLE. Se usa para corroborar el formato "Artista -
+// Título" y los sellos conocidos. A propósito NO incluye palabras ambiguas que
+// también aparecen en antigüedades/bazar (ej: "conjunto", "banda", "tema",
+// "canto", "coro", "música" sola), porque generaban falsos positivos (copas,
+// juegos, etc.). Solo términos que casi siempre indican un disco musical.
+const MUSICA_CTX = /(banda\s+sonora|soundtrack|varios\s+artistas|artistas\s+varios|long\s*play|\blp[s]?\b|vinilo|acetato|elepe|sello\s+discografic|discografi\w*|grandes\s+exitos|greatest\s+hits|recopilat\w*|recopilaci\w*|compilad\w*|nueva\s+cancion|(musica|cancion)\s+(popular|folclorica|folklorica|de\s+autor|tropical)|\bcanciones\b|folklor\w*|folclor\w*|cantauto\w*|cantante[s]?|compositor\w*|orquesta|sinfoni\w*|\bgrammy\b|\d+\s+discos|grabad[oa]\s+en\b[^.]{0,30}\b(19|20)\d\d)/;
 
 // Equipos de sonido y MUEBLES (NO son discos): tocadiscos, mini componentes,
 // disqueros, estanterías, etc. Si el lote es uno de estos y no trae una
@@ -142,8 +188,9 @@ function analizarVinilo(titulo, descripcion) {
   const hayFuertes = motivos.length > 0;
 
   // --- Datos de contexto ---
+  // "álbum" ahora es plural-aware: álbum / álbumes / albums.
+  const tieneAlbum = /\balbum(es|s)?\b/.test(t) && !ALBUM_FALSO.test(t);
   const tieneDisco = /\bdisco[s]?\b/.test(t) && !DISCO_FALSO.test(t);
-  const tieneAlbum = /\balbum\b/.test(t) && !ALBUM_FALSO.test(t);
   const tieneMusicaCtx = MUSICA_CTX.test(t);
   const mAnio = originalCase.match(/\b(19[3-9]\d|20[0-2]\d)\b/);
   const anio = mAnio ? mAnio[1] : null;
@@ -154,44 +201,70 @@ function analizarVinilo(titulo, descripcion) {
     return re.test(t);
   });
 
-  // --- Señales que dependen del CONTEXTO ---
-  // Un sello conocido cuenta SOLO si hay contexto de disco/álbum/música.
-  // (Así "Juguera Philips" o "Lámpara Philips" no se cuelan.)
-  const selloConContexto =
-    selloEncontrado && (tieneDisco || tieneAlbum || tieneMusicaCtx);
-  if (selloConContexto) motivos.push(`sello ${selloEncontrado} + contexto`);
+  // Formato "Artista - Título" (o "Artista – Título"): un guión con espacios
+  // cerca del comienzo. Sirve para discos descritos solo por artista+título
+  // (sin la palabra "álbum"/"disco"), ej: "Serrat – Mediterráneo".
+  // OJO: primero sacamos un posible prefijo de número de lote como
+  // "L 335 - 15 piezas - ..." (que usan algunos remates), porque ese guión NO
+  // separa artista de título y disparaba muchísimos falsos positivos.
+  const tituloSinPrefijo = (titulo || '').replace(
+    /^\s*(l\s*)?\d+[a-z]?\s*[-–—]\s*(\d+\s*(pieza|piezas|juego|unidad|unidades|gran\s+lote|lote)[^-–—]{0,15}[-–—]\s*)?/i, '');
+  const formatoArtistaTitulo = /^\s*[^\n]{2,72}?\s[–—-]\s\S/.test(tituloSinPrefijo);
 
-  // Si NO hubo señal fuerte ni sello con contexto, exigimos combinación:
-  //  - "álbum" + (sello conocido O año)   -> ej: 'Álbum ... de 1970'
-  //  - "disco" + "álbum"                  -> ej: 'disco álbum de ...'
-  //  - "disco"/"álbum" + contexto musical -> por si acaso
-  if (!hayFuertes && !selloConContexto) {
-    if (tieneAlbum && (selloEncontrado || anio)) {
-      motivos.push('"álbum" + ' + (selloEncontrado ? `sello ${selloEncontrado}` : `año ${anio}`));
-    } else if (tieneDisco && tieneAlbum) {
-      motivos.push('"disco" + "álbum"');
-    } else if ((tieneDisco || tieneAlbum) && tieneMusicaCtx) {
-      motivos.push('disco/álbum + contexto musical');
-    }
-  }
-
-  let esVinilo = motivos.length > 0;
-
-  // Descarte de EQUIPOS y MUEBLES: si es un tocadiscos / mini componente /
-  // disquero / estantería, y NO trae una CANTIDAD real de discos, se descarta.
-  // (Ojo: acá "trae discos" exige un número — ej "34 discos" — o una colección
-  //  explícita; que el texto solo mencione "discos de vinilo" no alcanza,
-  //  porque un mueble puede decir "ranuras para discos de vinilo".)
   const traeCantidadDiscos = /\b\d+\s+discos?\b/.test(t) ||
     /(lote|coleccion|coleccion\s+de|caja\s+con|caja\s+de|conjunto\s+de)\s+[^.]{0,25}disc/.test(t);
-  if (esVinilo && EQUIPO_O_MUEBLE.test(t) && !traeCantidadDiscos) {
-    return { esVinilo: false, motivos: ['descartado: es un equipo/mueble, no un disco'], anio: null, sello: null };
+
+  const debug = {
+    hayFuertes, tieneAlbum, tieneDisco, tieneMusicaCtx,
+    anio: anio || null, sello: selloEncontrado || null,
+    dash: formatoArtistaTitulo, noDisco: NO_DISCO.test(t),
+  };
+
+  // 1) DESCARTES claros PRIMERO: arte/cine/objetos, o equipos/muebles. Van
+  //    ANTES de la señal fuerte para que, por ejemplo, un "Disquero" (mueble)
+  //    que menciona "discos de vinilo" NO se cuele por decir "vinilo".
+  if (NO_DISCO.test(t)) {
+    debug.regla = 'RECHAZO: es arte/cine/objeto, no un disco';
+    return { esVinilo: false, motivos: ['descartado: no es un disco (arte/cine/objeto)'], anio: null, sello: null, debug };
+  }
+  if (FILATELIA.test(t)) {
+    debug.regla = 'RECHAZO: filatelia (álbum de sellos), no un disco';
+    return { esVinilo: false, motivos: ['descartado: es filatelia (sellos), no un disco'], anio: null, sello: null, debug };
+  }
+  if (EQUIPO_O_MUEBLE.test(t) && !traeCantidadDiscos) {
+    debug.regla = 'RECHAZO: equipo/mueble sin cantidad de discos';
+    return { esVinilo: false, motivos: ['descartado: es un equipo/mueble, no un disco'], anio: null, sello: null, debug };
   }
 
-  // Info extra (no decide, solo describe) cuando ya es vinilo.
-  if (esVinilo && anio) motivos.push(`año ${anio}`);
+  // 2) Señal FUERTE (vinilo/LP/RPM/acetato/disco de vinilo/pasta/sello
+  //    discográfico): es un disco sí o sí.
+  if (hayFuertes) {
+    if (anio) motivos.push(`año ${anio}`);
+    debug.regla = 'ACEPTA (señal fuerte): ' + motivos[0];
+    return { esVinilo: true, motivos, anio, sello: selloEncontrado || null, debug };
+  }
 
-  return { esVinilo, motivos, anio, sello: selloConContexto ? selloEncontrado : (esVinilo ? selloEncontrado : null) };
+  // 3) SEÑALES DE DISCO MUSICAL (ya sabemos que no es arte/cine/equipo):
+  //    - dice "álbum/álbumes"      (álbum musical; los "álbum de fotos/figuritas" ya se excluyeron)
+  //    - dice "disco/discos"       (los usos mecánicos ya se excluyeron)
+  //    - sello conocido + contexto musical
+  //    - formato "Artista - Título" + contexto musical (ej: "Serrat – Mediterráneo")
+  let regla = null;
+  if (tieneAlbum) regla = 'dice "álbum"';
+  else if (tieneDisco) regla = 'dice "disco"';
+  else if (selloEncontrado && tieneMusicaCtx) regla = `sello ${selloEncontrado} + contexto musical`;
+  else if (formatoArtistaTitulo && tieneMusicaCtx) regla = 'formato "Artista - Título" + contexto musical';
+
+  if (regla) {
+    motivos.push(regla);
+    if (anio) motivos.push(`año ${anio}`);
+    debug.regla = 'ACEPTA: ' + regla;
+    const selloSalida = selloEncontrado && (tieneAlbum || tieneDisco || tieneMusicaCtx) ? selloEncontrado : null;
+    return { esVinilo: true, motivos, anio, sello: selloSalida, debug };
+  }
+
+  debug.regla = 'RECHAZO: ninguna señal de disco';
+  return { esVinilo: false, motivos: [], anio: null, sello: null, debug };
 }
 
 // --- Parseo best-effort de artista y álbum del título -----------------------
@@ -267,7 +340,12 @@ async function obtenerRemateHtml(id) {
 
 // --- Programa principal -----------------------------------------------------
 
-(async () => {
+// Solo corre el proceso completo cuando se ejecuta directamente
+// (node paso2_vinilos.js). Si se importa con require(), no corre nada, así se
+// pueden reutilizar las funciones de análisis (por ej. para diagnóstico/tests).
+if (require.main === module) principal();
+
+async function principal() {
   // 1) Cargar candidatos del Paso 1.
   if (!fs.existsSync('remates-candidatos.json')) {
     console.error('No encuentro remates-candidatos.json.');
@@ -286,6 +364,7 @@ async function obtenerRemateHtml(id) {
 
   const resultado = [];
   let totalVinilos = 0;
+  const alertasExtraccion = []; // avisos si se pierden lotes al extraer
 
   // 3) Entrar a cada remate y buscar vinilos.
   for (const rem of activos) {
@@ -306,6 +385,16 @@ async function obtenerRemateHtml(id) {
       console.error('sin lotes legibles');
       resultado.push({ ...datosRemate(rem, nombre), error: 'no se pudo leer var items', vinilos: [] });
       continue;
+    }
+
+    // CHEQUEO PERMANENTE: ¿la extracción trajo TODOS los lotes del remate?
+    // Si trae menos que los que el HTML declara, avisamos (y al final el
+    // proceso termina con error para que la corrida diaria se ponga en rojo).
+    const esperados = contarLotesEnHTML(html);
+    if (esperados != null && items.length < esperados) {
+      const msg = `remate ${rem.id}: se extrajeron ${items.length} lotes pero el HTML tiene ${esperados}`;
+      alertasExtraccion.push(msg);
+      process.stderr.write(`⚠️ EXTRACCIÓN INCOMPLETA (${items.length}/${esperados}) `);
     }
 
     const vinilos = [];
@@ -343,6 +432,19 @@ async function obtenerRemateHtml(id) {
   console.log(`RESULTADO: ${totalVinilos} vinilos en ${resultado.filter(r => r.vinilos.length).length} remates`);
   console.log('='.repeat(72));
 
+  // Alerta permanente de extracción: si algún remate perdió lotes, avisamos
+  // fuerte y terminamos con error (exit 1). En la actualización diaria (GitHub
+  // Actions) esto hace que la corrida se ponga en ROJO y NO se publiquen datos
+  // incompletos: quedan los del día anterior hasta revisarlo.
+  if (alertasExtraccion.length) {
+    console.error('\n' + '!'.repeat(72));
+    console.error(`⚠️  ALERTA: extracción incompleta en ${alertasExtraccion.length} remate(s):`);
+    alertasExtraccion.forEach((m) => console.error('   - ' + m));
+    console.error('No se publican datos incompletos. Revisar el extractor (var items).');
+    console.error('!'.repeat(72));
+    process.exitCode = 1;
+  }
+
   for (const r of resultado) {
     if (!r.vinilos.length) continue;
     console.log(`\n■ REMATE ${r.id} — ${r.empresa || '(sin empresa)'}`);
@@ -358,7 +460,13 @@ async function obtenerRemateHtml(id) {
     }
   }
   console.log('\nGuardado: vinilos-encontrados.json');
-})();
+}
+
+// Exportar funciones para diagnóstico / tests (no afecta la ejecución normal).
+module.exports = {
+  extraerItems, analizarVinilo, extraerArtista, extraerAlbum,
+  SELLOS, DISCO_FALSO, ALBUM_FALSO, MUSICA_CTX, EQUIPO_O_MUEBLE,
+};
 
 function datosRemate(rem, nombre) {
   return {
