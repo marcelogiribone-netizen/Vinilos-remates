@@ -1,11 +1,15 @@
 name: Actualizar datos de DigBin
 
-# Corre solo una vez por día (temprano en la mañana de Uruguay) y también se
-# puede disparar a mano desde la pestaña "Actions" de GitHub.
+# Corre dos veces por día (hora de Uruguay, UTC-3) y también se puede disparar
+# a mano desde la pestaña "Actions" de GitHub. GitHub puede demorar unos minutos.
 on:
   schedule:
-    # 09:00 UTC = 06:00 en Uruguay (UTC-3). GitHub puede demorar unos minutos.
-    - cron: '0 9 * * *'
+    # 01:00 de Uruguay = 04:00 UTC — corrida principal (la lista de la mañana
+    # no arrastra remates que cerraron la noche anterior).
+    - cron: '0 4 * * *'
+    # 18:00 de Uruguay = 21:00 UTC — segunda pasada para refrescar las ofertas
+    # antes de que cierren los remates de esa noche.
+    - cron: '0 21 * * *'
   workflow_dispatch: {}
 
 # Necesario para poder commitear el JSON actualizado al repo.

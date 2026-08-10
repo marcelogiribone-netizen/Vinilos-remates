@@ -17,6 +17,7 @@ var aviso = document.getElementById('aviso');
 
 var datos = [];         // remates con vinilos
 var actualizado = null;  // fecha de la última descarga de datos
+var generado = null;     // fecha en que el detector tomó los datos (ofertas)
 var soloDestacados = false; // filtro de la pantalla 2
 
 // --- Guardado en el celular (localStorage) ---------------------------------
@@ -90,7 +91,7 @@ function guardarSnapshot(clave, v, r) {
 function snapVinilo(v) {
   return {
     id: v.id, lote: v.lote, titulo: v.titulo, artista: v.artista, album: v.album,
-    sello: v.sello, anio: v.anio, moneda: v.moneda, base: v.base,
+    sello: v.sello, anio: v.anio, moneda: v.moneda, base: v.base, oferta: v.oferta,
     imagen: v.imagen, enlaceLote: v.enlaceLote,
   };
 }
@@ -132,11 +133,30 @@ function mostrarAviso(txt) {
   setTimeout(function () { aviso.hidden = true; }, 4000);
 }
 
-function precio(v) {
-  if (v.base == null) return '';
-  var n = Number(v.base);
-  var num = isNaN(n) ? v.base : n.toLocaleString('es-UY');
-  return (v.moneda || '') + num;
+function montoTexto(moneda, valor) {
+  var n = Number(valor);
+  var num = isNaN(n) ? valor : n.toLocaleString('es-UY');
+  return (moneda || '') + num;
+}
+
+// Devuelve qué precio mostrar y si es una oferta (para pintarlo en rojo).
+//  - Si el lote tiene oferta vigente (oferta != null) -> ese valor, en rojo.
+//  - Si no -> el precio base, normal (como antes).
+function infoPrecio(v) {
+  if (v.oferta != null && Number(v.oferta) > 0) {
+    return { texto: montoTexto(v.moneda, v.oferta), oferta: true };
+  }
+  if (v.base != null) return { texto: montoTexto(v.moneda, v.base), oferta: false };
+  return { texto: 'sin base', oferta: false };
+}
+
+// Fecha en que el detector tomó los datos (para "ofertas al ...").
+function fechaOfertas() {
+  if (!generado) return '';
+  try {
+    return new Date(generado).toLocaleString('es-UY',
+      { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
+  } catch (e) { return ''; }
 }
 
 function nombreDisco(v) {
@@ -186,8 +206,18 @@ function cargarDatos() {
     });
 }
 
+// Acepta el formato nuevo { generado, remates } y el viejo (array suelto).
+// Además setea la variable global `generado`.
 function prepararDatos(json) {
-  return (json || [])
+  var remates;
+  if (json && !Array.isArray(json) && Array.isArray(json.remates)) {
+    remates = json.remates;
+    generado = json.generado || null;
+  } else {
+    remates = json || [];
+    generado = null; // formato viejo: no trae hora de generación
+  }
+  return remates
     .filter(function (r) { return r.vinilos && r.vinilos.length > 0; })
     .sort(function (a, b) {
       return (a.timestamp || Infinity) - (b.timestamp || Infinity);
@@ -360,6 +390,10 @@ function pantallaDetalle(id) {
   barra.appendChild(toggle);
   contenido.appendChild(barra);
 
+  if (fechaOfertas()) {
+    contenido.appendChild(el('p', 'nota-ofertas', 'Ofertas al ' + fechaOfertas()));
+  }
+
   // Contenedor de la lista de vinilos (se redibuja al filtrar)
   var lista = el('div', 'lista-vinilos');
   contenido.appendChild(lista);
@@ -400,7 +434,11 @@ function crearCardVinilo(r, v, opciones) {
 
   var datosP = el('p', 'vinilo-datos');
   datosP.appendChild(document.createTextNode('Lote ' + (v.lote != null ? v.lote : '?') + '  ·  '));
-  datosP.appendChild(el('span', 'vinilo-precio', precio(v) || 'sin base'));
+  var ip = infoPrecio(v);
+  var precioSpan = el('span', 'vinilo-precio' + (ip.oferta ? ' con-oferta' : ''), ip.texto);
+  if (ip.oferta) precioSpan.title = 'Oferta vigente (el base es ' + montoTexto(v.moneda, v.base) + ')';
+  datosP.appendChild(precioSpan);
+  if (ip.oferta) datosP.appendChild(el('span', 'etiqueta-oferta', ' oferta'));
   info.appendChild(datosP);
 
   if (v.sello || v.anio) {
@@ -498,7 +536,8 @@ function pantallaColeccion() {
   cerrados.sort(function (a, b) { return (b.r.timestamp || 0) - (a.r.timestamp || 0); });
 
   contenido.appendChild(el('p', 'actualizado',
-    activos.length + ' activos · ' + cerrados.length + ' cerrados'));
+    activos.length + ' activos · ' + cerrados.length + ' cerrados' +
+    (fechaOfertas() ? ' · ofertas al ' + fechaOfertas() : '')));
 
   // --- Sección ACTIVOS ---
   if (activos.length) {

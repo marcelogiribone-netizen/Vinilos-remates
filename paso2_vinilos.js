@@ -412,6 +412,10 @@ async function principal() {
         anio: an.anio,
         moneda: it.moneda,
         base: Number(it.base),
+        // Oferta vigente al momento de la corrida: it.precio es la puja más
+        // alta (0 si nadie ofertó). Si hay oferta la guardamos; si no, null y
+        // la app muestra el precio base.
+        oferta: Number(it.precio) > 0 ? Number(it.precio) : null,
         imagen: foto ? IMG_BASE + foto : (it.thumb || null),
         enlaceLote: `${BASE_URL}participar/remate/${rem.id}?lote=${it.lote}`,
         motivos: an.motivos,
@@ -426,7 +430,11 @@ async function principal() {
   }
 
   // 4) Guardar y mostrar.
-  fs.writeFileSync('vinilos-encontrados.json', JSON.stringify(resultado, null, 2));
+  // Se envuelve en { generado, remates }: "generado" es la hora de esta corrida
+  // (la app la muestra como "ofertas al ..."). La app también acepta el formato
+  // viejo (un array suelto) por compatibilidad.
+  const salida = { generado: new Date().toISOString(), remates: resultado };
+  fs.writeFileSync('vinilos-encontrados.json', JSON.stringify(salida, null, 2));
 
   console.log('\n' + '='.repeat(72));
   console.log(`RESULTADO: ${totalVinilos} vinilos en ${resultado.filter(r => r.vinilos.length).length} remates`);
