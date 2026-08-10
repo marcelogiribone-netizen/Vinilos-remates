@@ -4,6 +4,72 @@ Bitácora del proyecto, en español simple. Cada sesión de trabajo agrega lo qu
 
 ---
 
+## Sesión 11 — 10 de agosto de 2026 — Actualización automática diaria + vencidos
+
+Cuatro cosas.
+
+### 1) Corre solo una vez por día (GitHub Actions)
+Se agregó **`.github/workflows/actualizar-datos.yml`**. Todos los días:
+1. corre `paso1_remates.js`, 2. corre `paso2_vinilos.js`, 3. copia el
+resultado a `app/vinilos.json`, 4. lo commitea y sube (solo si cambió).
+- Horario: **09:00 UTC = 6:00 de la mañana de Uruguay** (temprano). GitHub a
+  veces demora unos minutos, es normal.
+- También se puede **disparar a mano** desde GitHub (botón "Run workflow").
+
+IMPORTANTE: GitHub solo corre las tareas programadas (y muestra el botón "Run
+workflow") cuando el archivo del workflow está en la **rama principal (main)**.
+Mientras esté solo en la rama de trabajo, no se dispara solo. Cuando
+mezclemos/publiquemos a `main`, la actualización diaria queda activa.
+
+### 2) Remates vencidos NO aparecen en la pantalla principal
+El filtro de vencidos ahora se aplica **al mostrar**, no solo al generar los
+datos: si abrís la app y un remate cerró hace un rato, ya no aparece en la
+lista. (Un remate se considera vencido si su fecha/hora ya pasó; los de "fecha
+dudosa" o sin fecha no se esconden.)
+
+### 3) Vencidos en la Colección = historial (no se borran)
+La Colección ahora tiene dos secciones:
+- **Arriba:** destacados de remates **activos**, ordenados por cierre más
+  próximo.
+- **Abajo:** sección **"Cerrados (historial)"**, atenuada en gris, con los
+  destacados de remates que ya cerraron, mostrando **"cerró el ..."**.
+- Botón **"Limpiar cerrados"** para borrarlos vos cuando quieras (pide
+  confirmación). No se borran solos.
+
+Para que esto funcione como historial de verdad (aunque el remate ya no venga
+en los datos nuevos), al marcar un vinilo se guarda una **copia (snapshot)** de
+ese disco y su remate en el celular. Así siempre podés volver a mirar qué
+discos te interesaron, con su foto, remate y fecha de cierre.
+
+### 4) La app toma los datos nuevos sin reinstalar
+- `vinilos.json` se pide siempre **"red primero"** (si hay internet, trae lo
+  último), y el service worker no deja datos viejos.
+- Cuando cambia el **código** de la app, el service worker nuevo se activa y la
+  app **se recarga sola una vez** para no quedar en la versión vieja.
+- Tus **estrellas y corazones** viven aparte (en el celular, por id de remate y
+  de lote) y **sobreviven siempre** a las actualizaciones.
+- Service worker a `digbin-v6`.
+
+### CÓMO VERIFICAR que la actualización diaria funciona
+1. En GitHub, entrá al repositorio → pestaña **"Actions"**.
+2. Buscá el workflow **"Actualizar datos de DigBin"** en la lista de la
+   izquierda. (Recordá: aparece cuando el workflow ya está en `main`.)
+3. Para probar sin esperar al horario: tocá **"Run workflow"** (botón a la
+   derecha) → confirmá. En 1–2 minutos debería aparecer una corrida.
+4. Una corrida en **verde (✓)** = salió bien. Si tocás la corrida, vas a ver
+   los pasos (Paso 1, Paso 2, etc.) y sus registros.
+5. Confirmá que **subió los datos**: en la pestaña "Commits" del repo tiene que
+   aparecer un commit **"Actualización automática de datos (vinilos.json)"**
+   (solo aparece si hubo cambios respecto del día anterior).
+6. En el celular, abrí DigBin con internet: al ratito vas a ver los datos
+   nuevos (y arriba de la lista, la fecha de "actualizado ...").
+
+Si una corrida sale en **rojo (✗)**, abrila y mirá en qué paso falló:
+- si es en "Paso 1/2", puede ser que el sitio no respondió o cambió algo;
+- volvé a intentar con "Run workflow"; si sigue fallando, avisame y lo reviso.
+
+---
+
 ## Sesión 10 — 10 de agosto de 2026 — Nuevo ícono de DigBin (funda + firma "DB")
 
 Se rediseñó el ícono (el del cajón no gustó). El nuevo es una **funda de disco

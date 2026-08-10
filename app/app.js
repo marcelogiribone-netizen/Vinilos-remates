@@ -23,6 +23,9 @@ var soloDestacados = false; // filtro de la pantalla 2
 
 var KEY_PUNTOS = 'puntuaciones';   // { remateId: 0..5 }
 var KEY_DESTACADOS = 'destacados'; // { viniloId: true }
+// Copia (snapshot) de cada vinilo destacado + su remate, para que la Colección
+// funcione como HISTORIAL aunque el remate ya no esté en los datos nuevos.
+var KEY_DEST_DATOS = 'destacados_datos'; // { viniloId: { v:{...}, r:{...} } }
 
 function leerMapa(key) {
   try { return JSON.parse(localStorage.getItem(key) || '{}') || {}; }
@@ -61,11 +64,42 @@ function claveVinilo(remateId, v) {
 function esDestacado(clave) {
   return leerMapa(KEY_DESTACADOS)[clave] === true;
 }
-function toggleDestacado(clave) {
+// Marca/desmarca un vinilo. Al marcar guarda un snapshot (vinilo + remate);
+// al desmarcar borra el snapshot. Devuelve true si quedó destacado.
+function toggleDestacado(clave, v, r) {
   var m = leerMapa(KEY_DESTACADOS);
-  if (m[clave]) delete m[clave]; else m[clave] = true;
+  var datos = leerMapa(KEY_DEST_DATOS);
+  if (m[clave]) {
+    delete m[clave];
+    delete datos[clave];
+  } else {
+    m[clave] = true;
+    if (v && r) datos[clave] = { v: snapVinilo(v), r: snapRemate(r) };
+  }
   guardarMapa(KEY_DESTACADOS, m);
+  guardarMapa(KEY_DEST_DATOS, datos);
   return m[clave] === true;
+}
+// Guarda/actualiza el snapshot de un destacado que ya está marcado (para
+// "rellenar" destacados viejos o refrescar datos del remate cuando hay datos).
+function guardarSnapshot(clave, v, r) {
+  var datos = leerMapa(KEY_DEST_DATOS);
+  datos[clave] = { v: snapVinilo(v), r: snapRemate(r) };
+  guardarMapa(KEY_DEST_DATOS, datos);
+}
+function snapVinilo(v) {
+  return {
+    id: v.id, lote: v.lote, titulo: v.titulo, artista: v.artista, album: v.album,
+    sello: v.sello, anio: v.anio, moneda: v.moneda, base: v.base,
+    imagen: v.imagen, enlaceLote: v.enlaceLote,
+  };
+}
+function snapRemate(r) {
+  return {
+    id: r.id, nombre: r.nombre, empresa: r.empresa, departamento: r.departamento,
+    lugar: r.lugar, fecha: r.fecha, fechaISO: r.fechaISO, timestamp: r.timestamp,
+    fechaDudosa: !!r.fechaDudosa, url: r.url,
+  };
 }
 function contarDestacados(remate) {
   var n = 0;
@@ -73,6 +107,13 @@ function contarDestacados(remate) {
     if (esDestacado(claveVinilo(remate.id, v))) n++;
   });
   return n;
+}
+
+// ¿El remate ya cerró? (su fecha/hora pasó respecto de ahora). Los de "fecha
+// dudosa" o sin fecha se consideran NO vencidos (no los escondemos).
+function estaVencido(r) {
+  if (!r || !r.timestamp || r.fechaDudosa) return false;
+  return r.timestamp < Math.floor(Date.now() / 1000);
 }
 
 // --- Utilidades ------------------------------------------------------------
@@ -210,17 +251,22 @@ function pantallaLista() {
   btnAtras.hidden = true;
   contenido.innerHTML = '';
 
-  if (!datos.length) {
-    contenido.appendChild(estado('No hay remates con vinilos en este momento.'));
+  // Solo remates ACTIVOS (los vencidos se filtran AL MOSTRAR, no solo al
+  // generar los datos): si abrís la app y un remate cerró hace un rato, ya no
+  // aparece. (Los vencidos siguen disponibles en la Colección como historial.)
+  var activos = datos.filter(function (r) { return !estaVencido(r); });
+
+  if (!activos.length) {
+    contenido.appendChild(estado('No hay remates activos con vinilos en este momento.'));
     return;
   }
 
-  var totalVinilos = datos.reduce(function (s, r) { return s + r.vinilos.length; }, 0);
+  var totalVinilos = activos.reduce(function (s, r) { return s + r.vinilos.length; }, 0);
   contenido.appendChild(el('p', 'actualizado',
-    totalVinilos + ' vinilos en ' + datos.length + ' remates' +
+    totalVinilos + ' vinilos en ' + activos.length + ' remates' +
     (actualizado ? ' · actualizado ' + fechaCorta(actualizado) : '')));
 
-  datos.forEach(function (r) {
+  activos.forEach(function (r) {
     var card = el('div', 'card-remate');
 
     // Fila superior: foto + textos
@@ -340,7 +386,7 @@ function pantallaDetalle(id) {
 
 function crearCardVinilo(r, v, opciones) {
   opciones = opciones || {};
-  var card = el('div', 'card-vinilo');
+  var card = el('div', 'card-vinilo' + (opciones.cerrado ? ' card-cerrado' : ''));
   var clave = claveVinilo(r.id, v);
 
   // Enlace principal (foto + info) que abre el lote en la web.
@@ -375,8 +421,8 @@ function crearCardVinilo(r, v, opciones) {
     enlaceRemate.href = '#/r/' + r.id;
     linea.appendChild(enlaceRemate);
     if (r.fecha) {
-      var cierre = el('span', 'coleccion-cierre', ' · 🕒 ' + r.fecha);
-      linea.appendChild(cierre);
+      var etiquetaFecha = opciones.cerrado ? ' · cerró el ' + r.fecha : ' · 🕒 ' + r.fecha;
+      linea.appendChild(el('span', 'coleccion-cierre', etiquetaFecha));
     }
     card.appendChild(linea);
   }
@@ -394,7 +440,7 @@ function crearCardVinilo(r, v, opciones) {
   fav.addEventListener('click', function (ev) {
     ev.preventDefault();
     ev.stopPropagation();
-    var ahoraOn = toggleDestacado(clave);
+    var ahoraOn = toggleDestacado(clave, v, r);
     // Estrella automática: al DESTACAR, si el remate nunca fue puntuado,
     // ponerle 1 estrella. Si ya tiene puntuación manual (incluso 0), no tocar.
     // Al quitar el corazón, la estrella queda como está (no se borra sola).
@@ -415,16 +461,21 @@ function pantallaColeccion() {
   btnAtras.hidden = true;
   contenido.innerHTML = '';
 
-  // Juntar los destacados de TODOS los remates, con su contexto de remate.
-  var items = [];
+  // 1) Rellenar/refrescar snapshots con los datos vivos actuales (así los
+  //    destacados marcados antes de esta versión también tienen su copia, y se
+  //    actualiza la fecha de cierre si el remate cambió).
   datos.forEach(function (r) {
     r.vinilos.forEach(function (v) {
-      if (esDestacado(claveVinilo(r.id, v))) items.push({ r: r, v: v });
+      var clave = claveVinilo(r.id, v);
+      if (esDestacado(clave)) guardarSnapshot(clave, v, r);
     });
   });
-  // Ordenar por fecha de cierre del remate, más próxima primero.
-  items.sort(function (a, b) {
-    return (a.r.timestamp || Infinity) - (b.r.timestamp || Infinity);
+
+  // 2) Armar la lista desde los snapshots (funciona como historial aunque el
+  //    remate ya no esté en los datos nuevos).
+  var snaps = leerMapa(KEY_DEST_DATOS);
+  var items = Object.keys(snaps).map(function (clave) {
+    var s = snaps[clave]; return { clave: clave, v: s.v, r: s.r };
   });
 
   if (!items.length) {
@@ -440,17 +491,65 @@ function pantallaColeccion() {
     return;
   }
 
-  contenido.appendChild(el('p', 'actualizado',
-    items.length + (items.length === 1 ? ' vinilo destacado' : ' vinilos destacados')));
+  var activos = items.filter(function (it) { return !estaVencido(it.r); });
+  var cerrados = items.filter(function (it) { return estaVencido(it.r); });
+  // Activos: cierre más próximo primero. Cerrados: el que cerró hace menos, primero.
+  activos.sort(function (a, b) { return (a.r.timestamp || Infinity) - (b.r.timestamp || Infinity); });
+  cerrados.sort(function (a, b) { return (b.r.timestamp || 0) - (a.r.timestamp || 0); });
 
-  var lista = el('div', 'lista-vinilos');
-  contenido.appendChild(lista);
-  items.forEach(function (it) {
-    lista.appendChild(crearCardVinilo(it.r, it.v, {
-      mostrarRemate: true,
-      onFav: function () { pantallaColeccion(); } // al quitar, se refresca la lista
-    }));
+  contenido.appendChild(el('p', 'actualizado',
+    activos.length + ' activos · ' + cerrados.length + ' cerrados'));
+
+  // --- Sección ACTIVOS ---
+  if (activos.length) {
+    var lista = el('div', 'lista-vinilos');
+    activos.forEach(function (it) {
+      lista.appendChild(crearCardVinilo(it.r, it.v, {
+        mostrarRemate: true,
+        onFav: function () { pantallaColeccion(); }
+      }));
+    });
+    contenido.appendChild(lista);
+  } else {
+    contenido.appendChild(el('p', 'estado-ayuda', 'No tenés destacados en remates activos.'));
+  }
+
+  // --- Sección CERRADOS (historial, atenuada) ---
+  if (cerrados.length) {
+    var cab = el('div', 'seccion-cerrados');
+    cab.appendChild(el('span', 'seccion-cerrados-titulo', 'Cerrados (historial)'));
+    var btnLimpiar = el('button', 'btn-limpiar', 'Limpiar cerrados');
+    btnLimpiar.type = 'button';
+    btnLimpiar.addEventListener('click', function () {
+      if (!confirm('¿Borrar de la colección los ' + cerrados.length +
+        ' destacados de remates ya cerrados? Esto no se puede deshacer.')) return;
+      limpiarCerrados(cerrados);
+      pantallaColeccion();
+    });
+    cab.appendChild(btnLimpiar);
+    contenido.appendChild(cab);
+
+    var listaC = el('div', 'lista-vinilos');
+    cerrados.forEach(function (it) {
+      listaC.appendChild(crearCardVinilo(it.r, it.v, {
+        mostrarRemate: true, cerrado: true,
+        onFav: function () { pantallaColeccion(); }
+      }));
+    });
+    contenido.appendChild(listaC);
+  }
+}
+
+// Borra de la colección solo los destacados de remates ya cerrados.
+function limpiarCerrados(cerrados) {
+  var m = leerMapa(KEY_DESTACADOS);
+  var datosSnap = leerMapa(KEY_DEST_DATOS);
+  cerrados.forEach(function (it) {
+    delete m[it.clave];
+    delete datosSnap[it.clave];
   });
+  guardarMapa(KEY_DESTACADOS, m);
+  guardarMapa(KEY_DEST_DATOS, datosSnap);
 }
 
 // --- Estados / navegación --------------------------------------------------
@@ -514,6 +613,16 @@ cargarDatos()
   });
 
 if ('serviceWorker' in navigator) {
+  // Si aparece una versión nueva del service worker (código nuevo), recargar
+  // una vez para no quedar viendo la versión vieja. No recarga en la primera
+  // instalación (cuando todavía no había un SW controlando la página).
+  var teniaControlador = !!navigator.serviceWorker.controller;
+  var recargando = false;
+  navigator.serviceWorker.addEventListener('controllerchange', function () {
+    if (!teniaControlador || recargando) return;
+    recargando = true;
+    location.reload();
+  });
   window.addEventListener('load', function () {
     navigator.serviceWorker.register('sw.js').catch(function () { /* sin SW igual anda online */ });
   });

@@ -1,0 +1,52 @@
+name: Actualizar datos de DigBin
+
+# Corre solo una vez por día (temprano en la mañana de Uruguay) y también se
+# puede disparar a mano desde la pestaña "Actions" de GitHub.
+on:
+  schedule:
+    # 09:00 UTC = 06:00 en Uruguay (UTC-3). GitHub puede demorar unos minutos.
+    - cron: '0 9 * * *'
+  workflow_dispatch: {}
+
+# Necesario para poder commitear el JSON actualizado al repo.
+permissions:
+  contents: write
+
+# Evita corridas superpuestas.
+concurrency:
+  group: actualizar-datos
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Traer el repo
+        uses: actions/checkout@v4
+
+      - name: Instalar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Paso 1 — leer la home y armar candidatos
+        run: node paso1_remates.js
+
+      - name: Paso 2 — leer lotes y armar la lista de vinilos
+        run: node paso2_vinilos.js
+
+      - name: Copiar el resultado a la app
+        run: cp vinilos-encontrados.json app/vinilos.json
+
+      - name: Commitear y subir si hubo cambios
+        run: |
+          git config user.name "DigBin bot"
+          git config user.email "actions@users.noreply.github.com"
+          if git diff --quiet -- app/vinilos.json; then
+            echo "Sin cambios en app/vinilos.json — no hay nada para commitear."
+          else
+            git add app/vinilos.json
+            git commit -m "Actualización automática de datos (vinilos.json) [skip ci]"
+            git push
+            echo "vinilos.json actualizado y subido."
+          fi

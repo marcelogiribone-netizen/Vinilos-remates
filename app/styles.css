@@ -342,3 +342,30 @@ main {
   z-index: 20;
 }
 .actualizado { text-align: center; font-size: .78rem; color: var(--texto-suave); margin: 4px 0 14px; }
+
+/* Sección "Cerrados" (historial) en la Colección */
+.seccion-cerrados {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin: 22px 2px 12px;
+  padding-top: 14px;
+  border-top: 1px dashed var(--borde);
+}
+.seccion-cerrados-titulo { font-size: .9rem; font-weight: 700; color: var(--texto-suave); }
+.btn-limpiar {
+  border: 1px solid var(--borde);
+  background: var(--tarjeta);
+  color: var(--texto-suave);
+  font-size: .8rem;
+  font-weight: 600;
+  padding: 7px 12px;
+  border-radius: 999px;
+  cursor: pointer;
+}
+.btn-limpiar:active { background: var(--borde); }
+
+/* Tarjetas de vinilos de remates ya cerrados: atenuadas */
+.card-cerrado { opacity: .6; }
+.card-cerrado .coleccion-cierre { color: var(--texto-suave); font-style: italic; }

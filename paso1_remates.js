@@ -172,7 +172,7 @@ async function obtenerHtml() {
   }
   console.error(`Descargando la home en vivo: ${HOME_URL}`);
   const r = await fetch(HOME_URL, {
-    headers: { 'User-Agent': 'Mozilla/5.0 (detector-vinilos)' },
+    headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36' },
   });
   if (!r.ok) throw new Error(`La home respondió HTTP ${r.status}`);
   return await r.text();
