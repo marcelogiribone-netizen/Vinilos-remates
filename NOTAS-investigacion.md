@@ -4,6 +4,63 @@ Bitácora del proyecto, en español simple. Cada sesión de trabajo agrega lo qu
 
 ---
 
+## Política permanente — conflictos por app/vinilos.json (decidido 10/8/2026)
+
+**Problema:** la tarea automática reescribe `app/vinilos.json` en `main`; si una
+rama de trabajo también tocaba ese archivo, cada PR daba conflicto.
+
+**Solución adoptada (simple y sin riesgo):** `app/vinilos.json` lo actualiza
+**solo la tarea automática, en `main`**. Las **ramas de trabajo NO lo tocan**.
+Con eso, al mergear un PR, git ve que la rama no modificó el archivo y toma el
+de `main` automáticamente → **sin conflictos**. Para probar en local se usa
+`vinilos-encontrados.json` (ignorado); nunca copiarlo a `app/vinilos.json` en
+una rama de trabajo.
+
+(Alternativa evaluada y descartada por ahora: mover el JSON a una rama de datos
+aparte y que la app lo lea por URL. Es "cero disciplina", pero agrega riesgo de
+CORS/caché y complejidad; no vale la pena para el beneficio.)
+
+---
+
+## Sesión 13 — 10 de agosto de 2026 — Oferta vigente + dos corridas por día
+
+### 1) Oferta vigente de cada lote — ¡GRATIS!
+**Hallazgo:** la oferta actual YA viene dentro de `var items`, en el mismo HTML
+que el detector ya baja. NO hace falta usar el WebSocket ni hacer un pedido por
+lote. Costo: **cero** pedidos extra; la corrida no se alarga ni agrega carga al
+sitio.
+
+Campos del lote:
+- `precio`: valor de la oferta más alta (la puja actual). Es **0** si nadie
+  ofertó todavía.
+- (`proximaPuja` = próxima oferta mínima; `tengo_ofertas`/`maximaOferta`/
+  `pujador` son del usuario logueado → inútiles para nosotros.)
+
+**Regla:** si `precio > 0` hay oferta; si `precio = 0`, no hay.
+En `paso2` cada vinilo ahora lleva `oferta` (= precio si > 0, si no `null`).
+
+**En la app:**
+- Sin oferta → precio **base** (como antes).
+- Con oferta → el valor en **rojo** con una etiqueta "OFERTA".
+- Funciona también en la **Colección** (misma tarjeta; el snapshot guarda la
+  oferta).
+- Es una **foto del momento de la corrida**, no tiempo real: se muestra
+  "**Ofertas al DD/MM HH:MM**" (hora en que corrió el detector). Para eso el
+  JSON ahora es `{ generado, remates }` (la app también acepta el formato viejo).
+- Si un lote no trae el dato, muestra el base y no se rompe nada.
+
+### 2) Dos corridas por día (hora de Uruguay, UTC-3)
+El workflow pasó de 1 a **2 corridas**:
+- **01:00 Uruguay = 04:00 UTC** (`0 4 * * *`): corrida principal (la lista de
+  la mañana no arrastra remates que cerraron la noche anterior).
+- **18:00 Uruguay = 21:00 UTC** (`0 21 * * *`): segunda pasada para refrescar
+  las ofertas antes de que cierren los remates de esa noche.
+
+Ambas hacen lo mismo (paso 1 + paso 2 + guardar el JSON). Service worker a
+`digbin-v7`.
+
+---
+
 ## Sesión 12 — 10 de agosto de 2026 — Falsos negativos del filtro (diagnóstico y arreglo)
 
 ### El problema

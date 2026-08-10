@@ -298,6 +298,26 @@ main {
 }
 .vinilo-datos { font-size: .84rem; color: var(--texto-suave); margin: 0; }
 .vinilo-precio { font-weight: 700; color: var(--texto); }
+/* Precio con oferta vigente: en rojo, para distinguirlo del precio base */
+.vinilo-precio.con-oferta { color: #d32f2f; }
+@media (prefers-color-scheme: dark) { .vinilo-precio.con-oferta { color: #ff6b6b; } }
+.etiqueta-oferta {
+  font-size: .68rem;
+  font-weight: 700;
+  color: #fff;
+  background: #d32f2f;
+  padding: 1px 6px;
+  border-radius: 6px;
+  margin-left: 6px;
+  text-transform: uppercase;
+  letter-spacing: .3px;
+}
+.nota-ofertas {
+  font-size: .76rem;
+  color: var(--texto-suave);
+  margin: -4px 2px 12px;
+  font-style: italic;
+}
 .chips { margin-top: 6px; }
 .chip {
   display: inline-block;
