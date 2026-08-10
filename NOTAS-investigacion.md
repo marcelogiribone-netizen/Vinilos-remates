@@ -4,6 +4,29 @@ Bitácora del proyecto, en español simple. Cada sesión de trabajo agrega lo qu
 
 ---
 
+## Sesión 10 — 10 de agosto de 2026 — Nuevo ícono de DigBin (funda + firma "DB")
+
+Se rediseñó el ícono (el del cajón no gustó). El nuevo es una **funda de disco
+roja** (color #b5341f, esquinas en vértice) con el **vinilo asomando ~1/4** por
+arriba (el disco es un poco más chico que la funda, así sus bordes no coinciden
+con los vértices → más natural), y sobre la funda el monograma **"DB" en
+cursiva** (fuente *Great Vibes*) en tono **crema** (#f2e4c0), con una **rúbrica
+de firma** debajo (subrayado + un acento corto), bien pegada a las letras.
+
+Detalles:
+- La fuente cursiva se bajó del registro de **npm** (`@fontsource/great-vibes`),
+  que sí está permitido, y quedó **embebida** en el SVG fuente.
+- Fuente editable del ícono: **`app/icons/icon-source.svg`** (autocontenido,
+  se abre en cualquier navegador).
+- PNG finales: `app/icons/icon-192.png` y `icon-512.png`.
+- `generar_iconos.js` ahora regenera esos PNG desde el SVG fuente.
+- En el manifest, los íconos pasaron a `purpose: "any"` (el diseño tiene fondo
+  blanco y contenido cerca de los bordes; con "maskable" se recortaban las
+  esquinas).
+- Service worker a `digbin-v5`.
+
+---
+
 ## Sesión 9 — 9 de agosto de 2026 — La app se llama DigBin (nombre + ícono)
 
 ### Nombre nuevo
