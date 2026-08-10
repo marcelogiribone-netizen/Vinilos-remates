@@ -7,5 +7,10 @@ vinilos-encontrados.json
 profile/
 cache/
 
-# Nota: la app vive en app/ y SÍ se versiona (incluye app/vinilos.json,
-# que es la copia de datos que lee la PWA).
+# IMPORTANTE — POLÍTICA PARA app/vinilos.json (datos que lee la PWA):
+# Ese archivo lo actualiza SOLO la tarea automática (GitHub Actions) en la rama
+# main. Las ramas de trabajo NO deben modificarlo ni commitearlo. Así, cuando
+# la actualización automática reescribe el JSON en main, los PRs NO generan
+# conflicto (git ve que la rama no tocó el archivo y toma el de main solo).
+# Para probar en local se usa vinilos-encontrados.json (ignorado); NO copiarlo
+# a app/vinilos.json en una rama de trabajo.

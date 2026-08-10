@@ -4,6 +4,24 @@ Bitácora del proyecto, en español simple. Cada sesión de trabajo agrega lo qu
 
 ---
 
+## Política permanente — conflictos por app/vinilos.json (decidido 10/8/2026)
+
+**Problema:** la tarea automática reescribe `app/vinilos.json` en `main`; si una
+rama de trabajo también tocaba ese archivo, cada PR daba conflicto.
+
+**Solución adoptada (simple y sin riesgo):** `app/vinilos.json` lo actualiza
+**solo la tarea automática, en `main`**. Las **ramas de trabajo NO lo tocan**.
+Con eso, al mergear un PR, git ve que la rama no modificó el archivo y toma el
+de `main` automáticamente → **sin conflictos**. Para probar en local se usa
+`vinilos-encontrados.json` (ignorado); nunca copiarlo a `app/vinilos.json` en
+una rama de trabajo.
+
+(Alternativa evaluada y descartada por ahora: mover el JSON a una rama de datos
+aparte y que la app lo lea por URL. Es "cero disciplina", pero agrega riesgo de
+CORS/caché y complejidad; no vale la pena para el beneficio.)
+
+---
+
 ## Sesión 13 — 10 de agosto de 2026 — Oferta vigente + dos corridas por día
 
 ### 1) Oferta vigente de cada lote — ¡GRATIS!
