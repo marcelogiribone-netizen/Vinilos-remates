@@ -1,1713 +1,6 @@
 {
-  "generado": "2026-08-11T08:14:05.048Z",
+  "generado": "2026-08-11T23:23:40.132Z",
   "remates": [
-    {
-      "id": "7574",
-      "nombre": "REMATE MULTIRUBRO!!! Herramientas, artículos de bazar, organización del hogar, tecnología, electrodomésticos, de todo un poco y más! Impredibles ofertas!",
-      "empresa": "M.A.S. Remates",
-      "departamento": "Montevideo",
-      "lugar": "Gral Fausto Aguilar 1120 apto 005 esquina Paraguay, Montevideo",
-      "fecha": "11/08/2026, 18:00",
-      "fechaISO": "2026-08-11T21:00:00.000Z",
-      "timestamp": 1786482000,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7574",
-      "totalLotes": 98,
-      "vinilos": []
-    },
-    {
-      "id": "7580",
-      "nombre": "REMATE ÚNICO DEDICADO POR ENTERO AL ARTE: \"POR AMOR AL ARTE\": VINILOS ÚNICOS, DESTACADA PINTURA NACIONAL, ARTICULOS VARIOS DEL MUNDO DEL CINE y como si fuera poco, DIAPOSITIVAS MONTEVIDEANAS Y DISPOSITIVOS ELECTRONICOS VINTAGE.",
-      "empresa": "Rincón del Vintage",
-      "departamento": "Montevideo",
-      "lugar": "Caramuru 6007 esq. Belastiqui (Punta Gorda), Montevideo",
-      "fecha": "11/08/2026, 18:59",
-      "fechaISO": "2026-08-11T21:59:00.000Z",
-      "timestamp": 1786485540,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7580",
-      "totalLotes": 211,
-      "vinilos": [
-        {
-          "id": 1087277,
-          "lote": "1",
-          "titulo": "The Smiths - The Queen Is Dead. Considerado uno de los álbumes más influyentes del rock alternativo británico de los años 80. Incluye canciones emblemáticas como \"There Is a Light That Never Goes Out\", \"Bigmouth Strikes Again\" y \"The Boy with the Thorn in His Side\".",
-          "artista": "The Smiths",
-          "album": "The Queen Is Dead",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 1200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087277/336d44f7ee24699018526e88cce3065b.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=1",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087278,
-          "lote": "2",
-          "titulo": "The Beatles - Rock 'N' Roll Music. (Doble LP.). Álbum recopilatorio que reúne interpretaciones de clásicos del rock and roll grabadas por The Beatles. Una excelente selección del repertorio más enérgico de la banda, presentada en formato doble. La tapa tiene un texto escrito a mano en la parte posterior",
-          "artista": "The Beatles",
-          "album": "Rock 'N' Roll Music",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 390,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087278/63bd7ecb5de23162f985390d51e3769f.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=2",
-          "motivos": [
-            "dice \"LP\""
-          ]
-        },
-        {
-          "id": 1087279,
-          "lote": "3",
-          "titulo": "Eagles – The Greatest Hits (1971–1975). Uno de los discos recopilatorios más exitosos de la historia de la música. Incluye clásicos como \"Take It Easy\", \"Desperado\", \"Lyin' Eyes\" y \"One of These Nights\".",
-          "artista": "Eagles",
-          "album": "The Greatest Hits (1971–1975)",
-          "sello": null,
-          "anio": "1971",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 700,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087279/959ac78972ccb683de65944ad510280a.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=3",
-          "motivos": [
-            "dice \"disco\"",
-            "año 1971"
-          ]
-        },
-        {
-          "id": 1087280,
-          "lote": "4",
-          "titulo": "Delaney & Bonnie & Friends with Eric Clapton - On Tour. Álbum en vivo registrado durante la gira de Delaney & Bonnie junto a Eric Clapton. Refleja el sonido del rock, blues y soul de finales de los años 60, con la participación de destacados músicos de la época.",
-          "artista": "Delaney & Bonnie & Friends with Eric Clapton",
-          "album": "On Tour",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087280/f5b6ef06709e6f3c35d540bcc856a771.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=4",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087281,
-          "lote": "5",
-          "titulo": "Eric Clapton – Pop History Vol. 3. (Doble LP.). Recopilación dedicada a distintas etapas de la trayectoria de Eric Clapton, incluyendo grabaciones con bandas y proyectos en los que participó. Un recorrido por la evolución de uno de los guitarristas más reconocidos del rock.",
-          "artista": "Eric Clapton",
-          "album": "Pop History Vol",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087281/431b4ed8bb025c33596200e6fbf1785d.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=5",
-          "motivos": [
-            "dice \"LP\""
-          ]
-        },
-        {
-          "id": 1087282,
-          "lote": "6",
-          "titulo": "Eric Clapton – There's One in Every Crowd. Álbum de estudio publicado en 1975, con una marcada influencia del blues y el rock. Incluye temas como \"Swing Low, Sweet Chariot\" y \"Pretty Blue Eyes\". La tapa presenta 4 pequeñas perforaciones circulares en los bordes, tal como se aprecia",
-          "artista": "Eric Clapton",
-          "album": "There's One in Every Crowd",
-          "sello": null,
-          "anio": "1975",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087282/92e7fbeb8c4583c6ba9e740da7450eb7.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=6",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1975"
-          ]
-        },
-        {
-          "id": 1087283,
-          "lote": "7",
-          "titulo": "George Harrison – Viviendo en el Mundo Material. Segundo álbum de estudio de George Harrison tras la separación de The Beatles. Contiene el éxito \"Give Me Love (Give Me Peace on Earth)\" y refleja la profunda influencia espiritual presente en esta etapa de su carrera. Tanto la tapa como el disco, presentan algunos escritos a mano",
-          "artista": "George Harrison",
-          "album": "Viviendo en el Mundo Material",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087283/53712f41e21edf12b00812364608f5e1.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=7",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087284,
-          "lote": "7B",
-          "titulo": "Supertramp - Even in the Quietest Moments... (1977)\nDisco de Oro en USA y Platino en Canadá, +3 millones vendidos. Llegó al Top 20 en USA y número 1 en Canadá, Incluye el tema Give a Little Bit. Fabricado en Uruguay, el vinilo presenta algunas leves marcas por desgaste y uso, buen estado en general.",
-          "artista": "Supertramp",
-          "album": "Even in the Quietest Moments",
-          "sello": null,
-          "anio": "1977",
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087284/84c75582da3898030dde4c2285690716.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=7B",
-          "motivos": [
-            "dice \"vinilo\"",
-            "año 1977"
-          ]
-        },
-        {
-          "id": 1087285,
-          "lote": "8",
-          "titulo": "Alice Cooper – Bienvenido a mi Pesadilla. Primer álbum de estudio de Alice Cooper como solista. Es un disco conceptual que narra las pesadillas de un niño llamado Steven. Considerado una de las obras más representativas del shock rock, incluye canciones como \"Only Women Bleed\" y \"Department of Youth\". El disco presenta un nombre escrito a mano",
-          "artista": "Alice Cooper",
-          "album": "Bienvenido a mi Pesadilla",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 330,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087285/9f9e8a3aba848660e7600a931d870cc0.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=8",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087286,
-          "lote": "9",
-          "titulo": "Whitesnake – Saints & Sinners. Álbum de estudio publicado en 1982 que consolidó el sonido hard rock de Whitesnake. Incluye \"Here I Go Again\", canción que posteriormente alcanzaría éxito mundial con su nueva versión de 1987.",
-          "artista": "Whitesnake",
-          "album": "Saints & Sinners",
-          "sello": null,
-          "anio": "1982",
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087286/2663167a7081d845c2ad65381e191a30.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=9",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1982"
-          ]
-        },
-        {
-          "id": 1087287,
-          "lote": "10",
-          "titulo": "Journey – Frontiers. Uno de los álbumes más exitosos de Journey. Incluye clásicos como \"Separate Ways (Worlds Apart)\", \"Faithfully\" y \"Send Her My Love\", fundamentales dentro del rock melódico de los años 80.",
-          "artista": "Journey",
-          "album": "Frontiers",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087287/23d17b00d1f27c3cce9afc0b2a610cc0.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=10",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087288,
-          "lote": "11",
-          "titulo": "Journey – Departure. Álbum publicado en 1980 que marcó la consolidación internacional de Journey. Incluye el éxito \"Any Way You Want It\", uno de los temas más representativos de la banda.",
-          "artista": "Journey",
-          "album": "Departure",
-          "sello": null,
-          "anio": "1980",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087288/8a649669131160f5f0f53486d884fab9.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=11",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1980"
-          ]
-        },
-        {
-          "id": 1087289,
-          "lote": "12",
-          "titulo": "Electric Light Orchestra – El Dorado. Álbum conceptual de Electric Light Orchestra que combina rock con elaborados arreglos orquestales. Es considerado una de las obras más destacadas de la primera etapa creativa de la banda.",
-          "artista": "Electric Light Orchestra",
-          "album": "El Dorado",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 450,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087289/f2c05d00c262ee3aad9e427ecae83712.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=12",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087290,
-          "lote": "13",
-          "titulo": "Santana – Amigos. Álbum de estudio publicado en 1976. Incluye \"Europa (Earth's Cry Heaven's Smile)\", una de las composiciones instrumentales más reconocidas de Carlos Santana.",
-          "artista": "Santana",
-          "album": "Amigos",
-          "sello": null,
-          "anio": "1976",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 330,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087290/61da590745ad59883ae7ebd2f0186cf7.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=13",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1976"
-          ]
-        },
-        {
-          "id": 1087291,
-          "lote": "14",
-          "titulo": "Santana – Festival. Álbum de estudio editado en 1977 que continúa la fusión característica de rock, jazz y ritmos latinos desarrollada por Santana durante esa década.",
-          "artista": "Santana",
-          "album": "Festival",
-          "sello": null,
-          "anio": "1977",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 330,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087291/0e14a4eea765658bcacc8b82e7ce3fa2.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=14",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1977"
-          ]
-        },
-        {
-          "id": 1087292,
-          "lote": "15",
-          "titulo": "Santana – Marathon. Álbum de estudio publicado en 1979. Incluye \"You Know That I Love You\" y refleja la transición de Santana hacia un sonido más orientado al rock contemporáneo sin abandonar sus raíces latinas.",
-          "artista": "Santana",
-          "album": "Marathon",
-          "sello": null,
-          "anio": "1979",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087292/965e0847a81599a49b09cbc2117b486a.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=15",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1979"
-          ]
-        },
-        {
-          "id": 1087293,
-          "lote": "16",
-          "titulo": "Carlos Santana – Havana Moon. Álbum de estudio publicado en 1983, con un enfoque más cercano al rock y al blues. Incluye versiones de autores como Chuck Berry, Bo Diddley y Willie Nelson, mostrando una faceta distinta dentro de la trayectoria de Carlos Santana.",
-          "artista": "Carlos Santana",
-          "album": "Havana Moon",
-          "sello": null,
-          "anio": "1983",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087293/9037589485837840fb255f7a733326f6.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=16",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1983"
-          ]
-        },
-        {
-          "id": 1087294,
-          "lote": "16B",
-          "titulo": "Louis Armstrong y Eddie Condon - En el Festival de Newport (Año 1957)\n+50 millones de discos vendidos, Grammy Lifetime Achievement, Salón de la Fama del Rock 1990. Este disco es en vivo en el Festival de Newport 1956, el festival de jazz más famoso del mundo. Incluye Rockin' Chair y Struttin' With Some Barbecue.\nFabricado en Uruguay por CBS Columbia",
-          "artista": "Louis Armstrong y Eddie Condon",
-          "album": "En el Festival de Newport (Año 1957)",
-          "sello": "CBS",
-          "anio": "1957",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087294/a55e58eb4b0869453fafd0d9c6d4a16e.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=16B",
-          "motivos": [
-            "dice \"disco\"",
-            "año 1957"
-          ]
-        },
-        {
-          "id": 1087295,
-          "lote": "17",
-          "titulo": "Jefferson Airplane – Bark. Álbum de estudio publicado en 1971 y el primero editado por el sello propio de la banda, Grunt Records. Representa la transición del sonido psicodélico de Jefferson Airplane hacia una etapa más orientada al rock de los años setenta.",
-          "artista": "Jefferson Airplane",
-          "album": "Bark",
-          "sello": null,
-          "anio": "1971",
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087295/5b676be7a9d649c20c5af05d721df983.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=17",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1971"
-          ]
-        },
-        {
-          "id": 1087296,
-          "lote": "18",
-          "titulo": "Styx – The Grand Illusion. Uno de los álbumes más reconocidos de Styx. Incluye canciones como \"Come Sail Away\" y \"Fooling Yourself (The Angry Young Man)\", consideradas clásicos del rock progresivo y arena rock. Viene con un afiche con una foto de los músicos que integran la banda",
-          "artista": "Styx",
-          "album": "The Grand Illusion",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087296/8a19d5ba5ea3403090289581093c67f7.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=18",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087297,
-          "lote": "19",
-          "titulo": "Kansas – Song for America. Segundo álbum de estudio de Kansas. Destacado por sus extensas composiciones y su combinación de rock progresivo con influencias del rock estadounidense.",
-          "artista": "Kansas",
-          "album": "Song for America",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087297/b62f1f2e7c666d7479658c9205be6418.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=19",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087298,
-          "lote": "20",
-          "titulo": "The Guess Who – Comparte la Tierra. Edición en español del álbum Share the Land, publicado originalmente en 1970. Incluye temas como \"Share the Land\", \"Bus Rider\" y \"Hand Me Down World\", pertenecientes a una de las etapas más exitosas de la banda canadiense. La parte trasera de la tapa presenta unas letras escritas a mano",
-          "artista": "The Guess Who",
-          "album": "Comparte la Tierra",
-          "sello": null,
-          "anio": "1970",
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087298/17ff6f4081c891d9c3b51f536bf8f4eb.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=20",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1970"
-          ]
-        },
-        {
-          "id": 1087299,
-          "lote": "21",
-          "titulo": "The Guess Who – Nacidos en Canadá. Álbum recopilatorio editado para el mercado latinoamericano, que reúne algunas de las canciones más representativas de The Guess Who. Una buena introducción al repertorio de una de las bandas canadienses más importantes del rock. Tanto la tapa como la etiqueta del disco presentan rayaduras con lapicera, tal como se aprecia",
-          "artista": "The Guess Who",
-          "album": "Nacidos en Canadá",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087299/3ca4817397d6b10e41a4974b8685c9d0.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=21",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087300,
-          "lote": "22",
-          "titulo": "Procol Harum – Grand Hotel. Álbum de estudio publicado en 1973. Considerado una de las obras más refinadas de la banda, combina rock progresivo con influencias de la música clásica y arreglos orquestales. Viene con un hermoso folletito con las letras de las canciones y dibujos",
-          "artista": "Procol Harum",
-          "album": "Grand Hotel",
-          "sello": null,
-          "anio": "1973",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087300/c1465ba867f76888d8bf166a1b1a7b19.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=22",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1973"
-          ]
-        },
-        {
-          "id": 1087301,
-          "lote": "23",
-          "titulo": "Traffic – Best of Traffic. Álbum recopilatorio que reúne algunas de las grabaciones más representativas de Traffic, banda liderada por Steve Winwood. Refleja la fusión de rock, blues, folk y jazz que caracterizó su trayectoria.",
-          "artista": "Traffic",
-          "album": "Best of Traffic",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087301/d1b8e8478d069d41d9c2eb11e73b9a87.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=23",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087302,
-          "lote": "24",
-          "titulo": "Ry Cooder – Borderline. Álbum de estudio publicado en 1980. Combina rock, rhythm & blues y música tradicional estadounidense, mostrando el reconocido estilo guitarrístico de Ry Cooder.",
-          "artista": "Ry Cooder",
-          "album": "Borderline",
-          "sello": null,
-          "anio": "1980",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087302/e1375d25b855703df50d4c55d7f7a622.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=24",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1980"
-          ]
-        },
-        {
-          "id": 1087303,
-          "lote": "25",
-          "titulo": "Cat Stevens – Izitso. Álbum de estudio publicado en 1977. Destaca por incorporar nuevos elementos electrónicos sin abandonar el estilo melódico característico de Cat Stevens. Incluye el éxito \"Old Schoolyard\".",
-          "artista": "Cat Stevens",
-          "album": "Izitso",
-          "sello": null,
-          "anio": "1977",
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087303/9933fba17835af4e517f7a4ed22f9585.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=25",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1977"
-          ]
-        },
-        {
-          "id": 1087304,
-          "lote": "26",
-          "titulo": "Cat Stevens – Numbers. Álbum conceptual publicado en 1975, inspirado en una historia escrita por el propio Cat Stevens, cuenta la historia de un castillo con una máquina que reparte los números del 1 al 9 al universo, ambientado en el planeta ficticio Polygor y viene con un precioso folleto con la historia. Combina folk rock con un enfoque narrativo poco habitual dentro de su discografía",
-          "artista": "Cat Stevens",
-          "album": "Numbers",
-          "sello": null,
-          "anio": "1975",
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087304/626b1a1278800932c93644883e9e42fe.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=26",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1975"
-          ]
-        },
-        {
-          "id": 1087305,
-          "lote": "27",
-          "titulo": "Elton John – Caribou. Álbum de estudio publicado en 1974 que alcanzó rapidamente el número 1 en las listas de éxitos tanto en Estados Unidos como en Reino Unido. Incluye éxitos como \"The Bitch Is Back\" y \"Don't Let the Sun Go Down on Me\", dos de las canciones más reconocidas de Elton John.",
-          "artista": "Elton John",
-          "album": "Caribou",
-          "sello": null,
-          "anio": "1974",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087305/2a26669a2f11c4b031db30f901695f93.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=27",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1974"
-          ]
-        },
-        {
-          "id": 1087306,
-          "lote": "27B",
-          "titulo": "Otro disco de Elton John – Caribou. Artista con 7 discos número 1 seguidos en USA, +300 millones vendidos, 5 Grammys. Esta edición uruguaya trae todos los títulos en español.",
-          "artista": "Otro disco de Elton John",
-          "album": "Caribou",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087306/492a3b25813a0161d67dac0c6fd2224d.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=27B",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1087307,
-          "lote": "28",
-          "titulo": "Elton John – 21 at 33. Álbum de estudio publicado en 1980. Incluye el sencillo \"Little Jeannie\", uno de los mayores éxitos de Elton John durante esa etapa de su carrera. El título del disco celebra que era su disco número 21 y que el músico tenía 33 años de edad",
-          "artista": "Elton John",
-          "album": "21 at 33",
-          "sello": null,
-          "anio": "1980",
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087307/6a38627b1090becf28c4f7d5c8db2fda.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=28",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1980"
-          ]
-        },
-        {
-          "id": 1087308,
-          "lote": "29",
-          "titulo": "Elton John – Too Low for Zero. Álbum publicado en 1983 que marcó el reencuentro de Elton John con su histórico letrista Bernie Taupin. Incluye éxitos como \"I'm Still Standing\" y \"I Guess That's Why They Call It the Blues\".",
-          "artista": "Elton John",
-          "album": "Too Low for Zero",
-          "sello": null,
-          "anio": "1983",
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087308/3fba866c7ee94549c10ae741e3cc0b19.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=29",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1983"
-          ]
-        },
-        {
-          "id": 1087309,
-          "lote": "29B",
-          "titulo": "Phil Collins – …But Seriously. Vinilo de pop rock del músico británico Phil Collins, editado originalmente en 1989 e incluye canciones como “Another Day in Paradise”. El disco viene con un encarte con imágenes de la grabación del disco y con la letra de las canciones",
-          "artista": "Phil Collins",
-          "album": "…But Seriously",
-          "sello": null,
-          "anio": "1989",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 850,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087309/14c679f200436ed9a9dc6f2bf8d06eae.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=29B",
-          "motivos": [
-            "dice \"vinilo\"",
-            "año 1989"
-          ]
-        },
-        {
-          "id": 1087310,
-          "lote": "30",
-          "titulo": "Rod Stewart – Never a Dull Moment. Álbum de estudio publicado en 1972. Incluye \"You Wear It Well\" y la versión de \"Twistin' the Night Away\", consolidando una de las etapas más exitosas de Rod Stewart.",
-          "artista": "Rod Stewart",
-          "album": "Never a Dull Moment",
-          "sello": null,
-          "anio": "1972",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087310/0a52d6d2b401586e5f2c7ef0ec92ba9c.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=30",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1972"
-          ]
-        },
-        {
-          "id": 1087311,
-          "lote": "31",
-          "titulo": "Carpenters – Now & Then. Álbum de estudio publicado en 1973 que destaca por su concepto dividido entre el presente y la nostalgia. Incluye el éxito \"Yesterday Once More\", una de las canciones más reconocidas del dúo formado por Karen y Richard Carpenter.",
-          "artista": "Carpenters",
-          "album": "Now & Then",
-          "sello": null,
-          "anio": "1973",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 500,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087311/78a22d57a74ece4c2446a1b3e29728f3.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=31",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1973"
-          ]
-        },
-        {
-          "id": 1087312,
-          "lote": "32",
-          "titulo": "Beach Boys – Wow! Great Concert! Álbum en vivo que reúne interpretaciones de algunos de los mayores éxitos de The Beach Boys. Refleja el característico sonido vocal y el estilo que convirtió a la banda en una de las más influyentes del pop estadounidense.",
-          "artista": "Beach Boys",
-          "album": "Wow! Great Concert! Álbum en vivo que reúne interpretaciones de algunos de los m",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 500,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087312/4add003ad0667e1b2cbfa4f9f6e9f3d0.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=32",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087313,
-          "lote": "33",
-          "titulo": "Berlin – Pleasure Victim. Álbum de estudio publicado en 1982. Incluye el éxito \"Sex (I'm A...)\", uno de los temas que consolidó a Berlin como una de las bandas representativas del new wave y synth-pop de los años ochenta.",
-          "artista": "Berlin",
-          "album": "Pleasure Victim",
-          "sello": null,
-          "anio": "1982",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 490,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087313/9aeea286b46db77290cfcf20f9553e18.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=33",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1982"
-          ]
-        },
-        {
-          "id": 1087314,
-          "lote": "34",
-          "titulo": "Saturday Night Fever – The Original Movie Soundtrack. (Doble LP.). Banda sonora original de la película Saturday Night Fever. Incluye clásicos de los Bee Gees como \"Stayin' Alive\", \"Night Fever\" y \"How Deep Is Your Love\", además de otros artistas que definieron la era de la música disco. Vendió más de 40 millones de copias a nivel mundial y fue merecedor de un Grammy",
-          "artista": "Saturday Night Fever",
-          "album": "The Original Movie Soundtrack",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 330,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087314/8a50fd3f15ae74db80c904ec77e1b67b.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=34",
-          "motivos": [
-            "dice \"LP\""
-          ]
-        },
-        {
-          "id": 1087315,
-          "lote": "35",
-          "titulo": "Varios Artistas – Una Noche con Blue Note. Vol. 1. Álbum recopilatorio dedicado al catálogo del histórico sello Blue Note Records, reconocido por sus grabaciones de jazz. Reúne interpretaciones de destacados artistas vinculados a uno de los sellos más importantes del género.",
-          "artista": "Varios Artistas",
-          "album": "Una Noche con Blue Note",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 500,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087315/fee806aa68d71b6943a5337ca3ba91d0.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=35",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087316,
-          "lote": "36",
-          "titulo": "Nino Rota & Carmine Cóppola – The Godfather Part II. Banda sonora original de El Padrino II, con música compuesta por Nino Rota y Carmine Coppola. Una obra ampliamente reconocida por su contribución a una de las sagas cinematográficas más importantes del siglo XX. Ganó un Óscar a la mejor banda sonora",
-          "artista": "Nino Rota & Carmine Cóppola",
-          "album": "The Godfather Part II",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087316/8b91ac9eabe0864455e78e01c6795e1c.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=36",
-          "motivos": [
-            "formato \"Artista - Título\" + contexto musical"
-          ]
-        },
-        {
-          "id": 1087317,
-          "lote": "37",
-          "titulo": "Tom Jones – She's a Lady. Álbum de estudio publicado en 1971. Incluye \"She's a Lady\", uno de los mayores éxitos internacionales de Tom Jones y una de las canciones más representativas de su carrera.",
-          "artista": "Tom Jones",
-          "album": "She's a Lady",
-          "sello": null,
-          "anio": "1971",
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087317/b650ee51564e469f8779458fbfa97110.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=37",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1971"
-          ]
-        },
-        {
-          "id": 1087318,
-          "lote": "38",
-          "titulo": "Siouxsie and the Banshees – Peepshow. Álbum de estudio publicado en 1988. Incluye los sencillos \"Peek-a-Boo\" y \"The Killing Jar\", consolidando la evolución de la banda hacia un sonido más sofisticado dentro del post-punk y el rock alternativo.",
-          "artista": "Siouxsie and the Banshees",
-          "album": "Peepshow",
-          "sello": null,
-          "anio": "1988",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 800,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087318/1f7b9ac53a7f8c0e3330492abadea6b2.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=38",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1988"
-          ]
-        },
-        {
-          "id": 1087319,
-          "lote": "39",
-          "titulo": "Varios Artistas - High Power. Álbum recopilatorio de pop y rock internacional de comienzos de los años ochenta. Incluye artistas como Daryl Hall & John Oates, Frida, A Flock of Seagulls, Rick Springfield, Alabama y Player.",
-          "artista": "Varios Artistas",
-          "album": "High Power",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087319/60082ed2d7ed80c1491fae37bc373983.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=39",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087320,
-          "lote": "40",
-          "titulo": "Varios Artistas - High-Power Vol. 2 Superdisco. Álbum recopilatorio que reúne éxitos internacionales de la época, orientado al pop y la música disco. Forma parte de la serie High-Power, editada para el mercado latinoamericano.",
-          "artista": "Varios Artistas",
-          "album": "High-Power Vol",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087320/52b0312835ea029331aa00c127eba2c4.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=40",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087321,
-          "lote": "41",
-          "titulo": "Varios Artistas - High Power 6. Recopilatorio de éxitos internacionales lanzado en Uruguay en 1985 y perteneciente a la serie High Power. Reúne una selección de artistas populares del pop y el rock de su época.",
-          "artista": "Varios Artistas",
-          "album": "High Power 6",
-          "sello": null,
-          "anio": "1985",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087321/cf2bf1b6e9866eea76875c1b9bdb5fb1.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=41",
-          "motivos": [
-            "formato \"Artista - Título\" + contexto musical",
-            "año 1985"
-          ]
-        },
-        {
-          "id": 1087322,
-          "lote": "42",
-          "titulo": "Varios Artistas –  I Love Music II. Álbum recopilatorio con una selección de éxitos internacionales de distintos intérpretes. Representa el formato de compilaciones temáticas ampliamente difundidas durante las décadas de 1970 y 1980. Cuenta con canciones de grandes íconos de la época como Cindy Lauper, Sade, Berlin, Toto, etc.",
-          "artista": "Varios Artistas",
-          "album": "I Love Music II",
-          "sello": null,
-          "anio": "1970",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 330,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087322/c8fdbced6e57fd5778a9efb4e4935403.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=42",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1970"
-          ]
-        },
-        {
-          "id": 1087323,
-          "lote": "43",
-          "titulo": "Varios Artistas –  Ton Ton Vol. 2. Álbum recopilatorio de varios artistas lanzado en 1977 en Urruguay, vinculado a la discoteca Ton Ton. El LP incluye música pop, rock, disco y funk con canciones de artistas internacionales famosos de la época",
-          "artista": "Varios Artistas",
-          "album": "Ton Ton Vol",
-          "sello": null,
-          "anio": "1977",
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087323/cb233c5f115d589e1c55b43f30fe10f4.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=43",
-          "motivos": [
-            "dice \"LP\"",
-            "año 1977"
-          ]
-        },
-        {
-          "id": 1087324,
-          "lote": "43B",
-          "titulo": "Los Cuatro Ases - Hits de Hollywood. El cuarteto vocal americano más famoso de los 50. Vendieron millones de discos con el tema Love Is a Many-Splendored Thing, tema ganador del Oscar 1955. Prensaje uruguayo por Decca, año 1960 aprox. Incluye versiones de clásicos de Hollywood: La Vuelta al Mundo, Amor es una Cosa Esplendorosa, Tres Monedas en la Fuente, entre otros. La tapa presenta roturas",
-          "artista": "Los Cuatro Ases",
-          "album": "Hits de Hollywood",
-          "sello": "Decca",
-          "anio": "1955",
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087324/c9d1b112b94fa33dee9068e1344dced3.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=43B",
-          "motivos": [
-            "dice \"disco\"",
-            "año 1955"
-          ]
-        },
-        {
-          "id": 1087325,
-          "lote": "44",
-          "titulo": "Los Olimareños – Quiero a la sombra de un ala. Álbum de uno de los dúos más representativos del canto popular uruguayo. Reúne composiciones de fuerte contenido social y poético, características de la trayectoria de Los Olimareños.",
-          "artista": "Los Olimareños",
-          "album": "Quiero a la sombra de un ala",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087325/e02339f558b5774adc84305f8cf31a0a.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=44",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087326,
-          "lote": "44B",
-          "titulo": "Los Olimareños – Donde Arde el Fuego Nuestro. Dúo uruguayo integrado por Pepe Guerra y Braulio López. Música popular uruguaya y folclore con repertorio vinculado a la canción social latinoamericana",
-          "artista": "Los Olimareños",
-          "album": "Donde Arde el Fuego Nuestro",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 330,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087326/099d33852ecc68321d83a496bcc04fd0.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=44B",
-          "motivos": [
-            "formato \"Artista - Título\" + contexto musical"
-          ]
-        },
-        {
-          "id": 1087327,
-          "lote": "45",
-          "titulo": "Daniel Viglietti – Canto Libre. Uno de los trabajos más representativos de Daniel Viglietti, figura fundamental de la canción popular uruguaya. Combina composiciones propias con un marcado compromiso social y artístico. Viene con un pequeño folleto con la letra de las canciones",
-          "artista": "Daniel Viglietti",
-          "album": "Canto Libre",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087327/9600dc7b4240a43c081e213265ac08d8.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=45",
-          "motivos": [
-            "formato \"Artista - Título\" + contexto musical"
-          ]
-        },
-        {
-          "id": 1087328,
-          "lote": "45B",
-          "titulo": "Armando Orefiche / Lecuona Cuban Boys - Carnaval del Uruguay.Grabado en Uruguay en los 1950s. Tapa ilustrada por Heber Camaratta. Incluye Rumba Azul, La Culebra, Mambo Nº 8, Conga de Jaruco, entre otros. Orefiche y los Lecuona Cuban Boys fueron embajadores mundiales del ritmo tropical, llegando a participar en películas de Hollywood",
-          "artista": "Armando Orefiche / Lecuona Cuban Boys",
-          "album": "Carnaval del Uruguay",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087328/913e5b78f93af0c153f84751e36373f3.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=45B",
-          "motivos": [
-            "formato \"Artista - Título\" + contexto musical"
-          ]
-        },
-        {
-          "id": 1087329,
-          "lote": "46",
-          "titulo": "Los Fronterizos y Coro Cantoría de la Basílica del Socorro – Misa Criolla.Una de las versiones más reconocidas de la Misa Criolla, obra compuesta por Ariel Ramírez y considerada un referente de la música folclórica y religiosa latinoamericana. Combina la liturgia católica con ritmos tradicionales argentinos.",
-          "artista": "Basílica",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087329/446860c55f139fc5b956d238951ed534.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=46",
-          "motivos": [
-            "formato \"Artista - Título\" + contexto musical"
-          ]
-        },
-        {
-          "id": 1087330,
-          "lote": "46B",
-          "titulo": "Los Fronterizos - Mundialmente.El conjunto folklórico argentino más famoso del mundo. Vendieron millones de discos en los 60s y 70s en toda América. Prensaje uruguayo por Philips, año 1966 aprox. Tapa icónica con el globo terráqueo y los 4 gauchos. Incluye Al Viejo Paraná, Rogativa de Loncomeo, Melinda y El Espejito. Ganadores de premios como \"Mejor Grupo Coral\" según la contratapa.",
-          "artista": "Los Fronterizos",
-          "album": "Mundialmente",
-          "sello": "Philips",
-          "anio": "1966",
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087330/ecf40eadd07d1d93103b1d52b3c36e6c.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=46B",
-          "motivos": [
-            "dice \"disco\"",
-            "año 1966"
-          ]
-        },
-        {
-          "id": 1087331,
-          "lote": "46C",
-          "titulo": "Ginamaría Hidalgo - Amar Amando.\"La Reina del Canto\" Voz privilegiada del folklore argentino. Cantante lírica que grabó zambas, tangos y canciones, llenaba teatros en toda Latinoamérica. Este Amar Amando trae Amar Amando de Horacio Guarany y El Antigal.\nFabricado y prensado en Uruguay.",
-          "artista": "Ginamaría Hidalgo",
-          "album": "Amar Amando",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087331/b876b0341e129d9c3eee3b53b884297a.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=46C",
-          "motivos": [
-            "formato \"Artista - Título\" + contexto musical"
-          ]
-        },
-        {
-          "id": 1087332,
-          "lote": "47",
-          "titulo": "Pink Floyd – The Wall. (Doble LP.). Álbum conceptual publicado en 1979 que cuenta la historia de Pink, una estrella de rock que se aisla del mundo. Es considerado una de las obras más importantes de la historia del rock. Incluye clásicos como \"Another Brick in the Wall (Part 2)\", \"Comfortably Numb\" y \"Run Like Hell\".",
-          "artista": "Pink Floyd",
-          "album": "The Wall",
-          "sello": null,
-          "anio": "1979",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 960,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087332/94aff2c95f0ffda88a317c73701959f8.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=47",
-          "motivos": [
-            "dice \"LP\"",
-            "año 1979"
-          ]
-        },
-        {
-          "id": 1087333,
-          "lote": "48",
-          "titulo": "Pink Floyd – Atom Heart Mother. Álbum de estudio publicado en 1970, reconocido por su extensa suite orquestal que da nombre al disco. Representa una etapa clave en la evolución del sonido progresivo de Pink Floyd.",
-          "artista": "Pink Floyd",
-          "album": "Atom Heart Mother",
-          "sello": "Clave",
-          "anio": "1970",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 750,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087333/d300d5ea95c4ec07bf4572012b81f9b6.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=48",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1970"
-          ]
-        },
-        {
-          "id": 1087334,
-          "lote": "49",
-          "titulo": "Jimi Hendrix – Experience. Álbum recopilatorio dedicado a la obra de Jimi Hendrix junto a The Jimi Hendrix Experience. Reúne algunas de las grabaciones más representativas del guitarrista considerado una de las figuras más influyentes de la historia del rock. La tapa presenta unos pequeños escritos a mano, tal como se aprecia",
-          "artista": "Jimi Hendrix",
-          "album": "Experience",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 410,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087334/c3e81d95fd87e894f766cfc547040c49.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=49",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087335,
-          "lote": "50",
-          "titulo": "Creedence Clearwater Revival – Willy and the Poor Boys. Álbum clásico de rock estadounidense de 1969, incluye temas emblemáticos como “Fortunate Son” y “Down on the Corner”. Muy apreciado por fans del rock clásico y coleccionistas de vinilos vintage. La etiqueta del disco presenta un nombre escrito a mano",
-          "artista": "Creedence Clearwater Revival",
-          "album": "Willy and the Poor Boys",
-          "sello": null,
-          "anio": "1969",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 330,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087335/9bab1b5b858b07ef7db1fbe43588fdc8.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=50",
-          "motivos": [
-            "dice \"vinilo\"",
-            "año 1969"
-          ]
-        },
-        {
-          "id": 1087336,
-          "lote": "51",
-          "titulo": "Deep Purple – Stormbringer. Álbum de estudio publicado en 1974 durante la etapa de Deep Purple con David Coverdale y Glenn Hughes. Combina hard rock con influencias de funk y soul, mostrando una evolución en el sonido de la banda. La tapa del disco tiene pegotines con el nombre del disco y de las canciones escritos a mano y la etiqueta del disco presenta otro con una fecha escrita a mano",
-          "artista": "Deep Purple",
-          "album": "Stormbringer",
-          "sello": null,
-          "anio": "1974",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 330,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087336/a722194d3d81d3ee2d9a279adea700e0.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=51",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1974"
-          ]
-        },
-        {
-          "id": 1087337,
-          "lote": "52",
-          "titulo": "Fleetwood Mac – Rumours. Considerado uno de los álbumes más importantes de la historia del rock y más vendidos de la historia de la música. Incluye éxitos como \"Dreams\", \"Go Your Own Way\", \"Don't Stop\" y \"You Make Loving Fun\". Este disco ganó el Grammy al álbum del año en 1978. La tapa presenta señales de deterioro, tal como se aprecia",
-          "artista": "Fleetwood Mac",
-          "album": "Rumours",
-          "sello": null,
-          "anio": "1978",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087337/6f4a8b7dff8738e65d67f78c053ff397.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=52",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1978"
-          ]
-        },
-        {
-          "id": 1087338,
-          "lote": "53",
-          "titulo": "Yes – Relayer. Álbum de estudio publicado en 1974. Destaca por sus extensas composiciones y es considerado una de las obras más ambiciosas del rock progresivo británico. Es ampliamente reconocido por ser el único disco de estudio en el que participó el virtuoso tecladista suizo Patrick Moraz",
-          "artista": "Yes",
-          "album": "Relayer",
-          "sello": null,
-          "anio": "1974",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087338/cb2471ec2bdba5047e46518b0a062989.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=53",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1974"
-          ]
-        },
-        {
-          "id": 1087339,
-          "lote": "54",
-          "titulo": "Amy Winehouse – Back to Black. Segundo y último álbum de estudio de Amy Winehouse. Incluye éxitos como \"Rehab\", \"Back to Black\", \"You Know I'm No Good\" y \"Tears Dry on Their Own\", convirtiéndose en una de las obras más influyentes del soul contemporáneo, ganando 5 premios Grammy en 2008 y consagrando a la artista a nivel mundial",
-          "artista": "Amy Winehouse",
-          "album": "Back to Black",
-          "sello": null,
-          "anio": "2008",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 850,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087339/f88612e7c1218ac4d8c45f89f650234d.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=54",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 2008"
-          ]
-        },
-        {
-          "id": 1087340,
-          "lote": "55",
-          "titulo": "Focus – Focus. Álbum de estudio de la banda neerlandesa Focus, reconocida por su combinación de rock progresivo, jazz y música clásica. Refleja el estilo instrumental y virtuoso que caracteriza al grupo.",
-          "artista": "Focus",
-          "album": "Focus",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087340/ef2efd5e16d65bf8183a99e8f71f3570.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=55",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087341,
-          "lote": "56",
-          "titulo": "Paul McCartney – All the Best! Disco 1. Primera parte del álbum recopilatorio All the Best!, que reúne algunos de los mayores éxitos de Paul McCartney como solista y con Wings. La tapa y el sobre del disco presentan algunos detalles y un nombre estampado con un sello, tal como se aprecia",
-          "artista": "Paul McCartney",
-          "album": "All the Best! Disco 1",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 420,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087341/05e141eff009773deb7b3b06102baf5e.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=56",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087342,
-          "lote": "57",
-          "titulo": "Paul McCartney – All the Best! Disco 2. Segunda parte del álbum recopilatorio All the Best!, completando una selección de los principales éxitos de la carrera de Paul McCartney posteriores a The Beatles. La tapa y el disco presentan un sello con escritos, tal como se aprecia",
-          "artista": "Paul McCartney",
-          "album": "All the Best! Disco 2",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 330,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087342/44bf65027dd91553838ad2eef58bcb57.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=57",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087343,
-          "lote": "58",
-          "titulo": "Cat Stevens – Extranjero. Vinilo de época de Cat Stevens, edición en español del álbum Foreigner, lanzado en Uruguay en 1974. El álbum fue grabado en Jamaica, pero se aleja del estilo folk habitual de Stevens, incorporando influencias de rhythm & blues.Esta edición uruguaya específica fue lanzada por el sello Island Records. La etiqueta del disco tiene un nombre escrito en lápiz",
-          "artista": "Cat Stevens",
-          "album": "Extranjero",
-          "sello": null,
-          "anio": "1974",
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087343/d9441a9b6d0765b6c12aa64b8904ad40.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=58",
-          "motivos": [
-            "dice \"vinilo\"",
-            "año 1974"
-          ]
-        },
-        {
-          "id": 1087344,
-          "lote": "59",
-          "titulo": "Jaime Roos – Brindis por Pierrot. Uno de los álbumes más representativos de Jaime Roos y de la música popular uruguaya. Incluye la emblemática canción \"Brindis por Pierrot\", considerada un clásico del repertorio nacional.",
-          "artista": "Jaime Roos",
-          "album": "Brindis por Pierrot",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 420,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087344/393315c34d35a203120b87888d5e2dc1.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=59",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087345,
-          "lote": "60",
-          "titulo": "ABBA – Voulez-Vous. Álbum de estudio publicado en 1979. Incluye éxitos como \"Voulez-Vous\", \"Chiquitita\", \"Does Your Mother Know\" e \"I Have a Dream\", pertenecientes a una de las etapas más exitosas del grupo sueco.",
-          "artista": "ABBA",
-          "album": "Voulez-Vous",
-          "sello": null,
-          "anio": "1979",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087345/45334db754a7b741343738e6beb32c70.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=60",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1979"
-          ]
-        },
-        {
-          "id": 1087346,
-          "lote": "61",
-          "titulo": "Los Shakers – Los Shakers. Álbum debut de una de las bandas más importantes del rock uruguayo. Influenciados por el sonido de The Beatles, Los Shakers fueron pioneros del rock en español y una referencia fundamental de la música rioplatense de los años sesenta. La tapa del disco presenta escritos en lapicera",
-          "artista": "Los Shakers",
-          "album": "Los Shakers",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 600,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087346/1265a2d3fde177675695334719e32329.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=61",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087347,
-          "lote": "62",
-          "titulo": "KC and the Sunshine Band – KC and the Sunshine Band. Álbum de estudio publicado en 1975. Incluye éxitos como \"That's the Way (I Like It)\", \"Get Down Tonight\" y \"Boogie Shoes\", referentes de la música disco y el funk de los años setenta. Este vinilo es considerado la obra cumbre y definitiva de la banda, consolidándola a nivel mundial y definiendo el sonido festivo de Miami de mediados de los 70",
-          "artista": "KC and the Sunshine Band",
-          "album": "KC and the Sunshine Band",
-          "sello": null,
-          "anio": "1975",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087347/c4321ac5099e5c230563a05f16433e99.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=62",
-          "motivos": [
-            "dice \"vinilo\"",
-            "año 1975"
-          ]
-        },
-        {
-          "id": 1087348,
-          "lote": "63",
-          "titulo": "Kenny Rogers – Grandes Éxitos. Álbum recopilatorio que reúne algunas de las canciones más representativas de Kenny Rogers, una de las figuras más reconocidas del country y el pop estadounidense.",
-          "artista": "Kenny Rogers",
-          "album": "Grandes Éxitos",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 390,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087348/0e48ba2245aae6b7d064721d3478fdea.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=63",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087349,
-          "lote": "64",
-          "titulo": "Joan Manuel Serrat – Mediterráneo. Considerado una de las obras más importantes de la canción de autor en lengua española. Incluye composiciones emblemáticas como \"Mediterráneo\", \"Aquellas pequeñas cosas\" y \"Pueblo blanco\". La tapa presenta una pequeña perforación circular en uno de los bordes",
-          "artista": "Joan Manuel Serrat",
-          "album": "Mediterráneo",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087349/1777742c8239ea742a24888052fe9b34.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=64",
-          "motivos": [
-            "formato \"Artista - Título\" + contexto musical"
-          ]
-        },
-        {
-          "id": 1087350,
-          "lote": "65",
-          "titulo": "Joan Manuel Serrat – Dedicado a Antonio Machado, poeta. Edición Uruguaya del álbum publicado en 1969 en homenaje al poeta español Antonio Machado. Musicaliza varios de sus poemas y es considerado una de las obras más destacadas de la discografía de Serrat.",
-          "artista": "Joan Manuel Serrat",
-          "album": "Dedicado a Antonio Machado, poeta",
-          "sello": null,
-          "anio": "1969",
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087350/97dd9ff1a7669fb53e2f3128b986ef60.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=65",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1969"
-          ]
-        },
-        {
-          "id": 1087351,
-          "lote": "66",
-          "titulo": "Joan Manuel Serrat – Dedicado a Antonio Machado, poeta. Segunda copia del mismo álbum, uno de los trabajos más representativos de Joan Manuel Serrat y un referente de la canción de autor en español.",
-          "artista": "Joan Manuel Serrat",
-          "album": "Dedicado a Antonio Machado, poeta",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087351/351be52a6d485464c2d90d53fa392bef.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=66",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087352,
-          "lote": "67",
-          "titulo": "Joan Manuel Serrat – Joan Manuel. Edición Uruguaya lanzada en 1970, que incluye canciones icónicas como \"Señora\", \"Mi niñez\" y \"Muchacha típica\". La tapa presenta un nombre escrito en lapicera en su parte posterior",
-          "artista": "Joan Manuel Serrat",
-          "album": "Joan Manuel",
-          "sello": null,
-          "anio": "1970",
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087352/91d5bf1b7d1467e6f211da9b766875d8.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=67",
-          "motivos": [
-            "formato \"Artista - Título\" + contexto musical",
-            "año 1970"
-          ]
-        },
-        {
-          "id": 1087353,
-          "lote": "68",
-          "titulo": "Joan Manuel Serrat – Para Piel de Manzana. Álbum grabado en México en 1976. Incluye canciones como Piel De Manzana, A Ese Pájaro Dorado…, La Aristocracia Del Barrio, entre otras. La tapa presenta un nombre escrito en lapicera en su parte posterior",
-          "artista": "Joan Manuel Serrat",
-          "album": "Para Piel de Manzana",
-          "sello": null,
-          "anio": "1976",
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087353/86067bac0e69152f33bf366d70097039.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=68",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1976"
-          ]
-        },
-        {
-          "id": 1087354,
-          "lote": "68B",
-          "titulo": "José Feliciano - Fireworks \"Fuegos Artificiales\". El artista cuenta con 9 Premios Grammy, 45 discos de Oro y Platino, Salón de la Fama de Compositores Latinos, entre otros reconocimientos. \nDisco fabricado en Uruguay e incluye canciones como Fireworks, Yesterday, entre otras.",
-          "artista": "José Feliciano",
-          "album": "Fireworks \"Fuegos Artificiales\"",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087354/57ce681e798f63d0d57360cd7c9e5b26.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=68B",
-          "motivos": [
-            "formato \"Artista - Título\" + contexto musical"
-          ]
-        },
-        {
-          "id": 1087355,
-          "lote": "69",
-          "titulo": "Joan Baez – Come From the Shadows. Álbum de estudio publicado en 1972. Combina canciones de contenido social y político con composiciones de estilo folk, representando una etapa importante de la carrera de Joan Baez. La etiqueta del disco tiene un nombre escrito a mano",
-          "artista": "Joan Baez",
-          "album": "Come From the Shadows",
-          "sello": null,
-          "anio": "1972",
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087355/6800834b779d78b3c195b95b5a22a998.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=69",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1972"
-          ]
-        },
-        {
-          "id": 1087356,
-          "lote": "69B",
-          "titulo": "Quilapayún - Quilapayún Nº3. El grupo más importante de la Nueva Canción Chilena. Exiliados a Francia tras el golpe de Pinochet en 1973. Grupo emblema de la resistencia latinoamericana, este disco es pre-golpe de estado año 1970, los discos de ellos fueron quemados y censurados. Difícil de conseguir sano, la banda sonora de Allende, prohibido en la dictadura. Fabricado por Odeon en Uruguay.",
-          "artista": "Quilapayún",
-          "album": "Quilapayún Nº3",
-          "sello": "Odeon",
-          "anio": "1973",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087356/21da6ea1701aef09e1e88b5a2b5baea1.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=69B",
-          "motivos": [
-            "dice \"disco\"",
-            "año 1973"
-          ]
-        },
-        {
-          "id": 1087357,
-          "lote": "69C",
-          "titulo": "Varios artistas - El Cante De. Compilado de copla y flamenco español con las máximas figuras: Lola Flores, Manolo Escobar, Juanita Reina, Pepe Marchena. Fabricado en Uruguay",
-          "artista": "Varios artistas",
-          "album": "El Cante De",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087357/1edbbe33119461fed6f57d4fcb172e71.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=69C",
-          "motivos": [
-            "formato \"Artista - Título\" + contexto musical"
-          ]
-        },
-        {
-          "id": 1087358,
-          "lote": "70",
-          "titulo": "Daniel Viglietti – Canciones para el Hombre Nuevo. Álbum representativo del repertorio de Daniel Viglietti, una de las principales figuras de la canción popular uruguaya. Reúne composiciones comprometidas con la realidad social y política latinoamericana.",
-          "artista": "Daniel Viglietti",
-          "album": "Canciones para el Hombre Nuevo",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087358/265ddc4161ab20f6353f41316a38e143.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=70",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087359,
-          "lote": "71",
-          "titulo": "Alfredo Zitarrosa – En Vivo. Álbum registrado en su histórico concierto de 1983 en Buenos Aires, que refleja la profundidad interpretativa de Alfredo Zitarrosa, una de las voces más importantes del folclore uruguayo y rioplatense.",
-          "artista": "Alfredo Zitarrosa",
-          "album": "En Vivo",
-          "sello": null,
-          "anio": "1983",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 1800,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087359/939e90572bf23e386ec3e87b92bc376a.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=71",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1983"
-          ]
-        },
-        {
-          "id": 1087360,
-          "lote": "72",
-          "titulo": "Joan Baez – Navidad. Álbum dedicado al repertorio tradicional navideño interpretado por Joan Baez, con arreglos que conservan el estilo folk característico de la artista. La tapa del disco presenta detalles de desgaste, tal como se aprecia",
-          "artista": "Joan Baez",
-          "album": "Navidad",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087360/5bcdf195cfeda5bb50ae2fdc2c60130e.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=72",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087361,
-          "lote": "73",
-          "titulo": "Edith Piaf – Alta Fidelidad. Recopilación de interpretaciones de Edith Piaf, una de las cantantes más influyentes de la música francesa. Reúne algunas de las canciones que marcaron su trayectoria artística.",
-          "artista": "Edith Piaf",
-          "album": "Alta Fidelidad",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087361/769f198830ff4d15023b280182c41e4f.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=73",
-          "motivos": [
-            "formato \"Artista - Título\" + contexto musical"
-          ]
-        },
-        {
-          "id": 1087362,
-          "lote": "74",
-          "titulo": "Tony Mottola – Guitar... Paris. Álbum instrumental del reconocido guitarrista estadounidense Tony Mottola. Presenta una selección de melodías inspiradas en el repertorio y la atmósfera musical parisina. La tapa del disco presenta un nombre escrito a mano",
-          "artista": "Tony Mottola",
-          "album": "Guitar",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087362/9f5293ffbc147014ca8f982e25acf4d6.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=74",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087363,
-          "lote": "75",
-          "titulo": "Ryoko Moriyama – Original Best Hits. Álbum recopilatorio de la cantante japonesa Ryoko Moriyama, una de las intérpretes más reconocidas de la música popular japonesa. Reúne algunas de las grabaciones más representativas de su carrera. La tapa del disco presenta un escrito a mano",
-          "artista": "Ryoko Moriyama",
-          "album": "Original Best Hits",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087363/2600db8e39bb6fc5c6212932258fe884.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=75",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087364,
-          "lote": "76",
-          "titulo": "Sexteto Electrónico Moderno – Las Cosas Pasan. Álbum del conjunto uruguayo Sexteto Electrónico Moderno, conocido por fusionar música instrumental, jazz y ritmos contemporáneos, constituyendo una propuesta singular dentro de la música popular uruguaya.",
-          "artista": "Sexteto Electrónico Moderno",
-          "album": "Las Cosas Pasan",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087364/cd92d5ad5b3660d1aee7bcce63956f93.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=76",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1087365,
-          "lote": "77",
-          "titulo": "Numa Moraes – La Patria Compañero. Álbum de folclore y canción popular uruguaya lanzado en 1971, incluye canciones como La Padilla, La Patria compañero, Palabras de Guerrillero, entre otras",
-          "artista": "Numa Moraes",
-          "album": "La Patria Compañero",
-          "sello": null,
-          "anio": "1971",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 360,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087365/539ca5ed64dfa5179a87b68c2904c1de.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=77",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1971"
-          ]
-        },
-        {
-          "id": 1087366,
-          "lote": "77B",
-          "titulo": "Troilo – For Export. Músico y compositor argentino Aníbal \"Pichuco\" Troilo, una de las figuras más importantes del tango argentino. Incluye clásicos como \"La Cumparsita\" y \"Nocturna\". La tapa se encuentra pegada con cinta en los costados",
-          "artista": "Troilo",
-          "album": "For Export",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087366/ea31cff2463ea394f6fe798dfccc7a8c.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=77B",
-          "motivos": [
-            "formato \"Artista - Título\" + contexto musical"
-          ]
-        },
-        {
-          "id": 1087367,
-          "lote": "77C",
-          "titulo": "Más Refrescos Musicales. Serie bailable especial. Recopilatorio argentino lanzado en 1986 como continuación de la serie bailable de Discos CBS. El álbum reúne una gran variedad de géneros latinos, pop y clásicos. La tapa presenta detalles",
-          "artista": "Discos CBS. El",
-          "album": null,
-          "sello": "CBS",
-          "anio": "1986",
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087367/b9280365d6e2f88f8ff12d21570de0ba.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=77C",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1986"
-          ]
-        },
-        {
-          "id": 1087368,
-          "lote": "77D",
-          "titulo": "Otro vinilo: Más Refrescos Musicales. Serie bailable especial. Recopilatorio argentino lanzado en 1986 como continuación de la serie bailable de Discos CBS. El álbum reúne una gran variedad de géneros latinos, pop y clásicos. La tapa presenta un nombre escrito a mano",
-          "artista": "Discos CBS. El",
-          "album": null,
-          "sello": "CBS",
-          "anio": "1986",
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087368/0e79dda2a847a0923dd3c3576917ad7c.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7580?lote=77D",
-          "motivos": [
-            "dice \"vinilo\"",
-            "año 1986"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7576",
-      "nombre": "HERMOSO REMATE DE COLECCIONABLES !!! BOTELLONES, FAROLES, ART COCINA PALOTES ETC , ART MARMOL, BOTELLAS EN GREE, ARTICULOS DE ESCRITORIO, VINOCULARES JAPON, DISCOS RIOPLATENSE, LAPICERAS PARKER, MONEDAS, BILLETES, PUAS TOCADISCO, LAMPARA USA, ATRAPA MOSCAS, JUEGOS, RULETA, LAMIANS, REVISTAS EL CORREO, FOSILES, PIEDRAS, ETC ETC IMPERDIBLE ESTE MARTES 11 A LAS 19 HORAS COLONIA DEL SACRAMENTO ON 209",
-      "empresa": "Gardiol y otros",
-      "departamento": "Colonia",
-      "lugar": "Colonia, Colonia",
-      "fecha": "11/08/2026, 19:00",
-      "fechaISO": "2026-08-11T22:00:00.000Z",
-      "timestamp": 1786485600,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7576",
-      "totalLotes": 79,
-      "vinilos": [
-        {
-          "id": 1087135,
-          "lote": "29",
-          "titulo": "DISCOS VINILO RIOPLATENSE",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 400,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1087135/0241c94d57a0437f30cad246f674b685.JPG",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7576?lote=29",
-          "motivos": [
-            "dice \"vinilo\""
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7460",
-      "nombre": "MARTES 19:30hs Excelente Remate Sin Base Y Al Mejor Postor Antigüedades Coleccionables Relojes Radios Antiguas Encendedores Zippo Bronces Luminarias Loza Porcelana Vajilla Cristalería Ollas De Excelente Calidad Muebles Finos Perteneciente A La Liquidación Por Sucesión De Apto En Pocitos  Muchos Muebles Nuevos Y Protector Para Madera Directo De Fabrica ¡Imperdible!",
-      "empresa": "Remate G. Federico",
-      "departamento": "Montevideo",
-      "lugar": "Arenal Grande 1818 esq La Paz de 9:30 a 18, Montevideo",
-      "fecha": "11/08/2026, 19:30",
-      "fechaISO": "2026-08-11T22:30:00.000Z",
-      "timestamp": 1786487400,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7460",
-      "totalLotes": 137,
-      "vinilos": [
-        {
-          "id": 1076155,
-          "lote": "335",
-          "titulo": "L 335 - 15 piezas - Interesante colección de CDs y DVDs originales de rock latino, música popular uruguaya, villancicos y cine rioplatense",
-          "artista": "CDs",
-          "album": "15 piezas - Interesante colección de CDs y DVDs originales de rock latino, músic",
-          "sello": null,
-          "anio": "2009",
-          "moneda": "$",
-          "base": 200,
-          "oferta": 240,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1076155/b949edd54ccf33221260382d779ca889.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7460?lote=335",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 2009"
-          ]
-        }
-      ]
-    },
     {
       "id": "7494",
       "nombre": "Remate de coleccionables y antigüedades, entre otras curiosidades como cuadros de Dante Cola, N Barreiro y J Trujillo,  monedas, etc. ¡Envíos rápidos y seguros a todo el país!",
@@ -1745,7 +38,7 @@
           "anio": null,
           "moneda": "$",
           "base": 100,
-          "oferta": 100,
+          "oferta": 150,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1088699/08953a50121ef87ccce0326f120bf3dd.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7483?lote=82",
           "motivos": [
@@ -1822,7 +115,7 @@
           "anio": "2011",
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 240,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1089378/8f016e17466e795b4cd1dde16290c277.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7366?lote=67A",
           "motivos": [
@@ -1840,7 +133,7 @@
           "anio": "1990",
           "moneda": "$",
           "base": 200,
-          "oferta": 240,
+          "oferta": 380,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1089379/e741089b5fd7f34c2b412701726957c6.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7366?lote=67B",
           "motivos": [
@@ -1858,7 +151,7 @@
           "anio": "1994",
           "moneda": "$",
           "base": 200,
-          "oferta": 220,
+          "oferta": 280,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1089380/88413bc01db21ce5b6fc70c16ea7a4ff.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7366?lote=67C",
           "motivos": [
@@ -1876,7 +169,7 @@
           "anio": "1995",
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 1000,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1089381/1c87fdd988c646c5b78b77e1c1f2a66a.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7366?lote=67D",
           "motivos": [
@@ -1911,7 +204,7 @@
       "timestamp": 1786741200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7385",
-      "error": "HTTP 429",
+      "totalLotes": 102,
       "vinilos": []
     },
     {
@@ -1939,7 +232,7 @@
       "timestamp": 1786746600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7593",
-      "totalLotes": 131,
+      "totalLotes": 153,
       "vinilos": []
     },
     {
@@ -1953,12 +246,12 @@
       "timestamp": 1786813200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7520",
-      "totalLotes": 189,
+      "totalLotes": 190,
       "vinilos": []
     },
     {
       "id": "7492",
-      "nombre": "LIQUIDACIÓN FINAL DE MICHELANGELO.",
+      "nombre": "LIQUIDACIÓN FINAL DE MICHELANGELO. LA BOUTIQUE Y ZAPATERÍA FEMENINA MÁS PRESTIGIOSA DE SALTO, CON 26 AÑOS DE HISTORIA, NOS HA CONFIADO EL REMATE FINAL DE TODA SU EXCELENTE MERCADERÍA, ASÍ COMO SU RECONOCIDO MOBILIARIO Y AMBIENTACIÓN. SERÁN VARIAS JORNADAS Y COMIENZA CON LA COLECCIÓN INVIERNO Y FIESTA DE ZAPATOS Y BOTAS, 100% CUERO Y REALIZADOS POR LAS PRINCIPALES FABRICAS NACIONALES. LOS MISMOS QUE ENCUENTRA EN LAS ZAPATERÍAS MÁS ENCUMBRADAS DEL PAÍS DISEÑADOS PARA MICHELANGELO - INFIMAS BASES - ENVÍOS A TODO EL PAÍS",
       "empresa": "Alfredo Berretta",
       "departamento": "Salto",
       "lugar": "VARELA 894 esquina TREINTA Y TRES ORIENTALES, Salto",
@@ -1967,12 +260,12 @@
       "timestamp": 1786820400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7492",
-      "totalLotes": 180,
+      "error": "HTTP 429",
       "vinilos": []
     },
     {
       "id": "7524",
-      "nombre": "🔨 GRAN REMATE DE ANTIGÜEDADES",
+      "nombre": "🔨 GRAN REMATE DE ANTIGÜEDADES Piezas únicas, con historia y verdadero valor de colección. Llega un remate imperdible para los amantes de lo auténtico , antigüedades cuidadosamente seleccionadas, provenientes de dos colecciones privadas. ✨ Muebles de época — trinchantes y escritorios en roble y madera americana con tapas de mármol, un exquisito juego de comedor completo con sus 6 sillas tapizadas, y un elegante conjunto italiano de espejo y dressoire con estructura dorada. ✨ Iluminación de bronce — arañas y lámparas de techo y mesa en bronce macizo, con caireles de cristal originales, verdaderas piezas de orfebrería para iluminar con estilo. ✨ Objetos de arte y decoración — un espejo biselado con marco labrado y dorado a la hoja, alfombra persa antigua, y un fonógrafo acústico Panatrope de 1923, joya para coleccionistas. ATENCION: DEL LOTE 4000 AL 4011 SE RETIRA EN SITIO GRANDE Y MILLAN , DEL 5000 AL 5042 EN RIVERA Y FERNANDEZ CRESPO",
       "empresa": "Pablo Barrientos",
       "departamento": "MONTEVIDEO",
       "lugar": "RIVERA Y FERNANDEZ CRESPO, MONTEVIDEO",
@@ -1981,12 +274,26 @@
       "timestamp": 1786917600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7524",
-      "totalLotes": 55,
+      "error": "HTTP 429",
+      "vinilos": []
+    },
+    {
+      "id": "7587",
+      "nombre": "Excepcional remate por venta de par de importantes propiedades! Se destaca mobiliario de estilo, moderno de gran calidad, Roble, finas antiguedades, importantes Marfiles, porcelanas Capodimonte, fina vajilla Europea, juego de cubiertos Alemán detalles en oro, pintura Nacional de primer nivel, Esculturas, alfombras Persas,... y terminamos con gran colecciónde cucharas danesas de plata con diseños en esmalte.... Imperdible!!!",
+      "empresa": "ElEjido",
+      "departamento": "MONTEVIDEO",
+      "lugar": "EJIDO 932, MONTEVIDEO",
+      "fecha": "16/08/2026, 19:00",
+      "fechaISO": "2026-08-16T22:00:00.000Z",
+      "timestamp": 1786917600,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7587",
+      "error": "HTTP 429",
       "vinilos": []
     },
     {
       "id": "7283",
-      "nombre": "Remate MULTIRUBRO del mes,",
+      "nombre": "Remate MULTIRUBRO del mes, Platería, antigüedades, muebles de hogar económicos. LIQUIDACIÓN LIBROS A 50, ENCICLOPEDIA 200 TODAS. PINTURAS ÓLEO 2000 TODAS. ELECTRÓNICA CON PRECIOS LIQUIDACIÓN, TOTAL A ELEGIR CANTIDADES DE TODO.",
       "empresa": "Micaela Cuello Tarusselli",
       "departamento": "Maldonado",
       "lugar": "Av. Lussich, Maldonado",
@@ -1995,12 +302,2258 @@
       "timestamp": 1786919400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7283",
-      "totalLotes": 136,
+      "error": "HTTP 429",
       "vinilos": []
     },
     {
+      "id": "7600",
+      "nombre": "♦️Le damos la Bienvenida a la NOCHE DE LA NOSTALGIA con un selecto grupo de Vinilos Singles con Hits de los 70's a los 90's: artistas como The Police, Sting; los Rolling Stones, B.B. King & Eric Clapton; Kool & the Gang; Cyndi Lauper; Paul Young; Wham!; Air Supply; Van Halen; Blondie; U2; Phil Collins; Yes; y muchos más.♦️",
+      "empresa": "Verónica Aristegui Díaz",
+      "departamento": "San José",
+      "lugar": "Parada 8 manzana 3 solar 16 calle colocolo, Playa pascual, San José, San José",
+      "fecha": "16/08/2026, 19:30",
+      "fechaISO": "2026-08-16T22:30:00.000Z",
+      "timestamp": 1786919400,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7600",
+      "totalLotes": 125,
+      "vinilos": [
+        {
+          "id": 1091199,
+          "lote": "0",
+          "titulo": "Vinilos",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 0,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091199/b5d32eeead811ad8f512f3c02573e274.png",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=0",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1090567,
+          "lote": "1",
+          "titulo": "THE ROLLING STONES: Single PROMOCIONAL importado USA, RS, Año 1977.",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1977",
+          "moneda": "$",
+          "base": 200,
+          "oferta": 200,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090567/aef89111476c852a152c1a9a151cd0f3.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=1",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1977"
+          ]
+        },
+        {
+          "id": 1090569,
+          "lote": "2",
+          "titulo": "THE ROLLING STONES: \"Start Me Up\" Single importado USA, RS, Año 1981",
+          "artista": null,
+          "album": "Start Me Up",
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 200,
+          "oferta": 200,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090569/f233af74a0c5ef99e48f2e9657aa5a14.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=2",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1090622,
+          "lote": "3",
+          "titulo": "THE ROLLING STONES: \"Emotional Rescue\" Single importado USA, RS, Año 1980.",
+          "artista": null,
+          "album": "Emotional Rescue",
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090622/aa046d8dc239529a0be4d18e33de5eb2.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=3",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1090624,
+          "lote": "4",
+          "titulo": "TINA TURNER: \"What's Love Got To Do With It\" Single importado USA, Capitol, Año 1984.",
+          "artista": null,
+          "album": "What's Love Got To Do With It",
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090624/13dac0b98c1100c1300642984c31c116.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=4",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1090626,
+          "lote": "5",
+          "titulo": "B. B. KING & ERIC CLAPTON: \"Worried Life Blues\" Single importado USA, Reprise, Año 2000.",
+          "artista": null,
+          "album": "Worried Life Blues",
+          "sello": null,
+          "anio": "2000",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090626/895d6ece000ee2327fc5ca4888ed4901.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=5",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2000"
+          ]
+        },
+        {
+          "id": 1090627,
+          "lote": "6",
+          "titulo": "B. B. KING & ERIC CLAPTON: \"Marry You\" Single importado USA, Reprise, Año 2000.",
+          "artista": null,
+          "album": "Marry You",
+          "sello": null,
+          "anio": "2000",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090627/ef2922f6030331c78d555456e3f1e17b.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=6",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2000"
+          ]
+        },
+        {
+          "id": 1090629,
+          "lote": "7",
+          "titulo": "B. B. KING & ERIC CLAPTON: \"When My Heart Beats Like A Hammer\" Single importado USA, Reprise, Año 2000.",
+          "artista": null,
+          "album": "When My Heart Beats Like A Hammer",
+          "sello": null,
+          "anio": "2000",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090629/70991b68f3ff2f543d72bb55f249aaa9.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=7",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2000"
+          ]
+        },
+        {
+          "id": 1090630,
+          "lote": "8",
+          "titulo": "B. B. KING & ERIC CLAPTON: \"Help The Poor\" Single importado USA, Reprise, Año 2000.",
+          "artista": null,
+          "album": "Help The Poor",
+          "sello": null,
+          "anio": "2000",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090630/947ae358ccd2312eb3f59b959d6ce855.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=8",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2000"
+          ]
+        },
+        {
+          "id": 1090632,
+          "lote": "9",
+          "titulo": "B. B. KING & ERIC CLAPTON: \"Come Rain Or Come Shine\" Single importado USA, Reprise, Año 2000.",
+          "artista": null,
+          "album": "Come Rain Or Come Shine",
+          "sello": null,
+          "anio": "2000",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090632/4e120e21292ad9cfd64aa66b684df1ef.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=9",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2000"
+          ]
+        },
+        {
+          "id": 1090633,
+          "lote": "10",
+          "titulo": "KOOL & THE GANG: \"Holiday\" Single importado USA, Mercury, Año 1986.",
+          "artista": null,
+          "album": "Holiday",
+          "sello": null,
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": 200,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090633/930dc7caa04b394f8d583f1439f2e0be.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=10",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1090639,
+          "lote": "11",
+          "titulo": "KOOL & THE GANG: \"Cherish\" Single importado USA, Mercury, Año 1984.",
+          "artista": null,
+          "album": "Cherish",
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": 200,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090639/db4cc70f5919c75d783517c427d6c6ad.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=11",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1090641,
+          "lote": "12",
+          "titulo": "KOOL & THE GANG: \"Fresh\" Single importado USA, Mercury, Año 1983.",
+          "artista": null,
+          "album": "Fresh",
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090641/75c23fcb5335ceb44922543179c73d58.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=12",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1090642,
+          "lote": "13",
+          "titulo": "KOOL & THE GANG: \"Victory\" Single importado USA, Mercury, Año 1986.",
+          "artista": null,
+          "album": "Victory",
+          "sello": null,
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090642/09b5affb9d41704830e3545e5cc3e7a8.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=13",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1090693,
+          "lote": "14",
+          "titulo": "ASIA: \"The Smile Has Left Your Eyes\" Single importado USA, Geffen, Año 1983.",
+          "artista": null,
+          "album": "The Smile Has Left Your Eyes",
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090693/5c397d3d3f9050febe94869963c5667e.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=14",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1090695,
+          "lote": "15",
+          "titulo": "ASIA: \"Heat Of The Moment\" Single importado USA, Geffen, Año 1982.",
+          "artista": null,
+          "album": "Heat Of The Moment",
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090695/addbec1d66ee06f94b446e1813adebaa.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=15",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1090696,
+          "lote": "16",
+          "titulo": "ASIA: \"Don't Cry\" Single importado USA, Geffen, Año 1983.",
+          "artista": null,
+          "album": "Don't Cry",
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090696/432ebaf5f4fbd848fdb8a3dd7ad69019.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=16",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1090697,
+          "lote": "17",
+          "titulo": "STEVE PERRY (Ex-vocalista de JOURNEY): \"Oh Sherrie\" Single DEMO importado USA, Columbia, Año 1984.",
+          "artista": "JOURNEY",
+          "album": "Oh Sherrie",
+          "sello": "Columbia",
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090697/617952b324b7246ec677e0848d2ab32d.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=17",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1090698,
+          "lote": "18",
+          "titulo": "STEVE PERRY (Ex-vocalista de JOURNEY): \"She's Mine\" Single DEMO importado USA, Columbia, Año 1984.",
+          "artista": "JOURNEY",
+          "album": "She's Mine",
+          "sello": "Columbia",
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090698/0ac026aa5881b09e62ac56d3680fc348.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=18",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1090699,
+          "lote": "19",
+          "titulo": "THE GUILLOTEENS: \"Wild Child\" Single PROMOCIONAL importado USA editado para uso de Estaciones de Radio, Columbia, Año 1966.",
+          "artista": "Estaciones",
+          "album": "Wild Child",
+          "sello": "Columbia",
+          "anio": "1966",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090699/075a9ae8ced2d91aa19492da17e8826a.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=19",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1966"
+          ]
+        },
+        {
+          "id": 1090700,
+          "lote": "20",
+          "titulo": "LIVING COLOUR: \"Open Letter (To A Landlord)\" Single DEMO importado USA, Epic, Año 1988.",
+          "artista": "To A Landlord",
+          "album": "Open Letter (To A Landlord)",
+          "sello": null,
+          "anio": "1988",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090700/1728c0034eda05a82c6e427ae02a0562.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=20",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1988"
+          ]
+        },
+        {
+          "id": 1090701,
+          "lote": "21",
+          "titulo": "STEVE WINWOOD: \"Higher Love\" Single importado USA, Island, Año 1986.",
+          "artista": null,
+          "album": "Higher Love",
+          "sello": null,
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090701/55de811205a5b5248c96c5c66ac3f106.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=21",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1090702,
+          "lote": "22",
+          "titulo": "HONEYMOON SUITE: \"Cold Look\" Single PROMOCIONAL importado USA, WB, Año 1988.",
+          "artista": null,
+          "album": "Cold Look",
+          "sello": null,
+          "anio": "1988",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090702/f653d65e037553705ed00f7013537c35.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=22",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1988"
+          ]
+        },
+        {
+          "id": 1090703,
+          "lote": "23",
+          "titulo": "MARVIN GAYE: \"The World Is Rated X\" Single PROMOCIONAL importado USA, Tamla, Año 1986.",
+          "artista": null,
+          "album": "The World Is Rated X",
+          "sello": null,
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090703/27e208ad2814ce65817488e3a453e8ff.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=23",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1090704,
+          "lote": "24",
+          "titulo": "FACTORY: \"Efter Plugget\" Single importado USA, CBS, Año 1978.",
+          "artista": null,
+          "album": "Efter Plugget",
+          "sello": "CBS",
+          "anio": "1978",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090704/16cc4258ad1ba332043112c67abed3e5.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=24",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1978"
+          ]
+        },
+        {
+          "id": 1090705,
+          "lote": "25",
+          "titulo": "NEIL YOUNG: \"Little Thing Called Love\" Single importado USA, Geffen, Año 1982.",
+          "artista": null,
+          "album": "Little Thing Called Love",
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090705/194111daf1245fa7a66289d6aefbcce0.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=25",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1090706,
+          "lote": "26",
+          "titulo": "RITA COOLIDGE: \"All Time High\" (Tema de la película de James Bond \"Octopussy\") Single importado USA, A&M, Año 1983.",
+          "artista": "James Bond",
+          "album": "All Time High",
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090706/913bada81fb39d4bd6aace9ec805a3ba.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=26",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1090707,
+          "lote": "27",
+          "titulo": "GRAND FUNK: \"The Loco-motion\" Single importado USA, Capitol, Año 1974.",
+          "artista": null,
+          "album": "The Loco-motion",
+          "sello": null,
+          "anio": "1974",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090707/3a1572a01fa21ca57c783ce1b5c0e198.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=27",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1974"
+          ]
+        },
+        {
+          "id": 1090708,
+          "lote": "28",
+          "titulo": "MURRAY HEAD: \"One Night In Bangkok\" Single importado USA, Chess, Año 1984.",
+          "artista": null,
+          "album": "One Night In Bangkok",
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": 200,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090708/fc4b058df7520c4cab0ad14155b8941b.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=28",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1090709,
+          "lote": "29",
+          "titulo": "BAD COMPANY: \"Rock n' Roll Fantasy\" Single importado USA, SwangSong, Año 1979.",
+          "artista": null,
+          "album": "Rock n' Roll Fantasy",
+          "sello": null,
+          "anio": "1979",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090709/07599e8d3be28e5271bd05f653fcd713.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=29",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1979"
+          ]
+        },
+        {
+          "id": 1090710,
+          "lote": "30",
+          "titulo": "THE BEACH BOYS: \"Don't Go Near The Water\" Single importado USA, Caribou, Año 1976.",
+          "artista": null,
+          "album": "Don't Go Near The Water",
+          "sello": null,
+          "anio": "1976",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090710/c1dabfcd23d8b84e5b006e8f1dcb9e62.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=30",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1976"
+          ]
+        },
+        {
+          "id": 1090711,
+          "lote": "31",
+          "titulo": "CYNDI LAUPER: \"The Goonies 'R' Good Enough\" Single DEMO importado USA, Portrait, Año 1985.",
+          "artista": null,
+          "album": "The Goonies 'R' Good Enough",
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090711/0c20ff86682c2c7ff639b6661adfcc3b.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=31",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1090712,
+          "lote": "32",
+          "titulo": "BILLY OCEAN: \"There'll Be Sad Songs\" Single importado USA, Jive, Año 1986.",
+          "artista": null,
+          "album": "There'll Be Sad Songs",
+          "sello": null,
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090712/030e2d7a7b977838efcfb1ac33f97436.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=32",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1090713,
+          "lote": "33",
+          "titulo": "DEBBIE GIBSON: \"Shake Your Love\" Single importado USA, Atlantic, Año 1987.",
+          "artista": null,
+          "album": "Shake Your Love",
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090713/c30c09839a1e71fb37f01b93d9beb7c4.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=33",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1090714,
+          "lote": "34",
+          "titulo": "STYX: \"The Best Of Times\" Single importado USA, A&M, Año 1980.",
+          "artista": null,
+          "album": "The Best Of Times",
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090714/8b038b3e414ad87f69b54d71f95514b4.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=34",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1090715,
+          "lote": "35",
+          "titulo": "CHRISTOPHER CROSS: \"A Chance For Heaven\" (tomado del LP \"Música Oficial de los Juegos Olímpicos de Los Angeles de 1984\" Single DEMO importado USA, Columbia, Año 1984.",
+          "artista": "Juegos Olímpicos",
+          "album": "A Chance For Heaven",
+          "sello": "Columbia",
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090715/416d1ecc39c4e6588feb1a409507876d.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=35",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1090716,
+          "lote": "36",
+          "titulo": "STEVIE WONDER: \"Send One Your Love\" Single importado USA, Tamla, Año 1979.",
+          "artista": null,
+          "album": "Send One Your Love",
+          "sello": null,
+          "anio": "1979",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090716/dbbbf030c5ceeee53b1c58c0557c0ee1.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=36",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1979"
+          ]
+        },
+        {
+          "id": 1090717,
+          "lote": "37",
+          "titulo": "NICK GILDER: \"Here Comes The Night\" Single PROMOCIONAL importado USA, Chrysalis, Año 1978",
+          "artista": null,
+          "album": "Here Comes The Night",
+          "sello": null,
+          "anio": "1978",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090717/ff84d5109438c4938278c73207116550.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=37",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1978"
+          ]
+        },
+        {
+          "id": 1090718,
+          "lote": "38",
+          "titulo": "HUEY LEWIS AND THE NEWS: \"The Power Of Love\" (Tema de la Película \"Back To The Future\") Single PROMOCIONAL importado USA, Chrysalis, Año 1985.",
+          "artista": "Película",
+          "album": "The Power Of Love",
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": 200,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090718/aba7399a32738bd53d9bcfae4e326aad.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=38",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1090719,
+          "lote": "39",
+          "titulo": "CLUB HOUSE Featuring CARL: \"Light My Fire\" Single importado INGLATERRA, PWL, Año 1993.",
+          "artista": null,
+          "album": "Light My Fire",
+          "sello": null,
+          "anio": "1993",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090719/d13f5e92b4765d806ed83ac0af6f403f.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=39",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1993"
+          ]
+        },
+        {
+          "id": 1090720,
+          "lote": "40",
+          "titulo": "SQUEEZE: \"Safistied\" Single importado INGLATERRA, Reprise, Año 1991.",
+          "artista": null,
+          "album": "Safistied",
+          "sello": null,
+          "anio": "1991",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090720/9afea5fd9d6058d83965e092ac7dc71f.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=40",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1991"
+          ]
+        },
+        {
+          "id": 1090721,
+          "lote": "41",
+          "titulo": "SQUEEZE: \"Trust Me To Open My Mouth\" Single importado INGLATERRA, A&M, Año 1987.",
+          "artista": null,
+          "album": "Trust Me To Open My Mouth",
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090721/d1aa0633dbdcad75855a6c31c5702602.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=41",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1090722,
+          "lote": "42",
+          "titulo": "SQUEEZE: \"853-5937\" Single importado INGLATERRA, A&M, Año 1987.",
+          "artista": null,
+          "album": "853-5937",
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090722/584ce2a0b729f76c367bda3e7cd86c3a.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=42",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1090723,
+          "lote": "43",
+          "titulo": "TOYAH: \"Thunder In The Mountains\" Single importado INGLATERRA, Safari, Año 1981.",
+          "artista": null,
+          "album": "Thunder In The Mountains",
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090723/1745e65e0e887f804a960f81a2e475cd.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=43",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1090724,
+          "lote": "44",
+          "titulo": "JANET JACKSON: \"When I Think Of You\" Single importado INGLATERRA, A&M, Año 1986.",
+          "artista": null,
+          "album": "When I Think Of You",
+          "sello": null,
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090724/2c7d2c9fea84ec9ee9ea2cdc89fb30b7.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=44",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1090725,
+          "lote": "45",
+          "titulo": "JENNIFER RUSH: \"The Power Of Love\" Single importado INGLATERRA, CBS, Año 1984.",
+          "artista": null,
+          "album": "The Power Of Love",
+          "sello": "CBS",
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090725/12bef84ee6c051744c28376f60d07631.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=45",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1090726,
+          "lote": "46",
+          "titulo": "JENNIFER RUSH: \"I Come Undone\" Single importado INGLATERRA, CBS, Año 1987.",
+          "artista": null,
+          "album": "I Come Undone",
+          "sello": "CBS",
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090726/37019a272c88fe8f458f0c2efde2b90e.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=46",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1090727,
+          "lote": "47",
+          "titulo": "PAUL YOUNG: \"Everytime You Go Away\" Single DEMO importado USA, Columbia, Año 1985.",
+          "artista": null,
+          "album": "Everytime You Go Away",
+          "sello": "Columbia",
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090727/ee5f59c6e4320cc8b3b8c981a297a96d.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=47",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1090728,
+          "lote": "48",
+          "titulo": "PAUL YOUNG: \"Wonderland\" Single importado INGLATERRA, CBS, Año 1986.",
+          "artista": null,
+          "album": "Wonderland",
+          "sello": "CBS",
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090728/6b876c09e43ce87fc07556de24dafeb4.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=48",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1090729,
+          "lote": "49",
+          "titulo": "PAUL YOUNG: \"Come Back And Stay\" Single importado HOLANDA, CBS, Año 1983.",
+          "artista": null,
+          "album": "Come Back And Stay",
+          "sello": "CBS",
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090729/3fde105ccf501cbf4973ef068ebcefa3.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=49",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1090730,
+          "lote": "50",
+          "titulo": "ELTON JOHN: \"Passengers\" Single importado INGLATERRA, Rocket, Año 1984.",
+          "artista": null,
+          "album": "Passengers",
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090730/8335aee225e8a2851741197fbb1d2d32.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=50",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1090731,
+          "lote": "51",
+          "titulo": "ELTON JOHN: \"Who Wear These Shoes?\" Single importado USA, Geffen, Año 1984.",
+          "artista": null,
+          "album": "Who Wear These Shoes?",
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090731/97f08e4d0309c20a334c4fac876acd55.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=51",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1090732,
+          "lote": "52",
+          "titulo": "ELTON JOHN: \"Wrap Her Up\" Single importado INGLATERRA, Rocket, Año 1985.",
+          "artista": null,
+          "album": "Wrap Her Up",
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090732/c1f74e644d44557828c2556ce4bc3eca.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=52",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1090733,
+          "lote": "53",
+          "titulo": "STARSHIP: \"It's Not Over\" Single importado USA, RCA/Grunt, Año 1987.",
+          "artista": null,
+          "album": "It's Not Over",
+          "sello": "RCA",
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090733/7b122bb5325664840e73823e7b696128.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=53",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1090735,
+          "lote": "54",
+          "titulo": "STARSHIP: \"Sara\" Single importado USA, GRUNT, Año 1985.",
+          "artista": null,
+          "album": "Sara",
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090735/83b1ad364b87c3e560ba3ed69caea2a1.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=54",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1090736,
+          "lote": "55",
+          "titulo": "PETE TOWNSEND (Ex-THE WHO): \"Face Dances Pt. 2\" Single importado INGLATERRA, ATCO, Año 1982.",
+          "artista": null,
+          "album": "Face Dances Pt. 2",
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090736/b87d9fd398c282ca3c0c0b4db71b02bb.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=55",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1090737,
+          "lote": "56",
+          "titulo": "RITA CORITA: \"Toet Toet\" Single importado HOLANDA, Star, Año 1985.",
+          "artista": null,
+          "album": "Toet Toet",
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090737/01f93a0d550682faacf0d6e136f081dc.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=56",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1090738,
+          "lote": "57",
+          "titulo": "HUGO VON BALDER: \"Toot Toot\" Single importado INGLATERRA, Ariola, Año 1985.",
+          "artista": null,
+          "album": "Toot Toot",
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090738/31a5a34cb3fb0867c01e8dc87ee12672.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=57",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1090739,
+          "lote": "58",
+          "titulo": "LEINEMANN: \"Mein Tuut Tuut\" Single importado ALEMANIA FEDERAL, Mercury, Año 1985.",
+          "artista": null,
+          "album": "Mein Tuut Tuut",
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090739/ec2b83145ba37ee3dc11691a712c5a8a.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=58",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1090740,
+          "lote": "59",
+          "titulo": "SHEENA EASTON: \"Jimmy Mack\" Single importado USA, EMI America, Año 1985.",
+          "artista": null,
+          "album": "Jimmy Mack",
+          "sello": "EMI",
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090740/acea6a0ec605eea53dc12387ca5c79cd.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=59",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1090741,
+          "lote": "60",
+          "titulo": "WHAM! (GEORGE MICHAEL): \"Wake Me Up Before You Go-Go\" Single DEMO importado USA, Columbia, Año 1984.",
+          "artista": "GEORGE MICHAEL",
+          "album": "Wake Me Up Before You Go-Go",
+          "sello": "Columbia",
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090741/2dd835f217d6919386a82eb4df414d49.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=60",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1090743,
+          "lote": "61",
+          "titulo": "WHAM! (GEORGE MICHAEL): \"Everything She Wants\" Single DEMO importado USA, Columbia, Año 1984.",
+          "artista": "GEORGE MICHAEL",
+          "album": "Everything She Wants",
+          "sello": "Columbia",
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090743/a8ffdfa69c498318c78b30b410b5a2cd.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=61",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1090744,
+          "lote": "62",
+          "titulo": "WHAM! featuring GEORGE MICHAEL: \"Careless Whisper\" Single DEMO importado USA, Columbia, Año 1984.",
+          "artista": null,
+          "album": "Careless Whisper",
+          "sello": "Columbia",
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090744/9ecead871233acd83b8fe78945f216ca.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=62",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1090745,
+          "lote": "63",
+          "titulo": "AIR SUPPLY: \"THe One That You Love\" Single importado USA, Arista, Año 1981.",
+          "artista": null,
+          "album": "THe One That You Love",
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090745/8feb17a71ca52daa7854bb258dc23850.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=63",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1090746,
+          "lote": "64",
+          "titulo": "MICK JAGGER: \"Just Another Night\" Single importado USA, Columbia, Año 1985.",
+          "artista": null,
+          "album": "Just Another Night",
+          "sello": "Columbia",
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090746/3ba092f1a4b100c1d921692f370ee1e4.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=64",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1090747,
+          "lote": "65",
+          "titulo": "PAUL McCARTNEY & STEVIE WONDER: \"Ebony And Ivory\" Single importado USA, Columbia, Año 1982.",
+          "artista": null,
+          "album": "Ebony And Ivory",
+          "sello": "Columbia",
+          "anio": "1982",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090747/ab571c3f0a0b0619caafeb4178537172.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=65",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1090748,
+          "lote": "66",
+          "titulo": "PAUL McCARTNEY: \"Take It Away\" Single importado USA, Columbia, Año 1982.",
+          "artista": null,
+          "album": "Take It Away",
+          "sello": "Columbia",
+          "anio": "1982",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090748/a7f43fb7de88ea48758dbf3f45f5472d.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=66",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1090749,
+          "lote": "67",
+          "titulo": "OLIVIA NEWTON-JOHN & JOHN TRAVOLTA: \"Twist Of Fate\" de la Película \"Two Of A Kind\" Single importado USA, MCA, Año 1983.",
+          "artista": "Película",
+          "album": "Twist Of Fate",
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090749/2f634d13ef8cc975c9fc82ca741d4a1d.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=67",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1090750,
+          "lote": "68",
+          "titulo": "DARYL HALL - JOHN OATES: \"Out Of Touch\" Single importado USA, RCA, Año 1984.",
+          "artista": "DARYL HALL",
+          "album": "JOHN OATES: \"Out Of Touch\" Single importado USA, RCA, Año 1984",
+          "sello": "RCA",
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090750/33dbd6dd4b9299b7b2717f17f56fad50.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=68",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1090751,
+          "lote": "69",
+          "titulo": "THE EARONS: \"Land Of Hunger\" Single PROMOCIONAL importado USA, Island, Año 1984.",
+          "artista": null,
+          "album": "Land Of Hunger",
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090751/62f11a9c8a3b00cc6fd014174e25f631.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=69",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1090752,
+          "lote": "70",
+          "titulo": "PRETENDERS: \"Middle Of The Road\" Single PROMOCIONAL importado USA, Sire, Año 1983.",
+          "artista": null,
+          "album": "Middle Of The Road",
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090752/adb677d1e1af070f0802ab08d266a7a9.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=70",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1090753,
+          "lote": "71",
+          "titulo": "VAN HALEN: \"Jump!\" Single importado USA, WB, Año 1984",
+          "artista": null,
+          "album": "Jump!",
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090753/06f0abc474a988828b1df4d0ae1d393f.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=71",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1090845,
+          "lote": "72",
+          "titulo": "VAN HALEN: \"Finish Waht Ya Started\" Single importado USA, WB, Año 1988.",
+          "artista": null,
+          "album": "Finish Waht Ya Started",
+          "sello": null,
+          "anio": "1988",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090845/7b6ed6fe48b57e0de6357d228420602d.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=72",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1988"
+          ]
+        },
+        {
+          "id": 1090846,
+          "lote": "73",
+          "titulo": "MARRS: \"Pump Up The Volume\" Single importado USA, 4th.B'Way, Año 1987.",
+          "artista": null,
+          "album": "Pump Up The Volume",
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": 200,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090846/9e2bfbfff64369631495e086a4779dc4.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=73",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1090847,
+          "lote": "74",
+          "titulo": "LRB: \"Playing To Win\" Single PROMOCIONAL importado USA, Capitol, Año 1985.",
+          "artista": null,
+          "album": "Playing To Win",
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090847/a132141ea9e76cbfb419226d9b5c76e1.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=74",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1090848,
+          "lote": "75",
+          "titulo": "RE-FLEX: \"Hurt\" Single importado USA, Capitol, Año 1983.",
+          "artista": null,
+          "album": "Hurt",
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090848/454fc06217196921c2764f0c9e407941.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=75",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1090849,
+          "lote": "76",
+          "titulo": "MADONNA: \"Live To Tell\" Single importado USA, Sire, Año 1986.",
+          "artista": null,
+          "album": "Live To Tell",
+          "sello": null,
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090849/da8966d70e8cf14ddb043d3784fbfe1b.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=76",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1090850,
+          "lote": "77",
+          "titulo": "THE MOODY BLUES: \"Wour Wildest Dreams\" Single importado USA, Polydor, Año 1986.",
+          "artista": null,
+          "album": "Wour Wildest Dreams",
+          "sello": "Polydor",
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090850/56dbc0a90a56859933751f679d50c2f4.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=77",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1090851,
+          "lote": "78",
+          "titulo": "THE WHO: \"Join Together\" Single importado INGLATERRA, Track, Año 1972.",
+          "artista": null,
+          "album": "Join Together",
+          "sello": null,
+          "anio": "1972",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090851/fc8553d4586e13ec5cf1835bb379b6a6.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=78",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1972"
+          ]
+        },
+        {
+          "id": 1090852,
+          "lote": "79",
+          "titulo": "PAT BENATAR: \"Ooh Ooh Song\" Single importado USA, Chrysalis, Año 1984.",
+          "artista": null,
+          "album": "Ooh Ooh Song",
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090852/fe4b37be070b531e27f500e8d5a0a0e2.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=79",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1091150,
+          "lote": "81",
+          "titulo": "CARPENTERS: \"Top Of The World\" Single importado USA, A&M, Año 1973.",
+          "artista": null,
+          "album": "Top Of The World",
+          "sello": null,
+          "anio": "1973",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091150/9e119f9744f57f377e455378b6986066.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=81",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1973"
+          ]
+        },
+        {
+          "id": 1091151,
+          "lote": "82",
+          "titulo": "BLONDIE: \"The Tide Is High\" Single importado USA, Chrysalis, Año 1980.",
+          "artista": null,
+          "album": "The Tide Is High",
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091151/08ab094fa17fecd6a440a7cc52ce30cf.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=82",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1091152,
+          "lote": "83",
+          "titulo": "BLONDIE: \"Atomic\" Single importado USA, Chrysalis, Año 1980.",
+          "artista": null,
+          "album": "Atomic",
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091152/816a9dfb953ad1f72ae000243d96113a.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=83",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1091153,
+          "lote": "84",
+          "titulo": "BLONDIE: \"Rapture\" Single importado USA, Chrysalis, Año 1981.",
+          "artista": null,
+          "album": "Rapture",
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091153/13e6c7549f2908dd7fa331c0c3897e1d.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=84",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1091154,
+          "lote": "85",
+          "titulo": "BLONDIE: \"Island Of Lost Souls\" Single importado USA, Chrysalis, Año 1982.",
+          "artista": null,
+          "album": "Island Of Lost Souls",
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091154/2bacd6c615303254a377bb19ace6e8a9.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=85",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1091155,
+          "lote": "86",
+          "titulo": "U2: \"With Or Without You\" Single PROMOCIONAL importado USA, Island, Año 1987.",
+          "artista": null,
+          "album": "With Or Without You",
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091155/ceadb8ec8f375b5d78b14f0e5ad20039.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=86",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1091156,
+          "lote": "87",
+          "titulo": "U2: \"Where The Streets Have No Name\" Single PROMOCIONAL importado USA, Island, Año 1987.",
+          "artista": null,
+          "album": "Where The Streets Have No Name",
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091156/4e44e1363706e96c82193909b8be2b09.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=87",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1091157,
+          "lote": "88",
+          "titulo": "U2: \"Pride (In The Name Of Love)\" Single PROMOCIONAL importado USA, Island, Año 1984.",
+          "artista": "In The Name Of Love",
+          "album": "Pride (In The Name Of Love)",
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091157/5948a751b3e16622cae9aeb7e02e1ff0.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=88",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1091158,
+          "lote": "89",
+          "titulo": "U2: \"In God's Country\" Single PROMOCIONAL importado USA, Island, Año 1987.",
+          "artista": null,
+          "album": "In God's Country",
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091158/bc1c404d86323eef99df079d54273f07.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=89",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1091159,
+          "lote": "90",
+          "titulo": "U2: \"I Still Haven't Found What I'm Looking For\" Single PROMOCIONAL importado USA, Island, Año 1987.",
+          "artista": null,
+          "album": "I Still Haven't Found What I'm Looking For",
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091159/c857d6170b61ab97a87f940a1a13efba.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=90",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1091160,
+          "lote": "91",
+          "titulo": "U2: \"All I Want Is You\" Single PROMOCIONAL importado USA, Island, Año 1989.",
+          "artista": null,
+          "album": "All I Want Is You",
+          "sello": null,
+          "anio": "1989",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091160/b1bb59fe2c6f1f27f44556506b6a4efa.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=91",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1989"
+          ]
+        },
+        {
+          "id": 1091161,
+          "lote": "92",
+          "titulo": "U2: \"Angel Of Harlem\" Single PROMOCIONAL importado USA, Island, Año 1988.",
+          "artista": null,
+          "album": "Angel Of Harlem",
+          "sello": null,
+          "anio": "1988",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091161/7e5d1850c720ef2218f58649699e7c17.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=92",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1988"
+          ]
+        },
+        {
+          "id": 1091162,
+          "lote": "93",
+          "titulo": "U2: \"Desire\" Single PROMOCIONAL importado USA, Island, Año 1988.",
+          "artista": null,
+          "album": "Desire",
+          "sello": null,
+          "anio": "1988",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091162/ca4bdaf8f802c91e440fdb1b539d26e4.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=93",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1988"
+          ]
+        },
+        {
+          "id": 1091163,
+          "lote": "94",
+          "titulo": "PHIL COLLINS: \"Another Day In Paradise\" Single importado USA, Virgin, Año 1989.",
+          "artista": null,
+          "album": "Another Day In Paradise",
+          "sello": null,
+          "anio": "1989",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091163/186bf9cc20b23748b0d94513c2c96c9f.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=94",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1989"
+          ]
+        },
+        {
+          "id": 1091164,
+          "lote": "95",
+          "titulo": "PHIL COLLINS: \"Against All Odds (Take A Look At Me Now)\" Single importado USA, Atlantic, Año 1984.",
+          "artista": "Take A Look At Me Now",
+          "album": "Against All Odds (Take A Look At Me Now)",
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": 200,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091164/47761510bebbe858c89700f5933f8ef8.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=95",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1091165,
+          "lote": "96",
+          "titulo": "YES: \"Owner Of A Lonely Heart\" Single importado USA, ATCO, Año 1983.",
+          "artista": null,
+          "album": "Owner Of A Lonely Heart",
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091165/03939ad4de037034c8a34022a6fbca87.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=96",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1091166,
+          "lote": "97",
+          "titulo": "THE PHOIDS: \"Seven Inches Of Love\" Single importado USA prensado en vinilo azul transparente, NG, Año 1995.",
+          "artista": null,
+          "album": "Seven Inches Of Love",
+          "sello": null,
+          "anio": "1995",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091166/ec4ab851315d47fb8a5ed01acf788eaa.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=97",
+          "motivos": [
+            "dice \"vinilo\"",
+            "año 1995"
+          ]
+        },
+        {
+          "id": 1091167,
+          "lote": "98",
+          "titulo": "THE PHOIDS: \"Anymore\" Single importado USA prensado en vinilo rojo transparente, NG, Año 1996.",
+          "artista": null,
+          "album": "Anymore",
+          "sello": null,
+          "anio": "1996",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091167/e709c1638b115fad2fdf78892a7334c5.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=98",
+          "motivos": [
+            "dice \"vinilo\"",
+            "año 1996"
+          ]
+        },
+        {
+          "id": 1091168,
+          "lote": "99",
+          "titulo": "THE POLICE: \"Wrapped Around Your Finger\" Single importado USA, A&M, Año 1983.",
+          "artista": null,
+          "album": "Wrapped Around Your Finger",
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091168/661debb4446026cc15efcd8f2a56d38e.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=99",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1091169,
+          "lote": "100",
+          "titulo": "THE POLICE: \"Spirits In The Material World\" Single importado USA, A&M, Año 1981.",
+          "artista": null,
+          "album": "Spirits In The Material World",
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091169/e2ec620a4a93d4a091fdc2f446412485.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=100",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1091170,
+          "lote": "101",
+          "titulo": "THE POLICE: \"Secret Journey\" Single importado USA, A&M, Año 1981.",
+          "artista": null,
+          "album": "Secret Journey",
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091170/58f3092bb3f38d7a112c4ec884ef2961.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=101",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1091171,
+          "lote": "102",
+          "titulo": "THE POLICE: \"Message In A Bottle\" Single importado USA con POSTER, A&M, Año 1979.",
+          "artista": null,
+          "album": "Message In A Bottle",
+          "sello": null,
+          "anio": "1979",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091171/5e914093db060032b300f89c433734ac.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=102",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1979"
+          ]
+        },
+        {
+          "id": 1091172,
+          "lote": "103",
+          "titulo": "THE POLICE: \"Every Little Thing She Does Is Magic\" Single importado USA, A&M, Año 1981.",
+          "artista": null,
+          "album": "Every Little Thing She Does Is Magic",
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091172/27b71a14848dd868a96a0a02c0ef9e4e.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=103",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1091173,
+          "lote": "104",
+          "titulo": "THE POLICE: \"Every Breath You Take\" Single importado USA, A&M, Año 1983.",
+          "artista": null,
+          "album": "Every Breath You Take",
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091173/d3249a412f9312adbdb115b9c72fdf8e.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=104",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1091174,
+          "lote": "105",
+          "titulo": "THE POLICE: \"Don't Stand So Close To Me '86\" Single importado USA, A&M, Año 1986.",
+          "artista": null,
+          "album": "Don't Stand So Close To Me '86",
+          "sello": null,
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091174/ef899b682d0b00ff8fa76e8512b295a1.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=105",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1091175,
+          "lote": "106",
+          "titulo": "THE POLICE: \"Don't Stand So Close To Me\" Single importado USA, A&M, Año 1981.",
+          "artista": null,
+          "album": "Don't Stand So Close To Me",
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091175/30e5c24d1b8f25eaf9f735a5fb06bdf9.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=106",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1091176,
+          "lote": "107",
+          "titulo": "THE POLICE: \"De Do Do Do, De Da Da Da\" Single importado USA, A&M, Año 1980.",
+          "artista": null,
+          "album": "De Do Do Do, De Da Da Da",
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091176/1b4a9c3e36e12f89b0738710ec42c9eb.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=107",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1091177,
+          "lote": "108",
+          "titulo": "THE POLICE: \"Spirits In The Material World\" Single importado USA con POSTER, A&M, Año 1981.",
+          "artista": null,
+          "album": "Spirits In The Material World",
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091177/8a8c5b38a5a2e53ec0a558617f2c8890.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=108",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1091178,
+          "lote": "109",
+          "titulo": "STING: \"Russians\" Single importado USA, A&M, Año 1985.",
+          "artista": null,
+          "album": "Russians",
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091178/2a2a81e5edfb3a4936bc28eb105b1d2e.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=109",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1091179,
+          "lote": "110",
+          "titulo": "STING: \"Be Still My Beating Heart\" Single importado USA, A&M, Año 1987.",
+          "artista": null,
+          "album": "Be Still My Beating Heart",
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091179/b91a506d1f66305c79a2ace7bad902b7.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=110",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1091180,
+          "lote": "111",
+          "titulo": "STING: \"Englishman In New York\" Single importado USA, A&M, Año 1987.",
+          "artista": null,
+          "album": "Englishman In New York",
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091180/2f06062c3e75997c0b480ab7a646ce79.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=111",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1091181,
+          "lote": "112",
+          "titulo": "STING: \"Love Is The Seventh Wave\" Single importado USA, A&M, Año 1985.",
+          "artista": null,
+          "album": "Love Is The Seventh Wave",
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091181/2b85dfa806fd8f3b1299beeedcaf03fa.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=112",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1091182,
+          "lote": "113",
+          "titulo": "STING: \"We'll Be Together\" Single importado USA, A&M, Año 1987.",
+          "artista": null,
+          "album": "We'll Be Together",
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091182/0770bd9893a9f01a6d39cf69fbbc03ea.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=113",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1091183,
+          "lote": "114",
+          "titulo": "STING: \"If You Love Somebody, Set Them Free\" Single importado USA, A&M, Año 1985.",
+          "artista": null,
+          "album": "If You Love Somebody, Set Them Free",
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091183/787a4071a2dfc725c55ce3dfea58a694.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=114",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1091184,
+          "lote": "115",
+          "titulo": "THE JACKSON 5 (MICHAEL JACKSON): \"Sugar Daddy\" Single importado USA, Motown, Año 1971.",
+          "artista": "MICHAEL JACKSON",
+          "album": "Sugar Daddy",
+          "sello": "Motown",
+          "anio": "1971",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091184/3f622e4f2406a83ee739c76945f1c25e.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=115",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1971"
+          ]
+        },
+        {
+          "id": 1091185,
+          "lote": "116",
+          "titulo": "SANTANA: \"Say It Again\" Single importado USA, Columbia, Año 1985.",
+          "artista": null,
+          "album": "Say It Again",
+          "sello": "Columbia",
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091185/c1865eca422ad309460807036105ce09.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=116",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1091186,
+          "lote": "117",
+          "titulo": "THE KIDS FROM \"FAME\" featuring ERICA GIMPEL & GENE ANTHONY RAY: \"Be Your Own Hero\" Single importado USA, RCA, Año 1982.",
+          "artista": null,
+          "album": "FAME",
+          "sello": "RCA",
+          "anio": "1982",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091186/c038893a81ba172fcbb288dd548e9642.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=117",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1091187,
+          "lote": "118",
+          "titulo": "MEN AT WORK: \"It's A Mistake\" Single importado USA, Columbia, Año 1983.",
+          "artista": null,
+          "album": "It's A Mistake",
+          "sello": "Columbia",
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": 200,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091187/b6fb6bf6d14658165aea47365a1e6805.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=118",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1091188,
+          "lote": "119",
+          "titulo": "BRYAN ADAMS: \"Straight From The Heart\" Single importado USA, A&M, Año 1983.",
+          "artista": null,
+          "album": "Straight From The Heart",
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091188/07a8d76c062462e1a2a206d9aaa207c8.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=119",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1091189,
+          "lote": "120",
+          "titulo": "JOHN WAITE: \"Missing You\" Single importado USA, EMI America, Año 1984.",
+          "artista": null,
+          "album": "Missing You",
+          "sello": "EMI",
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091189/f86da20ee04debecba640bfd43405c9a.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=120",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1091190,
+          "lote": "121",
+          "titulo": "JULIAN LENNON: \"Valotte\" Single importado USA, Atlantic, Año 1984.",
+          "artista": null,
+          "album": "Valotte",
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091190/7c26088c328cf947636de11b3666188f.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=121",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1091191,
+          "lote": "122",
+          "titulo": "DONNA SUMMER: \"Dinner With Gershwin\" Single importado USA, Geffen, Año 1987.",
+          "artista": null,
+          "album": "Dinner With Gershwin",
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091191/6beb328974ddc4b1923ad65ee5472611.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=122",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1091193,
+          "lote": "123",
+          "titulo": "CHARLIE SEXTON: \"Impressed\" Single importado USA, MCA, Año 1985.",
+          "artista": null,
+          "album": "Impressed",
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091193/a334a7ffadaa38778faf55d20b0ce269.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=123",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1091194,
+          "lote": "124",
+          "titulo": "KENNY LOGGINS: \"Footloose\", tema de la película del mismo nombre; Single importado USA, Columbia, Año 1984.",
+          "artista": null,
+          "album": "Footloose",
+          "sello": "Columbia",
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091194/2b6d818e9ca3f28f3b5458a8fe59ab1b.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=124",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        }
+      ]
+    },
+    {
       "id": "7568",
-      "nombre": "✅ Remate de Colección de Aguafuertes y Grabados de Artistas Internacionales",
+      "nombre": "✅ Remate de Colección de Aguafuertes y Grabados de Artistas Internacionales Primera Impresión o Prueba A/P Etchering Catalogadas y Vendidas en su Oportunidad en New York. Libros Históricos y Nativista de Uruguay. Filatelia,Deportes. Masonería - Miniaturas y Adornos de Vitrina. Porcelana y Bronce, y mucho más, No te lo pierdas!!!",
       "empresa": "Valentina Rodríguez",
       "departamento": "MONTEVIDEO",
       "lugar": "AV. DAMASO A. LARRAÑAGA 3452, MONTEVIDEO",
@@ -2009,80 +2562,8 @@
       "timestamp": 1786989600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7568",
-      "totalLotes": 138,
-      "vinilos": [
-        {
-          "id": 1085859,
-          "lote": "1",
-          "titulo": "1)  Disco LP ( BEATLES) Featurin Tony Sheridan  1973 Industria Uruguaya",
-          "artista": "BEATLES",
-          "album": null,
-          "sello": null,
-          "anio": "1973",
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1085859/9bcaa0769c65f3ee3504755eedcbc31f.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7568?lote=1",
-          "motivos": [
-            "dice \"LP\"",
-            "año 1973"
-          ]
-        },
-        {
-          "id": 1085860,
-          "lote": "2",
-          "titulo": "Disco LP ( BEATLES) Let It Be 1970 Industria Uruguaya",
-          "artista": "BEATLES",
-          "album": null,
-          "sello": null,
-          "anio": "1970",
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1085860/f3efe879246ee6f99b6e234d6a26f333.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7568?lote=2",
-          "motivos": [
-            "dice \"LP\"",
-            "año 1970"
-          ]
-        },
-        {
-          "id": 1085861,
-          "lote": "3",
-          "titulo": "3)  Disco LP ( BEATLES) Rubber Soul 1965 Industria Uruguaya",
-          "artista": "BEATLES",
-          "album": null,
-          "sello": null,
-          "anio": "1965",
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1085861/1e09a9d4dba42a09365220fe09409ff7.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7568?lote=3",
-          "motivos": [
-            "dice \"LP\"",
-            "año 1965"
-          ]
-        },
-        {
-          "id": 1085862,
-          "lote": "4",
-          "titulo": "4)  Disco LP ( BEATLES) Por Favor Yo Industria Argentina  Algunas Marquitas de Uso",
-          "artista": "BEATLES",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1085862/cd6cb04c92b5dacd3a3dc31325b7c023.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7568?lote=4",
-          "motivos": [
-            "dice \"LP\""
-          ]
-        }
-      ]
+      "error": "HTTP 429",
+      "vinilos": []
     },
     {
       "id": "7595",
@@ -2095,12 +2576,12 @@
       "timestamp": 1787004000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7595",
-      "totalLotes": 38,
+      "error": "HTTP 429",
       "vinilos": []
     },
     {
       "id": "7572",
-      "nombre": "Un tesoro escondido en cada lote.",
+      "nombre": "Un tesoro escondido en cada lote. Miniaturas de whisky de todo el mundo, cubiertos con historia de aviación, souvenirs, antigüedades y objetos únicos que ya no se consiguen. Sumale muebles para renovar tu hogar: cajoneras, escritorio, somier una plaza y media y cocinas. Coleccionistas, curiosos y quienes buscan equipar su casa: este remate es para vos. ¡Entrá, mirá, y llevate lo que nadie tiene!",
       "empresa": "Pablo Barrientos",
       "departamento": "Canelones",
       "lugar": "CONTINUACION Z4 ENTRE 8 Y 9 Parque del Plata , Costa de Oro, Canelones",
@@ -2109,7 +2590,7 @@
       "timestamp": 1787090400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7572",
-      "totalLotes": 255,
+      "error": "HTTP 429",
       "vinilos": []
     },
     {
@@ -2123,7 +2604,7 @@
       "timestamp": 1787090400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7589",
-      "totalLotes": 43,
+      "error": "HTTP 429",
       "vinilos": []
     },
     {
@@ -2137,7 +2618,7 @@
       "timestamp": 1787418000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7482",
-      "totalLotes": 143,
+      "error": "HTTP 429",
       "vinilos": []
     },
     {
