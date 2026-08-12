@@ -34,7 +34,7 @@ const path = require('path');
 const BASE_URL = 'https://www.remotes.com.uy/';
 const IMG_BASE = 'https://static3.remotes.com.uy/img/thumb/800/';
 const CACHE_DIR = process.env.CACHE_DIR || null;
-const ESPERA_MS = 800; // pausa entre pedidos, para no golpear el servidor
+const ESPERA_MS = 1500; // pausa base entre pedidos (+ jitter), para no golpear el servidor
 
 // --- Utilidades de texto ----------------------------------------------------
 
@@ -119,6 +119,46 @@ function contarLotesEnHTML(html) {
   }
   if (end < 0) return null;
   return (html.slice(start, end + 1).match(/"identificador":/g) || []).length;
+}
+
+// Lee la corrida ANTERIOR (app/vinilos.json) y devuelve un mapa por id de
+// remate. Sirve para reusar la data de un remate que hoy falle la descarga.
+function cargarPrevio() {
+  for (const ruta of ['app/vinilos.json', 'vinilos-encontrados.json']) {
+    try {
+      const j = JSON.parse(fs.readFileSync(ruta, 'utf8'));
+      const arr = Array.isArray(j) ? j : (j.remates || []);
+      if (arr.length) {
+        const mapa = {};
+        arr.forEach((r) => { mapa[String(r.id)] = r; });
+        return mapa;
+      }
+    } catch (e) { /* si no existe o no parsea, seguimos sin previo */ }
+  }
+  return {};
+}
+
+// Escribe un LOG PERMANENTE (alertas-remates.log) cuando un remate que estaba
+// ayer y no cerró hoy no se pudo refrescar. Así queda registro para revisar.
+function escribirLogAlertas({ reusados, perdidos, desaparecidos }) {
+  if (!reusados.length && !perdidos.length && !desaparecidos.length) return;
+  const ts = new Date().toISOString();
+  const lineas = [`\n===== ${ts} =====`];
+  if (desaparecidos.length) {
+    lineas.push(`DESAPARECIDOS (estaban ayer con vinilos, no cerraron, hoy no están):`);
+    desaparecidos.forEach((d) => lineas.push(`  - ${d}`));
+  }
+  if (reusados.length) {
+    lineas.push(`REUSADOS (falló la descarga hoy; se mantuvo la data anterior para que no desaparezcan):`);
+    reusados.forEach((d) => lineas.push(`  - ${d}`));
+  }
+  if (perdidos.length) {
+    lineas.push(`SIN DATA PREVIA (falló la descarga y no había data anterior para reusar):`);
+    perdidos.forEach((d) => lineas.push(`  - ${d}`));
+  }
+  const texto = lineas.join('\n') + '\n';
+  try { fs.appendFileSync('alertas-remates.log', texto); } catch (e) { /* nada */ }
+  console.error(texto);
 }
 
 // --- Filtro FINO de vinilos -------------------------------------------------
@@ -326,6 +366,8 @@ function extraerArtista(titulo) {
 
 // --- Obtener el HTML de un remate (cache o en vivo) -------------------------
 
+const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36';
+
 async function obtenerRemateHtml(id) {
   if (CACHE_DIR) {
     const f = path.join(CACHE_DIR, `remate-${id}.html`);
@@ -333,9 +375,33 @@ async function obtenerRemateHtml(id) {
     throw new Error(`no está en cache: ${f}`);
   }
   const url = `${BASE_URL}participar/remate/${id}`;
-  const r = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36' } });
-  if (!r.ok) throw new Error(`HTTP ${r.status}`);
-  return await r.text();
+  // Reintentos con espera creciente. El sitio a veces responde 429 ("demasiados
+  // pedidos"): en ese caso NO hay que rendirse, hay que esperar y reintentar
+  // (respetando la cabecera Retry-After si viene). Antes un 429 hacía que el
+  // remate quedara con 0 vinilos y desapareciera de la app.
+  const MAX_INTENTOS = 4;
+  let espera = 3000;
+  for (let intento = 1; intento <= MAX_INTENTOS; intento++) {
+    let r;
+    try {
+      r = await fetch(url, { headers: { 'User-Agent': UA } });
+    } catch (e) {
+      if (intento === MAX_INTENTOS) throw e; // error de red: reintentar
+      await dormir(espera); espera = Math.min(espera * 2, 30000); continue;
+    }
+    if (r.ok) return await r.text();
+    // 429 (rate limit) o 5xx (error temporal del server): esperar y reintentar.
+    if (r.status === 429 || r.status >= 500) {
+      if (intento === MAX_INTENTOS) throw new Error(`HTTP ${r.status}`);
+      const ra = parseInt(r.headers.get('retry-after') || '', 10);
+      const pausa = !isNaN(ra) ? Math.min(ra * 1000, 60000) : espera;
+      process.stderr.write(`(HTTP ${r.status}, espero ${Math.round(pausa / 1000)}s y reintento) `);
+      await dormir(pausa); espera = Math.min(espera * 2, 30000); continue;
+    }
+    // Otros errores (404, etc.): no tiene sentido reintentar.
+    throw new Error(`HTTP ${r.status}`);
+  }
+  throw new Error('sin respuesta tras reintentos');
 }
 
 // --- Programa principal -----------------------------------------------------
@@ -362,9 +428,15 @@ async function principal() {
 
   console.error(`Remates candidatos a revisar: ${activos.length}\n`);
 
+  // Cargar la corrida ANTERIOR (app/vinilos.json), para poder REUSAR la data de
+  // un remate que hoy falle la descarga (así no desaparece), y para el log.
+  const previo = cargarPrevio();
+
   const resultado = [];
   let totalVinilos = 0;
   const alertasExtraccion = []; // avisos si se pierden lotes al extraer
+  const reusados = [];          // remates que fallaron y reusaron data anterior
+  const perdidos = [];          // remates activos que se cayeron sin data previa
 
   // 3) Entrar a cada remate y buscar vinilos.
   for (const rem of activos) {
@@ -373,8 +445,30 @@ async function principal() {
     try {
       html = await obtenerRemateHtml(rem.id);
     } catch (e) {
-      console.error(`ERROR: ${e.message}`);
-      resultado.push({ ...datosRemate(rem, rem.descripcion), error: e.message, vinilos: [] });
+      // No se pudo bajar la página (ej: 429 tras varios reintentos).
+      // CARRY-FORWARD: si el remate estaba en la corrida anterior con vinilos y
+      // todavía no cerró, reusamos esa data para que NO desaparezca de la app.
+      const antes = previo[String(rem.id)];
+      if (antes && antes.vinilos && antes.vinilos.length) {
+        console.error(`ERROR: ${e.message} → reuso data anterior (${antes.vinilos.length} vinilos)`);
+        resultado.push({
+          ...datosRemate(rem, antes.nombre || rem.descripcion),
+          totalLotes: antes.totalLotes,
+          vinilos: antes.vinilos,
+          desactualizado: true, // los datos/ofertas son de la corrida anterior
+          error: e.message,
+        });
+        totalVinilos += antes.vinilos.length;
+        reusados.push(`${rem.id} (${e.message})`);
+      } else {
+        console.error(`ERROR: ${e.message}`);
+        resultado.push({ ...datosRemate(rem, rem.descripcion), error: e.message, vinilos: [] });
+        // Si es un remate activo (no cerrado) y no teníamos data previa, es una
+        // posible pérdida: lo anotamos para el log.
+        if (!rem.fechaDudosa && rem.timestamp && rem.timestamp >= ahora) {
+          perdidos.push(`${rem.id} "${(rem.descripcion || '').slice(0, 40)}" cierra ${rem.fecha || '?'} (${e.message})`);
+        }
+      }
       continue;
     }
 
@@ -426,8 +520,25 @@ async function principal() {
     totalVinilos += vinilos.length;
     resultado.push({ ...datosRemate(rem, nombre), totalLotes: items.length, vinilos });
 
-    if (!CACHE_DIR) await dormir(ESPERA_MS);
+    if (!CACHE_DIR) await dormir(ESPERA_MS + Math.floor(Math.random() * 700));
   }
+
+  // 3b) CHEQUEO PERMANENTE: ¿algún remate que ESTABA en la corrida anterior con
+  // vinilos, y que todavía NO cerró, hoy quedó sin vinilos (desapareció)?
+  const ahoraMap = {};
+  resultado.forEach((r) => { ahoraMap[String(r.id)] = r; });
+  const desaparecidos = [];
+  Object.keys(previo).forEach((id) => {
+    const antes = previo[id];
+    if (!antes.vinilos || !antes.vinilos.length) return;         // antes no tenía vinilos
+    if (antes.timestamp && antes.timestamp < ahora) return;      // ya cerró: es normal que no esté
+    const hoy = ahoraMap[id];
+    if (!hoy || !hoy.vinilos || !hoy.vinilos.length) {
+      desaparecidos.push(`${id} "${(antes.nombre || '').slice(0, 45)}" cierra ${antes.fecha || '?'}` +
+        (hoy && hoy.error ? ` (${hoy.error})` : ' (no vino en esta corrida)'));
+    }
+  });
+  escribirLogAlertas({ reusados, perdidos, desaparecidos });
 
   // 4) Guardar y mostrar.
   // Se envuelve en { generado, remates }: "generado" es la hora de esta corrida

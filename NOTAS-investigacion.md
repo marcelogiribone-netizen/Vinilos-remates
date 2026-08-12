@@ -4,6 +4,46 @@ Bitácora del proyecto, en español simple. Cada sesión de trabajo agrega lo qu
 
 ---
 
+## Sesión 14 — 12 de agosto de 2026 — Remates que desaparecen por HTTP 429
+
+### El problema
+Un remate (7600, "Noche de la Nostalgia", cierra 16/08) apareció un día y al
+siguiente desapareció de la app, aunque en la web seguía activo.
+
+### Diagnóstico con datos (sin suponer)
+- **Home:** el 7600 aparece, dice "Vinilos" → pasa palabras clave.
+- **Fecha:** cierra 16/08 (futuro) → pasa el filtro de fecha. NO era problema de
+  fecha (se descartó mirando el timestamp; la fecha de la home es la de cierre).
+- **Lotes:** 125 lotes, 124 se aceptan como vinilo → el filtro tampoco lo
+  rechaza.
+- **Descarga del remate:** ACÁ se caía. Comparando el JSON de ayer vs hoy en
+  `main`: ayer el 7600 tenía 124 vinilos; hoy quedó con 0 y `error: "HTTP 429"`.
+  Y no fue solo el 7600: **14 de 24 remates** de esa corrida fallaron con
+  **HTTP 429 (Too Many Requests)**. El sitio nos limita por pedir muy seguido, y
+  cuáles remates caen es casi aleatorio según el timing.
+
+**Causa raíz:** `paso2` bajaba las páginas muy rápido, el sitio devolvía 429, y
+el código trataba el 429 como "sin lotes" en silencio → el remate quedaba con 0
+vinilos y la app lo escondía.
+
+### El arreglo (en capas)
+1. **Reintentos con espera ante 429/5xx** (respetando `Retry-After`): ante un
+   429 ya no se rinde; espera y reintenta (hasta 4 veces, espera creciente).
+2. **Descarga más pausada** (1,5–2,2 s entre pedidos, con jitter) para no
+   disparar el 429.
+3. **Carry-forward:** si aun así falla la descarga de un remate que **estaba en
+   la corrida anterior con vinilos y todavía no cerró**, se **reusa esa data**
+   (marcada `desactualizado: true`) para que NO desaparezca de la app.
+4. **Chequeo permanente (log):** `alertas-remates.log` registra, con fecha, los
+   remates que se reusaron, los que se perdieron sin data previa, y cualquiera
+   que estaba ayer (activo) y hoy no vino. Queda commiteado para revisarlo.
+
+Nota: el `desactualizado: true` indica que las ofertas de ese remate son de la
+corrida anterior (una foto un poco más vieja) hasta que la próxima descarga
+funcione.
+
+---
+
 ## Política permanente — conflictos por app/vinilos.json (decidido 10/8/2026)
 
 **Problema:** la tarea automática reescribe `app/vinilos.json` en `main`; si una
