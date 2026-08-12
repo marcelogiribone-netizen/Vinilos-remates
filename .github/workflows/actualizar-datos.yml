@@ -43,17 +43,42 @@ jobs:
         run: cp vinilos-encontrados.json app/vinilos.json
 
       - name: Commitear y subir si hubo cambios
+        # 'set -e' hace que si CUALQUIER comando falla (commit, push...), el paso
+        # quede en ROJO. NO se esconden errores con 2>/dev/null ni con || true:
+        # preferimos ver el error feo antes que un verde mentiroso.
         run: |
+          set -e
           git config user.name "DigBin bot"
           git config user.email "actions@users.noreply.github.com"
-          # Incluye el JSON de datos y el log de alertas (si se generó).
-          git add app/vinilos.json alertas-remates.log 2>/dev/null || true
+
+          # El JSON de datos SIEMPRE se agrega: es el resultado que se publica.
+          # (Si por algún motivo git add fallara, el paso se cae en rojo, no se
+          #  oculta.)
+          git add app/vinilos.json
+
+          # El log de alertas es OPCIONAL: solo existe si hubo remates con
+          # problemas. Que falte NO debe impedir publicar el JSON, por eso se
+          # agrega SOLO si el archivo existe (y en su propio comando, no junto al
+          # JSON: así una ruta faltante nunca aborta el git add del resultado).
+          if [ -f alertas-remates.log ]; then
+            git add alertas-remates.log
+          fi
+
           if git diff --cached --quiet; then
             echo "Sin cambios — no hay nada para commitear."
           else
             git commit -m "Actualización automática de datos (vinilos.json) [skip ci]"
             git push
             echo "Datos actualizados y subidos."
+            # Verificación de guardado: confirmamos que lo que quedó en el árbol
+            # de trabajo YA está commiteado. Si por lo que sea quedaran cambios
+            # sin subir, el paso se pone en ROJO (un fallo al publicar NO puede
+            # volver a ser invisible).
+            if ! git diff --quiet -- app/vinilos.json; then
+              echo "::error::app/vinilos.json quedó con cambios sin commitear tras el push."
+              exit 1
+            fi
+            echo "Guardado verificado: app/vinilos.json commiteado y subido."
           fi
 
       # Marca la corrida en ROJO si algún remate no se pudo leer (aunque los

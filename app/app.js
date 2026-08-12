@@ -34,7 +34,10 @@ function leerMapa(key) {
   catch (e) { return {}; }
 }
 function guardarMapa(key, obj) {
-  try { localStorage.setItem(key, JSON.stringify(obj)); } catch (e) { /* nada */ }
+  // localStorage puede fallar (modo privado, cuota llena). No rompe la app, pero
+  // lo avisamos en la consola en vez de tragarlo en silencio.
+  try { localStorage.setItem(key, JSON.stringify(obj)); }
+  catch (e) { console.warn('No se pudo guardar en localStorage (' + key + '):', e && e.message); }
 }
 
 // Puntuación de un remate (0 a 5).
