@@ -55,3 +55,15 @@ jobs:
             git push
             echo "Datos actualizados y subidos."
           fi
+
+      # Marca la corrida en ROJO si algún remate no se pudo leer (aunque los
+      # datos YA se publicaron con carry-forward). Así te enterás y podés revisar
+      # el log alertas-remates.log.
+      - name: Marcar la corrida si hubo remates con problemas
+        run: |
+          if [ -f .hubo-fallos ]; then
+            echo "::warning::$(cat .hubo-fallos) remate(s) no se pudieron leer en esta corrida. Ver alertas-remates.log."
+            echo "Hubo fallos de lectura; se publicaron los datos con carry-forward, pero marco la corrida para revisar."
+            exit 1
+          fi
+          echo "Sin fallos de lectura en esta corrida."

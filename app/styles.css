@@ -318,6 +318,30 @@ main {
   margin: -4px 2px 12px;
   font-style: italic;
 }
+
+/* Avisos de "no se pudo actualizar" */
+.banner-fallos {
+  background: #fff3cd;
+  color: #7a5b00;
+  border: 1px solid #ffe08a;
+  border-radius: 10px;
+  padding: 9px 12px;
+  font-size: .82rem;
+  margin: 0 2px 12px;
+}
+@media (prefers-color-scheme: dark) {
+  .banner-fallos { background: #3a3320; color: #f0d98a; border-color: #5a4d24; }
+}
+.nota-fallo {
+  font-size: .78rem;
+  color: #b26a00;
+  margin: 4px 0 0;
+  font-weight: 600;
+}
+@media (prefers-color-scheme: dark) { .nota-fallo { color: #ffcf6b; } }
+.card-problema { border-left: 4px solid #e0a800; }
+.badge-gris { background: #d9d3c8; color: #5a5750; }
+@media (prefers-color-scheme: dark) { .badge-gris { background: #3a352c; color: #c9c2b4; } }
 .chips { margin-top: 6px; }
 .chip {
   display: inline-block;

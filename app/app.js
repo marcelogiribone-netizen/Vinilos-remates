@@ -18,6 +18,7 @@ var aviso = document.getElementById('aviso');
 var datos = [];         // remates con vinilos
 var actualizado = null;  // fecha de la última descarga de datos
 var generado = null;     // fecha en que el detector tomó los datos (ofertas)
+var fallos = 0;          // remates que no se pudieron leer en la última corrida
 var soloDestacados = false; // filtro de la pantalla 2
 
 // --- Guardado en el celular (localStorage) ---------------------------------
@@ -164,6 +165,26 @@ function nombreDisco(v) {
   return v.titulo || v.album || v.artista || 'Disco';
 }
 
+function fechaCortaISO(iso) {
+  if (!iso) return '';
+  try {
+    return new Date(iso).toLocaleString('es-UY',
+      { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
+  } catch (e) { return ''; }
+}
+
+// Aviso de "no se pudo actualizar" para un remate (o null si está al día).
+function notaFallo(r) {
+  if (r.noLeido) {
+    return '⚠️ No se pudo leer este remate en la última corrida. Podés abrirlo en la web.';
+  }
+  if (r.desactualizado) {
+    var f = fechaCortaISO(r.datosDe);
+    return '⚠️ Datos' + (f ? ' del ' + f : ' anteriores') + ' — no se pudo actualizar en la última corrida.';
+  }
+  return null;
+}
+
 // Crea una <img> que no manda Referer (para que el servidor no la bloquee)
 // y que, si falla, muestra el ícono genérico como respaldo.
 function crearFoto(clase, url, alt) {
@@ -206,19 +227,25 @@ function cargarDatos() {
     });
 }
 
-// Acepta el formato nuevo { generado, remates } y el viejo (array suelto).
-// Además setea la variable global `generado`.
+// Acepta el formato nuevo { generado, fallos, remates } y el viejo (array).
+// Setea las variables globales `generado` y `fallos`.
 function prepararDatos(json) {
   var remates;
   if (json && !Array.isArray(json) && Array.isArray(json.remates)) {
     remates = json.remates;
     generado = json.generado || null;
+    fallos = json.fallos || 0;
   } else {
     remates = json || [];
     generado = null; // formato viejo: no trae hora de generación
+    fallos = 0;
   }
+  // Mostramos remates con vinilos O con problema de lectura (error/noLeido),
+  // así un remate que no se pudo actualizar NUNCA desaparece en silencio.
   return remates
-    .filter(function (r) { return r.vinilos && r.vinilos.length > 0; })
+    .filter(function (r) {
+      return (r.vinilos && r.vinilos.length > 0) || r.error || r.noLeido;
+    })
     .sort(function (a, b) {
       return (a.timestamp || Infinity) - (b.timestamp || Infinity);
     });
@@ -296,8 +323,16 @@ function pantallaLista() {
     totalVinilos + ' vinilos en ' + activos.length + ' remates' +
     (actualizado ? ' · actualizado ' + fechaCorta(actualizado) : '')));
 
+  // Banner si en la última corrida algún remate no se pudo actualizar.
+  var conProblema = activos.filter(function (r) { return r.desactualizado || r.noLeido; }).length;
+  if (conProblema > 0) {
+    contenido.appendChild(el('p', 'banner-fallos',
+      '⚠️ ' + conProblema + ' remate' + (conProblema === 1 ? '' : 's') +
+      ' no se pudieron actualizar en la última corrida (se muestran con datos anteriores).'));
+  }
+
   activos.forEach(function (r) {
-    var card = el('div', 'card-remate');
+    var card = el('div', 'card-remate' + (r.desactualizado || r.noLeido ? ' card-problema' : ''));
 
     // Fila superior: foto + textos
     var fila = el('div', 'card-fila');
@@ -315,13 +350,22 @@ function pantallaLista() {
     }
     if (r.fechaDudosa) meta.appendChild(document.createTextNode('  ⚠️ fecha dudosa'));
     texto.appendChild(meta);
+
+    // Aviso de "no se pudo actualizar" (datos viejos o no leído).
+    var nf = notaFallo(r);
+    if (nf) texto.appendChild(el('p', 'nota-fallo', nf));
+
     fila.appendChild(texto);
     card.appendChild(fila);
 
-    // Fila inferior: cantidad de vinilos + estrellas
+    // Fila inferior: cantidad de vinilos (o aviso) + estrellas
     var pie = el('div', 'card-pie');
     var n = r.vinilos.length;
-    pie.appendChild(el('span', 'badge', '🎵 ' + n + (n === 1 ? ' vinilo' : ' vinilos')));
+    if (r.noLeido && n === 0) {
+      pie.appendChild(el('span', 'badge badge-gris', '⚠️ sin datos'));
+    } else {
+      pie.appendChild(el('span', 'badge', '🎵 ' + n + (n === 1 ? ' vinilo' : ' vinilos')));
+    }
     pie.appendChild(crearEstrellas(r.id));
     card.appendChild(pie);
 
@@ -361,12 +405,24 @@ function pantallaDetalle(id) {
   if (r.fecha) sub.appendChild(document.createTextNode('🕒 ' + r.fecha + (r.fechaDudosa ? '  ⚠️ fecha dudosa' : '')));
   cab.appendChild(sub);
 
+  var nf = notaFallo(r);
+  if (nf) cab.appendChild(el('p', 'nota-fallo', nf));
+
   if (r.url) {
     var btn = el('a', 'btn-remate', 'Ver remate completo en la web ↗');
     btn.href = r.url; btn.target = '_blank'; btn.rel = 'noopener';
     cab.appendChild(btn);
   }
   contenido.appendChild(cab);
+
+  // Si no se pudo leer y no hay vinilos que mostrar, avisamos y salimos.
+  if (r.noLeido && (!r.vinilos || !r.vinilos.length)) {
+    contenido.appendChild(estado(
+      'No se pudieron leer los vinilos de este remate en la última corrida ' +
+      '(el sitio no respondió a tiempo). Va a reintentar en la próxima corrida. ' +
+      'Mientras tanto podés abrir el remate en la web con el botón de arriba.'));
+    return;
+  }
 
   // Barra de filtro: cantidad + "solo destacados"
   var barra = el('div', 'barra-filtro');

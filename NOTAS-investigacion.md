@@ -26,21 +26,54 @@ siguiente desapareció de la app, aunque en la web seguía activo.
 el código trataba el 429 como "sin lotes" en silencio → el remate quedaba con 0
 vinilos y la app lo escondía.
 
-### El arreglo (en capas)
-1. **Reintentos con espera ante 429/5xx** (respetando `Retry-After`): ante un
-   429 ya no se rinde; espera y reintenta (hasta 4 veces, espera creciente).
-2. **Descarga más pausada** (1,5–2,2 s entre pedidos, con jitter) para no
-   disparar el 429.
-3. **Carry-forward:** si aun así falla la descarga de un remate que **estaba en
-   la corrida anterior con vinilos y todavía no cerró**, se **reusa esa data**
-   (marcada `desactualizado: true`) para que NO desaparezca de la app.
-4. **Chequeo permanente (log):** `alertas-remates.log` registra, con fecha, los
-   remates que se reusaron, los que se perdieron sin data previa, y cualquiera
-   que estaba ayer (activo) y hoy no vino. Queda commiteado para revisarlo.
+### El arreglo (en capas) — prioridad: pedir más despacio, no reintentar
 
-Nota: el `desactualizado: true` indica que las ofertas de ese remate son de la
-corrida anterior (una foto un poco más vieja) hasta que la próxima descarga
-funcione.
+La decisión de fondo (pedida por Marcelo): **ser respetuoso con el servidor
+importa más que la velocidad**. La corrida corre sola, que tarde más no molesta.
+Por eso la solución principal es **pedir más despacio**, y los reintentos son
+solo un complemento por si algo falla igual.
+
+1. **Descarga pausada (solución principal).** Pausa de cortesía **ANTES de cada
+   pedido** (menos el primero): `ESPERA_MS = 4000` (4 s) + un jitter aleatorio
+   de hasta 1,5 s. La pausa va antes del pedido y **también se respeta cuando un
+   remate falla**, para no encadenar pedidos sin freno tras un error.
+   - **Por qué 4 s:** se midió contra el servidor real con `curl`. Con ~4 s entre
+     pedidos, los **28** remates candidatos respondieron 200 y hubo **0 respuestas
+     429**. (A velocidad vieja fallaban ~14 de 24.)
+2. **Reintentos con espera creciente (complemento).** Ante 429/5xx: espera y
+   reintenta hasta 4 veces, respetando el header `Retry-After`; si no viene,
+   arranca en 3 s y va duplicando (tope 30 s). No es la primera línea de defensa,
+   es la red de seguridad.
+3. **Nunca más un fallo silencioso.** Un remate que no se pudo bajar **ya no
+   queda como "0 vinilos"**. Se distingue claramente:
+   - **Se pudo leer y no tiene vinilos** → `vinilos: []` normal.
+   - **No se pudo leer** → se marca el remate, no se lo vacía.
+4. **Carry-forward (no hacer desaparecer un remate que existe).** Si falla la
+   descarga de un remate que **estaba en la corrida anterior con vinilos y
+   todavía no cerró**, se **reusa esa data** con `desactualizado: true` y
+   `datosDe: <fecha de esos datos>`. Si nunca hubo data previa, se marca
+   `noLeido: true` (la app lo muestra como "no se pudo leer, abrilo en la web").
+5. **Que Marcelo se entere (aviso en dos lados).**
+   - **En la app:** un cartel arriba ("⚠️ N remates no se pudieron actualizar…")
+     y, en cada remate afectado, una nota: *"Datos del [fecha] — no se pudo
+     actualizar"* (carry-forward) o *"No se pudo leer este remate"* (sin data).
+     El JSON lleva un campo `fallos` con la cantidad.
+   - **En GitHub:** si hubo algún fallo de lectura, `paso2` deja una bandera
+     `.hubo-fallos`; el workflow **publica igual los datos** (con carry-forward) y
+     recién después marca la corrida en **ROJO** (`exit 1`) para poder revisarla.
+6. **Chequeo permanente (log):** `alertas-remates.log` registra, con fecha, los
+   remates reusados, los perdidos sin data previa, y cualquiera que estaba ayer
+   (activo) y hoy no vino. Queda commiteado para revisarlo.
+
+### Verificación
+- **Experimento con `curl` a 4 s:** `=== TOTAL: 28 remates | 429: 0 | otros
+  errores: 0 ===`. Cero fallos de descarga con el espaciado puesto.
+- **Prueba de la app en el navegador:** el cartel de arriba, las notas por
+  remate, el badge "⚠️ sin datos" y la pantalla de detalle se ven todos bien.
+- **Pendiente (honesto):** la verificación "en vivo" de verdad (el detector
+  entero contra el sitio real) **no se puede correr desde este entorno** porque
+  la red del sandbox bloquea las descargas web. La prueba final de "cero fallos"
+  es la **próxima corrida de GitHub Actions** después de mergear.
 
 ---
 
