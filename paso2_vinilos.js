@@ -163,7 +163,13 @@ function escribirLogAlertas({ reusados, perdidos, desaparecidos }) {
     perdidos.forEach((d) => lineas.push(`  - ${d}`));
   }
   const texto = lineas.join('\n') + '\n';
-  try { fs.appendFileSync('alertas-remates.log', texto); } catch (e) { /* nada */ }
+  try {
+    fs.appendFileSync('alertas-remates.log', texto);
+  } catch (e) {
+    // No abortamos por no poder escribir el log, pero lo AVISAMOS (no lo
+    // escondemos): que quede en el log de la corrida por si es un problema real.
+    console.error(`⚠️ No se pudo escribir alertas-remates.log: ${e.message}`);
+  }
   console.error(texto);
 }
 
@@ -587,7 +593,13 @@ async function principal() {
   try {
     if (fallosReales > 0) fs.writeFileSync('.hubo-fallos', String(fallosReales) + '\n');
     else if (fs.existsSync('.hubo-fallos')) fs.unlinkSync('.hubo-fallos');
-  } catch (e) { /* nada */ }
+  } catch (e) {
+    // Si NO pudimos dejar la bandera habiendo fallos, el semáforo no se
+    // enteraría → un fallo quedaría invisible. Antes que eso, avisamos fuerte y
+    // hacemos que la corrida termine en ROJO.
+    console.error(`⚠️ No se pudo manejar la bandera .hubo-fallos: ${e.message}`);
+    if (fallosReales > 0) process.exitCode = 1;
+  }
 
   // Alerta permanente de extracción: si algún remate perdió lotes, avisamos
   // fuerte y terminamos con error (exit 1). En la actualización diaria (GitHub
