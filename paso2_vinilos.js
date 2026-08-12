@@ -34,7 +34,11 @@ const path = require('path');
 const BASE_URL = 'https://www.remotes.com.uy/';
 const IMG_BASE = 'https://static3.remotes.com.uy/img/thumb/800/';
 const CACHE_DIR = process.env.CACHE_DIR || null;
-const ESPERA_MS = 800; // pausa entre pedidos, para no golpear el servidor
+// Pausa base entre pedidos (+ jitter). Prioridad: ser respetuoso con el sitio.
+// Medido contra el servidor real: con ~4s entre pedidos, 0 respuestas 429
+// (28/28 dieron 200); con 0,8s aparecían muchos 429. La corrida tarda más pero
+// corre sola, así que preferimos ir despacio.
+const ESPERA_MS = 4000;
 
 // --- Utilidades de texto ----------------------------------------------------
 
@@ -119,6 +123,48 @@ function contarLotesEnHTML(html) {
   }
   if (end < 0) return null;
   return (html.slice(start, end + 1).match(/"identificador":/g) || []).length;
+}
+
+// Lee la corrida ANTERIOR (app/vinilos.json) y devuelve { mapa, generado }.
+// Sirve para reusar la data de un remate que hoy falle la descarga, y para
+// saber de cuándo son esos datos ("datos del ...").
+function cargarPrevio() {
+  for (const ruta of ['app/vinilos.json', 'vinilos-encontrados.json']) {
+    try {
+      const j = JSON.parse(fs.readFileSync(ruta, 'utf8'));
+      const arr = Array.isArray(j) ? j : (j.remates || []);
+      const generado = Array.isArray(j) ? null : (j.generado || null);
+      if (arr.length) {
+        const mapa = {};
+        arr.forEach((r) => { mapa[String(r.id)] = r; });
+        return { mapa, generado };
+      }
+    } catch (e) { /* si no existe o no parsea, seguimos sin previo */ }
+  }
+  return { mapa: {}, generado: null };
+}
+
+// Escribe un LOG PERMANENTE (alertas-remates.log) cuando un remate que estaba
+// ayer y no cerró hoy no se pudo refrescar. Así queda registro para revisar.
+function escribirLogAlertas({ reusados, perdidos, desaparecidos }) {
+  if (!reusados.length && !perdidos.length && !desaparecidos.length) return;
+  const ts = new Date().toISOString();
+  const lineas = [`\n===== ${ts} =====`];
+  if (desaparecidos.length) {
+    lineas.push(`DESAPARECIDOS (estaban ayer con vinilos, no cerraron, hoy no están):`);
+    desaparecidos.forEach((d) => lineas.push(`  - ${d}`));
+  }
+  if (reusados.length) {
+    lineas.push(`REUSADOS (falló la descarga hoy; se mantuvo la data anterior para que no desaparezcan):`);
+    reusados.forEach((d) => lineas.push(`  - ${d}`));
+  }
+  if (perdidos.length) {
+    lineas.push(`SIN DATA PREVIA (falló la descarga y no había data anterior para reusar):`);
+    perdidos.forEach((d) => lineas.push(`  - ${d}`));
+  }
+  const texto = lineas.join('\n') + '\n';
+  try { fs.appendFileSync('alertas-remates.log', texto); } catch (e) { /* nada */ }
+  console.error(texto);
 }
 
 // --- Filtro FINO de vinilos -------------------------------------------------
@@ -326,6 +372,8 @@ function extraerArtista(titulo) {
 
 // --- Obtener el HTML de un remate (cache o en vivo) -------------------------
 
+const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36';
+
 async function obtenerRemateHtml(id) {
   if (CACHE_DIR) {
     const f = path.join(CACHE_DIR, `remate-${id}.html`);
@@ -333,9 +381,33 @@ async function obtenerRemateHtml(id) {
     throw new Error(`no está en cache: ${f}`);
   }
   const url = `${BASE_URL}participar/remate/${id}`;
-  const r = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36' } });
-  if (!r.ok) throw new Error(`HTTP ${r.status}`);
-  return await r.text();
+  // Reintentos con espera creciente. El sitio a veces responde 429 ("demasiados
+  // pedidos"): en ese caso NO hay que rendirse, hay que esperar y reintentar
+  // (respetando la cabecera Retry-After si viene). Antes un 429 hacía que el
+  // remate quedara con 0 vinilos y desapareciera de la app.
+  const MAX_INTENTOS = 4;
+  let espera = 3000;
+  for (let intento = 1; intento <= MAX_INTENTOS; intento++) {
+    let r;
+    try {
+      r = await fetch(url, { headers: { 'User-Agent': UA } });
+    } catch (e) {
+      if (intento === MAX_INTENTOS) throw e; // error de red: reintentar
+      await dormir(espera); espera = Math.min(espera * 2, 30000); continue;
+    }
+    if (r.ok) return await r.text();
+    // 429 (rate limit) o 5xx (error temporal del server): esperar y reintentar.
+    if (r.status === 429 || r.status >= 500) {
+      if (intento === MAX_INTENTOS) throw new Error(`HTTP ${r.status}`);
+      const ra = parseInt(r.headers.get('retry-after') || '', 10);
+      const pausa = !isNaN(ra) ? Math.min(ra * 1000, 60000) : espera;
+      process.stderr.write(`(HTTP ${r.status}, espero ${Math.round(pausa / 1000)}s y reintento) `);
+      await dormir(pausa); espera = Math.min(espera * 2, 30000); continue;
+    }
+    // Otros errores (404, etc.): no tiene sentido reintentar.
+    throw new Error(`HTTP ${r.status}`);
+  }
+  throw new Error('sin respuesta tras reintentos');
 }
 
 // --- Programa principal -----------------------------------------------------
@@ -356,25 +428,71 @@ async function principal() {
 
   // 2) Aplicar filtro de fecha (solo los que no cerraron) y ordenar por cierre.
   const ahora = Math.floor(Date.now() / 1000);
+  const generadoISO = new Date().toISOString(); // hora de esta corrida
   const activos = candidatos
     .filter((r) => r.fechaDudosa || !r.timestamp || r.timestamp >= ahora)
     .sort((a, b) => (a.timestamp || Infinity) - (b.timestamp || Infinity));
 
   console.error(`Remates candidatos a revisar: ${activos.length}\n`);
 
+  // Cargar la corrida ANTERIOR (app/vinilos.json), para poder REUSAR la data de
+  // un remate que hoy falle la descarga (así no desaparece), y para el log.
+  const previoObj = cargarPrevio();
+  const previo = previoObj.mapa;
+  const previoGenerado = previoObj.generado;
+
   const resultado = [];
-  let totalVinilos = 0;
   const alertasExtraccion = []; // avisos si se pierden lotes al extraer
+  const reusados = [];          // remates que fallaron y reusaron data anterior
+  const perdidos = [];          // remates activos que se cayeron sin data previa
+
+  // Manejo de un remate que NO se pudo leer (descarga falló, o no se pudo
+  // interpretar la página). NUNCA lo dejamos como "0 vinilos" en silencio:
+  //  - si estaba en la corrida anterior con vinilos → reusamos esa data
+  //    (marcado desactualizado, con la fecha de esos datos);
+  //  - si no había data previa → lo marcamos noLeido (la app lo muestra como
+  //    "no se pudo actualizar", nunca lo esconde).
+  function marcarFallo(rem, nombre, mensaje) {
+    const antes = previo[String(rem.id)];
+    if (antes && antes.vinilos && antes.vinilos.length) {
+      console.error(`  → reuso data anterior (${antes.vinilos.length} vinilos)`);
+      resultado.push({
+        ...datosRemate(rem, antes.nombre || nombre || rem.descripcion),
+        totalLotes: antes.totalLotes,
+        vinilos: antes.vinilos,
+        desactualizado: true,
+        datosDe: antes.datosDe || previoGenerado || null,
+        error: mensaje,
+      });
+      reusados.push(`${rem.id} (${mensaje})`);
+    } else {
+      resultado.push({
+        ...datosRemate(rem, nombre || rem.descripcion),
+        vinilos: [], noLeido: true, error: mensaje,
+      });
+      if (!rem.fechaDudosa && rem.timestamp && rem.timestamp >= ahora) {
+        perdidos.push(`${rem.id} "${(rem.descripcion || '').slice(0, 40)}" cierra ${rem.fecha || '?'} (${mensaje})`);
+      }
+    }
+  }
 
   // 3) Entrar a cada remate y buscar vinilos.
+  let primero = true;
   for (const rem of activos) {
+    // Pausa de cortesía ANTES de cada pedido (menos el primero). Va acá y no al
+    // final del ciclo para que también se respete cuando un remate falla (así no
+    // encadenamos pedidos sin pausa tras un error). Con cache local no espera.
+    if (!primero && !CACHE_DIR) await dormir(ESPERA_MS + Math.floor(Math.random() * 1500));
+    primero = false;
+
     process.stderr.write(`Revisando remate ${rem.id} (${rem.empresa || '?'})... `);
     let html;
     try {
       html = await obtenerRemateHtml(rem.id);
     } catch (e) {
+      // No se pudo bajar la página (ej: 429 tras varios reintentos).
       console.error(`ERROR: ${e.message}`);
-      resultado.push({ ...datosRemate(rem, rem.descripcion), error: e.message, vinilos: [] });
+      marcarFallo(rem, null, e.message);
       continue;
     }
 
@@ -382,8 +500,9 @@ async function principal() {
 
     const items = extraerItems(html);
     if (!items) {
+      // Se bajó pero no se pudo interpretar la página: también es "no leído".
       console.error('sin lotes legibles');
-      resultado.push({ ...datosRemate(rem, nombre), error: 'no se pudo leer var items', vinilos: [] });
+      marcarFallo(rem, nombre, 'no se pudo leer la página (var items)');
       continue;
     }
 
@@ -423,22 +542,52 @@ async function principal() {
     }
 
     console.error(`${items.length} lotes, ${vinilos.length} vinilos`);
-    totalVinilos += vinilos.length;
-    resultado.push({ ...datosRemate(rem, nombre), totalLotes: items.length, vinilos });
-
-    if (!CACHE_DIR) await dormir(ESPERA_MS);
+    resultado.push({ ...datosRemate(rem, nombre), totalLotes: items.length, vinilos, datosDe: generadoISO });
   }
 
+  // 3b) CHEQUEO PERMANENTE: ¿algún remate que ESTABA en la corrida anterior con
+  // vinilos, y que todavía NO cerró, hoy quedó sin vinilos (desapareció)?
+  const ahoraMap = {};
+  resultado.forEach((r) => { ahoraMap[String(r.id)] = r; });
+  const desaparecidos = [];
+  Object.keys(previo).forEach((id) => {
+    const antes = previo[id];
+    if (!antes.vinilos || !antes.vinilos.length) return;         // antes no tenía vinilos
+    if (antes.timestamp && antes.timestamp < ahora) return;      // ya cerró: es normal que no esté
+    const hoy = ahoraMap[id];
+    if (!hoy || !hoy.vinilos || !hoy.vinilos.length) {
+      desaparecidos.push(`${id} "${(antes.nombre || '').slice(0, 45)}" cierra ${antes.fecha || '?'}` +
+        (hoy && hoy.error ? ` (${hoy.error})` : ' (no vino en esta corrida)'));
+    }
+  });
+  escribirLogAlertas({ reusados, perdidos, desaparecidos });
+
+  // Cantidad de remates que NO se pudieron leer en esta corrida (fallos de
+  // descarga o de lectura). Va en el JSON para que la APP pueda avisar.
+  const fallos = resultado.filter((r) => r.error).length;
+  const fallosReales = reusados.length + perdidos.length; // fallos de esta corrida
+
   // 4) Guardar y mostrar.
-  // Se envuelve en { generado, remates }: "generado" es la hora de esta corrida
-  // (la app la muestra como "ofertas al ..."). La app también acepta el formato
-  // viejo (un array suelto) por compatibilidad.
-  const salida = { generado: new Date().toISOString(), remates: resultado };
+  // Se envuelve en { generado, remates, fallos }: "generado" = hora de la
+  // corrida (la app la muestra como "ofertas al ..."). La app acepta también el
+  // formato viejo (array suelto).
+  const salida = { generado: generadoISO, fallos, remates: resultado };
   fs.writeFileSync('vinilos-encontrados.json', JSON.stringify(salida, null, 2));
 
+  const totalVinilos = resultado.reduce((s, r) => s + (r.vinilos ? r.vinilos.length : 0), 0);
   console.log('\n' + '='.repeat(72));
-  console.log(`RESULTADO: ${totalVinilos} vinilos en ${resultado.filter(r => r.vinilos.length).length} remates`);
+  console.log(`RESULTADO: ${totalVinilos} vinilos en ${resultado.filter(r => r.vinilos.length).length} remates` +
+    (fallos ? ` | ${fallos} remate(s) con problemas de lectura` : ' | 0 fallos de descarga'));
   console.log('='.repeat(72));
+
+  // Bandera para el workflow: si hubo fallos de descarga/lectura en ESTA
+  // corrida, dejamos un archivo para que el paso final marque la corrida en
+  // ROJO en GitHub (pero SÍ publicamos los datos, con carry-forward). Si no
+  // hubo, borramos la bandera.
+  try {
+    if (fallosReales > 0) fs.writeFileSync('.hubo-fallos', String(fallosReales) + '\n');
+    else if (fs.existsSync('.hubo-fallos')) fs.unlinkSync('.hubo-fallos');
+  } catch (e) { /* nada */ }
 
   // Alerta permanente de extracción: si algún remate perdió lotes, avisamos
   // fuerte y terminamos con error (exit 1). En la actualización diaria (GitHub
