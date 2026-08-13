@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-12T23:22:04.795Z",
+  "generado": "2026-08-13T08:52:38.353Z",
   "fallos": 0,
   "remates": [
     {
@@ -33,11 +33,11 @@
           ]
         }
       ],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7521",
-      "nombre": "✅IMPERDIBLE REMATE ✅JUEVES 13 ✅18:30 HORAS✅ PLATERÍA,CUCHILLOS,ARTÍCULOS COLECCIONABLES, MUEBLES,BALANZA RELOJ BERKEL , ANTIGÜEDADES Y MÁS POR ✅CONSULTAS 091296984",
+      "nombre": "✅IMPERDIBLE HOY REMATE ✅JUEVES 13 ✅18:30 HORAS✅ PLATERÍA,CUCHILLOS,ARTÍCULOS COLECCIONABLES, MUEBLES,BALANZA RELOJ BERKEL , ANTIGÜEDADES Y MÁS . REALIZAMOS ENVIOS A TODO EL PAÍS",
       "empresa": "Richard Borges",
       "departamento": "SALTO",
       "lugar": "BLANDEGUES 705, SALTO",
@@ -48,7 +48,205 @@
       "url": "https://www.remotes.com.uy/participar/remate/7521",
       "totalLotes": 133,
       "vinilos": [],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
+    },
+    {
+      "id": "7554",
+      "nombre": "REMATE LIQUIDACIÓN DE",
+      "empresa": "De Araujo Subastas",
+      "departamento": "Montevideo",
+      "lugar": "Francisco Vidal 715, Montevideo",
+      "fecha": "13/08/2026, 18:45",
+      "fechaISO": "2026-08-13T21:45:00.000Z",
+      "timestamp": 1786657500,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7554",
+      "totalLotes": 155,
+      "vinilos": [
+        {
+          "id": 1084903,
+          "lote": "76",
+          "titulo": "Prensa para masitas Sawa 2000, con caja y accesorios",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "2000",
+          "moneda": "$",
+          "base": 150,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1084903/fb566b7c721ba029130955997f6d3a79.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7554?lote=76",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2000"
+          ]
+        },
+        {
+          "id": 1084922,
+          "lote": "95",
+          "titulo": "Lote de objetos decorativos y collar",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 150,
+          "oferta": 150,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1084922/7360d7a638015fc8bb47aba4505e7823.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7554?lote=95",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1084941,
+          "lote": "114",
+          "titulo": "Equipo de audio Aiwa NSX-S333 con parlantes de madera",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 1000,
+          "oferta": 1200,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1084941/6eac5c17569a8b677fb901368789cb46.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7554?lote=114",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1084960,
+          "lote": "133",
+          "titulo": "Vinilo \"The Roosters\" (disco israelí)",
+          "artista": null,
+          "album": "The Roosters",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1084960/71d1a1d0c859364369b6ca51154e8400.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7554?lote=133",
+          "motivos": [
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1084961,
+          "lote": "134",
+          "titulo": "Vinilos: Boney M \"Oceans of Fantasy\" y Rabbi Shlomo Carlebach",
+          "artista": null,
+          "album": "Oceans of Fantasy",
+          "sello": "RCA",
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": 100,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1084961/1889214536ac3d0a4c650a7390a4cd6f.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7554?lote=134",
+          "motivos": [
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1084962,
+          "lote": "135",
+          "titulo": "Vinilos: \"Panoramas de Israel\" y Dzigan et sa Partenaire",
+          "artista": "Israel",
+          "album": "Panoramas de Israel",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1084962/f9698a077794a7bac2c91df7fb330079.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7554?lote=135",
+          "motivos": [
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1084963,
+          "lote": "136",
+          "titulo": "Vinilo \"Midnight Express\" - banda sonora original",
+          "artista": "Vinilo \"Midnight Express\"",
+          "album": "banda sonora original",
+          "sello": null,
+          "anio": "1978",
+          "moneda": "$",
+          "base": 100,
+          "oferta": 100,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1084963/47836748a19d17d4090d5f9d8bfda898.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7554?lote=136",
+          "motivos": [
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\"",
+            "año 1978"
+          ]
+        },
+        {
+          "id": 1084964,
+          "lote": "137",
+          "titulo": "Lote de 7 discos simples de vinilo",
+          "artista": null,
+          "album": null,
+          "sello": "RCA",
+          "anio": "1973",
+          "moneda": "$",
+          "base": 100,
+          "oferta": 100,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1084964/b08d8e6547083f368ba5f68192f8e7a3.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7554?lote=137",
+          "motivos": [
+            "dice \"vinilo\"",
+            "año 1973"
+          ]
+        },
+        {
+          "id": 1084965,
+          "lote": "138",
+          "titulo": "Vinilo \"Israel's Tenth Anniversary\" - Music of Israel",
+          "artista": "Vinilo \"Israel's Tenth Anniversary\"",
+          "album": "Music of Israel",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1084965/801040371f38e39d6552c3dc815ff3bf.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7554?lote=138",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1084966,
+          "lote": "139",
+          "titulo": "Lote de vinilos y tapas",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1084966/54751899dc5e0d0257c5250ca8065425.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7554?lote=139",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        }
+      ],
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "6241",
@@ -63,7 +261,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/6241",
       "totalLotes": 95,
       "vinilos": [],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7366",
@@ -105,7 +303,7 @@
           "anio": "2011",
           "moneda": "$",
           "base": 200,
-          "oferta": 240,
+          "oferta": 260,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1089378/8f016e17466e795b4cd1dde16290c277.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7366?lote=67A",
           "motivos": [
@@ -123,7 +321,7 @@
           "anio": "1990",
           "moneda": "$",
           "base": 200,
-          "oferta": 490,
+          "oferta": 630,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1089379/e741089b5fd7f34c2b412701726957c6.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7366?lote=67B",
           "motivos": [
@@ -141,7 +339,7 @@
           "anio": "1994",
           "moneda": "$",
           "base": 200,
-          "oferta": 330,
+          "oferta": 360,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1089380/88413bc01db21ce5b6fc70c16ea7a4ff.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7366?lote=67C",
           "motivos": [
@@ -168,7 +366,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7567",
@@ -183,7 +381,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7567",
       "totalLotes": 137,
       "vinilos": [],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7385",
@@ -198,7 +396,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7385",
       "totalLotes": 102,
       "vinilos": [],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7586",
@@ -211,9 +409,9 @@
       "timestamp": 1786741200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7586",
-      "totalLotes": 217,
+      "totalLotes": 226,
       "vinilos": [],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7593",
@@ -228,7 +426,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7593",
       "totalLotes": 153,
       "vinilos": [],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7520",
@@ -243,7 +441,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7520",
       "totalLotes": 190,
       "vinilos": [],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7492",
@@ -258,7 +456,40 @@
       "url": "https://www.remotes.com.uy/participar/remate/7492",
       "totalLotes": 181,
       "vinilos": [],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
+    },
+    {
+      "id": "7611",
+      "nombre": "Antigüedades y más no se lo pierda.",
+      "empresa": "Ignacio Bazan",
+      "departamento": "Colonia",
+      "lugar": "Gilomen esquina Siegrist y Fender, Colonia",
+      "fecha": "16/08/2026, 11:00",
+      "fechaISO": "2026-08-16T14:00:00.000Z",
+      "timestamp": 1786888800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7611",
+      "totalLotes": 66,
+      "vinilos": [
+        {
+          "id": 1094016,
+          "lote": "65",
+          "titulo": "Sistema de audio SONY",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 6000,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1094016/7ad4249ac96167c912b450bfd577df51.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7611?lote=65",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        }
+      ],
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7524",
@@ -271,9 +502,9 @@
       "timestamp": 1786917600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7524",
-      "totalLotes": 68,
+      "totalLotes": 70,
       "vinilos": [],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7587",
@@ -288,7 +519,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7587",
       "totalLotes": 191,
       "vinilos": [],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7283",
@@ -303,7 +534,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7283",
       "totalLotes": 136,
       "vinilos": [],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7600",
@@ -1551,7 +1782,7 @@
           "anio": "1984",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1090750/33dbd6dd4b9299b7b2717f17f56fad50.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=68",
           "motivos": [
@@ -2145,7 +2376,7 @@
           "anio": "1979",
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091171/5e914093db060032b300f89c433734ac.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=102",
           "motivos": [
@@ -2271,7 +2502,7 @@
           "anio": "1985",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091178/2a2a81e5edfb3a4936bc28eb105b1d2e.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=109",
           "motivos": [
@@ -2307,7 +2538,7 @@
           "anio": "1987",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091180/2f06062c3e75997c0b480ab7a646ce79.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=111",
           "motivos": [
@@ -2550,7 +2781,22 @@
           ]
         }
       ],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
+    },
+    {
+      "id": "7620",
+      "nombre": "⚜️⚜️⚜️ ¡GRAN REMATE! LIQUIDACION CASA EN SHANGRILA – PARTE 2 – RETIRO EN MONTEVIDEO (BASILIO ARAUJO 3732) ✅MUEBLES ANTIGUOS COMO BIBLIOTECAS EN PINOTEA APARADORES Y MAS ✅ANTIGUEDADES Y COLECCIONABLES ✅RELOJ DE MESA ALEMAN JUNGHANS✅VAJILLA INGLESA ✅BOTELLONES DE WHISKY ✅LAMPARA DE MESA VINTAGE DE DISEÑO✅GUITARRA CLASICA, ELECTRICA, POTENCIA Y SAXOFON ✅DECORACIÓN & ADORNOS ✅CUADRO OLEO EUROPEO GILOU BRILLANT Y OTROS ✅BIJOUTERIE ✅LIBROS SELECCIONADOS Y MUCHO MÁS ✅ENVÍO A TODO EL PAÍS ✅¡PARTICIPA Y DEJA TU PRE-OFERTA AHORA!",
+      "empresa": "LOS ROBLES",
+      "departamento": "Montevideo",
+      "lugar": "Basilio Araújo 3732, Montevideo",
+      "fecha": "16/08/2026, 19:30",
+      "fechaISO": "2026-08-16T22:30:00.000Z",
+      "timestamp": 1786919400,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7620",
+      "totalLotes": 144,
+      "vinilos": [],
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7568",
@@ -2593,7 +2839,7 @@
           "anio": "1970",
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1085860/f3efe879246ee6f99b6e234d6a26f333.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7568?lote=2",
           "motivos": [
@@ -2637,7 +2883,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7595",
@@ -2652,7 +2898,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7595",
       "totalLotes": 38,
       "vinilos": [],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7612",
@@ -2667,7 +2913,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7612",
       "totalLotes": 139,
       "vinilos": [],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7614",
@@ -2682,7 +2928,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7614",
       "totalLotes": 100,
       "vinilos": [],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7572",
@@ -2695,9 +2941,9 @@
       "timestamp": 1787090400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7572",
-      "totalLotes": 243,
+      "totalLotes": 249,
       "vinilos": [],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7589",
@@ -2712,7 +2958,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7589",
       "totalLotes": 43,
       "vinilos": [],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7534",
@@ -2788,7 +3034,7 @@
           "anio": null,
           "moneda": "$",
           "base": 400,
-          "oferta": null,
+          "oferta": 400,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1093330/9f90c4049ecb17fd7e01c7bd5de86870.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7534?lote=144",
           "motivos": [
@@ -2864,7 +3110,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7541",
@@ -2897,7 +3143,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7482",
@@ -2912,7 +3158,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7482",
       "totalLotes": 143,
       "vinilos": [],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7518",
@@ -2927,7 +3173,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7518",
       "totalLotes": 105,
       "vinilos": [],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7409",
@@ -2942,7 +3188,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7409",
       "totalLotes": 30,
       "vinilos": [],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7602",
@@ -2955,9 +3201,9 @@
       "timestamp": 1788134400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7602",
-      "totalLotes": 22,
+      "totalLotes": 27,
       "vinilos": [],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     },
     {
       "id": "7545",
@@ -2972,7 +3218,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7545",
       "totalLotes": 92,
       "vinilos": [],
-      "datosDe": "2026-08-12T23:22:04.795Z"
+      "datosDe": "2026-08-13T08:52:38.353Z"
     }
   ]
 }
