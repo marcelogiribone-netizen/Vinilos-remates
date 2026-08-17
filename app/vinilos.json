@@ -1,94 +1,7 @@
 {
-  "generado": "2026-08-17T05:54:38.707Z",
+  "generado": "2026-08-17T21:55:12.042Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "7568",
-      "nombre": "✅ Remate de Colección de Aguafuertes y Grabados de Artistas Internacionales",
-      "empresa": "Valentina Rodríguez",
-      "departamento": "MONTEVIDEO",
-      "lugar": "AV. DAMASO A. LARRAÑAGA 3452, MONTEVIDEO",
-      "fecha": "17/08/2026, 15:00",
-      "fechaISO": "2026-08-17T18:00:00.000Z",
-      "timestamp": 1786989600,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7568",
-      "totalLotes": 138,
-      "vinilos": [
-        {
-          "id": 1085859,
-          "lote": "1",
-          "titulo": "1)  Disco LP ( BEATLES) Featurin Tony Sheridan  1973 Industria Uruguaya",
-          "artista": "BEATLES",
-          "album": null,
-          "sello": null,
-          "anio": "1973",
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1085859/9bcaa0769c65f3ee3504755eedcbc31f.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7568?lote=1",
-          "motivos": [
-            "dice \"LP\"",
-            "año 1973"
-          ]
-        },
-        {
-          "id": 1085860,
-          "lote": "2",
-          "titulo": "Disco LP ( BEATLES) Let It Be 1970 Industria Uruguaya",
-          "artista": "BEATLES",
-          "album": null,
-          "sello": null,
-          "anio": "1970",
-          "moneda": "$",
-          "base": 200,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1085860/f3efe879246ee6f99b6e234d6a26f333.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7568?lote=2",
-          "motivos": [
-            "dice \"LP\"",
-            "año 1970"
-          ]
-        },
-        {
-          "id": 1085861,
-          "lote": "3",
-          "titulo": "3)  Disco LP ( BEATLES) Rubber Soul 1965 Industria Uruguaya",
-          "artista": "BEATLES",
-          "album": null,
-          "sello": null,
-          "anio": "1965",
-          "moneda": "$",
-          "base": 200,
-          "oferta": 500,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1085861/1e09a9d4dba42a09365220fe09409ff7.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7568?lote=3",
-          "motivos": [
-            "dice \"LP\"",
-            "año 1965"
-          ]
-        },
-        {
-          "id": 1085862,
-          "lote": "4",
-          "titulo": "4)  Disco LP ( BEATLES) Por Favor Yo Industria Argentina  Algunas Marquitas de Uso",
-          "artista": "BEATLES",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 450,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1085862/cd6cb04c92b5dacd3a3dc31325b7c023.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7568?lote=4",
-          "motivos": [
-            "dice \"LP\""
-          ]
-        }
-      ],
-      "datosDe": "2026-08-17T05:54:38.707Z"
-    },
     {
       "id": "7595",
       "nombre": "PINTURAS, ARTISTAS RECONOCIDOS, MUY LINDAS, VEALAS IMPERDIBLE OFERTA DE COLECCION !!!!",
@@ -102,7 +15,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7595",
       "totalLotes": 37,
       "vinilos": [],
-      "datosDe": "2026-08-17T05:54:38.707Z"
+      "datosDe": "2026-08-17T21:55:12.042Z"
     },
     {
       "id": "7612",
@@ -117,22 +30,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7612",
       "totalLotes": 130,
       "vinilos": [],
-      "datosDe": "2026-08-17T05:54:38.707Z"
-    },
-    {
-      "id": "7614",
-      "nombre": "ESPECTACULAR REMATE EN DONDE SE DESTACA 67 PIEZAS EN LOZA SELLADA INGLESA “J&G MEAKIN”, PINACOTECA, NAVAJAS TIPO SUIZA, GRAN VARIEDAD EN ADORNOS, ANTIGÜEDADES, FUENTES EN PORCELANA, JUEGO DE JARRA Y TAZAS EN CERÁMICA, FINO JUEGO DE CUBIERTOS, NUEVA TANDA DE ASADERAS, HERRAMIENTAS Y MÁS❗️",
-      "empresa": "Emilio Baptista Martínez",
-      "departamento": "Montevideo",
-      "lugar": "Domingo Aramburu 1647, Montevideo",
-      "fecha": "18/08/2026, 16:00",
-      "fechaISO": "2026-08-18T19:00:00.000Z",
-      "timestamp": 1787079600,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7614",
-      "totalLotes": 105,
-      "vinilos": [],
-      "datosDe": "2026-08-17T05:54:38.707Z"
+      "datosDe": "2026-08-17T21:55:12.042Z"
     },
     {
       "id": "7583",
@@ -147,7 +45,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7583",
       "totalLotes": 141,
       "vinilos": [],
-      "datosDe": "2026-08-17T05:54:38.707Z"
+      "datosDe": "2026-08-17T21:55:12.042Z"
     },
     {
       "id": "7572",
@@ -162,7 +60,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7572",
       "totalLotes": 256,
       "vinilos": [],
-      "datosDe": "2026-08-17T05:54:38.707Z"
+      "datosDe": "2026-08-17T21:55:12.042Z"
     },
     {
       "id": "7589",
@@ -177,7 +75,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7589",
       "totalLotes": 87,
       "vinilos": [],
-      "datosDe": "2026-08-17T05:54:38.707Z"
+      "datosDe": "2026-08-17T21:55:12.042Z"
     },
     {
       "id": "7556",
@@ -210,7 +108,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-17T05:54:38.707Z"
+      "datosDe": "2026-08-17T21:55:12.042Z"
     },
     {
       "id": "7598",
@@ -223,9 +121,9 @@
       "timestamp": 1787155200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7598",
-      "totalLotes": 114,
+      "totalLotes": 167,
       "vinilos": [],
-      "datosDe": "2026-08-17T05:54:38.707Z"
+      "datosDe": "2026-08-17T21:55:12.042Z"
     },
     {
       "id": "7534",
@@ -238,7 +136,7 @@
       "timestamp": 1787175000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7534",
-      "totalLotes": 233,
+      "totalLotes": 235,
       "vinilos": [
         {
           "id": 1093323,
@@ -318,7 +216,7 @@
           "anio": null,
           "moneda": "$",
           "base": 400,
-          "oferta": null,
+          "oferta": 400,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1093331/d6ef85660bae4b19f78e6c257963e2e5.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7534?lote=145",
           "motivos": [
@@ -377,7 +275,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-17T05:54:38.707Z"
+      "datosDe": "2026-08-17T21:55:12.042Z"
     },
     {
       "id": "7608",
@@ -392,7 +290,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7608",
       "totalLotes": 96,
       "vinilos": [],
-      "datosDe": "2026-08-17T05:54:38.707Z"
+      "datosDe": "2026-08-17T21:55:12.042Z"
     },
     {
       "id": "7617",
@@ -405,9 +303,9 @@
       "timestamp": 1787259600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7617",
-      "totalLotes": 76,
+      "totalLotes": 80,
       "vinilos": [],
-      "datosDe": "2026-08-17T05:54:38.707Z"
+      "datosDe": "2026-08-17T21:55:12.042Z"
     },
     {
       "id": "7625",
@@ -420,9 +318,61 @@
       "timestamp": 1787260800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7625",
-      "totalLotes": 139,
-      "vinilos": [],
-      "datosDe": "2026-08-17T05:54:38.707Z"
+      "totalLotes": 185,
+      "vinilos": [
+        {
+          "id": 1099205,
+          "lote": "152",
+          "titulo": "Caja c/25 discos de metal de 9 - Marca Waty",
+          "artista": null,
+          "album": "Marca Waty",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 800,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1099205/1612a7572c53eb103e3389672097c38f.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7625?lote=152",
+          "motivos": [
+            "formato \"Artista - Título\" + contexto musical"
+          ]
+        },
+        {
+          "id": 1099206,
+          "lote": "153",
+          "titulo": "Caja con 25 discos de 7 para corte de metal.",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 600,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1099206/22552ab3d689bbee2f6624a52b61527c.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7625?lote=153",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1099195,
+          "lote": "177",
+          "titulo": "Caja con paquete de 10 discos Flap de 115x22 S80",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 400,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1099195/612d6486103aa4994b5a9300159b66ef.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7625?lote=177",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        }
+      ],
+      "datosDe": "2026-08-17T21:55:12.042Z"
     },
     {
       "id": "7541",
@@ -455,7 +405,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-17T05:54:38.707Z"
+      "datosDe": "2026-08-17T21:55:12.042Z"
     },
     {
       "id": "7496",
@@ -470,7 +420,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7496",
       "totalLotes": 104,
       "vinilos": [],
-      "datosDe": "2026-08-17T05:54:38.707Z"
+      "datosDe": "2026-08-17T21:55:12.042Z"
     },
     {
       "id": "7482",
@@ -485,7 +435,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7482",
       "totalLotes": 143,
       "vinilos": [],
-      "datosDe": "2026-08-17T05:54:38.707Z"
+      "datosDe": "2026-08-17T21:55:12.042Z"
     },
     {
       "id": "7518",
@@ -500,7 +450,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7518",
       "totalLotes": 105,
       "vinilos": [],
-      "datosDe": "2026-08-17T05:54:38.707Z"
+      "datosDe": "2026-08-17T21:55:12.042Z"
     },
     {
       "id": "7600",
@@ -2521,8 +2471,8 @@
           "sello": null,
           "anio": "1985",
           "moneda": "$",
-          "base": 50,
-          "oferta": 50,
+          "base": 200,
+          "oferta": null,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091181/2b85dfa806fd8f3b1299beeedcaf03fa.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=112",
           "motivos": [
@@ -2747,7 +2697,22 @@
           ]
         }
       ],
-      "datosDe": "2026-08-17T05:54:38.707Z"
+      "datosDe": "2026-08-17T21:55:12.042Z"
+    },
+    {
+      "id": "7614",
+      "nombre": "ESPECTACULAR REMATE EN DONDE SE DESTACA 67 PIEZAS EN LOZA SELLADA INGLESA “J&G MEAKIN”, PINACOTECA, NAVAJAS TIPO SUIZA, GRAN VARIEDAD EN ADORNOS, ANTIGÜEDADES, FUENTES EN PORCELANA, JUEGO DE JARRA Y TAZAS EN CERÁMICA, FINO JUEGO DE CUBIERTOS, NUEVA TANDA DE ASADERAS, HERRAMIENTAS Y MÁS❗️",
+      "empresa": "Emilio Baptista Martínez",
+      "departamento": "Montevideo",
+      "lugar": "Domingo Aramburu 1647, Montevideo",
+      "fecha": "24/08/2026, 16:00",
+      "fechaISO": "2026-08-24T19:00:00.000Z",
+      "timestamp": 1787598000,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7614",
+      "totalLotes": 105,
+      "vinilos": [],
+      "datosDe": "2026-08-17T21:55:12.042Z"
     },
     {
       "id": "7409",
@@ -2762,7 +2727,22 @@
       "url": "https://www.remotes.com.uy/participar/remate/7409",
       "totalLotes": 30,
       "vinilos": [],
-      "datosDe": "2026-08-17T05:54:38.707Z"
+      "datosDe": "2026-08-17T21:55:12.042Z"
+    },
+    {
+      "id": "7652",
+      "nombre": "Gran Remate de Antigüedades, cuchillos , termos y mate, camisetas autografiadas, productos para el hogar y más. Exhibición Colón • Garzón 1609 esquina Aparicio Saravia.",
+      "empresa": "DVS Negocios Rurales",
+      "departamento": "Montevideo",
+      "lugar": "Corredor Garzón 1609, Montevideo",
+      "fecha": "28/08/2026, 19:00",
+      "fechaISO": "2026-08-28T22:00:00.000Z",
+      "timestamp": 1787954400,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7652",
+      "totalLotes": 123,
+      "vinilos": [],
+      "datosDe": "2026-08-17T21:55:12.042Z"
     },
     {
       "id": "7602",
@@ -2777,7 +2757,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7602",
       "totalLotes": 27,
       "vinilos": [],
-      "datosDe": "2026-08-17T05:54:38.707Z"
+      "datosDe": "2026-08-17T21:55:12.042Z"
     },
     {
       "id": "7545",
@@ -2803,14 +2783,14 @@
           "moneda": "$",
           "base": 86,
           "oferta": null,
-          "imagen": "https://www.remotes.com.uy/img/full/resources/img/sinfoto.png",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1094843/66e3af4db6247c7b50515c6f8d717189.png",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7545?lote=99",
           "motivos": [
             "dice \"disco\""
           ]
         }
       ],
-      "datosDe": "2026-08-17T05:54:38.707Z"
+      "datosDe": "2026-08-17T21:55:12.042Z"
     }
   ]
 }
