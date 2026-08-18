@@ -1,22 +1,7 @@
 {
-  "generado": "2026-08-17T21:55:12.042Z",
+  "generado": "2026-08-18T05:16:59.024Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "7595",
-      "nombre": "PINTURAS, ARTISTAS RECONOCIDOS, MUY LINDAS, VEALAS IMPERDIBLE OFERTA DE COLECCION !!!!",
-      "empresa": "Gardiol y otros",
-      "departamento": "Colonia",
-      "lugar": "RUTA 1 KM. 165 RIACHUELO, Colonia",
-      "fecha": "17/08/2026, 19:00",
-      "fechaISO": "2026-08-17T22:00:00.000Z",
-      "timestamp": 1787004000,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7595",
-      "totalLotes": 37,
-      "vinilos": [],
-      "datosDe": "2026-08-17T21:55:12.042Z"
-    },
     {
       "id": "7612",
       "nombre": "✅ Remate de OPORTUNIDADES imposibles de perder!!! Destacamos bijouterie, valijas, cd's de música, juegos y películas, revistas, libros, vajilla y más! Lotes Buenos, Bonitos y Baratos!!!",
@@ -30,7 +15,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7612",
       "totalLotes": 130,
       "vinilos": [],
-      "datosDe": "2026-08-17T21:55:12.042Z"
+      "datosDe": "2026-08-18T05:16:59.024Z"
     },
     {
       "id": "7583",
@@ -45,7 +30,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7583",
       "totalLotes": 141,
       "vinilos": [],
-      "datosDe": "2026-08-17T21:55:12.042Z"
+      "datosDe": "2026-08-18T05:16:59.024Z"
     },
     {
       "id": "7572",
@@ -60,7 +45,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7572",
       "totalLotes": 256,
       "vinilos": [],
-      "datosDe": "2026-08-17T21:55:12.042Z"
+      "datosDe": "2026-08-18T05:16:59.024Z"
     },
     {
       "id": "7589",
@@ -75,7 +60,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7589",
       "totalLotes": 87,
       "vinilos": [],
-      "datosDe": "2026-08-17T21:55:12.042Z"
+      "datosDe": "2026-08-18T05:16:59.024Z"
     },
     {
       "id": "7556",
@@ -108,7 +93,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-17T21:55:12.042Z"
+      "datosDe": "2026-08-18T05:16:59.024Z"
     },
     {
       "id": "7598",
@@ -123,7 +108,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7598",
       "totalLotes": 167,
       "vinilos": [],
-      "datosDe": "2026-08-17T21:55:12.042Z"
+      "datosDe": "2026-08-18T05:16:59.024Z"
     },
     {
       "id": "7534",
@@ -148,7 +133,7 @@
           "anio": null,
           "moneda": "$",
           "base": 400,
-          "oferta": 400,
+          "oferta": 440,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1093323/2eed5c0290a6e778b5dded5f7ac7903a.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7534?lote=137",
           "motivos": [
@@ -199,7 +184,7 @@
           "anio": null,
           "moneda": "$",
           "base": 400,
-          "oferta": 1150,
+          "oferta": 1400,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1093330/0b8d73bce62931a8ba7a6bd84e07cc6a.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7534?lote=144",
           "motivos": [
@@ -267,7 +252,7 @@
           "anio": null,
           "moneda": "$",
           "base": 400,
-          "oferta": 440,
+          "oferta": 520,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1093334/a0ef03ee2b2811066d7367186398579d.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7534?lote=148",
           "motivos": [
@@ -275,7 +260,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-17T21:55:12.042Z"
+      "datosDe": "2026-08-18T05:16:59.024Z"
     },
     {
       "id": "7608",
@@ -290,7 +275,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7608",
       "totalLotes": 96,
       "vinilos": [],
-      "datosDe": "2026-08-17T21:55:12.042Z"
+      "datosDe": "2026-08-18T05:16:59.024Z"
     },
     {
       "id": "7617",
@@ -305,7 +290,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7617",
       "totalLotes": 80,
       "vinilos": [],
-      "datosDe": "2026-08-17T21:55:12.042Z"
+      "datosDe": "2026-08-18T05:16:59.024Z"
     },
     {
       "id": "7625",
@@ -318,7 +303,7 @@
       "timestamp": 1787260800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7625",
-      "totalLotes": 185,
+      "totalLotes": 193,
       "vinilos": [
         {
           "id": 1099205,
@@ -372,7 +357,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-17T21:55:12.042Z"
+      "datosDe": "2026-08-18T05:16:59.024Z"
     },
     {
       "id": "7541",
@@ -405,7 +390,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-17T21:55:12.042Z"
+      "datosDe": "2026-08-18T05:16:59.024Z"
     },
     {
       "id": "7496",
@@ -420,7 +405,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7496",
       "totalLotes": 104,
       "vinilos": [],
-      "datosDe": "2026-08-17T21:55:12.042Z"
+      "datosDe": "2026-08-18T05:16:59.024Z"
     },
     {
       "id": "7482",
@@ -435,7 +420,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7482",
       "totalLotes": 143,
       "vinilos": [],
-      "datosDe": "2026-08-17T21:55:12.042Z"
+      "datosDe": "2026-08-18T05:16:59.024Z"
     },
     {
       "id": "7518",
@@ -450,11 +435,11 @@
       "url": "https://www.remotes.com.uy/participar/remate/7518",
       "totalLotes": 105,
       "vinilos": [],
-      "datosDe": "2026-08-17T21:55:12.042Z"
+      "datosDe": "2026-08-18T05:16:59.024Z"
     },
     {
       "id": "7600",
-      "nombre": "⏩️Postergado Domingo 23 De Agosto⏪️",
+      "nombre": "♦️Le damos la Bienvenida a la NOCHE DE LA NOSTALGIA con un selecto grupo de Vinilos Singles con Hits de los 70's a los 90's: artistas como The Police, Sting; los Rolling Stones, B.B. King & Eric Clapton; Kool & the Gang; Cyndi Lauper; Paul Young; Wham!; Air Supply; Van Halen; Blondie; U2; Phil Collins; Yes; y muchos más.♦️",
       "empresa": "Verónica Aristegui Díaz",
       "departamento": "San José",
       "lugar": "Parada 8 manzana 3 solar 16 calle colocolo, Playa pascual, San José, San José",
@@ -2697,7 +2682,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-17T21:55:12.042Z"
+      "datosDe": "2026-08-18T05:16:59.024Z"
     },
     {
       "id": "7614",
@@ -2710,9 +2695,24 @@
       "timestamp": 1787598000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7614",
-      "totalLotes": 105,
+      "totalLotes": 106,
       "vinilos": [],
-      "datosDe": "2026-08-17T21:55:12.042Z"
+      "datosDe": "2026-08-18T05:16:59.024Z"
+    },
+    {
+      "id": "7564",
+      "nombre": "❌IMPERDIBLE GRAN REMATE✳️❌PÚBLICO EN GENERAL Y REVENDEDORES❌✳️   ⛔️BAZAR⛔ TAMBIÉN ▶️JUGUETES ▶️JUEGOS▶️COLECCIONABLES▶️ROPA ▶️CALZADO▶️DEPORTE  ▶️ACCESORIOS  y MUCHO MÁS!! JUEVES 27 /8 a las 17  (hasta lote 120) Y VIERNES 28/8 a las 17:00hs REALIZAMOS ENVÍOS A TODO EL PAIS. CONSULTAS : ▶️099 23 45 11 ▶️099 28 53 90",
+      "empresa": "Remates República",
+      "departamento": "Montevideo",
+      "lugar": "Venezuela 1327 casi Libertador , Montevideo",
+      "fecha": "27/08/2026, 17:00",
+      "fechaISO": "2026-08-27T20:00:00.000Z",
+      "timestamp": 1787860800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7564",
+      "totalLotes": 224,
+      "vinilos": [],
+      "datosDe": "2026-08-18T05:16:59.024Z"
     },
     {
       "id": "7409",
@@ -2727,7 +2727,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7409",
       "totalLotes": 30,
       "vinilos": [],
-      "datosDe": "2026-08-17T21:55:12.042Z"
+      "datosDe": "2026-08-18T05:16:59.024Z"
     },
     {
       "id": "7652",
@@ -2742,7 +2742,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7652",
       "totalLotes": 123,
       "vinilos": [],
-      "datosDe": "2026-08-17T21:55:12.042Z"
+      "datosDe": "2026-08-18T05:16:59.024Z"
     },
     {
       "id": "7602",
@@ -2757,7 +2757,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7602",
       "totalLotes": 27,
       "vinilos": [],
-      "datosDe": "2026-08-17T21:55:12.042Z"
+      "datosDe": "2026-08-18T05:16:59.024Z"
     },
     {
       "id": "7545",
@@ -2790,7 +2790,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-17T21:55:12.042Z"
+      "datosDe": "2026-08-18T05:16:59.024Z"
     }
   ]
 }
