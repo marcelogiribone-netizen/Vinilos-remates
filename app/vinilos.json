@@ -1,37 +1,7 @@
 {
-  "generado": "2026-08-18T05:16:59.024Z",
+  "generado": "2026-08-18T21:51:14.095Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "7612",
-      "nombre": "✅ Remate de OPORTUNIDADES imposibles de perder!!! Destacamos bijouterie, valijas, cd's de música, juegos y películas, revistas, libros, vajilla y más! Lotes Buenos, Bonitos y Baratos!!!",
-      "empresa": "Valentina Rodríguez",
-      "departamento": "MONTEVIDEO",
-      "lugar": "AV. DAMASO A. LARRAÑAGA 3452, MONTEVIDEO",
-      "fecha": "18/08/2026, 15:00",
-      "fechaISO": "2026-08-18T18:00:00.000Z",
-      "timestamp": 1787076000,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7612",
-      "totalLotes": 130,
-      "vinilos": [],
-      "datosDe": "2026-08-18T05:16:59.024Z"
-    },
-    {
-      "id": "7583",
-      "nombre": "MARTES 18 - HR. 17:45 - GRAN REMATE DE MOBILIARIO DE ESTILO, CUADROS, TOCADISCOS Y ARTICULOS VARIOS!! EXHIBICION ABIERTA EN CALLE ARTIGAS 745, SALTO.. ENVIAMOS A TODO EL PAIS!! PRE OFERTAS ABIERTAS!",
-      "empresa": "Remates Carvallo",
-      "departamento": "Salto",
-      "lugar": "CALLE ARTIGAS 745, SALTO, Salto",
-      "fecha": "18/08/2026, 17:45",
-      "fechaISO": "2026-08-18T20:45:00.000Z",
-      "timestamp": 1787085900,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7583",
-      "totalLotes": 141,
-      "vinilos": [],
-      "datosDe": "2026-08-18T05:16:59.024Z"
-    },
     {
       "id": "7572",
       "nombre": "Un tesoro escondido en cada lote.",
@@ -43,24 +13,9 @@
       "timestamp": 1787090400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7572",
-      "totalLotes": 256,
+      "totalLotes": 252,
       "vinilos": [],
-      "datosDe": "2026-08-18T05:16:59.024Z"
-    },
-    {
-      "id": "7589",
-      "nombre": "REMATE HOTEL REAL DE SAN CARLOS,ART DE PLAZA DE TOROS, UNICOS, ATENTOS A LA OPORTUNIDAD DE COMPRAR HERMOSAS PIEZAS DE COLECCION, CON MUCHA HISTORIA DE COLONIA DEL SACRAMENTO PERTENECIENTES AL HOTEL REAL DE SAN CARLOS Y AL FRONTON DEL REAL DE SAN CARLOS MAS DE 70 LOTES DESTACANDO : PIEZAS DE CASINO, SELLO, COPAS DE COLOR Y CRISTAL, ABANICO, CUBIERTOS SELLADOS, PAGARES DE 1910 A, B Y C, SOPERAS, FUENTES, PLATOS, TAZAS, MONEDAS, SEMANARIO SOL AÑO 1 NUMERO 1  AFICHE EXEPCIONALES !! IMPLEMENTOS DE JUEGO DE FRONTON PELOTA VASCA : CESTA, FOTOS, AFICHES, Y MAS . IMPERDIBLE ESTE MARTES 18 A LAS 19 HORAS ON 211 HAY MAS LOTES !!!! LOS SUBIMOS ESTA SEMANA!!!!!  ATENCION NOTA :  ESTE REMATE SE CAMBIARA PARA LA FECHA 23 DE AGOSTO POR RAZONES DE AGENDA",
-      "empresa": "Gardiol y otros",
-      "departamento": "Colonia",
-      "lugar": "RUTA 1 KM. 165 RIACHUELO, Colonia",
-      "fecha": "18/08/2026, 19:00",
-      "fechaISO": "2026-08-18T22:00:00.000Z",
-      "timestamp": 1787090400,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7589",
-      "totalLotes": 87,
-      "vinilos": [],
-      "datosDe": "2026-08-18T05:16:59.024Z"
+      "datosDe": "2026-08-18T21:51:14.095Z"
     },
     {
       "id": "7556",
@@ -93,7 +48,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-18T05:16:59.024Z"
+      "datosDe": "2026-08-18T21:51:14.095Z"
     },
     {
       "id": "7598",
@@ -108,7 +63,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7598",
       "totalLotes": 167,
       "vinilos": [],
-      "datosDe": "2026-08-18T05:16:59.024Z"
+      "datosDe": "2026-08-18T21:51:14.095Z"
     },
     {
       "id": "7534",
@@ -121,7 +76,7 @@
       "timestamp": 1787175000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7534",
-      "totalLotes": 235,
+      "totalLotes": 237,
       "vinilos": [
         {
           "id": 1093323,
@@ -201,7 +156,7 @@
           "anio": null,
           "moneda": "$",
           "base": 400,
-          "oferta": 400,
+          "oferta": 440,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1093331/d6ef85660bae4b19f78e6c257963e2e5.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7534?lote=145",
           "motivos": [
@@ -260,7 +215,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-18T05:16:59.024Z"
+      "datosDe": "2026-08-18T21:51:14.095Z"
     },
     {
       "id": "7608",
@@ -273,9 +228,9 @@
       "timestamp": 1787257800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7608",
-      "totalLotes": 96,
+      "totalLotes": 105,
       "vinilos": [],
-      "datosDe": "2026-08-18T05:16:59.024Z"
+      "datosDe": "2026-08-18T21:51:14.095Z"
     },
     {
       "id": "7617",
@@ -288,9 +243,9 @@
       "timestamp": 1787259600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7617",
-      "totalLotes": 80,
+      "totalLotes": 81,
       "vinilos": [],
-      "datosDe": "2026-08-18T05:16:59.024Z"
+      "datosDe": "2026-08-18T21:51:14.095Z"
     },
     {
       "id": "7625",
@@ -303,7 +258,7 @@
       "timestamp": 1787260800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7625",
-      "totalLotes": 193,
+      "totalLotes": 210,
       "vinilos": [
         {
           "id": 1099205,
@@ -357,7 +312,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-18T05:16:59.024Z"
+      "datosDe": "2026-08-18T21:51:14.095Z"
     },
     {
       "id": "7541",
@@ -390,7 +345,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-18T05:16:59.024Z"
+      "datosDe": "2026-08-18T21:51:14.095Z"
     },
     {
       "id": "7496",
@@ -405,7 +360,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7496",
       "totalLotes": 104,
       "vinilos": [],
-      "datosDe": "2026-08-18T05:16:59.024Z"
+      "datosDe": "2026-08-18T21:51:14.095Z"
     },
     {
       "id": "7482",
@@ -420,7 +375,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7482",
       "totalLotes": 143,
       "vinilos": [],
-      "datosDe": "2026-08-18T05:16:59.024Z"
+      "datosDe": "2026-08-18T21:51:14.095Z"
     },
     {
       "id": "7518",
@@ -435,7 +390,22 @@
       "url": "https://www.remotes.com.uy/participar/remate/7518",
       "totalLotes": 105,
       "vinilos": [],
-      "datosDe": "2026-08-18T05:16:59.024Z"
+      "datosDe": "2026-08-18T21:51:14.095Z"
+    },
+    {
+      "id": "7589",
+      "nombre": "REMATE HOTEL REAL DE SAN CARLOS,ART DE PLAZA DE TOROS, LOTES UNICOS, ATENTOS A LA OPORTUNIDAD DE COMPRAR HERMOSAS PIEZAS DE COLECCION, CON MUCHA HISTORIA DE COLONIA DEL SACRAMENTO PERTENECIENTES AL HOTEL REAL DE SAN CARLOS Y AL FRONTON DEL REAL DE SAN CARLOS MAS DE 70 LOTES DESTACANDO : PIEZAS DE CASINO, SELLO, COPAS DE COLOR Y CRISTAL, ABANICO, CUBIERTOS SELLADOS,  ACCIONES PAGARES DE 1910 A, B Y C, SOPERAS, FUENTES, PLATOS, TAZAS, MONEDAS, SEMANARIO SOL AÑO 1 NUMERO 1,   AFICHE EXEPCIONALES !! IMPLEMENTOS DE JUEGO DE FRONTON PELOTA VASCA : CESTA, FOTOS, AFICHES, Y MAS . IMPERDIBLE ESTE DOMINGO 23 A LAS 19 HORAS. SI USTED ES COLECCIONISTA DE LA HISTORIA URUGUAYA EN ESTE REMATE HALLARA PARTE DE LA MISMA ESPECIALMENTE HOTELERA Y DE COLONIA ! TODOS LOS ENVIOS Y EMBALAJES SON EN PESOS URUGUAYOS!!!",
+      "empresa": "Gardiol y otros",
+      "departamento": "Colonia",
+      "lugar": "RUTA 1 KM. 165 RIACHUELO, Colonia",
+      "fecha": "23/08/2026, 19:00",
+      "fechaISO": "2026-08-23T22:00:00.000Z",
+      "timestamp": 1787522400,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7589",
+      "totalLotes": 87,
+      "vinilos": [],
+      "datosDe": "2026-08-18T21:51:14.095Z"
     },
     {
       "id": "7600",
@@ -2682,7 +2652,1299 @@
           ]
         }
       ],
-      "datosDe": "2026-08-18T05:16:59.024Z"
+      "datosDe": "2026-08-18T21:51:14.095Z"
+    },
+    {
+      "id": "7512",
+      "nombre": "ANTES DE QUE COMIENCE LA NOCHE DE LA NOSTALGIA, LOS RECUERDOS SALEN A REMATE!! Biblioteca con más de 700 Libros, Tomos y Volúmenes Destacamos: EXTRAORDINARIA COLECCIÓN COMPLETA DE LA REVISTA URUGUAYA “MUNDIAL”",
+      "empresa": "Eduardo Díaz Bazán",
+      "departamento": "Montevideo",
+      "lugar": "Francisco Simón 2363 entre Juan A. Guzmán y Mateo Vidal, Montevideo",
+      "fecha": "24/08/2026, 14:00",
+      "fechaISO": "2026-08-24T17:00:00.000Z",
+      "timestamp": 1787590800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7512",
+      "totalLotes": 348,
+      "vinilos": [
+        {
+          "id": 1092825,
+          "lote": "322",
+          "titulo": "Álbum Encuadernado con Recortes de Prensa y Caricaturas Políticas: Obras de Arotxa en Forma de Archivo Gráfico. Contiene caricaturas de Figuras Políticas, Personalidades Nacionales e Internacionales y  Además de Artículos Periodísticos",
+          "artista": "Prensa",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 400,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092825/b5bccc1f896d5aa8a191aa198b098e90.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=322",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1092857,
+          "lote": "351",
+          "titulo": "8 Discos CD de Géneros Variados: \"Nocturno - Diego Donato\" / \"The Great Tommy Dorsey Vocals - Tommy Dorsey y Artistas Invitados\" / \"The Cole Porter Songbook Night and Day - Varios Intérpretes\" / \"40 Most Beautiful Love Themes - Varios Intérpretes\" / \"Aquel... - La Karanda\" / \"When a Man Loves a Woman 24 Golden Love Songs - Varios Intérpretes\" / \"Concert in Rhythm - Ray Conniff and His Orchestra and Chorus\" / \"25 All-Time Greatest Recordings - Patsy Cline\".",
+          "artista": "Géneros Variados",
+          "album": "Nocturno - Diego Donato",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092857/af10bea92f85177686676bdb5a3be903.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=351",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092858,
+          "lote": "352",
+          "titulo": "9 Discos CD de la Colección \"100 Masterpieces The Top 10 of Classical Music 1685-1730\" - Obras de Bach, Händel, Vivaldi, Mozart, Beethoven, Schubert, Mendelssohn, Liszt, Wagner, Verdi, Tchaikovsky, Strauss y Otros; Varios Intérpretes y Orquestas.",
+          "artista": null,
+          "album": "100 Masterpieces The Top 10 of Classical Music 1685-1730",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092858/59e42ebae2342fd704afc5002b0a37f8.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=352",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092860,
+          "lote": "354",
+          "titulo": "4 Discos CD de Música Vocal y Clásica: \"Passione - Paul Potts\" / \"Luciano Pavarotti Live 1961-1966 - Luciano Pavarotti\" / \"Spirituals - Jessye Norman\" / \"María Callas - The Voice Within The Heart\".",
+          "artista": "Música Vocal",
+          "album": "Passione - Paul Potts",
+          "sello": null,
+          "anio": "1961",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092860/664fa47d9bc2f1b41a28580974111c9e.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=354",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1961"
+          ]
+        },
+        {
+          "id": 1092861,
+          "lote": "355",
+          "titulo": "8 Discos CD de Música Clásica: \"Scarlatti / Händel - Obras para Teclado, Varios Intérpretes\" / \"Tchaikovsky - Selección de Obras, Varios Intérpretes\" / \"Bruch / Paganini - Conciertos para Violín, Varios Intérpretes\" / \"Bach - Selección Instrumental, Varios Intérpretes\" / \"Haydn - Selección de Obras, Varios Intérpretes\" / \"Mozart - Música de Cámara, Varios Intérpretes\" / \"Schubert - Selección de Obras, Varios Intérpretes\" / \"Haydn - Música de Cámara, Varios Intérpretes\".",
+          "artista": "Música Clásica",
+          "album": "Scarlatti / Händel - Obras para Teclado, Varios Intérpretes",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092861/41d9b4bdd7cb81e555b20fb8d01758e6.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=355",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092863,
+          "lote": "357",
+          "titulo": "7 Discos CD de Música Clásica: \"Liszt Piano Concertos - Intérpretes no Identificados en Portada\" / \"Paganini Violin Concerto No. 6 - Intérpretes no Identificados en Portada\" / \"Mahler Symphony No. 1 - Intérpretes no Identificados en Portada\" / \"Mozart Symphony No. 40 / No. 41 Jupiter - Intérpretes no Identificados en Portada\" / \"Mozart, Ravel y Otros - Anneliese Rothenberger y Artistas Invitados\" / \"Colección Deutsche Grammophon de Música Orquestal - Varios Intérpretes\" / \"Tchaikovsky Piano Concerto No. 1 - Intérpretes no Identificados en Portada\".",
+          "artista": "Música Clásica",
+          "album": "Liszt Piano Concertos - Intérpretes no Identificados en Portada",
+          "sello": "Deutsche Grammophon",
+          "anio": null,
+          "moneda": "$",
+          "base": 250,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092863/64edc12d69e8f0b8e505540268e90ce2.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=357",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092864,
+          "lote": "358",
+          "titulo": "9 Discos CD de Música Clásica de la Serie Los Grandes Clásicos: \"J. S. Bach, Conciertos de Brandeburgo - Varios Intérpretes\" / \"Lo Mejor de la Música Barroca - Varios Intérpretes\" / \"Festival Clásico - Varios Intérpretes\" / \"Haydn, Sinfonía Londres - Varios Intérpretes\" / \"Haydn, Cuarteto de Cuerda - Varios Intérpretes\" / \"Colecciones de Música de Cámara y Orquestal de Händel, Mozart y Otros Compositores - Varios Intérpretes\".",
+          "artista": "Música Clásica",
+          "album": "J. S. Bach, Conciertos de Brandeburgo - Varios Intérpretes",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 250,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092864/1904523c28d5e2b1fc9c28f3631b434a.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=358",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092865,
+          "lote": "359",
+          "titulo": "9 Discos CD: \"The Classical Collection, Haydn - Obras Sinfónicas, Varios Intérpretes\" / \"The Classical Collection, Haydn - Obras Maestras, Varios Intérpretes\" / \"The Classical Collection, Albéniz - Música Española, Varios Intérpretes\" / \"The Classical Collection, Massenet - Obras Orquestales, Varios Intérpretes\" / \"Coraggio e Paura - Iva Zanicchi\" / \"De Italia lo Mejor, Volúmenes 1, 2, 3 y 4 - Varios Intérpretes Italianos\".",
+          "artista": null,
+          "album": "The Classical Collection, Haydn - Obras Sinfónicas, Varios Intérpretes",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 250,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092865/45c77fad32f1024bc26a8c587c4ff74b.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=359",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092866,
+          "lote": "360",
+          "titulo": "10 Discos CD de Música Ambiental y Sonidos de la Naturaleza: \"Gentle Giants of the Sea\" / \"Mystical Call of the Loon\" / \"Sparkling Springtime\" / \"Tropical Tradewinds\" / \"Enchanting Everglades\" / \"Mountain Paradise\" / \"Gentle Island Surf\" / \"Dazzling Thunderstorm\" / \"Autumn Splendor\" / \"Rain Forest Retreat - Grabaciones Ambientales, sin Intérprete Consignado en Portada\".",
+          "artista": "Música Ambiental",
+          "album": "Gentle Giants of the Sea",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 250,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092866/3f35d9a617fa9f82f129e2f6fc3d26c1.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=360",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092867,
+          "lote": "361",
+          "titulo": "9 Discos CD de Música Clásica: \"Mozart Complete Piano Concertos Vol. 4 - Jenö Jandó, Concentus Hungaricus, Matyas Antal\" / \"Mozart Piano Concertos, Klavierkonzerte - Jenö Jandó, Concentus Hungaricus, András Ligeti\" / \"Mozart Complete Piano Concertos Vol. 8 - Jenö Jandó, Concentus Hungaricus, Matyas Antal\" / \"Mozart Symphonies Nos. 19, 20 and 37 - Northern Chamber Orchestra, Nicholas Ward\" / \"Invitation to the Dance - CSR Symphony Orchestra Bratislava, Ondrej Lenárd\" / \"Romantic Violin Favourites - Takako Nishizaki, Wolf Harden\" / \"The Best of Baroque Music - Capella Istropolitana, Richard Edlinger\" / \"Rachmaninov Piano Sonata No. 2 / Variations on a Theme of Corelli / Moments Musicaux - Idil Biret\" / \"Mendelssohn Songs without Words II - Péter Nagy\".",
+          "artista": "Música Clásica",
+          "album": "/",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 250,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092867/d8ea4828fae742ff71a1e501cedc145d.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=361",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092868,
+          "lote": "362",
+          "titulo": "9 Discos CD de la Colección \"Masters of Classical Music\" - Mozart, J. S. Bach, Beethoven, Strauss, Wagner, Tchaikovsky, Vivaldi, Chopin y Schubert; Varios Intérpretes.",
+          "artista": null,
+          "album": "Masters of Classical Music",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 250,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092868/151deb17e5c67b84672e4daca6aee754.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=362",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092869,
+          "lote": "363",
+          "titulo": "4 Discos CD de Música Sacra, Medieval y Coral: \"Gregorian Chant - Coro Gregoriano, Intérprete no Identificado en Portada\" / \"Gregorian Chant - Leonard Rüland\" / \"Cantos Gregorianos - Intérpretes no Identificados en Portada\" / \"Nova Cantica - Dominique Vellard y Ensemble\".",
+          "artista": "Música Sacra",
+          "album": "Gregorian Chant - Coro Gregoriano, Intérprete no Identificado en Portada",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092869/2751d1159d38d79abdbbeee2d9afd037.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=363",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092870,
+          "lote": "364",
+          "titulo": "7 Discos CD de Música Instrumental y Popular: \"Romantic Guitar - Julian Bream\" / \"The Guitar Suite - John Williams, Julian Bream y Otros Guitarristas\" / \"Música para Guitarra - Intérprete no Identificado en Portada\" / \"Honky Tonk Piano - Crazy Jerry's Ragtime Jazz Band\" / \"Golden Guitar - Intérprete no Identificado en Portada\" / \"Música Instrumental - Intérprete no Identificado en Portada\" / \"Valses que Enamoran - Varios Intérpretes\".",
+          "artista": "Música Instrumental",
+          "album": "Romantic Guitar - Julian Bream",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 250,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092870/5306d263976511effae3661556b889b2.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=364",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092873,
+          "lote": "367",
+          "titulo": "Música Clásica: \"The Great Classics - Estuche de 5 Discos CD - Beethoven, Rossini, Mozart, Tchaikovsky\" / \"Beethoven Symphonies 1-9 - The Academy of Ancient Music, Christopher Hogwood\".",
+          "artista": null,
+          "album": "/",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092873/ed4599df64fe4fbdf476d579c0ab0415.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=367",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092875,
+          "lote": "369",
+          "titulo": "Colección The Classics at the Movies, Estuche de 4 Discos CD - Selección de Obras Clásicas Utilizadas en Cine, Interpretadas por Diversas Orquestas y Solistas.",
+          "artista": "Obras Clásicas Utilizadas",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 250,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092875/e5b30e490e4ef2cf4fe6f5049abb39f5.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=369",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092876,
+          "lote": "370",
+          "titulo": "Colección de Grandes Compositores con Libros y Discos CD: \"Beethoven - Royal Philharmonic Orchestra y Solistas\" / \"Brahms - Royal Philharmonic Orchestra y Solistas\" / \"Chopin - Royal Philharmonic Orchestra y Solistas\" / \"Grieg - Royal Philharmonic Orchestra y Solistas\" / \"Haydn - Royal Philharmonic Orchestra y Solistas\" / \"Mendelssohn - Royal Philharmonic Orchestra y Solistas\".",
+          "artista": "Grandes Compositores",
+          "album": "Beethoven - Royal Philharmonic Orchestra y Solistas",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 400,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092876/e4986df8f73806deedf0605090895ca8.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=370",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092877,
+          "lote": "371",
+          "titulo": "Colección de Grandes Compositores con Libros y Discos CD: \"Schumann - Royal Philharmonic Orchestra y Solistas\" / \"Richard Strauss - Royal Philharmonic Orchestra y Solistas\" / \"Puccini - Royal Philharmonic Orchestra y Solistas\" / \"Mozart - Royal Philharmonic Orchestra y Solistas\" / \"Verdi - Royal Philharmonic Orchestra y Solistas\" / \"Wagner - Royal Philharmonic Orchestra y Solistas\" / \"Tchaikovsky - Royal Philharmonic Orchestra y Solistas\".",
+          "artista": "Grandes Compositores",
+          "album": "Schumann - Royal Philharmonic Orchestra y Solistas",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 400,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092877/f0b7f27d209948438d927db22c130e89.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=371",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092878,
+          "lote": "372",
+          "titulo": "2 Ediciones de Colección con Libro y Discos CD: \"Mozart - Obras Seleccionadas, Interpretadas por Orquestas y Solistas de la Colección\" / \"Verdi - Obras y Fragmentos de Ópera, Interpretados por Orquestas, Coros y Solistas de la Colección\".",
+          "artista": null,
+          "album": "/",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 250,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092878/b423cdc1e70c3bfeae715319a9a98051.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=372",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092879,
+          "lote": "373",
+          "titulo": "5 Discos CD de la Serie \"Temas de Amor\" - Selecciones de Música Romántica; Varios Intérpretes.",
+          "artista": "Serie",
+          "album": "Selecciones de Música Romántica; Varios Intérpretes",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 250,
+          "oferta": 250,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092879/2eb5eaa40f2827342057ae0fa2b476a9.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=373",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092880,
+          "lote": "374",
+          "titulo": "9 Discos CD de la Serie \"Las Voces del Siglo\" - Selecciones de Grandes Cantantes del Siglo XX; Varios Intérpretes.",
+          "artista": "Serie",
+          "album": "Selecciones de Grandes Cantantes del Siglo XX; Varios Intérpretes",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 250,
+          "oferta": 250,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092880/d7f7e7aaac9f338253091477d83765a3.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=374",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092881,
+          "lote": "375",
+          "titulo": "10 Discos CD de Colecciones Editoriales de El País: \"Los Años Dorados del Rock, Volúmenes de la Serie - Varios Intérpretes\" / \"Colecciones Pop y Música Internacional de Diferentes Volúmenes - Varios Intérpretes\".",
+          "artista": "Colecciones Editoriales",
+          "album": "Los Años Dorados del Rock, Volúmenes de la Serie - Varios Intérpretes",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 250,
+          "oferta": 250,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092881/04340a4447aa6a829f3c397d53e75ef3.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=375",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092882,
+          "lote": "376",
+          "titulo": "10 Discos CD de Música Pop, Rock y Compilaciones: \"Invierno 98 - Varios Intérpretes\" / \"Momentos Rock Argentino, Volúmenes de la Serie - Varios Intérpretes\" / \"Colecciones El País, Volúmenes Primera y Segunda Parte - Varios Intérpretes\" / \"The Sound of Nature: Summer Sounds - Grabaciones Ambientales\".",
+          "artista": "Música Pop",
+          "album": "Invierno 98 - Varios Intérpretes",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 250,
+          "oferta": 250,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092882/ac84f7e5ee6e11232b0b5c2aa1e26d0c.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=376",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092885,
+          "lote": "379",
+          "titulo": "4 Discos CD de Música Pop Internacional: \"Back for Good - Modern Talking\" / \"Elton John - Selección de Grandes Éxitos\" / \"Destiny's Child Survivor - Destiny's Child\" / \"Compilación de Música Pop - Intérpretes no Identificados en Portada\".",
+          "artista": "Música Pop Internacional",
+          "album": "Back for Good - Modern Talking",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 250,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092885/28c83996cb031eb440ad03da60531fa2.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=379",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092886,
+          "lote": "380",
+          "titulo": "1 Disco CD y 1 Videocasete Musical: \"Yellow Submarine - The Beatles\" / \"Live in Canada - Paul McCartney\".",
+          "artista": null,
+          "album": "Yellow Submarine - The Beatles",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092886/951e0efb46424258fe1a1bd15d97e6eb.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=380",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092887,
+          "lote": "381",
+          "titulo": "10 Discos CD de la Serie \"De lo Nuestro, lo Mejor\" - Volúmenes 1 al 10; Música Uruguaya y Rioplatense; Varios Intérpretes.",
+          "artista": "Serie",
+          "album": "De lo Nuestro, lo Mejor",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092887/f3f2390353e1c0593cdb9cce08060181.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=381",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092888,
+          "lote": "382",
+          "titulo": "2 Discos CD de Alfredo Zitarrosa: \"Antología 1936–1989 - Alfredo Zitarrosa\" / \"El Violín de Becho - Alfredo Zitarrosa\".",
+          "artista": "Alfredo Zitarrosa",
+          "album": "Antología 1936–1989 - Alfredo Zitarrosa",
+          "sello": null,
+          "anio": "1936",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092888/0b24a921d538b34148c3f839fb8dd19b.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=382",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1936"
+          ]
+        },
+        {
+          "id": 1092889,
+          "lote": "383",
+          "titulo": "5 Discos CD de Música Romántica y Popular: \"César Banana Pueyrredón - Selección de Grandes Éxitos\" / \"Canciones de Amor para Mamá - Varios Intérpretes\" / \"Andrea Bocelli Romanza - Andrea Bocelli\" / \"A Flor de Piel - Intérprete no Identificado en Portada\" / \"Selección de Música Romántica - Intérprete no Identificado en Portada\".",
+          "artista": "Música Romántica",
+          "album": "César Banana Pueyrredón - Selección de Grandes Éxitos",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092889/30968f1bfb309cd34368b9159f0ab10d.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=383",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092890,
+          "lote": "384",
+          "titulo": "5 Discos CD de la Serie Los Inmortales del Tango: \"Vol. 1 - Osvaldo Pichuco Troilo\" / \"Vol. 2 - Aníbal Pichuco? y Otros Intérpretes de Tango\" / \"Vol. 3 - Tita Merello\" / \"Vol. 4 - Julio Sosa\" / \"Vol. 5 - Carlos Gardel\".",
+          "artista": "Serie Los Inmortales",
+          "album": "Vol. 1 - Osvaldo Pichuco Troilo",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092890/efde6e7bfde69c4582a5686853e937da.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=384",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092891,
+          "lote": "385",
+          "titulo": "6 Discos CD de Música Internacional y Folclórica: \"Bambas do Cavaquinho / Chorinhos de Ouro - Varios Intérpretes Brasileños\" / \"Mexicano - Luis Cobos\" / \"Música Celta - Intérprete no Identificado en Portada\" / \"Música Centroeuropea - Intérprete no Identificado en Portada\" / \"Oktoberfest in Germany - Varios Intérpretes\" / \"Selección Internacional - Intérprete no Identificado en Portada\".",
+          "artista": "Música Internacional",
+          "album": "Bambas do Cavaquinho / Chorinhos de Ouro - Varios Intérpretes Brasileños",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092891/7e6e06ea0977409e54c43ef2f4dbf882.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=385",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092892,
+          "lote": "386",
+          "titulo": "3 Discos Antiguos de Música Popular: \"Canciones para no Dormir la Siesta - Canciones para no Dormir la Siesta\" / \"Lo Mejor de Samuel Aguayo - Samuel Aguayo\" / \"Disco Simple de 45 RPM del Sello Variety, Título e Intérprete no Identificados con Seguridad en la Fotografía\".",
+          "artista": "Música Popular",
+          "album": "Canciones para no Dormir la Siesta - Canciones para no Dormir la Siesta",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092892/884fb9ead1531363c2f9f973a70bff5f.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=386",
+          "motivos": [
+            "menciona RPM"
+          ]
+        },
+        {
+          "id": 1092893,
+          "lote": "387",
+          "titulo": "2 Discos Antiguos de Guitarra Clásica: \"Segovia - Andrés Segovia\" / \"Segovia, Obras para Guitarra - Andrés Segovia. Sobres con Señales de uso y Antigüedad\".",
+          "artista": "Guitarra Clásica",
+          "album": "Segovia - Andrés Segovia",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092893/7887ef0b8b97efdd2ec025b0e41b5631.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=387",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092895,
+          "lote": "389",
+          "titulo": "4 Discos de Música Orquestal y de Baile: \"Feito para Dançar - Waldir Calmon e Seu Conjunto\" / \"Samba Alegria do Brasil - Waldir Calmon e Seu Conjunto\" / \"Uma Noite no Arpège - Waldir Calmon e Seu Conjunto\".",
+          "artista": "Música Orquestal",
+          "album": "Feito para Dançar - Waldir Calmon e Seu Conjunto",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 400,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092895/b8ac895981c29eb6b969f01f29a52a14.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=389",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092896,
+          "lote": "390",
+          "titulo": "2 Discos de Vinilo: \"Canciones de Nochebuena\" Catedrales de Colonia, Berlín, Hamburgo y Munich / \"Misa Criolla - Los Fronterizos, Coro Cantoría de la Basílica del Socorro, Dirección de Ariel Ramírez\"",
+          "artista": null,
+          "album": "Canciones de Nochebuena",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092896/fb12351ef1a99597b85428172574592b.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=390",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092897,
+          "lote": "391",
+          "titulo": "3 Discos de Vinilo: \"A Mis Amigos - Nat King Cole\" / \"Cole Español - Nat King Cole\" / \"Concierto en Ritmo Vol. II - Ray Conniff, su Orquesta y Coro\".",
+          "artista": null,
+          "album": "A Mis Amigos - Nat King Cole",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 400,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092897/8f0a0f49420cc8458971dac4109f9b9d.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=391",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092898,
+          "lote": "392",
+          "titulo": "3 Discos de Vinilo de Música Tradicional Europea: \"Die Europäische Nachtigall - Erna Sack\" / \"German Beer-Drinking Music - Varios Intérpretes\" / \"Munich's 800 Years, Authentic Music of Bavaria - Varios Intérpretes Bávaros\".",
+          "artista": null,
+          "album": "Die Europäische Nachtigall - Erna Sack",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092898/dbf56ef0bdd2cfa1c0c962ff588ea0ac.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=392",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092899,
+          "lote": "393",
+          "titulo": "Selección de Discos de Vinilo de Música Portuguesa y Brasileña: \"Sucessos de Ângela Maria - Ângela Maria\" / \"Amália Rodrigues - Selección de Fados, Amália Rodrigues\" / \"Benito di Paula - Selección de Música Brasileña, Benito di Paula\" / \"Carnaval do Recife Antigo - Varios Intérpretes\" / \"Otros Títulos de Música Portuguesa y Brasileña con Intérpretes Visibles Parcialmente en las Portadas\".",
+          "artista": "Discos",
+          "album": "Sucessos de Ângela Maria - Ângela Maria",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092899/00087b9ce72932e1ea2682cdfabece76.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=393",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092900,
+          "lote": "394",
+          "titulo": "2 Discos de Vinilo de Música de Películas: “Vamos al Cine – Música de Películas”, edición CBS / “Temas de Películas de Hoy – Percy Faith y su Orquesta”",
+          "artista": null,
+          "album": "Vamos al Cine – Música de Películas",
+          "sello": "CBS",
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092900/d754e2fb27c2d7781dfb5a2c342ffd49.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=394",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092901,
+          "lote": "395",
+          "titulo": "5 Discos de Vinilo de Géneros Variados: \"Ninguno es de Ninguno - Agostinho Dos Santos\" / \"Canciones Napolitanas - Mario Lanza\" / \"Neapolitan Folk Songs - Ferruccio Tagliavini\" / \"Ne Dis Rien - Charles Aznavour\" / \"Nicola Paone - Nicola Paone\".",
+          "artista": null,
+          "album": "Ninguno es de Ninguno - Agostinho Dos Santos",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092901/171ec19392b78e42b22975d961b3fa27.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=395",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092902,
+          "lote": "396",
+          "titulo": "2 Discos de Vinilo de Música Francesa: Disco Simple \"Gilbert Bécaud\" / \"Mademoiselle Dupont Danse\" Varios Intepretes",
+          "artista": null,
+          "album": "Gilbert Bécaud",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092902/bb5325cd416f9736f2ac9195a9654c8b.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=396",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092903,
+          "lote": "397",
+          "titulo": "8 Discos de Vinilo de Música Infantil y Cuentos: \"Había una Vez... Cuentos Infantiles - Varios Intérpretes\" / \"Ni muy muy Ni tan tan - Varios Intérpretes\" / \"Jacky el Oso de Tallac - Varios Intérpretes\" / \"Rondas Infantiles Las Conejitas - Varios Intérpretes\" / \"Los Pollitos - Varios Intérpretes\" / \"De Fiesta con los Candelitas - Varios Intérpretes\" / \"Pedro y el Lobo - Narración y Orquesta\" / \"Bing Sings for the Kids - Bing Crosby\".",
+          "artista": null,
+          "album": "Había una Vez... Cuentos Infantiles - Varios Intérpretes",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092903/e01def6031d3b184bb81c6869dc7108f.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=397",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092904,
+          "lote": "398",
+          "titulo": "Disco de Vinilo de Música Clásica Española: \"Albéniz y Granados - José Iturbi, Piano\"; con Obras de Isaac Albéniz y Enrique Granados.",
+          "artista": null,
+          "album": "Albéniz y Granados - José Iturbi, Piano",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092904/3031da8f02a065e645f6e339668cf232.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=398",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092905,
+          "lote": "399",
+          "titulo": "4 Discos de Vinilo de Música Folclórica y Popular: \"Leandro Gómez - Carlos Benavides, Carlos María Fossati, Eduardo Larbanois y Julio Mora\" / \"¡Al 7º de Línea! - Los Cuatro Cuartos\" /   \"Cariñosamente - Julia Elena Davalos \" / \"Renata Tarragó La Guitarra del Barroco Español - Repertorio de Guitarra Española - Gaspar Sanz y Fernando Sor\"",
+          "artista": null,
+          "album": "/",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 400,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092905/f4f2d504077f8597aaf621be0dde20a5.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=399",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092906,
+          "lote": "400",
+          "titulo": "4 Discos de Vinilo de Folclore Sudamericano: \"Horacio Guarany Canta Martín Fierro - Horacio Guarany\" / \"De Salta Venimos - Los Fronterizos\", Edición de 2 Discos / \"De la Cordillera Vengo - Los Huasos Quincheros\".",
+          "artista": null,
+          "album": "Horacio Guarany Canta Martín Fierro - Horacio Guarany",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 400,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092906/4c928a495337f97683fe82d553cfff6f.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=400",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092907,
+          "lote": "401",
+          "titulo": "4 Discos de Vinilo de Folclore Argentino, Chileno y Paraguayo: \"Los Fronterizos\" / \"Santiago!! - Los Cuatro Hermanos Silva, Silvia Infantas y Los Baqueanos, Violeta Parra y Raúl Gardy\" / \"Canciones del Paraguay - Trío Aramayu\" / \"La Peña de los Parra Chile Vol. 1 - \"Los Fronterisos / Isabel y Ángel Parra\" / \"Folclore Chileno - Varios Intérpretes\".",
+          "artista": null,
+          "album": "Los Fronterizos",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 400,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092907/8fc1db121a3d64232cb5b4f17176f2da.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=401",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092908,
+          "lote": "402",
+          "titulo": "3 Discos de Vinilo de Música Orquestal y Popular: \"Música para Ganar - Varios Intérpretes\" / \"Latin Rendezvous - Mantovani and His Orchestra\" / \"14 Voltops Vol. 4 A Pleno Sol - Varios Intérpretes\".",
+          "artista": null,
+          "album": "Música para Ganar - Varios Intérpretes",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092908/a7eeb1b6167368de708e6437f81c2e95.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=402",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092909,
+          "lote": "403",
+          "titulo": "3 Discos de Vinilo de Música Popular Internacional: \"Up with People! ¡Viva la Gente! - Up with People\" / \"Chris Montez - Chris Montez\" / \"Miguel Ramos y su Órgano Hammond y Orquesta Volumen 4 - Miguel Ramos\".",
+          "artista": null,
+          "album": "Up with People! ¡Viva la Gente! - Up with People",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 400,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092909/5d182c943bb598f1f1a1767ff202affa.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=403",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092910,
+          "lote": "404",
+          "titulo": "3 Discos de Vinilo Simples: \"Leonardo Favio\" /  \"Palito Ortega\" / \"Franck Pourcel y su Orquesta\".",
+          "artista": "Vinilo Simples",
+          "album": "Leonardo Favio",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092910/bcc6f5d5321715ff32d03597e8551783.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=404",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092911,
+          "lote": "405",
+          "titulo": "4 Discos de Vinilo Simple: \"Abba en Castellano (Chiquita, Luz de Amor)\" / \"Raffaella Carra (Fiesta, En El Amor Todo es Empezar)\" / \"Lucrecia (La Mami Maravilla, Es Mi Abuelito)\" / \"Lucrecia (Mi Libreta Azul, Papucho Mio)\"",
+          "artista": "Vinilo Simple",
+          "album": "Abba en Castellano (Chiquita, Luz de Amor)",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092911/fdc9184475c1d4ad167ad12be3c619ff.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=405",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092912,
+          "lote": "406",
+          "titulo": "4 Discos de Vinilo de Formato Simple: \"Paul Mc Cartney and Wings (Vivir y Deja Morir, Descanso en Toda Partes)\" / \"The Playing´s\" / \"Danny\" /  \"The Marmalade\"",
+          "artista": null,
+          "album": "Paul Mc Cartney and Wings (Vivir y Deja Morir, Descanso en Toda Partes)",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 250,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092912/378b730d643398fa8be23e994032e107.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=406",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092913,
+          "lote": "407",
+          "titulo": "5 Discos de Vinilo de Simple y Música Pop: \"Flash - Soley, Soley, Amarillo\" / \"The Tremeloes: Todo el Mundo para Mí, Mi Pequeña Dama\" / \"Mi Amor con Los Machucambos - Los Machucambos\" / \"Selección Pop - Intérprete no Identificado con Seguridad\"",
+          "artista": null,
+          "album": "Flash - Soley, Soley, Amarillo",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092913/cde778d8949dd196da1b28b9cc54df5b.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=407",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092914,
+          "lote": "408",
+          "titulo": "2 Discos de Vinilo de Raffaella Carrà: \"Aplauso\" / \"Hay que Venir al Sur.\".",
+          "artista": null,
+          "album": "Aplauso",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092914/bdf40f19fb4669dc121a95f2030ebbf6.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=408",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092915,
+          "lote": "409",
+          "titulo": "3 Discos de Vinilo de Música Popular: \"Serie Predilectos - Alain Debray\" / \"Los más Grandes Éxitos de Roberto Carlos - Roberto Carlos\" / \"Odia a Coates - Odia Coates\".",
+          "artista": null,
+          "album": "Serie Predilectos - Alain Debray",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092915/1cc3b7b3c70eda06a58740f6f8bc76b8.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=409",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092916,
+          "lote": "410",
+          "titulo": "Disco de Vinilo de Música Clásica: \"Beethoven, Sonata Claro de Luna, Op. 27 nº 2 y Sonata Op. 81a Los Adioses - Robert Casadesus, Piano\".",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092916/d41b59594dd3426c695e57140c56980b.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=410",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092917,
+          "lote": "411",
+          "titulo": "Selección de Discos Música Clásica y Orquestal: \"Lucio Milena - Selección Instrumental, Lucio Milena\" / \"Telefunken - Selección de Música Clásica, Varios Intérpretes\" / \"The Music of Chopin - Intérprete no Identificado en Portada\" / \"Concierto de Primavera - Intérprete no Identificado en Portada\" / \"Otras Grabaciones Telefunken, His Master's Voice y Sellos de Época - Varios Intérpretes\".",
+          "artista": "Discos Música Clásica",
+          "album": "Lucio Milena - Selección Instrumental, Lucio Milena",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 700,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092917/6a6fcf7ae4e9f45187276ebd1178107a.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=411",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092918,
+          "lote": "412",
+          "titulo": "2 Discos Antiguos de Música Orquestal: \"Disco del Sello Ariel - Título e Intérprete no Identificados con Seguridad\" / \"Columbia, 3º Música - Título e Intérprete no Identificados con Seguridad. Sobres con Señales de uso y Antigüedad\".",
+          "artista": "Música Orquestal",
+          "album": "Disco del Sello Ariel - Título e Intérprete no Identificados con Seguridad",
+          "sello": "Columbia",
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092918/8e80fba01c0d0884eda77307c54064aa.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=412",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092919,
+          "lote": "413",
+          "titulo": "3 Discos de Música Vocal y Popular: \"Alguien Cantó - Matt Monro\" / \"Si Volviera a Empezar - Intérprete no Identificado en Portada\" / \"Parlez-moi d'Amour - Peter Kreuder con Acompañamiento Rítmico\".",
+          "artista": "Música Vocal",
+          "album": "Alguien Cantó - Matt Monro",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092919/134ea2b16b6a652434cd6c68c7c2f1e4.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=413",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092920,
+          "lote": "414",
+          "titulo": "4 Discos de Vinilo de Música Clásica: \"Franck Pourcel - Páginas Célebres, Franck Pourcel y su Gran Orquesta\" / \"Händel Música Náutica - Orquesta del Concertgebouw de Amsterdam, Dirección Eduard van Beinum\" / \"Borodin In the Steppes of Central Asia / Rimsky-Korsakov Night on Bald Mountain / Liadov y Otros - Orquesta Sinfónica, Intérprete no Identificado en Portada\" / \"Disco sin Portada Identificada - Intérprete no Identificado\".",
+          "artista": null,
+          "album": "Franck Pourcel - Páginas Célebres, Franck Pourcel y su Gran Orquesta",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 400,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092920/f330072d660e23633ed441ede2e80c74.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=414",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092921,
+          "lote": "415",
+          "titulo": "4 Discos de Vinilo de Música Clásica: \"Respighi, Los Pájaros / Tríptico Botticelliano - Orquesta de Cámara, Dirección no Legible\" / \"Romance Español - Varios Intérpretes\" / \"Rodrigo, Concierto de Aranjuez - Narciso Yepes, Orquesta Sinfónica, Dirección no Legible\" / \"Stravinsky, Le Sacre du Printemps / Petrouchka - Eugene Ormandy y Philadelphia Orchestra\".",
+          "artista": null,
+          "album": "/",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 400,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092921/5306b889fce564b2a8ac5cef2fc9a173.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=415",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092922,
+          "lote": "416",
+          "titulo": "4 Discos de Vinilo de Música Clásica y Ballet: \"Sinfonías Mundo de los Niños - Varios Intérpretes\" / \"Música para Bailar de Bach a Bartók - Orquesta de la Confitería Oro del Rhin\" / \"Franz Liszt, Concierto para Piano y Orquesta / Carl Maria von Weber, Konzertstück - Solista y Orquesta no Identificados con Seguridad\" / \"Tchaikovsky Swan Lake Ballet - Minneapolis Symphony Orchestra, Dirección Antal Doráti\".",
+          "artista": null,
+          "album": "Sinfonías Mundo de los Niños - Varios Intérpretes",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 400,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092922/c59258e9184b0c06523891577ad3a2ab.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=416",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092923,
+          "lote": "417",
+          "titulo": "3 Discos de Vinilo de Música Clásica: \"Franck / Bach - Jeanne Demessieux, Órgano\" / \"Fantasía, Música de Tchaikovsky y Otros Compositores - Orquesta no Identificada con Seguridad\" / \"Chopin Waltzes - Dinu Lipatti, Piano\".",
+          "artista": null,
+          "album": "Franck / Bach - Jeanne Demessieux, Órgano",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 400,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092923/7ada33b436bc895ecf77a4dd5aabe08d.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=417",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092925,
+          "lote": "419",
+          "titulo": "3 Discos de Vinilo de Música Orquestal y Popular: \"Gaîté Parisienne - Boston Pops Orchestra, Arthur Fiedler\" / \"Selección Orquestal de Richard Strauss - Orquesta no Identificada con Seguridad\" / \"Concierto en Ritmo - Ray Conniff, su Orquesta y Coro\".",
+          "artista": null,
+          "album": "Gaîté Parisienne - Boston Pops Orchestra, Arthur Fiedler",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092925/6466a383554b491e55c18d60681914a2.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=419",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092926,
+          "lote": "420",
+          "titulo": "4 Discos de Vinilo de Música Clásica, Ballet y Guitarra: \"The Ballet - Boston Pops Orchestra, Arthur Fiedler\" / \"Scheherazade - Orquesta Sinfónica, Intérprete no Identificado con Seguridad\" / \"Chopin, Concierto nº 1 en Mi Menor - Solomon, Piano, Philharmonia Orchestra\" / \"Segovia, Boccherini / Cassadó, Concierto para Guitarra y Orquesta - Andrés Segovia\".",
+          "artista": null,
+          "album": "The Ballet - Boston Pops Orchestra, Arthur Fiedler",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092926/0a09d8a7b9ef4831a4074d8950e83fa1.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=420",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092927,
+          "lote": "421",
+          "titulo": "4 Discos de Vinilo de Música Clásica: \"Un Álbum de Valses de Strauss - Mantovani y su Orquesta\" / \"Beethoven Piano Sonatas, Sonata No. 4 / Sonata No. 9 - Wilhelm Kempff, Piano\" / \"Concierto para Violín - Isaac Stern, Violín, Orquesta y Dirección no Legibles\" / \"Sibelius Violin Concerto / Mendelssohn Violin Concerto - Jascha Heifetz, Violín\".",
+          "artista": null,
+          "album": "Un Álbum de Valses de Strauss - Mantovani y su Orquesta",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092927/9ff2f4e708f5d328fa78f98b24e55274.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=421",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092928,
+          "lote": "422",
+          "titulo": "4 Discos de Vinilo de Música Clásica y Orquestal: \"Pages Célèbres Vol. 7 - Franck Pourcel y su Gran Orquesta\" / \"The World's Best-Loved Waltzes - Morton Gould and His Orchestra\" / \"Marchas Clásicas - Orquesta de Filadelfia y Otros Intérpretes\" / \"Antiguas Danzas y Aires para Laúd - Respighi, Orquesta Philharmonia Hungarica, Dirección Antal Doráti\".",
+          "artista": null,
+          "album": "Pages Célèbres Vol. 7 - Franck Pourcel y su Gran Orquesta",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092928/aefae2ea57cdd8d659bc34c0cb789576.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=422",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1092929,
+          "lote": "423",
+          "titulo": "Estuche RCA Victor Boston Pops Orchestra: \"Colección de Música Orquestal y Popular dirigida por Arthur Fiedler, con 4 Discos Simples \".",
+          "artista": "Música Orquestal",
+          "album": null,
+          "sello": "RCA",
+          "anio": null,
+          "moneda": "$",
+          "base": 700,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092929/d51a2d010cdd0a5c77839e21913b9c7b.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=423",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1092930,
+          "lote": "424",
+          "titulo": "2 Discos Single Excelentes Piezas Para Coleccionistas de la música Popular Japonesa : \"Dúo Pop de los 70 Geminesse: Destaca el Tema Chotto Matte Kudasai Versiones en Japonés y Portugués 1971¨ /  Hiroshima Peace Memorial Park - Eternal Peace to the World (Museo Memorial de la Paz de Hiroshima) con Grabaciones Solemne Dedicadas al Parque Conmemorativo de la Paz de Hiroshima Destacando El Tañido de las Campanas Oficiales y Cantos Conmemorativos por la Paz Universal",
+          "artista": "Museo Memorial de la Paz de Hiroshima",
+          "album": null,
+          "sello": null,
+          "anio": "1971",
+          "moneda": "$",
+          "base": 400,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092930/4fe052a8c46dbfc86b2ea9b9a6335659.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=424",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1971"
+          ]
+        },
+        {
+          "id": 1092931,
+          "lote": "425",
+          "titulo": "\"Gran Festival, Ligero de los Clásicos\" - Selecciones Del Reader´s Digest - Grabado por RCA  - Música Clásica Selección de Obras de Grandes Compositores - Decada 70",
+          "artista": "\"Gran Festival, Ligero de los Clásicos\"",
+          "album": "Selecciones Del Reader´s Digest - Grabado por RCA - Música Clásica Selección de",
+          "sello": "RCA",
+          "anio": null,
+          "moneda": "$",
+          "base": 700,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092931/ff5cb16ecc10551edf1245820e45709a.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=425",
+          "motivos": [
+            "sello RCA + contexto musical"
+          ]
+        },
+        {
+          "id": 1092933,
+          "lote": "427",
+          "titulo": "Colección \"Música para Soñar y Reposar\" - Selección de Música Orquestal y Ambiental - Para Suscriptores de Selecciones Reader´s Digest - Grabado por RCA - Decada 60 y 70",
+          "artista": "Colección \"Música para Soñar y Reposar\"",
+          "album": "Selección de Música Orquestal y Ambiental - Para Suscriptores de Selecciones Rea",
+          "sello": "RCA",
+          "anio": null,
+          "moneda": "$",
+          "base": 700,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092933/148d5c2e67d90011396befcca8171832.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=427",
+          "motivos": [
+            "sello RCA + contexto musical"
+          ]
+        },
+        {
+          "id": 1092934,
+          "lote": "428",
+          "titulo": "\"Música Popular que Vivirá por Siempre\" - Para Suscriptores de Selecciones Reader´s Digest - Grabado por RCA Victor  - Decada 60",
+          "artista": "\"Música Popular que Vivirá por Siempre\"",
+          "album": "Para Suscriptores de Selecciones Reader´s Digest - Grabado por RCA Victor - Dec",
+          "sello": "RCA",
+          "anio": null,
+          "moneda": "$",
+          "base": 700,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092934/29e024f279ad7c3e6b505a319f29e9d2.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=428",
+          "motivos": [
+            "sello RCA + contexto musical"
+          ]
+        },
+        {
+          "id": 1092935,
+          "lote": "429",
+          "titulo": "\"Gran Festival, Ligero de los Clásicos\" - Para Suscriptores de Selecciones  Del Reader´s Digest - Grabado por RCA  - Música Clásica Selección de Obras de Grandes Compositores - Decada 70",
+          "artista": "\"Gran Festival, Ligero de los Clásicos\"",
+          "album": "Para Suscriptores de Selecciones Del Reader´s Digest - Grabado por RCA - Músic",
+          "sello": "RCA",
+          "anio": null,
+          "moneda": "$",
+          "base": 700,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092935/8aec6860a2359755e7070a24c6a36d9e.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=429",
+          "motivos": [
+            "sello RCA + contexto musical"
+          ]
+        },
+        {
+          "id": 1092938,
+          "lote": "432",
+          "titulo": "11 Discos de pasta de 78 RPM Destacamos los Siguientes Sellos: Brunswick, Coro Seminario St. May Of The Lake Seminary ¨Jubilate Deo¨ ¨Oremus Pro Pontifice Nostro Pio¨/ Cetra, Francesco Albanese ¨Mamma Mia Che Wo Sape¨ ¨Mattinata¨ / Odeón, Jazz Mediados 1930, Raúl Sanchez Reinoso y sus Santa Paula Serennaders / His Master´s Voice Ingland 1938 Música Clásica Ligera Barnabas Von Geozy And His Orchestra ¨Rustle Of Sping¨ / His Master´s Voice Ingland 1938 ¨Si Me Pudieras Quere-Bolero¨ y Guitarra Romana-Tango¨ / Decca Ind. Uruguaya Decada 50 Brenda Lee ¨Saltando con la Escoba-Let´s Jump The Broomstrick¨ ¨Alguno de Estos Días-Some of These Day¨/ Orfeo Uruguay Música Navideña ¨Navidad en el Uruguay¨ ¨Noche de Paz, Noche de Amor¨ / Rodnos ¨Villancicos de Navidad¨ / RCA Victor Uruguay Coro Universitario de la Ciudad Eva Perón Villancico y Canción Navidad / Victrola USA 1908 ¨Jascha Heifetz¨ Música Clásica Instrumental / Capitol Brasil 1950 ¨Kay Star¨ Estilo Jazz.",
+          "artista": "Estos Días",
+          "album": null,
+          "sello": "RCA",
+          "anio": "1930",
+          "moneda": "$",
+          "base": 700,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092938/2006c81c757e71d8da83b857cf56a41e.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=432",
+          "motivos": [
+            "menciona RPM",
+            "\"discos de pasta\" (78 RPM)",
+            "año 1930"
+          ]
+        },
+        {
+          "id": 1099759,
+          "lote": "432A",
+          "titulo": "3 Discos de Pasta 78 RPM Tienen Un Solo Tema en Total Single-Sided Record Grabado de un Solo Lado) El Lado Posterior Totalmente Liso, Sellos Discograficos: Victrola USA 1917 ¨Jascha Heifetz Violinista - Zapateado Spanish Dance¨ / Victrola USA Setiembre 1916 ¨Fritz Kreisler - Rondino On a Theme by Beethoven) Violín con Cuarteto de Cuerdas / Victrola USA 1923 ¨Quiéreme Mucho - Tito Schipa¨ Tenor Con Orquesta en Español¨",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 700,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1099759/891e9c1109fae043e26a7745cb3e5dd4.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=432A",
+          "motivos": [
+            "menciona RPM",
+            "\"discos de pasta\" (78 RPM)"
+          ]
+        },
+        {
+          "id": 1092984,
+          "lote": "478",
+          "titulo": "Equipo de Audio Yamaha GX-70, Reproductor de CD Bandeja de 3 Discos, Doble Casetera, Radio/Tuner y Amplificador, 5 Parlantes Yamaha, Antena - Mueble Rack Estante Para Discos CD con 2 Puertas y Estantes",
+          "artista": "Audio Yamaha GX",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 1000,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092984/a9d399c8347c5d878ec89cd78d3a5e18.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=478",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        }
+      ],
+      "datosDe": "2026-08-18T21:51:14.095Z"
     },
     {
       "id": "7614",
@@ -2697,7 +3959,504 @@
       "url": "https://www.remotes.com.uy/participar/remate/7614",
       "totalLotes": 106,
       "vinilos": [],
-      "datosDe": "2026-08-18T05:16:59.024Z"
+      "datosDe": "2026-08-18T21:51:14.095Z"
+    },
+    {
+      "id": "7644",
+      "nombre": "Gran Liquidación de miles de artículos coleccionables,  más de 500 barcos en cristal, excepcional cuchillo criollo francés del siglo XIX,  foto de Aparicio Saravia,  Relojes,  monedas de plata, vinilos de Rock,  discos de Pasta, y terminamos con Dondolinos Antiguos.",
+      "empresa": "ElEjido",
+      "departamento": "MONTEVIDEO",
+      "lugar": "EJIDO 932, MONTEVIDEO",
+      "fecha": "26/08/2026, 19:00",
+      "fechaISO": "2026-08-26T22:00:00.000Z",
+      "timestamp": 1787781600,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7644",
+      "totalLotes": 149,
+      "vinilos": [
+        {
+          "id": 1097308,
+          "lote": "12",
+          "titulo": "Album Aguila colección 1944 incompleto.",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1944",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097308/ec9e0b978b39703a32e6c7b2aa4935d2.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=12",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1944"
+          ]
+        },
+        {
+          "id": 1097309,
+          "lote": "13",
+          "titulo": "Álbum incompleto de la historia del traje y las costumbres",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097309/70a16edd11b63a75a14fdd852392b51e.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=13",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1097310,
+          "lote": "14",
+          "titulo": "Álbum incompleto de la historia de la música",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097310/e7a09ca7fae66897f4f20301f1191577.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=14",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1097323,
+          "lote": "27",
+          "titulo": "2 Álbumes de Fútbol Uruguayo Bastante Completos",
+          "artista": "Fútbol Uruguayo Bastante Completos",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097323/e12c2c49bb05af8869cdf759087559a8.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=27",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1097328,
+          "lote": "32",
+          "titulo": "Álbum Copa América Chile 2015 Completo",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "2015",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097328/332ef25a1371dd9be221513c854cb779.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=32",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 2015"
+          ]
+        },
+        {
+          "id": 1098729,
+          "lote": "32A",
+          "titulo": "Álbum Mundial Brasil 2014 Completo",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "2014",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1098729/4a0868160e39b771ba0622dbe05a8aef.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=32A",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 2014"
+          ]
+        },
+        {
+          "id": 1097329,
+          "lote": "33",
+          "titulo": "vinilo italiano de 45 RPM de 1980 que contiene la canción principal de la serie de anime El Festival de los Robots o Astrorobots.",
+          "artista": "Robots",
+          "album": null,
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097329/0124abd7c8a7fe088bc6bc1762c90906.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=33",
+          "motivos": [
+            "dice \"vinilo\"",
+            "menciona RPM",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1097330,
+          "lote": "34",
+          "titulo": "3 vinilos de la cantante Raffaella Carrá",
+          "artista": "Raffaella Carrá",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097330/ea93e6794464de907b3bb9dd5ce90c9e.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=34",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1097331,
+          "lote": "35",
+          "titulo": "3 vinilos de Bee Gees",
+          "artista": "Bee Gees",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097331/b61691e8430ba8c99bdd4cddcbd8a79e.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=35",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1097332,
+          "lote": "36",
+          "titulo": "Vinilo Santana Abraxas",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097332/17d86b65cefe3e8e4d0853b606baa6bb.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=36",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1097333,
+          "lote": "37",
+          "titulo": "Vinilo Doble Neil Diamond Hot August Night",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097333/85e53a0f6896fe0842b76623bbc9bab4.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=37",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1097334,
+          "lote": "38",
+          "titulo": "Vinilo Deep Purple in Rock",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097334/e9b7c9a44b3c8ee46c72872ee31d48c1.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=38",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1097335,
+          "lote": "39",
+          "titulo": "4 Vinilos ; Kenny Rogers; Renato Zero y más",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097335/934bb65f5401c67496ecaf159489172b.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=39",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1097336,
+          "lote": "40",
+          "titulo": "4 Vinilos; Demis Roussos; the Odorakis y más",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097336/bf45cc27f7b0f37de7012cd25c9af776.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=40",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1097337,
+          "lote": "41",
+          "titulo": "4 Vinilos; Arthur Smith; los Náufragos y más",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097337/18153710c29dcbd93e9589530689d39c.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=41",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1097338,
+          "lote": "42",
+          "titulo": "4 Vinilos; Terry Winter; Roger Whittaker y más",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097338/dee5ae8e2c1743c2f60cf2d73450ff5b.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=42",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1097397,
+          "lote": "101",
+          "titulo": "Gran Selección de Vinilos Variados",
+          "artista": "Vinilos Variados",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097397/19b367b2687765fc9704b60a0ba8d690.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=101",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1097398,
+          "lote": "102",
+          "titulo": "Variedad de Vinilos de Música Norteamericana y otros",
+          "artista": "Vinilos",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097398/0ae05aaebf09746378bbc1c71a213953.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=102",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1097400,
+          "lote": "104",
+          "titulo": "Bibliorato RCA Victor con Selección de Vinilos",
+          "artista": "Vinilos",
+          "album": null,
+          "sello": "RCA",
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097400/642921670b7cd1ea9784589bbba2b0f8.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=104",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1097401,
+          "lote": "105",
+          "titulo": "Gran Variedad de Vinilos de Música Norteamericana y otros",
+          "artista": "Vinilos",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097401/eb7cee16b41cd10ae085cb0b46be0834.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=105",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1097402,
+          "lote": "106",
+          "titulo": "Variedad de Vinilos de Música Norteamericana, Folklore y más",
+          "artista": "Vinilos",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097402/6e824cd4cdf65c55645416c55f28abd2.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=106",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1097403,
+          "lote": "107",
+          "titulo": "3 Grandes Biblioratos de Música Variada en Vinilo",
+          "artista": "Música Variada",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097403/150af19083d57ab106d7b9db868dc78e.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=107",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1097404,
+          "lote": "108",
+          "titulo": "Bibliorato de Música Clásica en Vinilo, Mozart",
+          "artista": "Música Clásica",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097404/cf1d54f27ba9f8648b8a378a61b621c6.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=108",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1097406,
+          "lote": "110",
+          "titulo": "Gran Selección de Vinilos Infantiles y Juveniles",
+          "artista": "Vinilos Infantiles",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097406/15b308364e73dd3db4033bd02cdf7ec3.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=110",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1097408,
+          "lote": "112",
+          "titulo": "Set de Vinilos Japoneses",
+          "artista": "Vinilos Japoneses",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097408/68feb483b41fb2eda9384a06442dd463.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=112",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1097409,
+          "lote": "113",
+          "titulo": "Pulgarcito y Caperucita Roja en Vinilo",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097409/5df660373ffdb525912cdfde22d00c81.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=113",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1097410,
+          "lote": "114",
+          "titulo": "Variedad de Vinilos, Cuentos Infantiles, de Navidad y más",
+          "artista": "Vinilos",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097410/8446cf6fc4167623db51c1219d089ed0.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=114",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1097414,
+          "lote": "118",
+          "titulo": "Bibliorato RCA Victor con Selección de Vinilos",
+          "artista": "Vinilos",
+          "album": null,
+          "sello": "RCA",
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1097414/f21f4eaca91ed89b79563522c18243b6.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7644?lote=118",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        }
+      ],
+      "datosDe": "2026-08-18T21:51:14.095Z"
     },
     {
       "id": "7564",
@@ -2712,7 +4471,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7564",
       "totalLotes": 224,
       "vinilos": [],
-      "datosDe": "2026-08-18T05:16:59.024Z"
+      "datosDe": "2026-08-18T21:51:14.095Z"
     },
     {
       "id": "7409",
@@ -2727,11 +4486,11 @@
       "url": "https://www.remotes.com.uy/participar/remate/7409",
       "totalLotes": 30,
       "vinilos": [],
-      "datosDe": "2026-08-18T05:16:59.024Z"
+      "datosDe": "2026-08-18T21:51:14.095Z"
     },
     {
       "id": "7652",
-      "nombre": "Gran Remate de Antigüedades, cuchillos , termos y mate, camisetas autografiadas, productos para el hogar y más. Exhibición Colón • Garzón 1609 esquina Aparicio Saravia.",
+      "nombre": "Gran Remate de Antigüedades, cuchillos , termos y mate, camisetas autografiadas, productos para el hogar y más. Exhibición Colón • Garzón 1609 esquina Aparicio Saravia. 093 863 893",
       "empresa": "DVS Negocios Rurales",
       "departamento": "Montevideo",
       "lugar": "Corredor Garzón 1609, Montevideo",
@@ -2742,7 +4501,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7652",
       "totalLotes": 123,
       "vinilos": [],
-      "datosDe": "2026-08-18T05:16:59.024Z"
+      "datosDe": "2026-08-18T21:51:14.095Z"
     },
     {
       "id": "7602",
@@ -2757,7 +4516,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7602",
       "totalLotes": 27,
       "vinilos": [],
-      "datosDe": "2026-08-18T05:16:59.024Z"
+      "datosDe": "2026-08-18T21:51:14.095Z"
     },
     {
       "id": "7545",
@@ -2790,7 +4549,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-18T05:16:59.024Z"
+      "datosDe": "2026-08-18T21:51:14.095Z"
     }
   ]
 }
