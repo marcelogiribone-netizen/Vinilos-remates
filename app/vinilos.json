@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-22T21:49:29.051Z",
+  "generado": "2026-08-23T05:16:27.215Z",
   "fallos": 0,
   "remates": [
     {
@@ -15,7 +15,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7589",
       "totalLotes": 87,
       "vinilos": [],
-      "datosDe": "2026-08-22T21:49:29.051Z"
+      "datosDe": "2026-08-23T05:16:27.215Z"
     },
     {
       "id": "7600",
@@ -1893,7 +1893,7 @@
           "anio": "1983",
           "moneda": "$",
           "base": 200,
-          "oferta": 250,
+          "oferta": 300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1091173/d3249a412f9312adbdb115b9c72fdf8e.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7600?lote=104",
           "motivos": [
@@ -2262,7 +2262,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-22T21:49:29.051Z"
+      "datosDe": "2026-08-23T05:16:27.215Z"
     },
     {
       "id": "7708",
@@ -2277,7 +2277,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7708",
       "totalLotes": 174,
       "vinilos": [],
-      "datosDe": "2026-08-22T21:49:29.051Z"
+      "datosDe": "2026-08-23T05:16:27.215Z"
     },
     {
       "id": "7512",
@@ -2302,7 +2302,7 @@
           "anio": null,
           "moneda": "$",
           "base": 400,
-          "oferta": 400,
+          "oferta": 440,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1092825/b5bccc1f896d5aa8a191aa198b098e90.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7512?lote=322",
           "motivos": [
@@ -3569,7 +3569,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-22T21:49:29.051Z"
+      "datosDe": "2026-08-23T05:16:27.215Z"
     },
     {
       "id": "7614",
@@ -3584,7 +3584,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7614",
       "totalLotes": 104,
       "vinilos": [],
-      "datosDe": "2026-08-22T21:49:29.051Z"
+      "datosDe": "2026-08-23T05:16:27.215Z"
     },
     {
       "id": "7623",
@@ -3597,9 +3597,9 @@
       "timestamp": 1787693400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7623",
-      "totalLotes": 145,
+      "totalLotes": 160,
       "vinilos": [],
-      "datosDe": "2026-08-22T21:49:29.051Z"
+      "datosDe": "2026-08-23T05:16:27.215Z"
     },
     {
       "id": "7691",
@@ -3614,7 +3614,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7691",
       "totalLotes": 61,
       "vinilos": [],
-      "datosDe": "2026-08-22T21:49:29.051Z"
+      "datosDe": "2026-08-23T05:16:27.215Z"
     },
     {
       "id": "7644",
@@ -4111,7 +4111,40 @@
           ]
         }
       ],
-      "datosDe": "2026-08-22T21:49:29.051Z"
+      "datosDe": "2026-08-23T05:16:27.215Z"
+    },
+    {
+      "id": "7653",
+      "nombre": "IMPERDIBLE REMATE ESPECIAL DE ANTIGÜEDADES, COLECCIONABLES Y DEMÁS❗️",
+      "empresa": "Emilio Baptista Martínez",
+      "departamento": "Montevideo",
+      "lugar": "Domingo Aramburu 1647, Montevideo",
+      "fecha": "27/08/2026, 16:00",
+      "fechaISO": "2026-08-27T19:00:00.000Z",
+      "timestamp": 1787857200,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7653",
+      "totalLotes": 89,
+      "vinilos": [
+        {
+          "id": 1106411,
+          "lote": "67",
+          "titulo": "Disco vinilo motivo Peñarol",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 250,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1106411/88f878f5cb8a0eeec39b00b719a5e898.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7653?lote=67",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        }
+      ],
+      "datosDe": "2026-08-23T05:16:27.215Z"
     },
     {
       "id": "7564",
@@ -4144,7 +4177,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-22T21:49:29.051Z"
+      "datosDe": "2026-08-23T05:16:27.215Z"
     },
     {
       "id": "7690",
@@ -4159,7 +4192,74 @@
       "url": "https://www.remotes.com.uy/participar/remate/7690",
       "totalLotes": 112,
       "vinilos": [],
-      "datosDe": "2026-08-22T21:49:29.051Z"
+      "datosDe": "2026-08-23T05:16:27.215Z"
+    },
+    {
+      "id": "7662",
+      "nombre": "R37 Otro jueves de locos! Cantidad de platos diferentes modelos, art. para reventa al por mayor, llaves térmicas, discos de corte, liquidación de METALÚRGICA: tornos, hornos, etc. Tintas UV para serigrafía, jacuzzi inflable, vestimenta deportiva, bazar, muebles,adornos, curiosidades. Envíos. Retiro de mercadería sin costo. Llamar para coordinar:098747477.",
+      "empresa": "Remates El Paso",
+      "departamento": "Montevideo",
+      "lugar": "Gral Luna 1333, Montevideo",
+      "fecha": "27/08/2026, 18:20",
+      "fechaISO": "2026-08-27T21:20:00.000Z",
+      "timestamp": 1787865600,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7662",
+      "totalLotes": 183,
+      "vinilos": [
+        {
+          "id": 1100916,
+          "lote": "112",
+          "titulo": "21Ps, Caja de herramientas Stanley + Lllamas + bandejas plásticas + discos P/ Sierra + llaves cricket + dados (Este lote es todo con avería )",
+          "artista": "Este lote es todo con avería",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1100916/ba430fa6b9abba4a0566d99dee6792bc.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7662?lote=112",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1106300,
+          "lote": "152",
+          "titulo": "Caja c/25 discos de metal de 9 - Marca Waty",
+          "artista": null,
+          "album": "Marca Waty",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 800,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1106300/1612a7572c53eb103e3389672097c38f.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7662?lote=152",
+          "motivos": [
+            "formato \"Artista - Título\" + contexto musical"
+          ]
+        },
+        {
+          "id": 1106314,
+          "lote": "180",
+          "titulo": "Caja con paquete de 10 discos Flap de 115x22 S80",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 400,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1106314/612d6486103aa4994b5a9300159b66ef.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7662?lote=180",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        }
+      ],
+      "datosDe": "2026-08-23T05:16:27.215Z"
     },
     {
       "id": "7634",
@@ -4174,7 +4274,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7634",
       "totalLotes": 167,
       "vinilos": [],
-      "datosDe": "2026-08-22T21:49:29.051Z"
+      "datosDe": "2026-08-23T05:16:27.215Z"
     },
     {
       "id": "7409",
@@ -4189,7 +4289,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7409",
       "totalLotes": 30,
       "vinilos": [],
-      "datosDe": "2026-08-22T21:49:29.051Z"
+      "datosDe": "2026-08-23T05:16:27.215Z"
     },
     {
       "id": "7652",
@@ -4204,7 +4304,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7652",
       "totalLotes": 123,
       "vinilos": [],
-      "datosDe": "2026-08-22T21:49:29.051Z"
+      "datosDe": "2026-08-23T05:16:27.215Z"
     },
     {
       "id": "7602",
@@ -4219,7 +4319,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7602",
       "totalLotes": 27,
       "vinilos": [],
-      "datosDe": "2026-08-22T21:49:29.051Z"
+      "datosDe": "2026-08-23T05:16:27.215Z"
     },
     {
       "id": "7669",
@@ -4460,7 +4560,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-22T21:49:29.051Z"
+      "datosDe": "2026-08-23T05:16:27.215Z"
     },
     {
       "id": "7545",
@@ -4475,7 +4575,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7545",
       "totalLotes": 110,
       "vinilos": [],
-      "datosDe": "2026-08-22T21:49:29.051Z"
+      "datosDe": "2026-08-23T05:16:27.215Z"
     },
     {
       "id": "7666",
@@ -4490,11 +4590,11 @@
       "url": "https://www.remotes.com.uy/participar/remate/7666",
       "totalLotes": 95,
       "vinilos": [],
-      "datosDe": "2026-08-22T21:49:29.051Z"
+      "datosDe": "2026-08-23T05:16:27.215Z"
     },
     {
       "id": "7711",
-      "nombre": "Rematazo! Cuadros, antigüedades, documentos, cuchillería, platería y parte de liquidación de sucesión.",
+      "nombre": "Rematazo! Cuadros, antigüedades, documentos, cuchillería, platería criolla y parte de liquidación de sucesión: garrerío de cuero, bote de madera, casco de lancha Casarino con trayler, dos kayaks como nuevos y sus accesorios, jaula de camión y mucho más.",
       "empresa": "Agustin Villamil",
       "departamento": "Durazno",
       "lugar": "Centro de Durazno, Durazno",
@@ -4503,7 +4603,7 @@
       "timestamp": 1789164000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7711",
-      "totalLotes": 95,
+      "totalLotes": 102,
       "vinilos": [
         {
           "id": 1105743,
@@ -4540,7 +4640,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-22T21:49:29.051Z"
+      "datosDe": "2026-08-23T05:16:27.215Z"
     }
   ]
 }
