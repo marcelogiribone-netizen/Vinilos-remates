@@ -1,22 +1,7 @@
 {
-  "generado": "2026-08-28T21:15:07.693Z",
+  "generado": "2026-08-28T22:00:35.789Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "7652",
-      "nombre": "Gran Remate de Antigüedades, cuchillos , termos y mate, camisetas autografiadas, productos para el hogar y más. Exhibición Colón • Garzón 1609 esquina Aparicio Saravia. 093 863 893",
-      "empresa": "DVS Negocios Rurales",
-      "departamento": "Montevideo",
-      "lugar": "Corredor Garzón 1609, Montevideo",
-      "fecha": "28/08/2026, 19:00",
-      "fechaISO": "2026-08-28T22:00:00.000Z",
-      "timestamp": 1787954400,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7652",
-      "totalLotes": 123,
-      "vinilos": [],
-      "datosDe": "2026-08-28T21:15:07.693Z"
-    },
     {
       "id": "7678",
       "nombre": "Hoyyy Gran Remate de Antigüedades y Oportunidades — | Preofertá y obtené flete gratis . Beneficio válido para quienes hayan realizado preoferta y superen los $5.000 en precio de remate/adjudicación. Flete gratis a todo el país solo en artículos pequeños. No incluye muebles ni artículos de gran porte.El embalaje se cobra en todos los casos .",
@@ -28,9 +13,9 @@
       "timestamp": 1787956200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7678",
-      "totalLotes": 116,
+      "totalLotes": 118,
       "vinilos": [],
-      "datosDe": "2026-08-28T21:15:07.693Z"
+      "datosDe": "2026-08-28T22:00:35.789Z"
     },
     {
       "id": "7673",
@@ -45,7 +30,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7673",
       "totalLotes": 61,
       "vinilos": [],
-      "datosDe": "2026-08-28T21:15:07.693Z"
+      "datosDe": "2026-08-28T22:00:35.789Z"
     },
     {
       "id": "7575",
@@ -58,9 +43,9 @@
       "timestamp": 1787958000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7575",
-      "totalLotes": 104,
+      "totalLotes": 118,
       "vinilos": [],
-      "datosDe": "2026-08-28T21:15:07.693Z"
+      "datosDe": "2026-08-28T22:00:35.789Z"
     },
     {
       "id": "7674",
@@ -94,7 +79,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-28T21:15:07.693Z"
+      "datosDe": "2026-08-28T22:00:35.789Z"
     },
     {
       "id": "7694",
@@ -153,7 +138,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 380,
+          "oferta": 410,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1103346/201fca377398df5bd1792daacbae0deb.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7694?lote=76",
           "motivos": [
@@ -280,7 +265,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-28T21:15:07.693Z"
+      "datosDe": "2026-08-28T22:00:35.789Z"
     },
     {
       "id": "7634",
@@ -295,7 +280,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7634",
       "totalLotes": 167,
       "vinilos": [],
-      "datosDe": "2026-08-28T21:15:07.693Z"
+      "datosDe": "2026-08-28T22:00:35.789Z"
     },
     {
       "id": "7733",
@@ -310,7 +295,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7733",
       "totalLotes": 113,
       "vinilos": [],
-      "datosDe": "2026-08-28T21:15:07.693Z"
+      "datosDe": "2026-08-28T22:00:35.789Z"
     },
     {
       "id": "7695",
@@ -325,7 +310,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7695",
       "totalLotes": 170,
       "vinilos": [],
-      "datosDe": "2026-08-28T21:15:07.693Z"
+      "datosDe": "2026-08-28T22:00:35.789Z"
     },
     {
       "id": "7602",
@@ -340,7 +325,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7602",
       "totalLotes": 61,
       "vinilos": [],
-      "datosDe": "2026-08-28T21:15:07.693Z"
+      "datosDe": "2026-08-28T22:00:35.789Z"
     },
     {
       "id": "7719",
@@ -355,7 +340,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7719",
       "totalLotes": 51,
       "vinilos": [],
-      "datosDe": "2026-08-28T21:15:07.693Z"
+      "datosDe": "2026-08-28T22:00:35.789Z"
     },
     {
       "id": "7730",
@@ -370,7 +355,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7730",
       "totalLotes": 271,
       "vinilos": [],
-      "datosDe": "2026-08-28T21:15:07.693Z"
+      "datosDe": "2026-08-28T22:00:35.789Z"
     },
     {
       "id": "7669",
@@ -611,7 +596,22 @@
           ]
         }
       ],
-      "datosDe": "2026-08-28T21:15:07.693Z"
+      "datosDe": "2026-08-28T22:00:35.789Z"
+    },
+    {
+      "id": "7475",
+      "nombre": "SUBASTA DE LIBROS COLECCIÓN FAMILIA CLARA INÉS ZOLESI TERCERA PARTE. EJEMPLARES ANTIGUOS Y MODERNOS.",
+      "empresa": "Hugo Daniel Nalerio Hernández",
+      "departamento": "Montevideo",
+      "lugar": "Finlandia 1674 entre Mariano Soler y Carabelas, Montevideo",
+      "fecha": "04/09/2026, 19:00",
+      "fechaISO": "2026-09-04T22:00:00.000Z",
+      "timestamp": 1788559200,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7475",
+      "totalLotes": 147,
+      "vinilos": [],
+      "datosDe": "2026-08-28T22:00:35.789Z"
     },
     {
       "id": "7665",
@@ -626,7 +626,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7665",
       "totalLotes": 170,
       "vinilos": [],
-      "datosDe": "2026-08-28T21:15:07.693Z"
+      "datosDe": "2026-08-28T22:00:35.789Z"
     },
     {
       "id": "7672",
@@ -641,7 +641,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7672",
       "totalLotes": 128,
       "vinilos": [],
-      "datosDe": "2026-08-28T21:15:07.693Z"
+      "datosDe": "2026-08-28T22:00:35.789Z"
     },
     {
       "id": "7535",
@@ -656,7 +656,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7535",
       "totalLotes": 100,
       "vinilos": [],
-      "datosDe": "2026-08-28T21:15:07.693Z"
+      "datosDe": "2026-08-28T22:00:35.789Z"
     },
     {
       "id": "7717",
@@ -3127,7 +3127,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-28T21:15:07.693Z"
+      "datosDe": "2026-08-28T22:00:35.789Z"
     },
     {
       "id": "7545",
@@ -3142,7 +3142,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7545",
       "totalLotes": 111,
       "vinilos": [],
-      "datosDe": "2026-08-28T21:15:07.693Z"
+      "datosDe": "2026-08-28T22:00:35.789Z"
     },
     {
       "id": "7666",
@@ -3157,7 +3157,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7666",
       "totalLotes": 100,
       "vinilos": [],
-      "datosDe": "2026-08-28T21:15:07.693Z"
+      "datosDe": "2026-08-28T22:00:35.789Z"
     },
     {
       "id": "7711",
@@ -3207,7 +3207,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-28T21:15:07.693Z"
+      "datosDe": "2026-08-28T22:00:35.789Z"
     },
     {
       "id": "7729",
@@ -3222,7 +3222,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7729",
       "totalLotes": 100,
       "vinilos": [],
-      "datosDe": "2026-08-28T21:15:07.693Z"
+      "datosDe": "2026-08-28T22:00:35.789Z"
     }
   ]
 }
