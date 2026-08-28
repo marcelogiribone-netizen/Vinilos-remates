@@ -492,8 +492,17 @@ main {
 /* Pantalla de inicio (splash): tiene que quedar IDÉNTICA al splash del sistema,
    para que el único cambio visible sea que el vinilo empieza a girar.
    - Mismo fondo exacto (#1a1618 = background_color del manifest y del ícono).
-   - Vinilo centrado (sin texto debajo que lo empuje hacia arriba) y sin sombra. */
-.spinner-overlay.splash { background: #1a1618; }
+   - Vinilo centrado (sin texto debajo que lo empuje hacia arriba) y sin sombra.
+   - Centrado vertical EXCLUYENDO la barra de navegación inferior, igual que
+     Android (Android centra en la pantalla menos la barra). Con el flex, sumar
+     el alto de la barra al padding-bottom sube el centro medio inset. Usamos
+     env(safe-area-inset-bottom) para que funcione en cualquier pantalla (no un
+     valor fijo). El 24px es el padding base del overlay (para mantenerlo parejo
+     arriba). */
+.spinner-overlay.splash {
+  background: #1a1618;
+  padding-bottom: calc(24px + env(safe-area-inset-bottom));
+}
 .spinner-overlay.splash .spinner-vinilo {
   width: var(--splash-vinilo);
   height: var(--splash-vinilo);
