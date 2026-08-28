@@ -10,10 +10,33 @@
 // ---------------------------------------------------------------------------
 
 var ICONO = 'icons/icon-192.png';
+var LOGO_VINILO = 'icons/icon-maskable-512.png'; // el vinilo entero (para la animación)
 var contenido = document.getElementById('contenido');
 var barraTitulo = document.getElementById('tituloBarra');
 var btnAtras = document.getElementById('btnAtras');
+var btnMenu = document.getElementById('btnMenu');
+var drawer = document.getElementById('drawer');
+var drawerFondo = document.getElementById('drawerFondo');
 var aviso = document.getElementById('aviso');
+
+// --- Recorrida (actualización manual disparando GitHub Actions) -------------
+// El token lo pega el usuario UNA vez y se guarda SOLO en este teléfono
+// (localStorage). Nunca está en el código. Ver la guía para crearlo.
+var REPO = 'marcelogiribone-netizen/Vinilos-remates';
+var WORKFLOW = 'actualizar-datos.yml';
+var KEY_TOKEN = 'digbin_gh_token';
+var GUIA_TOKEN = 'https://github.com/settings/personal-access-tokens/new';
+var corridaEnCurso = false;
+
+function getToken() {
+  try { return localStorage.getItem(KEY_TOKEN) || ''; } catch (e) { return ''; }
+}
+function setToken(t) {
+  try {
+    if (t) localStorage.setItem(KEY_TOKEN, t);
+    else localStorage.removeItem(KEY_TOKEN);
+  } catch (e) { /* modo privado */ }
+}
 
 var datos = [];         // remates con vinilos
 var actualizado = null;  // fecha de la última descarga de datos
@@ -176,6 +199,35 @@ function fechaCortaISO(iso) {
   } catch (e) { return ''; }
 }
 
+// Antigüedad de los datos en texto ("hace 2 días", "hace 30 horas") o null si
+// no sabemos cuándo se generaron. Se mide sobre `generado` (cuándo el detector
+// tomó los datos), que es lo que realmente importa.
+function antiguedadDatos() {
+  if (!generado) return null;
+  var ms = Date.now() - new Date(generado).getTime();
+  if (isNaN(ms) || ms < 0) return null;
+  return ms;
+}
+function textoAntiguedad(ms) {
+  var horas = Math.floor(ms / 3600000);
+  if (horas < 24) return 'hace ' + horas + ' hora' + (horas === 1 ? '' : 's');
+  var dias = Math.floor(horas / 24);
+  return 'hace ' + dias + ' día' + (dias === 1 ? '' : 's');
+}
+// Banner tocable "datos viejos" si los datos tienen más de 24 h. Al tocarlo,
+// dispara una recorrida (actualización manual).
+function bannerDatosViejos() {
+  var ms = antiguedadDatos();
+  if (ms == null || ms < 24 * 3600000) return null;
+  var b = el('button', 'banner-viejos');
+  b.type = 'button';
+  b.innerHTML = '';
+  b.appendChild(document.createTextNode('🕒 Datos de ' + textoAntiguedad(ms) + '. '));
+  b.appendChild(el('span', 'banner-viejos-cta', 'Tocá para actualizar'));
+  b.addEventListener('click', iniciarRecorrida);
+  return b;
+}
+
 // Aviso de "no se pudo actualizar" para un remate (o null si está al día).
 function notaFallo(r) {
   if (r.noLeido) {
@@ -315,6 +367,9 @@ function pantallaLista() {
   // generar los datos): si abrís la app y un remate cerró hace un rato, ya no
   // aparece. (Los vencidos siguen disponibles en la Colección como historial.)
   var activos = datos.filter(function (r) { return !estaVencido(r); });
+
+  var bv = bannerDatosViejos();
+  if (bv) contenido.appendChild(bv);
 
   if (!activos.length) {
     contenido.appendChild(estado('No hay remates activos con vinilos en este momento.'));
@@ -558,6 +613,9 @@ function pantallaColeccion() {
   btnAtras.hidden = true;
   contenido.innerHTML = '';
 
+  var bv = bannerDatosViejos();
+  if (bv) contenido.appendChild(bv);
+
   // 1) Rellenar/refrescar snapshots con los datos vivos actuales (así los
   //    destacados marcados antes de esta versión también tienen su copia, y se
   //    actualiza la fecha de cierre si el remate cambió).
@@ -662,6 +720,7 @@ function fechaCorta(d) {
 
 function enrutar() {
   var h = location.hash || '#/';
+  var enDetalle = /^#\/r\/(.+)$/.test(h);
   if (h === '#/coleccion') {
     pantallaColeccion();
   } else {
@@ -669,25 +728,35 @@ function enrutar() {
     if (m) { pantallaDetalle(m[1]); }
     else { soloDestacados = false; pantallaLista(); }
   }
-  actualizarTabbar(h);
+  // En el detalle mostramos la flecha "‹"; en el resto, la hamburguesa.
+  btnMenu.hidden = enDetalle;
   window.scrollTo(0, 0);
 }
 
-// Menú de navegación (pestañas de abajo): Remates / Colección.
-var tabs = Array.prototype.slice.call(document.querySelectorAll('.tab'));
-tabs.forEach(function (t) {
-  t.addEventListener('click', function () { location.hash = t.getAttribute('data-hash'); });
-});
-function actualizarTabbar(h) {
-  h = h || location.hash || '#/';
-  var enColeccion = (h === '#/coleccion');
-  tabs.forEach(function (t) {
-    var esTabColeccion = (t.getAttribute('data-hash') === '#/coleccion');
-    var activo = esTabColeccion ? enColeccion : !enColeccion;
-    t.classList.toggle('activo', activo);
-    t.setAttribute('aria-current', activo ? 'page' : 'false');
-  });
+// --- Menú lateral (hamburguesa) --------------------------------------------
+function abrirMenu() {
+  drawer.hidden = false; drawerFondo.hidden = false;
+  // fuerza el reflow para que la transición de entrada corra
+  void drawer.offsetWidth;
+  drawer.classList.add('abierto'); drawerFondo.classList.add('visible');
+  btnMenu.setAttribute('aria-expanded', 'true');
 }
+function cerrarMenu() {
+  drawer.classList.remove('abierto'); drawerFondo.classList.remove('visible');
+  btnMenu.setAttribute('aria-expanded', 'false');
+  setTimeout(function () { drawer.hidden = true; drawerFondo.hidden = true; }, 220);
+}
+btnMenu.addEventListener('click', abrirMenu);
+drawerFondo.addEventListener('click', cerrarMenu);
+Array.prototype.slice.call(drawer.querySelectorAll('.drawer-item')).forEach(function (b) {
+  b.addEventListener('click', function () {
+    var a = b.getAttribute('data-accion');
+    cerrarMenu();
+    if (a === 'remates') location.hash = '#/';
+    else if (a === 'coleccion') location.hash = '#/coleccion';
+    else if (a === 'recorrida') iniciarRecorrida();
+  });
+});
 
 btnAtras.addEventListener('click', function () {
   if (history.length > 1) history.back();
@@ -695,6 +764,173 @@ btnAtras.addEventListener('click', function () {
 });
 
 window.addEventListener('hashchange', enrutar);
+
+// --- Recorrida: disparar una actualización manual --------------------------
+
+function iniciarRecorrida() {
+  if (corridaEnCurso) { mostrarAviso('Ya hay una actualización en curso…'); return; }
+  var t = getToken();
+  if (!t) { dialogoToken({ titulo: 'Conectar para actualizar' }); return; }
+  dispararCorrida(t);
+}
+
+function dispararCorrida(token) {
+  corridaEnCurso = true;
+  var genAntes = generado;
+  mostrarSpinner('Pidiendo la actualización…');
+  var url = 'https://api.github.com/repos/' + REPO + '/actions/workflows/' +
+    WORKFLOW + '/dispatches';
+  fetch(url, {
+    method: 'POST',
+    headers: {
+      'Authorization': 'Bearer ' + token,
+      'Accept': 'application/vnd.github+json',
+      'X-GitHub-Api-Version': '2022-11-28'
+    },
+    body: JSON.stringify({ ref: 'main' })
+  }).then(function (resp) {
+    if (resp.status === 204) {
+      // Aceptado. Ahora esperamos a que la corrida publique datos nuevos.
+      actualizarSpinner('Recorriendo los remates…');
+      pollActualizacion(genAntes, 24); // ~6 min (24 × 15s)
+      return;
+    }
+    corridaEnCurso = false;
+    cerrarSpinner();
+    // Manejo CLARO de errores (nada de fallar en silencio).
+    if (resp.status === 401) {
+      setToken(''); // token vencido/ inválido: lo borramos para que ponga otro
+      dialogoToken({
+        titulo: 'El token venció',
+        error: '⚠️ El token venció o es inválido. Generá uno nuevo (dura 1 año) y pegalo acá.'
+      });
+    } else if (resp.status === 403) {
+      dialogoToken({
+        titulo: 'Permiso rechazado',
+        error: '⚠️ GitHub rechazó el pedido (permisos o límite). Revisá que el token ' +
+          'tenga permiso de Actions (lectura y escritura) sobre este repositorio.'
+      });
+    } else if (resp.status === 404) {
+      dialogoToken({
+        titulo: 'No encontrado',
+        error: '⚠️ No se encontró la acción. Revisá que el token tenga acceso a ' +
+          'este repositorio (marcá "Only select repositories" → este repo).'
+      });
+    } else {
+      mostrarAviso('GitHub respondió ' + resp.status + '. Probá de nuevo en un rato.');
+    }
+  }).catch(function () {
+    corridaEnCurso = false;
+    cerrarSpinner();
+    mostrarAviso('No se pudo conectar con GitHub. Revisá tu conexión e intentá de nuevo.');
+  });
+}
+
+// Sondea vinilos.json hasta que aparezca una generación NUEVA (distinta a la que
+// había al disparar). Cuando llega, recarga la lista. Si tarda demasiado, avisa.
+function pollActualizacion(genAntes, intentos) {
+  fetch('vinilos.json?ts=' + Date.now(), { cache: 'no-store' })
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (json) {
+      var g = json && json.generado ? json.generado : null;
+      if (g && g !== genAntes) {
+        try {
+          localStorage.setItem('vinilos-data', JSON.stringify(json));
+          localStorage.setItem('vinilos-fecha', new Date().toISOString());
+        } catch (e) { /* nada */ }
+        actualizado = new Date();
+        datos = prepararDatos(json); // actualiza también `generado` y `fallos`
+        corridaEnCurso = false;
+        cerrarSpinner();
+        mostrarAviso('✅ ¡Datos actualizados!');
+        enrutar(); // redibuja la pantalla actual con los datos nuevos
+        return;
+      }
+      seguirPoll(genAntes, intentos);
+    })
+    .catch(function () { seguirPoll(genAntes, intentos); });
+}
+function seguirPoll(genAntes, intentos) {
+  if (intentos <= 0) {
+    corridaEnCurso = false;
+    cerrarSpinner();
+    mostrarAviso('La actualización está tardando. Va a aparecer sola; si no, ' +
+      'probá "Recorrida" de nuevo en unos minutos.');
+    return;
+  }
+  setTimeout(function () { pollActualizacion(genAntes, intentos - 1); }, 15000);
+}
+
+// Animación de carga: el vinilo del ícono girando, a pantalla completa.
+var spinnerEl = null;
+function mostrarSpinner(txt) {
+  cerrarSpinner();
+  var o = el('div', 'spinner-overlay');
+  var img = document.createElement('img');
+  img.className = 'spinner-vinilo';
+  img.src = LOGO_VINILO;
+  img.alt = '';
+  o.appendChild(img);
+  o.appendChild(el('p', 'spinner-txt', txt || 'Recorriendo los remates…'));
+  o.appendChild(el('p', 'spinner-sub',
+    'Puede tardar unos minutos. Podés dejar la app abierta.'));
+  document.body.appendChild(o);
+  spinnerEl = o;
+}
+function actualizarSpinner(txt) {
+  if (!spinnerEl) return;
+  var p = spinnerEl.querySelector('.spinner-txt');
+  if (p) p.textContent = txt;
+}
+function cerrarSpinner() {
+  if (spinnerEl) { spinnerEl.remove(); spinnerEl = null; }
+}
+
+// Diálogo para pegar el token (primera vez, o cuando venció/es inválido).
+var dialogoActual = null;
+function cerrarDialogo() {
+  if (dialogoActual) { dialogoActual.remove(); dialogoActual = null; }
+}
+function dialogoToken(opts) {
+  opts = opts || {};
+  cerrarDialogo();
+  var fondo = el('div', 'modal-fondo');
+  var caja = el('div', 'modal');
+  caja.appendChild(el('h2', 'modal-titulo', opts.titulo || 'Conectar para actualizar'));
+  if (opts.error) caja.appendChild(el('p', 'modal-error', opts.error));
+  caja.appendChild(el('p', 'modal-texto',
+    'Para actualizar desde la app necesitás un token de GitHub. Se guarda SOLO en ' +
+    'este teléfono y nunca se comparte. Creá uno con permiso de Actions (dura 1 año) ' +
+    'siguiendo la guía.'));
+  var guia = el('a', 'modal-guia', 'Abrir GitHub para crear el token ↗');
+  guia.href = GUIA_TOKEN; guia.target = '_blank'; guia.rel = 'noopener';
+  caja.appendChild(guia);
+  var input = el('input', 'modal-input');
+  input.type = 'password';
+  input.placeholder = 'Pegá acá el token (github_pat_…)';
+  input.setAttribute('autocomplete', 'off');
+  input.spellcheck = false;
+  caja.appendChild(input);
+  var acciones = el('div', 'modal-acciones');
+  var cancelar = el('button', 'modal-btn', 'Cancelar'); cancelar.type = 'button';
+  var guardar = el('button', 'modal-btn primario', 'Guardar y actualizar'); guardar.type = 'button';
+  cancelar.addEventListener('click', cerrarDialogo);
+  guardar.addEventListener('click', function () {
+    var t = (input.value || '').trim();
+    if (!t) { input.focus(); return; }
+    setToken(t);
+    cerrarDialogo();
+    dispararCorrida(t);
+  });
+  acciones.appendChild(cancelar);
+  acciones.appendChild(guardar);
+  caja.appendChild(acciones);
+  fondo.appendChild(caja);
+  fondo.addEventListener('click', function (ev) { if (ev.target === fondo) cerrarDialogo(); });
+  document.body.appendChild(fondo);
+  dialogoActual = fondo;
+  setTimeout(function () { input.focus(); }, 60);
+}
 
 // --- Arranque --------------------------------------------------------------
 

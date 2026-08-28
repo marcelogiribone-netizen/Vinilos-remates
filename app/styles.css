@@ -67,42 +67,65 @@ html, body {
 }
 .btn-atras:active { background: rgba(255,255,255,.18); }
 
-/* deja lugar abajo para la barra de pestañas fija */
+/* Botón hamburguesa (abre el menú lateral) */
+.btn-menu {
+  flex: 0 0 auto;
+  width: 40px;
+  height: 40px;
+  margin-left: -6px;
+  border: 0;
+  background: transparent;
+  color: #fff;
+  font-size: 1.5rem;
+  line-height: 1;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.btn-menu:active { background: rgba(255,255,255,.18); }
+
 main {
-  padding: 12px 12px calc(76px + env(safe-area-inset-bottom));
+  padding: 12px 12px calc(24px + env(safe-area-inset-bottom));
   max-width: 640px;
   margin: 0 auto;
 }
 
-/* Barra de pestañas (menú de navegación abajo) */
-.tabbar {
-  position: fixed;
-  left: 0; right: 0; bottom: 0;
-  z-index: 15;
-  display: flex;
+/* --- Menú lateral (drawer) --- */
+.drawer-fondo {
+  position: fixed; inset: 0;
+  background: rgba(0,0,0,.45);
+  opacity: 0; transition: opacity .2s ease;
+  z-index: 40;
+}
+.drawer-fondo.visible { opacity: 1; }
+.drawer {
+  position: fixed; top: 0; left: 0; bottom: 0;
+  width: 76%; max-width: 300px;
   background: var(--tarjeta);
-  border-top: 1px solid var(--borde);
-  padding-bottom: env(safe-area-inset-bottom);
-  box-shadow: 0 -1px 6px rgba(0,0,0,.08);
+  box-shadow: 2px 0 16px rgba(0,0,0,.3);
+  z-index: 41;
+  transform: translateX(-100%);
+  transition: transform .22s ease;
+  padding: max(env(safe-area-inset-top), 12px) 0 env(safe-area-inset-bottom);
+  display: flex; flex-direction: column;
 }
-.tab {
-  flex: 1;
-  border: 0;
-  background: transparent;
-  color: var(--texto-suave);
-  padding: 8px 4px 10px;
-  cursor: pointer;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 2px;
-  font-size: .78rem;
-  font-weight: 600;
+.drawer.abierto { transform: translateX(0); }
+.drawer-cabecera {
+  font-size: 1.2rem; font-weight: 800; color: var(--rojo);
+  padding: 10px 20px 14px; border-bottom: 1px solid var(--borde);
 }
-.tab-ico { font-size: 1.5rem; line-height: 1; }
-.tab.activo { color: var(--rojo); }
-.tab.activo .tab-ico { transform: scale(1.05); }
-@media (prefers-color-scheme: dark) { .tab.activo { color: var(--ambar); } }
+@media (prefers-color-scheme: dark) { .drawer-cabecera { color: var(--ambar); } }
+.drawer-item {
+  display: flex; align-items: center; gap: 12px;
+  border: 0; background: transparent; color: var(--texto);
+  font-size: 1.05rem; font-weight: 600; text-align: left;
+  padding: 15px 20px; cursor: pointer; width: 100%;
+}
+.drawer-item:active { background: var(--borde); }
+.drawer-ico { font-size: 1.3rem; width: 1.5rem; text-align: center; }
+.drawer-sub {
+  margin-left: auto; font-size: .72rem; font-weight: 600;
+  color: var(--texto-suave); font-style: italic;
+}
 
 /* --- Pantalla 1: lista de remates --- */
 .card-remate {
@@ -378,12 +401,12 @@ main {
 .aviso {
   position: fixed;
   left: 12px; right: 12px;
-  bottom: calc(84px + env(safe-area-inset-bottom)); /* arriba de la barra */
+  bottom: calc(20px + env(safe-area-inset-bottom));
   background: #2b2b2b; color: #fff;
   padding: 10px 14px; border-radius: 10px;
   font-size: .85rem; text-align: center;
   box-shadow: 0 2px 10px rgba(0,0,0,.3);
-  z-index: 20;
+  z-index: 30;
 }
 .actualizado { text-align: center; font-size: .78rem; color: var(--texto-suave); margin: 4px 0 14px; }
 
@@ -413,3 +436,85 @@ main {
 /* Tarjetas de vinilos de remates ya cerrados: atenuadas */
 .card-cerrado { opacity: .6; }
 .card-cerrado .coleccion-cierre { color: var(--texto-suave); font-style: italic; }
+
+/* --- Aviso "datos viejos" (tocable, dispara una recorrida) --- */
+.banner-viejos {
+  display: block; width: 100%;
+  background: #fff3cd; color: #7a5b00;
+  border: 1px solid #ffe08a; border-radius: 10px;
+  padding: 11px 14px; margin: 0 0 14px;
+  font-size: .86rem; font-weight: 600; text-align: left;
+  cursor: pointer;
+}
+.banner-viejos:active { background: #ffeaa8; }
+.banner-viejos-cta { text-decoration: underline; white-space: nowrap; }
+@media (prefers-color-scheme: dark) {
+  .banner-viejos { background: #3a3320; color: #f0d98a; border-color: #5a4d24; }
+  .banner-viejos:active { background: #4a4128; }
+}
+
+/* --- Animación de carga: el vinilo del ícono girando --- */
+.spinner-overlay {
+  position: fixed; inset: 0;
+  background: rgba(20,16,12,.92);
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center;
+  gap: 16px; padding: 24px;
+  z-index: 60; text-align: center;
+}
+.spinner-vinilo {
+  width: 148px; height: 148px;
+  border-radius: 50%;            /* recorta a círculo: se ve solo el vinilo */
+  box-shadow: 0 6px 24px rgba(0,0,0,.5);
+  animation: girar 1.4s linear infinite;
+}
+@keyframes girar { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) {
+  .spinner-vinilo { animation-duration: 4s; }
+}
+.spinner-txt { color: #f3efe8; font-size: 1.05rem; font-weight: 700; margin: 0; }
+.spinner-sub { color: #b7ac9c; font-size: .84rem; margin: 0; max-width: 300px; }
+
+/* --- Diálogo del token --- */
+.modal-fondo {
+  position: fixed; inset: 0;
+  background: rgba(0,0,0,.5);
+  display: flex; align-items: center; justify-content: center;
+  padding: 20px; z-index: 70;
+}
+.modal {
+  background: var(--tarjeta); color: var(--texto);
+  border-radius: 16px; padding: 20px;
+  width: 100%; max-width: 380px;
+  box-shadow: 0 8px 30px rgba(0,0,0,.4);
+}
+.modal-titulo { font-size: 1.15rem; font-weight: 800; margin: 0 0 10px; }
+.modal-texto { font-size: .88rem; color: var(--texto-suave); line-height: 1.5; margin: 0 0 12px; }
+.modal-error {
+  font-size: .86rem; font-weight: 600;
+  background: #fdecea; color: #a3281c;
+  border: 1px solid #f5c6c0; border-radius: 8px;
+  padding: 9px 11px; margin: 0 0 12px; line-height: 1.45;
+}
+@media (prefers-color-scheme: dark) {
+  .modal-error { background: #3a201d; color: #ff9d90; border-color: #5c2c26; }
+}
+.modal-guia {
+  display: inline-block; margin: 0 0 12px;
+  color: var(--rojo); font-weight: 700; font-size: .9rem; text-decoration: none;
+}
+@media (prefers-color-scheme: dark) { .modal-guia { color: var(--ambar); } }
+.modal-input {
+  width: 100%; box-sizing: border-box;
+  border: 1px solid var(--borde); border-radius: 10px;
+  background: var(--fondo); color: var(--texto);
+  padding: 12px; font-size: .95rem; margin: 0 0 16px;
+}
+.modal-acciones { display: flex; gap: 10px; justify-content: flex-end; }
+.modal-btn {
+  border: 1px solid var(--borde); background: var(--tarjeta); color: var(--texto);
+  font-size: .9rem; font-weight: 700; padding: 10px 16px;
+  border-radius: 10px; cursor: pointer;
+}
+.modal-btn.primario { background: var(--rojo); color: #fff; border-color: var(--rojo); }
+.modal-btn:active { opacity: .85; }
