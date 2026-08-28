@@ -5,7 +5,7 @@
    - Las fotos de los discos se guardan a medida que se ven (para verlas
      después sin conexión). */
 
-var VERSION = 'digbin-v18';
+var VERSION = 'digbin-v19';
 var APP_SHELL = [
   './',
   'index.html',
@@ -13,7 +13,8 @@ var APP_SHELL = [
   'app.js',
   'manifest.webmanifest',
   'icons/icon-192.png',
-  'icons/icon-512.png'
+  'icons/icon-512.png',
+  'icons/logo-vinilo-512.png'
 ];
 var IMG_HOST = 'static3.remotes.com.uy';
 

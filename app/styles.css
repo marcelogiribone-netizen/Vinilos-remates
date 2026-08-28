@@ -475,17 +475,28 @@ main {
 .spinner-txt { color: #f3efe8; font-size: 1.05rem; font-weight: 700; margin: 0; }
 .spinner-sub { color: #b7ac9c; font-size: .84rem; margin: 0; max-width: 300px; }
 
-/* Pantalla de inicio (splash): tiene que ser IDÉNTICA al splash del sistema de
-   Android, para que el único cambio visible sea que el vinilo empieza a girar.
-   - Fondo: el mismo #1a1618 del ícono y del background_color del manifest.
-   - Vinilo: ~60% del ancho (igual tamaño aparente que el del sistema).
-   - Sin texto y sin sombra (el splash del sistema no los tiene). Sin texto, el
-     vinilo queda CENTRADO de verdad (con texto, el flex corría todo hacia
-     arriba). */
+/* ===========================================================================
+   AJUSTE DEL TAMAÑO DEL VINILO EN EL SPLASH DE LA APP
+   ---------------------------------------------------------------------------
+   Este es el ÚNICO número a tocar si el vinilo del splash de la app no coincide
+   en tamaño con el del splash del sistema (Android). Si se ve MÁS CHICO, subí el
+   número; si se ve MÁS GRANDE, bajalo. Está en "vw" = % del ancho de pantalla.
+
+   Por qué: el ícono del sistema dibuja el vinilo al 65% del cuadrado; Android
+   amplía y recorta ese cuadrado a un tamaño que NO conocemos hasta verlo en el
+   celular. Por eso el tamaño del splash de la app queda acá, para ajustarlo con
+   un solo cambio sin rehacer nada.
+   =========================================================================== */
+:root { --splash-vinilo: 48vw; }
+
+/* Pantalla de inicio (splash): tiene que quedar IDÉNTICA al splash del sistema,
+   para que el único cambio visible sea que el vinilo empieza a girar.
+   - Mismo fondo exacto (#1a1618 = background_color del manifest y del ícono).
+   - Vinilo centrado (sin texto debajo que lo empuje hacia arriba) y sin sombra. */
 .spinner-overlay.splash { background: #1a1618; }
 .spinner-overlay.splash .spinner-vinilo {
-  width: 60vw; height: 60vw;
-  max-width: 360px; max-height: 360px;
+  width: var(--splash-vinilo);
+  height: var(--splash-vinilo);
   box-shadow: none;
 }
 

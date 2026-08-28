@@ -124,22 +124,38 @@ bajar los lotes de un remate on-demand), ahí SÍ debe usar `Cargando`.
 
 ---
 
-## Estándar del proyecto — un solo dibujo de vinilo (decidido 28/8/2026)
+## Estándar del proyecto — vinilo: UNA fuente, DOS archivos con distinto margen (28/8/2026)
 
-**Regla:** hay UNA sola fuente para el vinilo: **`app/icons/icon-source.svg`**.
-De ahí se generan `icon-192.png` e `icon-512.png`, que se usan para:
-- el **ícono del manifest** (ambos propósitos: `any maskable`),
-- el **vinilo que gira** en la app (`LOGO_VINILO = icons/icon-512.png`).
+**Regla:** el dibujo del vinilo vive en UNA sola fuente:
+**`app/icons/icon-source.svg`** (vinilo a sangre, surcos finos y muchos). De ahí,
+el script **`app/icons/generar-iconos.js`** genera DOS salidas que **solo se
+diferencian por el margen** — NO volver a unificarlas:
 
-Así el ícono que muestra el sistema (splash, home) y el vinilo animado son
-**el mismo dibujo** y **no pueden divergir**. Si se cambia el ícono, se cambia
-`icon-source.svg` y se regeneran los dos PNG desde ahí; no crear variantes con
-otro dibujo. El fondo del splash y `background_color` del manifest son el mismo
-casi-negro del ícono (`#1a1618`), para que el pasaje sea imperceptible.
+1. **`icon-192.png` / `icon-512.png`** — el vinilo al **65%** del cuadrado,
+   centrado, con fondo `#1a1618` alrededor. Es el **ícono del manifest**
+   (`any maskable`). El margen es CLAVE: Android amplía y recorta el ícono en su
+   splash; con el vinilo al 65% (dentro de la zona segura), el vinilo entero
+   sobrevive y no se le comen los surcos de los bordes.
+2. **`logo-vinilo-512.png`** — el MISMO vinilo **a sangre** (sin margen). Lo usa
+   la animación / splash de la app (`LOGO_VINILO` en `app.js`).
 
-(Antes había dos dibujos: uno "any" con margen rojo y otro "maskable" a sangre;
-el sistema usaba el "any" en el splash y no coincidía con la animación. Se
-unificó a uno solo.)
+Por qué DOS y no uno: unificarlos (un único archivo a sangre para todo) hacía que
+Android recortara los surcos exteriores del vinilo en el splash del sistema. El
+margen del ícono lo arregla; el logo del splash no lo lleva porque ahí no hay
+recorte.
+
+**Tamaño del vinilo en el splash de la app:** es un solo número, la variable CSS
+**`--splash-vinilo`** en `app/styles.css` (arranca en `48vw`). Si en el celu no
+coincide con el tamaño del vinilo del splash del sistema, se ajusta SOLO ese
+número (más grande / más chico), sin rehacer nada.
+
+**Fondo:** el `background_color` del manifest, el fondo del splash y el fondo del
+ícono son el mismo `#1a1618`, para que el pasaje del splash del sistema al de la
+app sea imperceptible.
+
+Si se cambia el dibujo: editar SOLO `icon-source.svg` y correr
+`node app/icons/generar-iconos.js` (regenera los tres PNG). Subir la versión del
+service worker.
 
 ---
 
