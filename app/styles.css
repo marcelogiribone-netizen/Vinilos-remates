@@ -474,8 +474,10 @@ main {
 }
 .spinner-txt { color: #f3efe8; font-size: 1.05rem; font-weight: 700; margin: 0; }
 .spinner-sub { color: #b7ac9c; font-size: .84rem; margin: 0; max-width: 300px; }
-/* Pantalla de inicio: fondo opaco (splash de marca) y nombre más grande */
-.spinner-overlay.splash { background: #14100c; }
+/* Pantalla de inicio: fondo opaco IGUAL al background_color del manifest y al
+   fondo del ícono maskable (#1a1618), para que el splash del sistema y este
+   sean visualmente idénticos y el pasaje sea imperceptible. */
+.spinner-overlay.splash { background: #1a1618; }
 .spinner-overlay.splash .spinner-txt { font-size: 1.9rem; letter-spacing: .5px; }
 
 /* --- Diálogo del token --- */

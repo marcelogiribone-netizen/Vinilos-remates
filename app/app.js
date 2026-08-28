@@ -1069,9 +1069,12 @@ function dialogoBackup() {
 // mínimo de tiempo visible para que no titile si carga instantáneo).
 var splashInicio = Date.now();
 Cargando.mostrar({ texto: 'DigBin', splash: true });
+// Al cerrar el splash, sacamos el fondo casi-negro inicial (puesto en <body>)
+// para volver al color del tema (claro/oscuro).
+function limpiarFondoInicial() { document.body.style.background = ''; }
 function cerrarSplash() {
   var espera = Math.max(0, 700 - (Date.now() - splashInicio));
-  setTimeout(Cargando.ocultar, espera);
+  setTimeout(function () { Cargando.ocultar(); limpiarFondoInicial(); }, espera);
 }
 
 cargarDatos()
@@ -1082,6 +1085,7 @@ cargarDatos()
   })
   .catch(function () {
     Cargando.ocultar();
+    limpiarFondoInicial();
     contenido.innerHTML = '';
     contenido.appendChild(estado(
       'No se pudieron cargar los datos y no hay copia guardada. ' +
