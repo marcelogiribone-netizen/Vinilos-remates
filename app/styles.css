@@ -474,11 +474,20 @@ main {
 }
 .spinner-txt { color: #f3efe8; font-size: 1.05rem; font-weight: 700; margin: 0; }
 .spinner-sub { color: #b7ac9c; font-size: .84rem; margin: 0; max-width: 300px; }
-/* Pantalla de inicio: fondo opaco IGUAL al background_color del manifest y al
-   fondo del ícono maskable (#1a1618), para que el splash del sistema y este
-   sean visualmente idénticos y el pasaje sea imperceptible. */
+
+/* Pantalla de inicio (splash): tiene que ser IDÉNTICA al splash del sistema de
+   Android, para que el único cambio visible sea que el vinilo empieza a girar.
+   - Fondo: el mismo #1a1618 del ícono y del background_color del manifest.
+   - Vinilo: ~60% del ancho (igual tamaño aparente que el del sistema).
+   - Sin texto y sin sombra (el splash del sistema no los tiene). Sin texto, el
+     vinilo queda CENTRADO de verdad (con texto, el flex corría todo hacia
+     arriba). */
 .spinner-overlay.splash { background: #1a1618; }
-.spinner-overlay.splash .spinner-txt { font-size: 1.9rem; letter-spacing: .5px; }
+.spinner-overlay.splash .spinner-vinilo {
+  width: 60vw; height: 60vw;
+  max-width: 360px; max-height: 360px;
+  box-shadow: none;
+}
 
 /* --- Diálogo del token --- */
 .modal-fondo {
