@@ -10,7 +10,10 @@
 // ---------------------------------------------------------------------------
 
 var ICONO = 'icons/icon-192.png';
-var LOGO_VINILO = 'icons/icon-maskable-512.png'; // el vinilo entero (para la animación)
+// El vinilo que gira usa EXACTAMENTE el mismo archivo que el ícono del manifest
+// (icon-512.png, generado de icons/icon-source.svg). Así el ícono del sistema y
+// el vinilo animado son el MISMO dibujo y no pueden divergir.
+var LOGO_VINILO = 'icons/icon-512.png';
 var contenido = document.getElementById('contenido');
 var barraTitulo = document.getElementById('tituloBarra');
 var btnAtras = document.getElementById('btnAtras');

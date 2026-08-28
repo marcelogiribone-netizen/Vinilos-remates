@@ -124,6 +124,25 @@ bajar los lotes de un remate on-demand), ahí SÍ debe usar `Cargando`.
 
 ---
 
+## Estándar del proyecto — un solo dibujo de vinilo (decidido 28/8/2026)
+
+**Regla:** hay UNA sola fuente para el vinilo: **`app/icons/icon-source.svg`**.
+De ahí se generan `icon-192.png` e `icon-512.png`, que se usan para:
+- el **ícono del manifest** (ambos propósitos: `any maskable`),
+- el **vinilo que gira** en la app (`LOGO_VINILO = icons/icon-512.png`).
+
+Así el ícono que muestra el sistema (splash, home) y el vinilo animado son
+**el mismo dibujo** y **no pueden divergir**. Si se cambia el ícono, se cambia
+`icon-source.svg` y se regeneran los dos PNG desde ahí; no crear variantes con
+otro dibujo. El fondo del splash y `background_color` del manifest son el mismo
+casi-negro del ícono (`#1a1618`), para que el pasaje sea imperceptible.
+
+(Antes había dos dibujos: uno "any" con margen rojo y otro "maskable" a sangre;
+el sistema usaba el "any" en el splash y no coincidía con la animación. Se
+unificó a uno solo.)
+
+---
+
 ## Sesión 13 — 10 de agosto de 2026 — Oferta vigente + dos corridas por día
 
 ### 1) Oferta vigente de cada lote — ¡GRATIS!
