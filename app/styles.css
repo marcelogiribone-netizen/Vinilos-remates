@@ -474,6 +474,9 @@ main {
 }
 .spinner-txt { color: #f3efe8; font-size: 1.05rem; font-weight: 700; margin: 0; }
 .spinner-sub { color: #b7ac9c; font-size: .84rem; margin: 0; max-width: 300px; }
+/* Pantalla de inicio: fondo opaco (splash de marca) y nombre más grande */
+.spinner-overlay.splash { background: #14100c; }
+.spinner-overlay.splash .spinner-txt { font-size: 1.9rem; letter-spacing: .5px; }
 
 /* --- Diálogo del token --- */
 .modal-fondo {
@@ -486,7 +489,17 @@ main {
   background: var(--tarjeta); color: var(--texto);
   border-radius: 16px; padding: 20px;
   width: 100%; max-width: 380px;
+  max-height: 90vh; overflow-y: auto;
   box-shadow: 0 8px 30px rgba(0,0,0,.4);
+}
+.modal-seccion { font-size: .92rem; font-weight: 800; margin: 18px 0 8px; }
+.modal-area {
+  width: 100%; box-sizing: border-box;
+  border: 1px solid var(--borde); border-radius: 10px;
+  background: var(--fondo); color: var(--texto);
+  padding: 10px; font-size: .74rem; line-height: 1.4;
+  font-family: ui-monospace, Menlo, Consolas, monospace;
+  resize: vertical; margin: 0 0 10px;
 }
 .modal-titulo { font-size: 1.15rem; font-weight: 800; margin: 0 0 10px; }
 .modal-texto { font-size: .88rem; color: var(--texto-suave); line-height: 1.5; margin: 0 0 12px; }
