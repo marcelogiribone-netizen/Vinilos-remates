@@ -27,6 +27,10 @@ jobs:
     steps:
       - name: Traer el repo
         uses: actions/checkout@v4
+        with:
+          # Historia completa: si al subir hay que rebasear sobre main (porque
+          # otra corrida/otro push lo movió), git necesita la base común.
+          fetch-depth: 0
 
       - name: Instalar Node
         uses: actions/setup-node@v4
@@ -68,7 +72,39 @@ jobs:
             echo "Sin cambios — no hay nada para commitear."
           else
             git commit -m "Actualización automática de datos (vinilos.json) [skip ci]"
-            git push
+
+            # Publicar con reintentos. Si otro push movió main mientras corríamos
+            # (ej: un merge), nuestro push se rechaza. En ese caso traemos main y
+            # REBASEAMOS nuestro commit encima. Ante conflicto en app/vinilos.json
+            # nos quedamos con el JSON RECIÉN GENERADO (el nuevo): en un rebase,
+            # "-X theirs" = gana lo que estamos reaplicando, o sea nuestro commit.
+            # (El rebase solo reaplica NUESTRO cambio: los cambios de main en
+            #  otros archivos se conservan.)
+            publicado=""
+            for intento in 1 2 3 4 5; do
+              if git push origin HEAD:main; then
+                publicado="si"; break
+              fi
+              echo "Push rechazado (intento $intento): traigo main y rebaseo..."
+              git fetch origin main
+              if ! git rebase -X theirs FETCH_HEAD; then
+                # No se pudo rebasear limpio: no dejamos el repo a medias y
+                # marcamos la corrida en ROJO (un fallo al publicar NO se oculta).
+                git rebase --abort || true
+                echo "::error::No se pudo rebasear sobre main tras un push rechazado."
+                exit 1
+              fi
+              sleep $((intento * 3))
+            done
+
+            # Si tras todos los reintentos NO se pudo subir, la corrida queda en
+            # ROJO. El rebase NO sirve para ocultar un fallo de push: si igual no
+            # sube, se avisa fuerte.
+            if [ -z "$publicado" ]; then
+              echo "::error::No se pudo subir el JSON tras varios reintentos (main sigue moviéndose o hay un problema de push)."
+              exit 1
+            fi
+
             echo "Datos actualizados y subidos."
             # Verificación de guardado: confirmamos que lo que quedó en el árbol
             # de trabajo YA está commiteado. Si por lo que sea quedaran cambios
