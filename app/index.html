@@ -16,6 +16,7 @@
 <body>
   <!-- Barra superior -->
   <header class="appbar">
+    <button id="btnMenu" class="btn-menu" aria-label="Abrir menú" aria-expanded="false">☰</button>
     <button id="btnAtras" class="btn-atras" aria-label="Volver" hidden>‹</button>
     <h1 id="tituloBarra" class="appbar-titulo">DigBin</h1>
   </header>
@@ -26,15 +27,19 @@
 
   <div id="aviso" class="aviso" hidden></div>
 
-  <!-- Menú de navegación (pestañas de abajo) -->
-  <nav class="tabbar" id="tabbar" aria-label="Secciones">
-    <button class="tab" type="button" data-hash="#/">
-      <span class="tab-ico">💿</span>
-      <span class="tab-txt">Remates</span>
+  <!-- Menú lateral (se abre con la hamburguesa). Fondo oscuro + panel. -->
+  <div id="drawerFondo" class="drawer-fondo" hidden></div>
+  <nav id="drawer" class="drawer" aria-label="Menú" hidden>
+    <div class="drawer-cabecera">DigBin</div>
+    <button class="drawer-item" type="button" data-accion="remates">
+      <span class="drawer-ico">💿</span> Remates
     </button>
-    <button class="tab" type="button" data-hash="#/coleccion">
-      <span class="tab-ico">♥</span>
-      <span class="tab-txt">Colección</span>
+    <button class="drawer-item" type="button" data-accion="coleccion">
+      <span class="drawer-ico">♥</span> Colección
+    </button>
+    <button class="drawer-item" type="button" data-accion="recorrida">
+      <span class="drawer-ico">🔄</span> Recorrida
+      <span class="drawer-sub">actualizar ahora</span>
     </button>
   </nav>
 
