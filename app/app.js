@@ -10,10 +10,11 @@
 // ---------------------------------------------------------------------------
 
 var ICONO = 'icons/icon-192.png';
-// El vinilo que gira usa EXACTAMENTE el mismo archivo que el ícono del manifest
-// (icon-512.png, generado de icons/icon-source.svg). Así el ícono del sistema y
-// el vinilo animado son el MISMO dibujo y no pueden divergir.
-var LOGO_VINILO = 'icons/icon-512.png';
+// El vinilo que gira (splash/animación) usa el logo A SANGRE (sin margen), que
+// sale de la MISMA fuente que el ícono (icons/icon-source.svg → generar-iconos.js).
+// El ícono del sistema tiene margen (vinilo al 65%) para sobrevivir al recorte de
+// Android; el logo del splash no, y se dibuja al tamaño de --splash-vinilo (styles.css).
+var LOGO_VINILO = 'icons/logo-vinilo-512.png';
 var contenido = document.getElementById('contenido');
 var barraTitulo = document.getElementById('tituloBarra');
 var btnAtras = document.getElementById('btnAtras');
