@@ -95,6 +95,35 @@ CORS/caché y complejidad; no vale la pena para el beneficio.)
 
 ---
 
+## Estándar del proyecto — indicador de carga único (decidido 28/8/2026)
+
+**Regla:** hay UN solo indicador de carga en toda la app: **el vinilo del ícono
+girando**. Toda espera visible (presente o futura) debe usarlo. **No crear otros
+spinners ni animaciones de carga.** Es parte de la identidad de DigBin.
+
+**Cómo usarlo** (en `app/app.js`, componente `Cargando`):
+
+```js
+Cargando.mostrar({ texto: '…', sub: '…', splash: true|false });
+Cargando.texto('nuevo texto');   // cambia el texto sin recrear
+Cargando.ocultar();
+```
+
+- `splash: true` → fondo opaco (pantalla de inicio de marca).
+- `sub` → subtítulo opcional (ej. "Puede tardar unos minutos…").
+- Visualmente es la clase `.spinner-overlay` + `.spinner-vinilo` (girando) en
+  `app/styles.css`, usando `icons/icon-maskable-512.png` recortado en círculo.
+
+**Dónde se usa hoy:** pantalla de inicio (arranque) y Recorrida (corrida manual).
+
+**Cuándo NO usarlo:** acciones **instantáneas** (abrir una pantalla que ya tiene
+los datos en memoria — lista, detalle, colección —, guardar una estrella, etc.).
+Ahí el vinilo aparecería y desaparecería de golpe (parpadeo feo), así que no se
+pone. Si alguna de esas pantallas pasa a ser **asíncrona** en el futuro (ej.
+bajar los lotes de un remate on-demand), ahí SÍ debe usar `Cargando`.
+
+---
+
 ## Sesión 13 — 10 de agosto de 2026 — Oferta vigente + dos corridas por día
 
 ### 1) Oferta vigente de cada lote — ¡GRATIS!

@@ -778,7 +778,10 @@ function iniciarRecorrida() {
 function dispararCorrida(token) {
   corridaEnCurso = true;
   var genAntes = generado;
-  mostrarSpinner('Pidiendo la actualización…');
+  Cargando.mostrar({
+    texto: 'Pidiendo la actualización…',
+    sub: 'Puede tardar unos minutos. Podés dejar la app abierta.'
+  });
   var url = 'https://api.github.com/repos/' + REPO + '/actions/workflows/' +
     WORKFLOW + '/dispatches';
   fetch(url, {
@@ -792,12 +795,12 @@ function dispararCorrida(token) {
   }).then(function (resp) {
     if (resp.status === 204) {
       // Aceptado. Ahora esperamos a que la corrida publique datos nuevos.
-      actualizarSpinner('Recorriendo los remates…');
+      Cargando.texto('Recorriendo los remates…');
       pollActualizacion(genAntes, 24); // ~6 min (24 × 15s)
       return;
     }
     corridaEnCurso = false;
-    cerrarSpinner();
+    Cargando.ocultar();
     // Manejo CLARO de errores (nada de fallar en silencio).
     if (resp.status === 401) {
       setToken(''); // token vencido/ inválido: lo borramos para que ponga otro
@@ -822,7 +825,7 @@ function dispararCorrida(token) {
     }
   }).catch(function () {
     corridaEnCurso = false;
-    cerrarSpinner();
+    Cargando.ocultar();
     mostrarAviso('No se pudo conectar con GitHub. Revisá tu conexión e intentá de nuevo.');
   });
 }
@@ -842,7 +845,7 @@ function pollActualizacion(genAntes, intentos) {
         actualizado = new Date();
         datos = prepararDatos(json); // actualiza también `generado` y `fallos`
         corridaEnCurso = false;
-        cerrarSpinner();
+        Cargando.ocultar();
         mostrarAviso('✅ ¡Datos actualizados!');
         enrutar(); // redibuja la pantalla actual con los datos nuevos
         return;
@@ -854,7 +857,7 @@ function pollActualizacion(genAntes, intentos) {
 function seguirPoll(genAntes, intentos) {
   if (intentos <= 0) {
     corridaEnCurso = false;
-    cerrarSpinner();
+    Cargando.ocultar();
     mostrarAviso('La actualización está tardando. Va a aparecer sola; si no, ' +
       'probá "Recorrida" de nuevo en unos minutos.');
     return;
@@ -862,33 +865,50 @@ function seguirPoll(genAntes, intentos) {
   setTimeout(function () { pollActualizacion(genAntes, intentos - 1); }, 15000);
 }
 
-// Animación de carga: el vinilo del ícono girando, a pantalla completa.
-var spinnerEl = null;
-function mostrarSpinner(txt, sub) {
-  cerrarSpinner();
-  var o = el('div', 'spinner-overlay');
-  var img = document.createElement('img');
-  img.className = 'spinner-vinilo';
-  img.src = LOGO_VINILO;
-  img.alt = '';
-  o.appendChild(img);
-  o.appendChild(el('p', 'spinner-txt', txt || 'Recorriendo los remates…'));
-  // sub === '' -> sin subtítulo (ej. pantalla de inicio). undefined -> el default.
-  var textoSub = (sub === undefined) ?
-    'Puede tardar unos minutos. Podés dejar la app abierta.' : sub;
-  if (textoSub) o.appendChild(el('p', 'spinner-sub', textoSub));
-  document.body.appendChild(o);
-  spinnerEl = o;
-  return o;
-}
-function actualizarSpinner(txt) {
-  if (!spinnerEl) return;
-  var p = spinnerEl.querySelector('.spinner-txt');
-  if (p) p.textContent = txt;
-}
-function cerrarSpinner() {
-  if (spinnerEl) { spinnerEl.remove(); spinnerEl = null; }
-}
+// ===========================================================================
+// Cargando — ÚNICO indicador de carga del proyecto: el vinilo girando.
+//
+// ESTÁNDAR DEL PROYECTO: toda espera VISIBLE de la app (presente o futura) debe
+// usar este componente. No crear otros spinners/animaciones de carga: si algo
+// tarda y el usuario tiene que esperar mirando la pantalla, se muestra ESTE
+// vinilo girando. Es el mismo elemento en todos lados (identidad de la app).
+//
+// Uso:
+//   Cargando.mostrar({ texto: '…', sub: '…', splash: true|false })
+//   Cargando.texto('nuevo texto')   // cambia el texto sin recrear
+//   Cargando.ocultar()
+//
+// Cuándo NO usarlo: acciones instantáneas (abrir una pantalla que ya tiene los
+// datos en memoria, guardar una estrella, etc.). Ahí el vinilo aparecería y
+// desaparecería de golpe (parpadeo), así que no se pone.
+// ===========================================================================
+var Cargando = (function () {
+  var actual = null;
+  function mostrar(opts) {
+    opts = opts || {};
+    ocultar();
+    var o = el('div', 'spinner-overlay' + (opts.splash ? ' splash' : ''));
+    var img = document.createElement('img');
+    img.className = 'spinner-vinilo';
+    img.src = LOGO_VINILO;
+    img.alt = '';
+    o.appendChild(img);
+    o.appendChild(el('p', 'spinner-txt', opts.texto || 'Cargando…'));
+    if (opts.sub) o.appendChild(el('p', 'spinner-sub', opts.sub));
+    document.body.appendChild(o);
+    actual = o;
+    return o;
+  }
+  function texto(t) {
+    if (!actual) return;
+    var p = actual.querySelector('.spinner-txt');
+    if (p) p.textContent = t;
+  }
+  function ocultar() {
+    if (actual) { actual.remove(); actual = null; }
+  }
+  return { mostrar: mostrar, texto: texto, ocultar: ocultar };
+})();
 
 // Diálogo para pegar el token (primera vez, o cuando venció/es inválido).
 var dialogoActual = null;
@@ -1048,11 +1068,10 @@ function dialogoBackup() {
 // app tenga identidad desde que abre. Se cierra al cargar los datos (con un
 // mínimo de tiempo visible para que no titile si carga instantáneo).
 var splashInicio = Date.now();
-var splash = mostrarSpinner('DigBin', '');
-if (splash) splash.classList.add('splash');
+Cargando.mostrar({ texto: 'DigBin', splash: true });
 function cerrarSplash() {
   var espera = Math.max(0, 700 - (Date.now() - splashInicio));
-  setTimeout(cerrarSpinner, espera);
+  setTimeout(Cargando.ocultar, espera);
 }
 
 cargarDatos()
@@ -1062,7 +1081,7 @@ cargarDatos()
     cerrarSplash();
   })
   .catch(function () {
-    cerrarSpinner();
+    Cargando.ocultar();
     contenido.innerHTML = '';
     contenido.appendChild(estado(
       'No se pudieron cargar los datos y no hay copia guardada. ' +

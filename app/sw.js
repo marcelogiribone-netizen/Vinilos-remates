@@ -5,7 +5,7 @@
    - Las fotos de los discos se guardan a medida que se ven (para verlas
      después sin conexión). */
 
-var VERSION = 'digbin-v13';
+var VERSION = 'digbin-v14';
 var APP_SHELL = [
   './',
   'index.html',
