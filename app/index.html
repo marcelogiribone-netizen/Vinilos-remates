@@ -13,7 +13,10 @@
   <link rel="apple-touch-icon" href="icons/icon-192.png">
   <link rel="stylesheet" href="styles.css">
 </head>
-<body>
+<body style="background:#1a1618">
+  <!-- Fondo inicial casi-negro (igual al splash) para que NO haya un parpadeo
+       claro entre el splash del sistema y el de la app. app.js lo limpia (vuelve
+       al tema) cuando cierra la pantalla de inicio. -->
   <!-- Barra superior -->
   <header class="appbar">
     <button id="btnMenu" class="btn-menu" aria-label="Abrir menú" aria-expanded="false">☰</button>
