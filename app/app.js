@@ -755,6 +755,7 @@ Array.prototype.slice.call(drawer.querySelectorAll('.drawer-item')).forEach(func
     if (a === 'remates') location.hash = '#/';
     else if (a === 'coleccion') location.hash = '#/coleccion';
     else if (a === 'recorrida') iniciarRecorrida();
+    else if (a === 'backup') dialogoBackup();
   });
 });
 
@@ -863,7 +864,7 @@ function seguirPoll(genAntes, intentos) {
 
 // Animación de carga: el vinilo del ícono girando, a pantalla completa.
 var spinnerEl = null;
-function mostrarSpinner(txt) {
+function mostrarSpinner(txt, sub) {
   cerrarSpinner();
   var o = el('div', 'spinner-overlay');
   var img = document.createElement('img');
@@ -872,10 +873,13 @@ function mostrarSpinner(txt) {
   img.alt = '';
   o.appendChild(img);
   o.appendChild(el('p', 'spinner-txt', txt || 'Recorriendo los remates…'));
-  o.appendChild(el('p', 'spinner-sub',
-    'Puede tardar unos minutos. Podés dejar la app abierta.'));
+  // sub === '' -> sin subtítulo (ej. pantalla de inicio). undefined -> el default.
+  var textoSub = (sub === undefined) ?
+    'Puede tardar unos minutos. Podés dejar la app abierta.' : sub;
+  if (textoSub) o.appendChild(el('p', 'spinner-sub', textoSub));
   document.body.appendChild(o);
   spinnerEl = o;
+  return o;
 }
 function actualizarSpinner(txt) {
   if (!spinnerEl) return;
@@ -932,14 +936,133 @@ function dialogoToken(opts) {
   setTimeout(function () { input.focus(); }, 60);
 }
 
+// --- Copia de seguridad (exportar / importar estrellas y corazones) --------
+
+// Junta TODO lo que el usuario creó (puntuaciones, destacados y sus snapshots)
+// en un texto para guardar o compartir. Importar lo vuelve a cargar.
+function armarBackup() {
+  return {
+    app: 'DigBin', v: 1, fecha: new Date().toISOString(),
+    puntuaciones: leerMapa(KEY_PUNTOS),
+    destacados: leerMapa(KEY_DESTACADOS),
+    destacados_datos: leerMapa(KEY_DEST_DATOS)
+  };
+}
+function contarBackup(b) {
+  var estrellas = b.puntuaciones ? Object.keys(b.puntuaciones).length : 0;
+  var corazones = b.destacados ? Object.keys(b.destacados).length : 0;
+  return { estrellas: estrellas, corazones: corazones };
+}
+// Importa FUSIONANDO (no borra lo que ya tenés): lo importado se suma / pisa
+// las mismas claves, y se conserva todo lo demás.
+function importarBackup(obj) {
+  if (!obj || typeof obj !== 'object' ||
+      (!obj.puntuaciones && !obj.destacados && !obj.destacados_datos)) {
+    throw new Error('El texto no parece una copia de DigBin.');
+  }
+  var p = leerMapa(KEY_PUNTOS), d = leerMapa(KEY_DESTACADOS), dd = leerMapa(KEY_DEST_DATOS);
+  if (obj.puntuaciones) Object.keys(obj.puntuaciones).forEach(function (k) { p[k] = obj.puntuaciones[k]; });
+  if (obj.destacados) Object.keys(obj.destacados).forEach(function (k) { d[k] = obj.destacados[k]; });
+  if (obj.destacados_datos) Object.keys(obj.destacados_datos).forEach(function (k) { dd[k] = obj.destacados_datos[k]; });
+  guardarMapa(KEY_PUNTOS, p);
+  guardarMapa(KEY_DESTACADOS, d);
+  guardarMapa(KEY_DEST_DATOS, dd);
+}
+
+function dialogoBackup() {
+  cerrarDialogo();
+  var backup = armarBackup();
+  var texto = JSON.stringify(backup);
+  var c = contarBackup(backup);
+
+  var fondo = el('div', 'modal-fondo');
+  var caja = el('div', 'modal');
+  caja.appendChild(el('h2', 'modal-titulo', 'Copia de seguridad'));
+  caja.appendChild(el('p', 'modal-texto',
+    'Tus estrellas y corazones se guardan en este teléfono. Acá podés hacer una ' +
+    'copia (para no perderlos si reinstalás o cambiás de teléfono) y volver a ' +
+    'cargarla.'));
+
+  // --- Exportar ---
+  caja.appendChild(el('p', 'modal-seccion',
+    '📤 Guardar copia (' + c.estrellas + ' con estrella · ' + c.corazones + ' con corazón)'));
+  var salida = el('textarea', 'modal-area');
+  salida.readOnly = true; salida.value = texto; salida.rows = 3;
+  caja.appendChild(salida);
+
+  var accExport = el('div', 'modal-acciones');
+  var copiar = el('button', 'modal-btn primario', 'Copiar'); copiar.type = 'button';
+  copiar.addEventListener('click', function () {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(texto).then(
+        function () { mostrarAviso('Copia copiada. Pegala en una nota o mensaje para guardarla.'); },
+        function () { salida.select(); mostrarAviso('Seleccioná el texto y copialo a mano.'); });
+    } else { salida.select(); mostrarAviso('Seleccioná el texto y copialo a mano.'); }
+  });
+  accExport.appendChild(copiar);
+  if (navigator.share) {
+    var compartir = el('button', 'modal-btn', 'Compartir'); compartir.type = 'button';
+    compartir.addEventListener('click', function () {
+      navigator.share({ title: 'Copia DigBin', text: texto }).catch(function () { /* cancelado */ });
+    });
+    accExport.appendChild(compartir);
+  }
+  caja.appendChild(accExport);
+
+  // --- Importar ---
+  caja.appendChild(el('p', 'modal-seccion', '📥 Restaurar una copia'));
+  var entrada = el('textarea', 'modal-area');
+  entrada.placeholder = 'Pegá acá una copia que hayas guardado…'; entrada.rows = 3;
+  caja.appendChild(entrada);
+
+  var accImport = el('div', 'modal-acciones');
+  var cerrar = el('button', 'modal-btn', 'Cerrar'); cerrar.type = 'button';
+  cerrar.addEventListener('click', cerrarDialogo);
+  var importar = el('button', 'modal-btn primario', 'Importar'); importar.type = 'button';
+  importar.addEventListener('click', function () {
+    var t = (entrada.value || '').trim();
+    if (!t) { entrada.focus(); return; }
+    var obj;
+    try { obj = JSON.parse(t); } catch (e) { mostrarAviso('El texto no es válido. ¿Lo pegaste completo?'); return; }
+    try {
+      importarBackup(obj);
+      var cc = contarBackup(obj);
+      cerrarDialogo();
+      mostrarAviso('✅ Copia restaurada (' + cc.estrellas + ' estrellas, ' + cc.corazones + ' corazones).');
+      enrutar();
+    } catch (e) { mostrarAviso('⚠️ ' + e.message); }
+  });
+  accImport.appendChild(cerrar);
+  accImport.appendChild(importar);
+  caja.appendChild(accImport);
+
+  fondo.appendChild(caja);
+  fondo.addEventListener('click', function (ev) { if (ev.target === fondo) cerrarDialogo(); });
+  document.body.appendChild(fondo);
+  dialogoActual = fondo;
+}
+
 // --- Arranque --------------------------------------------------------------
+
+// Pantalla de inicio: el MISMO vinilo girando que en la Recorrida, para que la
+// app tenga identidad desde que abre. Se cierra al cargar los datos (con un
+// mínimo de tiempo visible para que no titile si carga instantáneo).
+var splashInicio = Date.now();
+var splash = mostrarSpinner('DigBin', '');
+if (splash) splash.classList.add('splash');
+function cerrarSplash() {
+  var espera = Math.max(0, 700 - (Date.now() - splashInicio));
+  setTimeout(cerrarSpinner, espera);
+}
 
 cargarDatos()
   .then(function (json) {
     datos = prepararDatos(json);
     enrutar();
+    cerrarSplash();
   })
   .catch(function () {
+    cerrarSpinner();
     contenido.innerHTML = '';
     contenido.appendChild(estado(
       'No se pudieron cargar los datos y no hay copia guardada. ' +
