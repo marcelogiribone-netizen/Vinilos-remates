@@ -896,7 +896,8 @@ var Cargando = (function () {
     img.src = LOGO_VINILO;
     img.alt = '';
     o.appendChild(img);
-    o.appendChild(el('p', 'spinner-txt', opts.texto || 'Cargando…'));
+    // texto: '' -> sin texto (ej. splash, para que quede igual al del sistema).
+    if (opts.texto !== '') o.appendChild(el('p', 'spinner-txt', opts.texto || 'Cargando…'));
     if (opts.sub) o.appendChild(el('p', 'spinner-sub', opts.sub));
     document.body.appendChild(o);
     actual = o;
@@ -1071,7 +1072,9 @@ function dialogoBackup() {
 // app tenga identidad desde que abre. Se cierra al cargar los datos (con un
 // mínimo de tiempo visible para que no titile si carga instantáneo).
 var splashInicio = Date.now();
-Cargando.mostrar({ texto: 'DigBin', splash: true });
+// Sin texto: el splash del sistema no tiene texto; así el vinilo queda centrado
+// y del mismo tamaño, y el único cambio al pasar a la app es que empieza a girar.
+Cargando.mostrar({ texto: '', splash: true });
 // Al cerrar el splash, sacamos el fondo casi-negro inicial (puesto en <body>)
 // para volver al color del tema (claro/oscuro).
 function limpiarFondoInicial() { document.body.style.background = ''; }
