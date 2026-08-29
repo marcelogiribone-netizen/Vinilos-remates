@@ -1,41 +1,7 @@
 {
-  "generado": "2026-08-29T04:06:59.846Z",
+  "generado": "2026-08-29T21:08:44.327Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "7674",
-      "nombre": "REMATE TODO SIN BASE",
-      "empresa": "Remates Charrúa",
-      "departamento": "Salto",
-      "lugar": "Fernando Irazoqui 245 - Salto (a 150 mts del estadio dickinson), Salto",
-      "fecha": "29/08/2026, 14:00",
-      "fechaISO": "2026-08-29T17:00:00.000Z",
-      "timestamp": 1788022800,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7674",
-      "totalLotes": 154,
-      "vinilos": [
-        {
-          "id": 1108933,
-          "lote": "100",
-          "titulo": "Discos de vinilo",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 0,
-          "oferta": 30,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1108933/231721360bd7b9163113414518152a28.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7674?lote=100",
-          "motivos": [
-            "dice \"vinilo\"",
-            "\"disco de vinilo\""
-          ]
-        }
-      ],
-      "datosDe": "2026-08-29T04:06:59.846Z"
-    },
     {
       "id": "7694",
       "nombre": "Liquidación por venta de par de apartamentos destacando mobiliario utilitario de calidad, electrodomésticos, coleccionables, cientos de cds, cientos de vinilos y terminamos con una gran selección de libros Modernos de lectura en impecable estado y de gran calidad.",
@@ -59,7 +25,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 280,
+          "oferta": 1000,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1103341/3ee09614a4cab1c93039d4be5921d60d.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7694?lote=71",
           "motivos": [
@@ -76,7 +42,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 240,
+          "oferta": 260,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1103345/485f6b186305d6113fb8b2071ef0c0d6.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7694?lote=75",
           "motivos": [
@@ -220,7 +186,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-29T04:06:59.846Z"
+      "datosDe": "2026-08-29T21:08:44.327Z"
     },
     {
       "id": "7634",
@@ -235,7 +201,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7634",
       "totalLotes": 167,
       "vinilos": [],
-      "datosDe": "2026-08-29T04:06:59.846Z"
+      "datosDe": "2026-08-29T21:08:44.327Z"
     },
     {
       "id": "7733",
@@ -250,7 +216,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7733",
       "totalLotes": 113,
       "vinilos": [],
-      "datosDe": "2026-08-29T04:06:59.846Z"
+      "datosDe": "2026-08-29T21:08:44.327Z"
     },
     {
       "id": "7695",
@@ -265,7 +231,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7695",
       "totalLotes": 170,
       "vinilos": [],
-      "datosDe": "2026-08-29T04:06:59.846Z"
+      "datosDe": "2026-08-29T21:08:44.327Z"
     },
     {
       "id": "7602",
@@ -280,7 +246,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7602",
       "totalLotes": 79,
       "vinilos": [],
-      "datosDe": "2026-08-29T04:06:59.846Z"
+      "datosDe": "2026-08-29T21:08:44.327Z"
     },
     {
       "id": "7719",
@@ -295,7 +261,22 @@
       "url": "https://www.remotes.com.uy/participar/remate/7719",
       "totalLotes": 51,
       "vinilos": [],
-      "datosDe": "2026-08-29T04:06:59.846Z"
+      "datosDe": "2026-08-29T21:08:44.327Z"
+    },
+    {
+      "id": "7764",
+      "nombre": "🚨⚠️ ATENCIÓN ⚠️🚨",
+      "empresa": "Remate Paysandú",
+      "departamento": "Paysandú",
+      "lugar": "Uruguay y Montecaseros, Ciudad de Paysandú, Paysandú",
+      "fecha": "02/09/2026, 13:00",
+      "fechaISO": "2026-09-02T16:00:00.000Z",
+      "timestamp": 1788364800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7764",
+      "totalLotes": 123,
+      "vinilos": [],
+      "datosDe": "2026-08-29T21:08:44.327Z"
     },
     {
       "id": "7730",
@@ -310,7 +291,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7730",
       "totalLotes": 271,
       "vinilos": [],
-      "datosDe": "2026-08-29T04:06:59.846Z"
+      "datosDe": "2026-08-29T21:08:44.327Z"
     },
     {
       "id": "7763",
@@ -325,7 +306,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7763",
       "totalLotes": 39,
       "vinilos": [],
-      "datosDe": "2026-08-29T04:06:59.846Z"
+      "datosDe": "2026-08-29T21:08:44.327Z"
     },
     {
       "id": "7669",
@@ -566,7 +547,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-29T04:06:59.846Z"
+      "datosDe": "2026-08-29T21:08:44.327Z"
     },
     {
       "id": "7475",
@@ -581,7 +562,57 @@
       "url": "https://www.remotes.com.uy/participar/remate/7475",
       "totalLotes": 147,
       "vinilos": [],
-      "datosDe": "2026-08-29T04:06:59.846Z"
+      "datosDe": "2026-08-29T21:08:44.327Z"
+    },
+    {
+      "id": "7740",
+      "nombre": "\"Remate de Tesoros Sueltos: Electro, Decoración, Calefacción, Tecnología y objetos de colección a precios de arranque — ¡No te lo pierdas, esta oportunidad no se repite!\"",
+      "empresa": "Pablo Barrientos",
+      "departamento": "Canelones",
+      "lugar": "CONTINUACION Z4 ENTRE 8 Y 9 Parque del Plata , Costa de Oro, Canelones",
+      "fecha": "04/09/2026, 19:00",
+      "fechaISO": "2026-09-04T22:00:00.000Z",
+      "timestamp": 1788559200,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7740",
+      "totalLotes": 96,
+      "vinilos": [
+        {
+          "id": 1109506,
+          "lote": "11",
+          "titulo": "Lámpara de escritorio articulada con filtros",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 0,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1109506/fbafe9b64784b71b4f6943b3a0648f52.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7740?lote=11",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1109522,
+          "lote": "27",
+          "titulo": "CD Peteco Carabajal A Viva Voz",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 0,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1109522/86aa0c7576e34497bf1d721a3f1ad6bf.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7740?lote=27",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        }
+      ],
+      "datosDe": "2026-08-29T21:08:44.327Z"
     },
     {
       "id": "7665",
@@ -596,7 +627,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7665",
       "totalLotes": 171,
       "vinilos": [],
-      "datosDe": "2026-08-29T04:06:59.846Z"
+      "datosDe": "2026-08-29T21:08:44.327Z"
     },
     {
       "id": "7672",
@@ -611,7 +642,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7672",
       "totalLotes": 128,
       "vinilos": [],
-      "datosDe": "2026-08-29T04:06:59.846Z"
+      "datosDe": "2026-08-29T21:08:44.327Z"
     },
     {
       "id": "7535",
@@ -626,11 +657,11 @@
       "url": "https://www.remotes.com.uy/participar/remate/7535",
       "totalLotes": 100,
       "vinilos": [],
-      "datosDe": "2026-08-29T04:06:59.846Z"
+      "datosDe": "2026-08-29T21:08:44.327Z"
     },
     {
       "id": "7717",
-      "nombre": "🔷BIENVENIDOS A NUESTRO REMATE DE VINILOS MENSUAL! ESTA VEZ INCREIBLES DISCOS DE POR EJEMPLO: DURAN DURAN, CREEDENCE, ROLLINGS, ERIC CLAPTON, DAVID BOWIE, VAN HALEN, QUEEN, LED ZEPPELIN, AC/DC, BLACK SABBATH, JANIS JOPLIN, JIMI HENDRIX, THE CLASH, U2, GENESIS, ELVIS PRESLEY, ELO, BLONDIE, FLEETWOOD MAC, BRUCE SPRINGSTEEN, RAMONES, BEACH BOYS, STING, YES, THE WHO, VANGELIS, ROD STEWART, DEEP PURPLE y MAS. 🔷",
+      "nombre": "⚠️MAGNÍFICA SUBASTA 205 LOTES⚠️",
       "empresa": "Verónica Aristegui Díaz",
       "departamento": "San José",
       "lugar": "Parada 8 manzana 3 solar 16 calle colocolo, Playa pascual, San José, San José",
@@ -639,7 +670,7 @@
       "timestamp": 1788733800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7717",
-      "totalLotes": 136,
+      "totalLotes": 206,
       "vinilos": [
         {
           "id": 1109852,
@@ -668,7 +699,7 @@
           "anio": "1971",
           "moneda": "$",
           "base": 300,
-          "oferta": 700,
+          "oferta": 1000,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1106605/553f6102a1ee93ad0d0055c40477421c.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=1",
           "motivos": [
@@ -740,7 +771,7 @@
           "anio": "1984",
           "moneda": "$",
           "base": 300,
-          "oferta": 400,
+          "oferta": 600,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1106799/7f13c6f4809a64140a50b81990ff7ebf.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=5",
           "motivos": [
@@ -776,7 +807,7 @@
           "anio": "1981",
           "moneda": "$",
           "base": 300,
-          "oferta": 300,
+          "oferta": 350,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1106801/a7fd8dc88958ea0e8ce22c85f799f2fb.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=7",
           "motivos": [
@@ -849,7 +880,7 @@
           "anio": "1969",
           "moneda": "$",
           "base": 300,
-          "oferta": 300,
+          "oferta": 800,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107671/d2851666e93de022ad9f36543931d2d5.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=11",
           "motivos": [
@@ -885,7 +916,7 @@
           "anio": "1977",
           "moneda": "$",
           "base": 300,
-          "oferta": 550,
+          "oferta": 1050,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107676/bd1631f61300697a272fc9dbb4a7107c.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=13",
           "motivos": [
@@ -1066,7 +1097,7 @@
           "anio": "2015",
           "moneda": "$",
           "base": 300,
-          "oferta": 500,
+          "oferta": 600,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107686/51fdeac1e3d9105fe9ef2ae7fdd40bab.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=23",
           "motivos": [
@@ -1085,7 +1116,7 @@
           "anio": "1984",
           "moneda": "$",
           "base": 300,
-          "oferta": 600,
+          "oferta": 800,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107687/374d21c461e8d86e9686bba51e7b16bf.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=24",
           "motivos": [
@@ -1158,7 +1189,7 @@
           "anio": "2021",
           "moneda": "$",
           "base": 300,
-          "oferta": 650,
+          "oferta": 800,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107691/183ff6d7eb975af598aeb071727b14e7.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=28",
           "motivos": [
@@ -1285,7 +1316,7 @@
           "anio": "1971",
           "moneda": "$",
           "base": 300,
-          "oferta": 800,
+          "oferta": 850,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107698/dcf9cadb6c7805b7673f8e06e64c5209.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=35",
           "motivos": [
@@ -1411,7 +1442,7 @@
           "anio": "1981",
           "moneda": "$",
           "base": 300,
-          "oferta": 300,
+          "oferta": 500,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107705/9b8baaa1f1ea93959f28f40f5e2c933b.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=42",
           "motivos": [
@@ -1465,7 +1496,7 @@
           "anio": "1984",
           "moneda": "$",
           "base": 300,
-          "oferta": 400,
+          "oferta": 500,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107708/3f0863865f86436f66de4d4d6ff7b4d8.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=45",
           "motivos": [
@@ -1483,7 +1514,7 @@
           "anio": "1983",
           "moneda": "$",
           "base": 300,
-          "oferta": 800,
+          "oferta": 1000,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107709/8214820a42204e75202fad7474836a90.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=46",
           "motivos": [
@@ -1519,7 +1550,7 @@
           "anio": "1984",
           "moneda": "$",
           "base": 300,
-          "oferta": 650,
+          "oferta": 850,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107711/43ebabff8ebe3f43cbcdbe02bf763f36.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=48",
           "motivos": [
@@ -1717,7 +1748,7 @@
           "anio": "1976",
           "moneda": "$",
           "base": 300,
-          "oferta": 550,
+          "oferta": 750,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107722/480732acb387a926450cf15ce6febc17.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=59",
           "motivos": [
@@ -1753,7 +1784,7 @@
           "anio": "1983",
           "moneda": "$",
           "base": 300,
-          "oferta": 700,
+          "oferta": 900,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107724/e19bdd9c20c9cd4f0fb988e8a40dde0c.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=61",
           "motivos": [
@@ -1771,7 +1802,7 @@
           "anio": "1981",
           "moneda": "$",
           "base": 300,
-          "oferta": 700,
+          "oferta": 900,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107725/75deb61d0989eb22bb8cd850d648ef61.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=62",
           "motivos": [
@@ -1807,7 +1838,7 @@
           "anio": "1979",
           "moneda": "$",
           "base": 300,
-          "oferta": 750,
+          "oferta": 900,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107727/51f9b3e2fa551961f2b0c49183c93ccd.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=64",
           "motivos": [
@@ -1915,7 +1946,7 @@
           "anio": "1969",
           "moneda": "$",
           "base": 300,
-          "oferta": 300,
+          "oferta": 400,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107733/6e966108a501ff85f19e6a054a40ec17.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=70",
           "motivos": [
@@ -1951,7 +1982,7 @@
           "anio": "1975",
           "moneda": "$",
           "base": 300,
-          "oferta": 500,
+          "oferta": 600,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107735/7b7789eb6a15b6e1fc33fbec60ece5be.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=72",
           "motivos": [
@@ -2095,7 +2126,7 @@
           "anio": "1982",
           "moneda": "$",
           "base": 300,
-          "oferta": 500,
+          "oferta": 800,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107743/f69fc2090d4728948ea1b10e99a637ef.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=80",
           "motivos": [
@@ -2294,7 +2325,7 @@
           "anio": "1978",
           "moneda": "$",
           "base": 300,
-          "oferta": 650,
+          "oferta": 750,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107754/b587b39a90c22005925b13f0cea65a42.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=91",
           "motivos": [
@@ -2475,7 +2506,7 @@
           "anio": "1972",
           "moneda": "$",
           "base": 300,
-          "oferta": 500,
+          "oferta": 700,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107764/5ec1d05b4df82e3c3910a7b14d8dc014.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=101",
           "motivos": [
@@ -3095,9 +3126,1274 @@
             "dice \"LP\"",
             "año 1977"
           ]
+        },
+        {
+          "id": 1113303,
+          "lote": "136",
+          "titulo": "ROD STEWART: \"A Night on the Town\", LP Importado USA, Warner Bros. Records, (1976), (Pop Rock).",
+          "artista": "Pop Rock",
+          "album": "A Night on the Town",
+          "sello": null,
+          "anio": "1976",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113303/ef89225f7d28acab14ecd9da75dc1f09.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=136",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1976"
+          ]
+        },
+        {
+          "id": 1113304,
+          "lote": "137",
+          "titulo": "ROD STEWART: \"Never a Dull Moment\", LP Importado USA, Mercury, (1972), (Pop Rock).",
+          "artista": "Pop Rock",
+          "album": "Never a Dull Moment",
+          "sello": null,
+          "anio": "1972",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113304/48a95acdea1aa251f85246420a81c9e9.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=137",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1972"
+          ]
+        },
+        {
+          "id": 1113305,
+          "lote": "138",
+          "titulo": "ROD STEWART: \"Sing It Again Rod\", LP Importado USA, Mercury, (1973), (Pop Rock).",
+          "artista": "Pop Rock",
+          "album": "Sing It Again Rod",
+          "sello": null,
+          "anio": "1973",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113305/651b892544fe9f2e0a8c29c782e20757.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=138",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1973"
+          ]
+        },
+        {
+          "id": 1113306,
+          "lote": "139",
+          "titulo": "ROD STEWART: \"Foolish Behaviour\", LP Importado USA, Warner Bros. Records, (1980), (Pop Rock).",
+          "artista": "Pop Rock",
+          "album": "Foolish Behaviour",
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113306/33d9a6ee6a087b4d2ac2daa8e605b9f4.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=139",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1113307,
+          "lote": "140",
+          "titulo": "ROD STEWART: \"Body Wishes\", LP Importado USA, Warner Bros. Records, (1983), (Pop Rock).",
+          "artista": "Pop Rock",
+          "album": "Body Wishes",
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113307/a17a7d53e6015c3cca3794515f53e864.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=140",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1113308,
+          "lote": "141",
+          "titulo": "VANGELIS: \"Ignacio\", LP Importado ESPAÑA, CAM Recording, (1977), (Electrónica).",
+          "artista": "Electrónica",
+          "album": "Ignacio",
+          "sello": "Clave",
+          "anio": "1977",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113308/ba33028b96a7562d9ec5954913dbe749.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=141",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1977"
+          ]
+        },
+        {
+          "id": 1113309,
+          "lote": "142",
+          "titulo": "VANGELIS PAPATHANASSIOU: \"L'Apocalypse des animaux\", LP Importado  JAPON, Polydor, (1973), (Electrónica).",
+          "artista": "Electrónica",
+          "album": "L'Apocalypse des animaux",
+          "sello": "Polydor",
+          "anio": "1973",
+          "moneda": "$",
+          "base": 0,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113309/7f4bb0572068a1d769cc9f7db1e46908.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=142",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1973"
+          ]
+        },
+        {
+          "id": 1113310,
+          "lote": "143",
+          "titulo": "VANGELIS: \"Beaubourg\", LP Importado USA, RCA Victor, (1978),  (Electrónica).",
+          "artista": "Electrónica",
+          "album": "Beaubourg",
+          "sello": "RCA",
+          "anio": "1978",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113310/8b227ef0cdb5b2bb8009ace4fb2df775.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=143",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1978"
+          ]
+        },
+        {
+          "id": 1113311,
+          "lote": "144",
+          "titulo": "VANGELIS: \"Albedo 0.39\", LP Importado USA, RCA Victor, (1976), (Electrónica).",
+          "artista": "Electrónica",
+          "album": "Albedo 0.39",
+          "sello": "RCA",
+          "anio": "1976",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113311/372217d230e489a43d98c5ce33233fbe.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=144",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1976"
+          ]
+        },
+        {
+          "id": 1113312,
+          "lote": "145",
+          "titulo": "VANGELIS: \"See You Later\", LP Importado JAPON, Polydor,  (1980),  (Electrónica).",
+          "artista": "Electrónica",
+          "album": "See You Later",
+          "sello": "Polydor",
+          "anio": "1980",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113312/91fc6a23b43d94a8292804e4f8587dbb.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=145",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1113313,
+          "lote": "146",
+          "titulo": "JON AND VANGELIS: \"Short Stories\", LP Importado USA, Polydor, (1980), (Electrónica).",
+          "artista": "Electrónica",
+          "album": "Short Stories",
+          "sello": "Polydor",
+          "anio": "1980",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113313/273076318116f07970e76ee1ea76fd66.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=146",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1113314,
+          "lote": "147",
+          "titulo": "VANGELIS: \"Earth\", LP Importado Italia, Armando Curcio Editore, (1982), (Prog Rock).",
+          "artista": "Prog Rock",
+          "album": "Earth",
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113314/f7dcd9d1c0900b09947ee4f1dd7f3fdf.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=147",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1113315,
+          "lote": "147A",
+          "titulo": "VANGELIS: \"Heaven and Hell\", LP Importado USA, RCA Victor, (1975)  (Electrónica).",
+          "artista": "Electrónica",
+          "album": "Heaven and Hell",
+          "sello": "RCA",
+          "anio": "1975",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113315/ea334a63a3eef0e00a26dba4d9fb5569.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=147A",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1975"
+          ]
+        },
+        {
+          "id": 1113316,
+          "lote": "148",
+          "titulo": "PETE TOWNSHEND (THE WHO): \"The Iron Man: The Musical by Pete Townshend\", LP Importado USA, Atlantic, (1989), (Art Rock).",
+          "artista": "THE WHO",
+          "album": "The Iron Man: The Musical by Pete Townshend",
+          "sello": null,
+          "anio": "1989",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113316/3b5a2056a848c794dd866de36e1a87aa.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=148",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1989"
+          ]
+        },
+        {
+          "id": 1113317,
+          "lote": "149",
+          "titulo": "JOHN ENTWISTLE (THE WHO): \"Whistle Rymes\", LP Importado USA, Track Records, (1972), (Hard Rock).",
+          "artista": "THE WHO",
+          "album": "Whistle Rymes",
+          "sello": null,
+          "anio": "1972",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113317/2441840ea4a81b6fe9127a1c17e42edc.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=149",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1972"
+          ]
+        },
+        {
+          "id": 1113318,
+          "lote": "150",
+          "titulo": "THE WHO: \"The Singles\", LP Importado Gran Bretaña, Polydor, (1984), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "The Singles",
+          "sello": "Polydor",
+          "anio": "1984",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113318/a32c707e58267c8d2d2d61d793cb912b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=150",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1113319,
+          "lote": "151",
+          "titulo": "THE WHO: \"Meaty Beaty Big and Bouncy\", LP Importado USA, MCA Records, (1980), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Meaty Beaty Big and Bouncy",
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113319/8360b0b18615b4ee2674a100b921b368.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=151",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1113320,
+          "lote": "152",
+          "titulo": "THE WHO: \"Who Are You\", LP en Vinilo Rojo Importado CANADA, MCA Records, (1978), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Who Are You",
+          "sello": null,
+          "anio": "1978",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113320/ccda2ca3a868187fd10ad232216fdcf3.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=152",
+          "motivos": [
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "año 1978"
+          ]
+        },
+        {
+          "id": 1113321,
+          "lote": "153",
+          "titulo": "THE HIGH NUMBERS: \"Who's on the BBC Tonight\", LP Importado USA, American Pride Records, (1987), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Who's on the BBC Tonight",
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113321/2ecc42731c99e37640ab7761f561cd94.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=153",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1113322,
+          "lote": "154",
+          "titulo": "THE WHO: \"Live! Collector's Item\", LP Importado USA, Sin Sello [Edición Pirata], (1971), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Live! Collector's Item",
+          "sello": null,
+          "anio": "1971",
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113322/0f031ba0736dd46e363085ad40257b4e.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=154",
+          "motivos": [
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "año 1971"
+          ]
+        },
+        {
+          "id": 1113323,
+          "lote": "155",
+          "titulo": "THE WHO: \"Tommy\", ALBUM DOBLE Importado GRAN BRETAÑA, Track Record, (1969), (Rock Progresivo).",
+          "artista": "Rock Progresivo",
+          "album": "Tommy",
+          "sello": null,
+          "anio": "1969",
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113323/c3c85f803a7587b9331ea8116a3e63c6.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=155",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1969"
+          ]
+        },
+        {
+          "id": 1113324,
+          "lote": "156",
+          "titulo": "THE WHO & THE STRAWBERRY ALARM CLOCK: \"Double Star Series featuring\": LP Importado USA, MCA Special Markets, (1973), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Double Star Series featuring",
+          "sello": null,
+          "anio": "1973",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113324/022080036b532174203dbe136934e24e.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=156",
+          "motivos": [
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "año 1973"
+          ]
+        },
+        {
+          "id": 1113325,
+          "lote": "157",
+          "titulo": "THE WHO: \"The Who Sell Out\", LP Importado USA, Decca, (1967), (Pop Rock).",
+          "artista": "Pop Rock",
+          "album": "The Who Sell Out",
+          "sello": "Decca",
+          "anio": "1967",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113325/14bdf70fabe890c6ce537cb1e6894385.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=157",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1967"
+          ]
+        },
+        {
+          "id": 1113326,
+          "lote": "158",
+          "titulo": "THE WHO: \"The Who Sings My Generation\", LP Importado USA, Decca, (1966), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "The Who Sings My Generation",
+          "sello": "Decca",
+          "anio": "1966",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113326/5debc142270e58bea3ba63cc1bc9aae2.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=158",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1966"
+          ]
+        },
+        {
+          "id": 1113327,
+          "lote": "159",
+          "titulo": "THE WHO: \"Magic Bus: The Who on Tour\", LP Importado USA, Decca, (1968), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Magic Bus: The Who on Tour",
+          "sello": "Decca",
+          "anio": "1968",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113327/9255c3e685c18c9a7401abed8c1172b7.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=159",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1968"
+          ]
+        },
+        {
+          "id": 1113328,
+          "lote": "160",
+          "titulo": "THE WHO: \"Live at Leeds\", LP Importado GRAN BRETAÑA, Track Record, (1970), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Live at Leeds",
+          "sello": null,
+          "anio": "1970",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113328/fa694ebd100dd0a359c13f555f644ecd.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=160",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1970"
+          ]
+        },
+        {
+          "id": 1113329,
+          "lote": "161",
+          "titulo": "THE WHO / THE JIMI HENDRIX EXPERIENCE: \"Backtrack 3\", LP Importado GRAN BRETAÑA, Track Record, (1970), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Backtrack 3",
+          "sello": null,
+          "anio": "1970",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113329/fa68a8e6e65881f01226cb20cb73e2ae.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=161",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1970"
+          ]
+        },
+        {
+          "id": 1113330,
+          "lote": "162",
+          "titulo": "THE WHO: \"Best Of The Sixties\", LP Importado ALEMANIA, Karussell, (1981), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Best Of The Sixties",
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113330/7c71e1a9644ab310f6290149fe757072.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=162",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1113331,
+          "lote": "163",
+          "titulo": "THE WHO: \"Icon\", LP Importado USA, Geffen Records, (2020), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Icon",
+          "sello": null,
+          "anio": "2020",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113331/fb4cf01a45811b3c1f254c57599cece4.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=163",
+          "motivos": [
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "año 2020"
+          ]
+        },
+        {
+          "id": 1113332,
+          "lote": "164",
+          "titulo": "THE WHO: \"The Who by Numbers\", LP Importado USA, MCA Coral, (1975), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "The Who by Numbers",
+          "sello": null,
+          "anio": "1975",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113332/8003a083d313448f6ebf8f17d97368ab.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=164",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1975"
+          ]
+        },
+        {
+          "id": 1113333,
+          "lote": "165",
+          "titulo": "THE WHO: \"The Kids Are Alright\", ALBUM DOBLE Importado USA, MCA Records, (1979), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "The Kids Are Alright",
+          "sello": null,
+          "anio": "1979",
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113333/314f884f681f8b0288ef15f37e00ae73.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=165",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1979"
+          ]
+        },
+        {
+          "id": 1113334,
+          "lote": "166",
+          "titulo": "THE WHO: \"Odds and Sods\", LP Importado USA, Track Record, (1974), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Odds and Sods",
+          "sello": null,
+          "anio": "1974",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113334/221ba9c44a54854e3ab4305b4aae6c4c.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=166",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1974"
+          ]
+        },
+        {
+          "id": 1113335,
+          "lote": "167",
+          "titulo": "THE WHO: \"Face Dances\", LP Importado USA, Warner Bros. Records, (1981), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Face Dances",
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113335/1622223b022dbdd1ee4d564a70e1e7d1.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=167",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1113336,
+          "lote": "168",
+          "titulo": "THE WHO: \"Quadrophenia\", ALBUM DOBLE Importado USA, Track Record, (1973), (Rock Progresivo).",
+          "artista": "Rock Progresivo",
+          "album": "Quadrophenia",
+          "sello": null,
+          "anio": "1973",
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113336/2f9794d53a5ba8cd3a0afb8573497410.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=168",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1973"
+          ]
+        },
+        {
+          "id": 1113337,
+          "lote": "169",
+          "titulo": "THE WHO: \"Join Together\", CAJA  (en formato LP) con 2 CDS Importado USA, MCA Records, (1990), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Join Together",
+          "sello": null,
+          "anio": "1990",
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113337/9653548828387cc5aa62c86a5974dc3d.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=169",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1990"
+          ]
+        },
+        {
+          "id": 1113338,
+          "lote": "170",
+          "titulo": "DEEP PURPLE: \"When We Rock, We Rock and When We Roll, We Roll\", LP Importado USA, Warner Bros. Records, (1978), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "When We Rock, We Rock and When We Roll, We Roll",
+          "sello": "RCA",
+          "anio": "1978",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113338/fe8c9cd2d82f613a622d031a48a2697b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=170",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1978"
+          ]
+        },
+        {
+          "id": 1113339,
+          "lote": "171",
+          "titulo": "DEEP PURPLE: \"Shades of Deep Purple\", LP Importado GRAN BRETAÑA, Harvest, (1977), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Shades of Deep Purple",
+          "sello": null,
+          "anio": "1977",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113339/3271d26c024e987ec922d6c37bd91e95.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=171",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1977"
+          ]
+        },
+        {
+          "id": 1113340,
+          "lote": "172",
+          "titulo": "DEEP PURPLE: \"Deep Purple in Rock\", LP PROMOCIONAL Importado USA, Warner Bros. Records, (1970), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Deep Purple in Rock",
+          "sello": null,
+          "anio": "1970",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113340/a2f9df813b257815818b553f93a972cb.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=172",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1970"
+          ]
+        },
+        {
+          "id": 1113341,
+          "lote": "173",
+          "titulo": "DEEP PURPLE: \"Fireball\", LP Importado JAPÓN, Warner Bros. Records, (1971), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Fireball",
+          "sello": null,
+          "anio": "1971",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113341/0f4f98a046950c3f441781e819a5cf33.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=173",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1971"
+          ]
+        },
+        {
+          "id": 1113342,
+          "lote": "174",
+          "titulo": "DEEP PURPLE: \"Stormbringer\", LP Importado RUSIA, Antrop, (1991), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Stormbringer",
+          "sello": null,
+          "anio": "1991",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113342/dbe1ec79af642b5404b1fb6b14391c46.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=174",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1991"
+          ]
+        },
+        {
+          "id": 1113343,
+          "lote": "175",
+          "titulo": "DEEP PURPLE: \"Made in Europe\", LP Importado USA, Warner Bros. Records, (1976), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Made in Europe",
+          "sello": null,
+          "anio": "1976",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113343/e243a7b2fe750fda5e597cd7f363698a.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=175",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1976"
+          ]
+        },
+        {
+          "id": 1113344,
+          "lote": "176",
+          "titulo": "DEEP PURPLE: \"Who Do We Think We Are!\", LP Importado USA, Warner Bros. Records, (1973), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Who Do We Think We Are!",
+          "sello": null,
+          "anio": "1973",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113344/529ff6d8edd0afa312c6802a587358aa.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=176",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1973"
+          ]
+        },
+        {
+          "id": 1113345,
+          "lote": "177",
+          "titulo": "DEEP PURPLE: \"Purple Passages\", ALBUM DOBLE Importado USA, Warner Bros. Records, (1972), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Purple Passages",
+          "sello": null,
+          "anio": "1972",
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113345/d015ffa12cbc6e5b276c7ae16c97e2c8.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=177",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1972"
+          ]
+        },
+        {
+          "id": 1113346,
+          "lote": "178",
+          "titulo": "RAINBOW: \"Straight Between the Eyes\", LP Importado USA, Mercury, (1982), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Straight Between the Eyes",
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113346/08e37ef4b6fb95a3fb84876aad6b4863.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=178",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1113347,
+          "lote": "179",
+          "titulo": "RAINBOW: \"Down to Earth\", LP Importado USA, Polydor, (1979), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Down to Earth",
+          "sello": "Polydor",
+          "anio": "1979",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113347/437ab94bd3912e0786e159b66bbc1189.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=179",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1979"
+          ]
+        },
+        {
+          "id": 1113348,
+          "lote": "180",
+          "titulo": "RAINBOW: \"Long Live Rock 'n' Roll\", LP Importado USA, Polydor, (1978), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Long Live Rock 'n' Roll",
+          "sello": "Polydor",
+          "anio": "1978",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113348/c436a10be3347091df694c2467f871c5.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=180",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1978"
+          ]
+        },
+        {
+          "id": 1113432,
+          "lote": "181",
+          "titulo": "RAINBOW: \"The Best of Rainbow\", ALBUM DOBLE Importado ALEMANIA, Polydor, (1981), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "The Best of Rainbow",
+          "sello": "Polydor",
+          "anio": "1981",
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113432/e80d499fe81e86ea29ded3322b80d930.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=181",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1113433,
+          "lote": "182",
+          "titulo": "RAINBOW: \"Kerr-Aaannngg!!\", LP Importado GRAN BRETAÑA, Sin Sello [Edición Pirata], (1978), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Kerr-Aaannngg!!",
+          "sello": null,
+          "anio": "1978",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113433/d1c9c950c88d62bc15dd84c4f07de725.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=182",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1978"
+          ]
+        },
+        {
+          "id": 1113434,
+          "lote": "183",
+          "titulo": "RAINBOW: \"Monsters of Rock Live at Donington 1980\", ALBUM DOBLE 180g Importado ALEMANIA, Ear Music, (2016), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Monsters of Rock Live at Donington 1980",
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113434/d4d68041b2f6ac61bb424c87f10ea35d.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=183",
+          "motivos": [
+            "dice \"vinilo\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1113435,
+          "lote": "184",
+          "titulo": "RAINBOW: \"Difficult to Cure\", LP Importado USA, Polydor, (1981), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Difficult to Cure",
+          "sello": "Polydor",
+          "anio": "1981",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113435/15bc52253d84e8d5ec49a94b316bedc9.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=184",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1113436,
+          "lote": "185",
+          "titulo": "OZZY OSBOURNE: \"Bark at the Moon\", LP Importado USA, CBS Associated Records, (1983), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Bark at the Moon",
+          "sello": "CBS",
+          "anio": "1983",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113436/9699dafffb83875b10bb70edd511c5eb.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=185",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1113437,
+          "lote": "186",
+          "titulo": "OZZY OSBOURNE: \"Blizzard of Ozz\", LP PICTURE DISC Importado USA, Epic, (2011), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Blizzard of Ozz",
+          "sello": null,
+          "anio": "2011",
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113437/57f0493aec8c77252351ea4a214e0ce0.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=186",
+          "motivos": [
+            "dice \"LP\"",
+            "año 2011"
+          ]
+        },
+        {
+          "id": 1113438,
+          "lote": "187",
+          "titulo": "BLACK SABBATH: \"Turn Up the Night / Lonely Is the Word\", SINGLE PICTURE DISC Importado GRAN BRETAÑA, Vertigo, (1982), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Turn Up the Night / Lonely Is the Word",
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113438/f4b6c30fa54a48cf905e4b18e3f03b25.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=187",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1113439,
+          "lote": "188",
+          "titulo": "BLACK SABBATH: \"Black Sabbath\", LP Importado USA, Warner Bros. Records, (1970), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Black Sabbath",
+          "sello": null,
+          "anio": "1970",
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113439/a3028d95351b933403d173de80eaac7d.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=188",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1970"
+          ]
+        },
+        {
+          "id": 1113440,
+          "lote": "189",
+          "titulo": "BLACK SABBATH: \"Mob Rules\", ALBUM DOBLE Importado EUROPA, BMG, (2021), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Mob Rules",
+          "sello": "Odeon",
+          "anio": "2021",
+          "moneda": "$",
+          "base": 1000,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113440/d0b7890bf4d0817a5e7b4d06185fd235.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=189",
+          "motivos": [
+            "dice \"vinilo\"",
+            "año 2021"
+          ]
+        },
+        {
+          "id": 1113441,
+          "lote": "190",
+          "titulo": "BLACK SABBATH: \"Never Say Die!\", LP 180g Importado CANADA, Warner Bros. Records, (2016), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Never Say Die!",
+          "sello": null,
+          "anio": "2016",
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113441/bcabbbf055dfbd232e0a199ef9ea15c0.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=190",
+          "motivos": [
+            "dice \"LP\"",
+            "año 2016"
+          ]
+        },
+        {
+          "id": 1113442,
+          "lote": "191",
+          "titulo": "BLACK SABBATH: \"Rarities and Demos\", ALBUM DOBLE Importado EUROPA, Sin Sello [Edición Pirata], (2024), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Rarities and Demos",
+          "sello": null,
+          "anio": "2024",
+          "moneda": "$",
+          "base": 1000,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113442/ab85057465ec281d826d9006424de2b9.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=191",
+          "motivos": [
+            "dice \"LP\"",
+            "año 2024"
+          ]
+        },
+        {
+          "id": 1113443,
+          "lote": "192",
+          "titulo": "BLACK SABBATH: \"Headless Cross\", LP Importado EUROPA, Warner Records, (2024), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Headless Cross",
+          "sello": null,
+          "anio": "2024",
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113443/3e0d33769d0d285827144dc1f7e93b2d.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=192",
+          "motivos": [
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "año 2024"
+          ]
+        },
+        {
+          "id": 1113444,
+          "lote": "193",
+          "titulo": "BLACK SABBATH: \"Tyr\", LP Importado EUROPA, Warner Records, (2024), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Tyr",
+          "sello": null,
+          "anio": "2024",
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113444/4145e2c28a427621463080070e409ffe.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=193",
+          "motivos": [
+            "dice \"LP\"",
+            "año 2024"
+          ]
+        },
+        {
+          "id": 1113445,
+          "lote": "194",
+          "titulo": "BLACK SABBATH: \"California Jam\", ALBUM DOBLE Importado EUROPA, Expensive Woodland Recordings, (2025), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "California Jam",
+          "sello": null,
+          "anio": "2025",
+          "moneda": "$",
+          "base": 1000,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113445/27ef884326680924472fd04f48d6cc67.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=194",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 2025"
+          ]
+        },
+        {
+          "id": 1113446,
+          "lote": "195",
+          "titulo": "BLACK SABBATH: \"Technical Ecstasy\", LP Importado USA, Warner Bros. Records, (1976), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Technical Ecstasy",
+          "sello": "RCA",
+          "anio": "1976",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113446/98ffea371a0a770cd66760285d6456f5.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=195",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1976"
+          ]
+        },
+        {
+          "id": 1113447,
+          "lote": "196",
+          "titulo": "BLACK SABBATH FEATURING TONY IOMMI: \"Seventh Star\", LP Importado USA, Warner Bros. Records, (1986), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Seventh Star",
+          "sello": null,
+          "anio": "1986",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113447/a2129d0851780ad2eb33ea2d0fc6f175.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=196",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1113448,
+          "lote": "197",
+          "titulo": "BLACK SABBATH: \"Sabotage\", LP Importado USA, Warner Bros. Records, (1975), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Sabotage",
+          "sello": null,
+          "anio": "1975",
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113448/e327c4dc9e147e588edb745a3836c1a7.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=197",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1975"
+          ]
+        },
+        {
+          "id": 1113449,
+          "lote": "198",
+          "titulo": "BLACK SABBATH: \"Vol. 4\", LP Importado USA, Warner Bros. Records, (1972), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Vol. 4",
+          "sello": "De la Planta",
+          "anio": "1972",
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113449/40f336f9b4069ba7dd7c96298803d90a.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=198",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1972"
+          ]
+        },
+        {
+          "id": 1113450,
+          "lote": "199",
+          "titulo": "BLACK SABBATH: \"Sabbath, Bloody Sabbath\", LP Importado USA, Warner Bros. Records, (1974), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Sabbath, Bloody Sabbath",
+          "sello": null,
+          "anio": "1974",
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113450/339e4b5405193adefc91338d4a463dfe.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=199",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1974"
+          ]
+        },
+        {
+          "id": 1113451,
+          "lote": "200",
+          "titulo": "BLACK SABBATH: \"Live Evil\", ALBUM DOBLE Importado USA, Warner Bros. Records, (1982), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Live Evil",
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 1000,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113451/a14b91b106ffe458219e3be7ca537c13.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=200",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1113452,
+          "lote": "201",
+          "titulo": "BLACK SABBATH: \"We Sold Our Soul for Rock 'n' Roll\", ALBUM DOBLE Importado USA, Warner Bros. Records, (1976), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "We Sold Our Soul for Rock 'n' Roll",
+          "sello": null,
+          "anio": "1976",
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113452/1c36ec438331d4598c144af620881f12.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=201",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1976"
+          ]
+        },
+        {
+          "id": 1113453,
+          "lote": "202",
+          "titulo": "BLACK SABBATH: \"Heaven and Hell\", LP Importado USA, Warner Bros. Records, (1980), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Heaven and Hell",
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113453/e3570d508d3506b5d42a5d9978fc8b79.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=202",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1113454,
+          "lote": "203",
+          "titulo": "BLACK SABBATH: \"Master of Reality\", LP Importado USA, Warner Bros. Records, (1971), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Master of Reality",
+          "sello": null,
+          "anio": "1971",
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113454/e0edc3bc4161e181fc1c3b5b1fa26e4f.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=203",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1971"
+          ]
+        },
+        {
+          "id": 1113455,
+          "lote": "204",
+          "titulo": "BLACK SABBATH: \"Paranoid\", LP Importado USA, Warner Bros. Records, (1974), (Hard Rock).",
+          "artista": "Hard Rock",
+          "album": "Paranoid",
+          "sello": null,
+          "anio": "1974",
+          "moneda": "$",
+          "base": 1000,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113455/97580873f95b1d51df74e1b510ad1a27.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=204",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1974"
+          ]
         }
       ],
-      "datosDe": "2026-08-29T04:06:59.846Z"
+      "datosDe": "2026-08-29T21:08:44.327Z"
     },
     {
       "id": "7545",
@@ -3110,9 +4406,9 @@
       "timestamp": 1788737400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7545",
-      "totalLotes": 111,
+      "totalLotes": 112,
       "vinilos": [],
-      "datosDe": "2026-08-29T04:06:59.846Z"
+      "datosDe": "2026-08-29T21:08:44.327Z"
     },
     {
       "id": "7666",
@@ -3127,7 +4423,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7666",
       "totalLotes": 100,
       "vinilos": [],
-      "datosDe": "2026-08-29T04:06:59.846Z"
+      "datosDe": "2026-08-29T21:08:44.327Z"
     },
     {
       "id": "7711",
@@ -3177,7 +4473,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-29T04:06:59.846Z"
+      "datosDe": "2026-08-29T21:08:44.327Z"
     },
     {
       "id": "7729",
@@ -3192,7 +4488,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7729",
       "totalLotes": 100,
       "vinilos": [],
-      "datosDe": "2026-08-29T04:06:59.846Z"
+      "datosDe": "2026-08-29T21:08:44.327Z"
     }
   ]
 }
