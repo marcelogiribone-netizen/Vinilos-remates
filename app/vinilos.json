@@ -1,52 +1,7 @@
 {
-  "generado": "2026-08-28T22:00:35.789Z",
+  "generado": "2026-08-29T04:06:59.846Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "7678",
-      "nombre": "Hoyyy Gran Remate de Antigüedades y Oportunidades — | Preofertá y obtené flete gratis . Beneficio válido para quienes hayan realizado preoferta y superen los $5.000 en precio de remate/adjudicación. Flete gratis a todo el país solo en artículos pequeños. No incluye muebles ni artículos de gran porte.El embalaje se cobra en todos los casos .",
-      "empresa": "Nelson Javier Jolochin Solan",
-      "departamento": "Paysandu",
-      "lugar": "Avda Wilson Ferreira Aldunate 1678, Paysandu",
-      "fecha": "28/08/2026, 19:30",
-      "fechaISO": "2026-08-28T22:30:00.000Z",
-      "timestamp": 1787956200,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7678",
-      "totalLotes": 118,
-      "vinilos": [],
-      "datosDe": "2026-08-28T22:00:35.789Z"
-    },
-    {
-      "id": "7673",
-      "nombre": "ESPECTACULAR REMATE DE ANTIGUEDADES Y OBRAS DE ARTE - DESTACAMOS BIBLIOTECA DE FINALES DEL SIGLO XIX - LITOGRAFIAS Y REPRODUCCIONES DE LEANDRO GOMEZ - LAMMINAS ANTIGUAS DE MONTEVIDEO - Y OBRAS EN OLEO DE ARTISTAS VARIOS; VERNAZZA, JULIO VERDIE, KABREGU, S.PALAS, BENGOA, CASTELLANOS, J.KRAUSS Y VARIOS MAS",
-      "empresa": "Martin Palermo",
-      "departamento": "Montevideo",
-      "lugar": "Ciudad vieja , Montevideo",
-      "fecha": "28/08/2026, 19:30",
-      "fechaISO": "2026-08-28T22:30:00.000Z",
-      "timestamp": 1787956200,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7673",
-      "totalLotes": 61,
-      "vinilos": [],
-      "datosDe": "2026-08-28T22:00:35.789Z"
-    },
-    {
-      "id": "7575",
-      "nombre": "► TECNOLOGICO ◄   Nuevo y Usado, celulares con garantía, monitores, computadoras, articulos vintage, tocadiscos, audio, vhs, lote de notebooks ideal tecnicos. Y mucho mas... se sigue subiendo...",
-      "empresa": "Import Remates",
-      "departamento": "Montevideo",
-      "lugar": "Angel Salvo 24, Montevideo",
-      "fecha": "28/08/2026, 20:00",
-      "fechaISO": "2026-08-28T23:00:00.000Z",
-      "timestamp": 1787958000,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7575",
-      "totalLotes": 118,
-      "vinilos": [],
-      "datosDe": "2026-08-28T22:00:35.789Z"
-    },
     {
       "id": "7674",
       "nombre": "REMATE TODO SIN BASE",
@@ -79,7 +34,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-28T22:00:35.789Z"
+      "datosDe": "2026-08-29T04:06:59.846Z"
     },
     {
       "id": "7694",
@@ -121,7 +76,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 220,
+          "oferta": 240,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1103345/485f6b186305d6113fb8b2071ef0c0d6.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7694?lote=75",
           "motivos": [
@@ -172,7 +127,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 280,
+          "oferta": 300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1103348/d1bed15872b6a85b86af44bcf5548371.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7694?lote=78",
           "motivos": [
@@ -206,7 +161,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 330,
+          "oferta": 360,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1103350/f4eecd34450275518763b671d679a6ce.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7694?lote=80",
           "motivos": [
@@ -265,7 +220,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-28T22:00:35.789Z"
+      "datosDe": "2026-08-29T04:06:59.846Z"
     },
     {
       "id": "7634",
@@ -280,7 +235,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7634",
       "totalLotes": 167,
       "vinilos": [],
-      "datosDe": "2026-08-28T22:00:35.789Z"
+      "datosDe": "2026-08-29T04:06:59.846Z"
     },
     {
       "id": "7733",
@@ -295,7 +250,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7733",
       "totalLotes": 113,
       "vinilos": [],
-      "datosDe": "2026-08-28T22:00:35.789Z"
+      "datosDe": "2026-08-29T04:06:59.846Z"
     },
     {
       "id": "7695",
@@ -310,7 +265,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7695",
       "totalLotes": 170,
       "vinilos": [],
-      "datosDe": "2026-08-28T22:00:35.789Z"
+      "datosDe": "2026-08-29T04:06:59.846Z"
     },
     {
       "id": "7602",
@@ -323,13 +278,13 @@
       "timestamp": 1788134400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7602",
-      "totalLotes": 61,
+      "totalLotes": 79,
       "vinilos": [],
-      "datosDe": "2026-08-28T22:00:35.789Z"
+      "datosDe": "2026-08-29T04:06:59.846Z"
     },
     {
       "id": "7719",
-      "nombre": "Subasta de Antigüedades y coleccionables . 50 Lotes Previamente Selccionados. Se destaca:  Antigua y muy difícil de hallar Jarra del Real de San Carlos, Farol Americano de Minero, delicadas piezas de loza inglesa: Crown Devon, Myott (y otras marcas), Verijero ORIGINAL Sol Broqua & Scholberg, candados, jarras, publicidad, matriculas, etc. BUENO,BONITO, BARATO..Ideal revendedores, coleccionistas, .DEJE SU PREOFERTA CON CONFIANZA. NO SE PIERDA LA OPORTINIDAD DE ADQUIRIR SU LOTE.",
+      "nombre": "Subasta de Antigüedades y coleccionables . 50 Lotes Previamente Seleccionados. Se destaca:  Antigua y muy difícil de hallar Jarra del Real de San Carlos, Farol Americano de Minero, delicadas piezas de loza inglesa: Crown Devon, Myott (y otras marcas), Verijero ORIGINAL Sol Broqua & Scholberg, candados, jarras, publicidad, matriculas, etc. BUENO,BONITO, BARATO..Ideal revendedores, coleccionistas, .DEJE SU PREOFERTA CON CONFIANZA. NO SE PIERDA LA OPORTINIDAD DE ADQUIRIR SU LOTE.  ENVIOS A TODO EL PAÍS.",
       "empresa": "Luciana Pesce",
       "departamento": "San José",
       "lugar": "Km 29. Ruta 1, San José",
@@ -340,7 +295,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7719",
       "totalLotes": 51,
       "vinilos": [],
-      "datosDe": "2026-08-28T22:00:35.789Z"
+      "datosDe": "2026-08-29T04:06:59.846Z"
     },
     {
       "id": "7730",
@@ -355,7 +310,22 @@
       "url": "https://www.remotes.com.uy/participar/remate/7730",
       "totalLotes": 271,
       "vinilos": [],
-      "datosDe": "2026-08-28T22:00:35.789Z"
+      "datosDe": "2026-08-29T04:06:59.846Z"
+    },
+    {
+      "id": "7763",
+      "nombre": "Chapas esmaltadas, radios antiguas, coleccionables y piezas únicas te esperan en esta gran subasta por Remotes. Encontrá desde la legendaria radio Zenith Royal 300 funcionando y un soplete en bronce hasta matrículas, chapas de calle y curiosidades imperdibles. Explorá el catálogo completo, mirá los videos y preparate para ofertar por tus piezas favoritas. ¡No te lo pierdas!",
+      "empresa": "Flores Montaña Subastas",
+      "departamento": "SALTO",
+      "lugar": "SALTO, SALTO",
+      "fecha": "02/09/2026, 19:15",
+      "fechaISO": "2026-09-02T22:15:00.000Z",
+      "timestamp": 1788387300,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7763",
+      "totalLotes": 39,
+      "vinilos": [],
+      "datosDe": "2026-08-29T04:06:59.846Z"
     },
     {
       "id": "7669",
@@ -596,7 +566,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-28T22:00:35.789Z"
+      "datosDe": "2026-08-29T04:06:59.846Z"
     },
     {
       "id": "7475",
@@ -611,11 +581,11 @@
       "url": "https://www.remotes.com.uy/participar/remate/7475",
       "totalLotes": 147,
       "vinilos": [],
-      "datosDe": "2026-08-28T22:00:35.789Z"
+      "datosDe": "2026-08-29T04:06:59.846Z"
     },
     {
       "id": "7665",
-      "nombre": "¡GRAN REMATE! Lotes variados, MOBILIARIO DE ESTILO, CUADROS DE PINTURA NACIONAL, AFICHES PUBLICITARIOS ANTIGUOS, adornos, coleccionables, excelentes oportunidades!",
+      "nombre": "¡GRAN REMATE! Lotes variados, MOBILIARIO DE ESTILO, CUADROS DE PINTURA NACIONAL, AFICHES PUBLICITARIOS ANTIGUOS, adornos, coleccionables, MONOPATÍN AIRWEEL, excelentes oportunidades!",
       "empresa": "C. Ferraro",
       "departamento": "Soriano",
       "lugar": "Juana de Ibarbourou y lavalleja. Cardona, Soriano., Soriano",
@@ -624,9 +594,9 @@
       "timestamp": 1788645600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7665",
-      "totalLotes": 170,
+      "totalLotes": 171,
       "vinilos": [],
-      "datosDe": "2026-08-28T22:00:35.789Z"
+      "datosDe": "2026-08-29T04:06:59.846Z"
     },
     {
       "id": "7672",
@@ -641,7 +611,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7672",
       "totalLotes": 128,
       "vinilos": [],
-      "datosDe": "2026-08-28T22:00:35.789Z"
+      "datosDe": "2026-08-29T04:06:59.846Z"
     },
     {
       "id": "7535",
@@ -656,7 +626,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7535",
       "totalLotes": 100,
       "vinilos": [],
-      "datosDe": "2026-08-28T22:00:35.789Z"
+      "datosDe": "2026-08-29T04:06:59.846Z"
     },
     {
       "id": "7717",
@@ -1151,7 +1121,7 @@
           "anio": "1972",
           "moneda": "$",
           "base": 300,
-          "oferta": null,
+          "oferta": 300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107689/c822ee4555f926c38e6531ce180f61b2.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=26",
           "motivos": [
@@ -2179,7 +2149,7 @@
           "anio": "1976",
           "moneda": "$",
           "base": 300,
-          "oferta": 400,
+          "oferta": 500,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107746/e7566f5099f528da5a33534f71f279bd.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=83",
           "motivos": [
@@ -3127,7 +3097,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-28T22:00:35.789Z"
+      "datosDe": "2026-08-29T04:06:59.846Z"
     },
     {
       "id": "7545",
@@ -3142,7 +3112,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7545",
       "totalLotes": 111,
       "vinilos": [],
-      "datosDe": "2026-08-28T22:00:35.789Z"
+      "datosDe": "2026-08-29T04:06:59.846Z"
     },
     {
       "id": "7666",
@@ -3157,7 +3127,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7666",
       "totalLotes": 100,
       "vinilos": [],
-      "datosDe": "2026-08-28T22:00:35.789Z"
+      "datosDe": "2026-08-29T04:06:59.846Z"
     },
     {
       "id": "7711",
@@ -3207,7 +3177,7 @@
           ]
         }
       ],
-      "datosDe": "2026-08-28T22:00:35.789Z"
+      "datosDe": "2026-08-29T04:06:59.846Z"
     },
     {
       "id": "7729",
@@ -3222,7 +3192,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7729",
       "totalLotes": 100,
       "vinilos": [],
-      "datosDe": "2026-08-28T22:00:35.789Z"
+      "datosDe": "2026-08-29T04:06:59.846Z"
     }
   ]
 }
