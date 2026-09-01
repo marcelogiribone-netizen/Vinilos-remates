@@ -531,6 +531,9 @@ async function principal() {
         id: it.id, // id estable del lote (para guardar destacados que sobrevivan actualizaciones)
         lote: it.lote,
         titulo: it.titulo,
+        // Descripción COMPLETA del rematador (estado, sello, año, insertos...).
+        // Se guarda sin recortar para poder exportarla en el TXT del remate.
+        descripcion: it.descripcion || null,
         artista: extraerArtista(it.titulo),
         album: extraerAlbum(it.titulo),
         sello: an.sello,

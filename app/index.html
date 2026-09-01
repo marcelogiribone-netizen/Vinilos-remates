@@ -19,9 +19,14 @@
        al tema) cuando cierra la pantalla de inicio. -->
   <!-- Barra superior -->
   <header class="appbar">
-    <button id="btnMenu" class="btn-menu" aria-label="Abrir menú" aria-expanded="false">☰</button>
+    <button id="btnMenu" class="btn-menu" aria-label="Menú" aria-expanded="false">
+      <img class="btn-menu-ico" src="icons/logo-vinilo-512.png" alt="">
+    </button>
     <button id="btnAtras" class="btn-atras" aria-label="Volver" hidden>‹</button>
     <h1 id="tituloBarra" class="appbar-titulo">DigBin</h1>
+    <button id="btnMenuDetalle" class="btn-menu btn-menu-der" aria-label="Opciones del remate" aria-expanded="false" hidden>
+      <img class="btn-menu-ico" src="icons/logo-vinilo-512.png" alt="">
+    </button>
   </header>
 
   <main id="contenido">
@@ -30,24 +35,19 @@
 
   <div id="aviso" class="aviso" hidden></div>
 
-  <!-- Menú lateral (se abre con la hamburguesa). Fondo oscuro + panel. -->
-  <div id="drawerFondo" class="drawer-fondo" hidden></div>
-  <nav id="drawer" class="drawer" aria-label="Menú" hidden>
-    <div class="drawer-cabecera">DigBin</div>
-    <button class="drawer-item" type="button" data-accion="remates">
-      <span class="drawer-ico">💿</span> Remates
-    </button>
-    <button class="drawer-item" type="button" data-accion="coleccion">
-      <span class="drawer-ico">♥</span> Colección
-    </button>
-    <button class="drawer-item" type="button" data-accion="recorrida">
-      <span class="drawer-ico">🔄</span> Recorrida
-      <span class="drawer-sub">actualizar ahora</span>
-    </button>
-    <button class="drawer-item" type="button" data-accion="backup">
-      <span class="drawer-ico">💾</span> Copia de seguridad
-    </button>
+  <!-- Fondo transparente para cerrar cualquier menú al tocar afuera. -->
+  <div id="menuFondo" class="menu-fondo" hidden></div>
+
+  <!-- Menú principal (baja desde el vinilo de la izquierda). -->
+  <nav id="menuMain" class="menu-panel" aria-label="Menú" hidden>
+    <button class="menu-item" type="button" data-accion="remates"><span class="menu-item-ico">💿</span> Remates</button>
+    <button class="menu-item" type="button" data-accion="coleccion"><span class="menu-item-ico">♥</span> Colección</button>
+    <button class="menu-item" type="button" data-accion="recorrida"><span class="menu-item-ico">🔄</span> Recorrida</button>
+    <button class="menu-item" type="button" data-accion="backup"><span class="menu-item-ico">💾</span> Copia de seguridad</button>
   </nav>
+
+  <!-- Menú del remate (baja desde el vinilo de la derecha; se arma al abrir). -->
+  <nav id="menuDetalle" class="menu-panel menu-panel-der" aria-label="Opciones del remate" hidden></nav>
 
   <script src="app.js"></script>
 </body>

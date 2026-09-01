@@ -19,9 +19,12 @@ var contenido = document.getElementById('contenido');
 var barraTitulo = document.getElementById('tituloBarra');
 var btnAtras = document.getElementById('btnAtras');
 var btnMenu = document.getElementById('btnMenu');
-var drawer = document.getElementById('drawer');
-var drawerFondo = document.getElementById('drawerFondo');
+var btnMenuDetalle = document.getElementById('btnMenuDetalle');
+var menuFondo = document.getElementById('menuFondo');
+var menuMain = document.getElementById('menuMain');
+var menuDetalle = document.getElementById('menuDetalle');
 var aviso = document.getElementById('aviso');
+var remateActual = null; // remate del detalle abierto (para su menú)
 
 // --- Recorrida (actualización manual disparando GitHub Actions) -------------
 // El token lo pega el usuario UNA vez y se guarda SOLO en este teléfono
@@ -121,7 +124,8 @@ function guardarSnapshot(clave, v, r) {
 }
 function snapVinilo(v) {
   return {
-    id: v.id, lote: v.lote, titulo: v.titulo, artista: v.artista, album: v.album,
+    id: v.id, lote: v.lote, titulo: v.titulo, descripcion: v.descripcion,
+    artista: v.artista, album: v.album,
     sello: v.sello, anio: v.anio, moneda: v.moneda, base: v.base, oferta: v.oferta,
     imagen: v.imagen, enlaceLote: v.enlaceLote,
   };
@@ -452,12 +456,14 @@ function sep() {
 function pantallaDetalle(id) {
   var r = datos.find(function (x) { return String(x.id) === String(id); });
   if (!r) { location.hash = '#/'; return; }
+  remateActual = r; // para el menú del remate (arriba a la derecha)
 
   barraTitulo.textContent = r.nombre || 'Remate';
   btnAtras.hidden = false;
   contenido.innerHTML = '';
 
-  // Cabecera
+  // Cabecera. (Los botones "Solo destacados" y "Remate en la web" ya no van acá:
+  // están en el menú del remate, arriba a la derecha del título.)
   var cab = el('div', 'detalle-cabecera');
   cab.appendChild(el('h2', 'detalle-titulo', r.nombre || 'Remate'));
 
@@ -469,12 +475,6 @@ function pantallaDetalle(id) {
 
   var nf = notaFallo(r);
   if (nf) cab.appendChild(el('p', 'nota-fallo', nf));
-
-  if (r.url) {
-    var btn = el('a', 'btn-remate', 'Ver remate completo en la web ↗');
-    btn.href = r.url; btn.target = '_blank'; btn.rel = 'noopener';
-    cab.appendChild(btn);
-  }
   contenido.appendChild(cab);
 
   // Si no se pudo leer y no hay vinilos que mostrar, avisamos y salimos.
@@ -482,30 +482,17 @@ function pantallaDetalle(id) {
     contenido.appendChild(estado(
       'No se pudieron leer los vinilos de este remate en la última corrida ' +
       '(el sitio no respondió a tiempo). Va a reintentar en la próxima corrida. ' +
-      'Mientras tanto podés abrir el remate en la web con el botón de arriba.'));
+      'Mientras tanto podés abrir el remate en la web (menú ⋮ arriba a la derecha).'));
     return;
   }
 
-  // Barra de filtro: cantidad + "solo destacados"
+  // Conteo de vinilos. Si el filtro "solo destacados" está activo, se avisa.
   var barra = el('div', 'barra-filtro');
   var n = r.vinilos.length;
-  var nDest = contarDestacados(r);
   barra.appendChild(el('span', 'conteo-vinilos', '🎵 ' + n + (n === 1 ? ' vinilo' : ' vinilos')));
-
-  var toggle = el('button', 'btn-filtro');
-  toggle.type = 'button';
-  function pintarToggle() {
-    toggle.textContent = (soloDestacados ? '★ Solo destacados' : '☆ Solo destacados') +
-      ' (' + contarDestacados(r) + ')';
-    toggle.classList.toggle('activo', soloDestacados);
+  if (soloDestacados) {
+    barra.appendChild(el('span', 'filtro-activo', '★ solo destacados (' + contarDestacados(r) + ')'));
   }
-  toggle.addEventListener('click', function () {
-    soloDestacados = !soloDestacados;
-    dibujarVinilos();
-    pintarToggle();
-  });
-  pintarToggle();
-  barra.appendChild(toggle);
   contenido.appendChild(barra);
 
   if (fechaOfertas()) {
@@ -529,7 +516,7 @@ function pantallaDetalle(id) {
     }
     visibles.forEach(function (v) {
       lista.appendChild(crearCardVinilo(r, v, {
-        onFav: function () { pintarToggle(); if (soloDestacados) dibujarVinilos(); }
+        onFav: function () { if (soloDestacados) dibujarVinilos(); }
       }));
     });
   }
@@ -723,6 +710,7 @@ function fechaCorta(d) {
 }
 
 function enrutar() {
+  cerrarPanel(); // por si quedó un menú abierto al navegar
   var h = location.hash || '#/';
   var enDetalle = /^#\/r\/(.+)$/.test(h);
   if (h === '#/coleccion') {
@@ -732,30 +720,44 @@ function enrutar() {
     if (m) { pantallaDetalle(m[1]); }
     else { soloDestacados = false; pantallaLista(); }
   }
-  // En el detalle mostramos la flecha "‹"; en el resto, la hamburguesa.
+  // Izquierda: en el detalle va la flecha "‹"; en el resto, el menú (vinilo).
   btnMenu.hidden = enDetalle;
+  // Derecha: el menú del remate (vinilo) solo en el detalle.
+  btnMenuDetalle.hidden = !enDetalle;
   window.scrollTo(0, 0);
 }
 
-// --- Menú lateral (hamburguesa) --------------------------------------------
-function abrirMenu() {
-  drawer.hidden = false; drawerFondo.hidden = false;
-  // fuerza el reflow para que la transición de entrada corra
-  void drawer.offsetWidth;
-  drawer.classList.add('abierto'); drawerFondo.classList.add('visible');
-  btnMenu.setAttribute('aria-expanded', 'true');
+// --- Menús desplegables (bajan desde el ícono; se cierran al tocar afuera o
+//     al elegir una opción) ---------------------------------------------------
+var menuAbierto = null; // { panel, boton }
+function abrirPanel(panel, boton) {
+  if (menuAbierto && menuAbierto.panel === panel) { cerrarPanel(); return; }
+  cerrarPanel();
+  // Baja justo debajo de la barra superior.
+  var r = document.querySelector('.appbar').getBoundingClientRect();
+  panel.style.top = Math.round(r.bottom) + 'px';
+  panel.hidden = false; menuFondo.hidden = false;
+  void panel.offsetWidth; // reflow para la transición
+  panel.classList.add('abierto');
+  boton.setAttribute('aria-expanded', 'true');
+  menuAbierto = { panel: panel, boton: boton };
 }
-function cerrarMenu() {
-  drawer.classList.remove('abierto'); drawerFondo.classList.remove('visible');
-  btnMenu.setAttribute('aria-expanded', 'false');
-  setTimeout(function () { drawer.hidden = true; drawerFondo.hidden = true; }, 220);
+function cerrarPanel() {
+  menuFondo.hidden = true;
+  if (!menuAbierto) return;
+  var m = menuAbierto; menuAbierto = null;
+  m.panel.classList.remove('abierto');
+  m.boton.setAttribute('aria-expanded', 'false');
+  setTimeout(function () { if (menuAbierto !== null && menuAbierto.panel === m.panel) return; m.panel.hidden = true; }, 180);
 }
-btnMenu.addEventListener('click', abrirMenu);
-drawerFondo.addEventListener('click', cerrarMenu);
-Array.prototype.slice.call(drawer.querySelectorAll('.drawer-item')).forEach(function (b) {
+menuFondo.addEventListener('click', cerrarPanel);
+
+// Menú principal (izquierda)
+btnMenu.addEventListener('click', function () { abrirPanel(menuMain, btnMenu); });
+Array.prototype.slice.call(menuMain.querySelectorAll('.menu-item')).forEach(function (b) {
   b.addEventListener('click', function () {
     var a = b.getAttribute('data-accion');
-    cerrarMenu();
+    cerrarPanel();
     if (a === 'remates') location.hash = '#/';
     else if (a === 'coleccion') location.hash = '#/coleccion';
     else if (a === 'recorrida') iniciarRecorrida();
@@ -763,10 +765,107 @@ Array.prototype.slice.call(drawer.querySelectorAll('.drawer-item')).forEach(func
   });
 });
 
+// Menú del remate (derecha). Se arma cada vez que se abre, para reflejar el
+// estado actual (ej. "solo destacados" activo o no).
+btnMenuDetalle.addEventListener('click', function () {
+  if (!remateActual) return;
+  construirMenuDetalle(remateActual);
+  abrirPanel(menuDetalle, btnMenuDetalle);
+});
+
+function construirMenuDetalle(r) {
+  menuDetalle.innerHTML = '';
+  var nDest = contarDestacados(r);
+
+  // 1) Destacados (activa/desactiva el filtro "solo destacados").
+  var bDest = el('button', 'menu-item'); bDest.type = 'button';
+  bDest.innerHTML = '<span class="menu-item-ico">' + (soloDestacados ? '★' : '☆') + '</span> ' +
+    (soloDestacados ? 'Ver todos los vinilos' : 'Ver solo destacados (' + nDest + ')');
+  bDest.addEventListener('click', function () {
+    soloDestacados = !soloDestacados;
+    cerrarPanel();
+    pantallaDetalle(r.id); // redibuja el detalle con el filtro aplicado
+  });
+  menuDetalle.appendChild(bDest);
+
+  // 2) Remate en la web.
+  if (r.url) {
+    var bWeb = el('button', 'menu-item'); bWeb.type = 'button';
+    bWeb.innerHTML = '<span class="menu-item-ico">🌐</span> Remate en la web';
+    bWeb.addEventListener('click', function () {
+      cerrarPanel();
+      window.open(r.url, '_blank', 'noopener');
+    });
+    menuDetalle.appendChild(bWeb);
+  }
+
+  // 3) Descargar TXT con el listado de vinilos.
+  var bTxt = el('button', 'menu-item'); bTxt.type = 'button';
+  bTxt.innerHTML = '<span class="menu-item-ico">⬇️</span> Descargar TXT';
+  bTxt.addEventListener('click', function () {
+    cerrarPanel();
+    descargarTxtRemate(r);
+  });
+  menuDetalle.appendChild(bTxt);
+}
+
 btnAtras.addEventListener('click', function () {
   if (history.length > 1) history.back();
   else location.hash = '#/';
 });
+
+// --- Descargar TXT con el listado de vinilos de un remate ------------------
+
+function sanitizarNombreArchivo(s) {
+  return (s || 'remate')
+    .replace(/[\\/:*?"<>|\n\r\t]+/g, ' ')      // caracteres inválidos en nombres
+    .replace(/[^0-9A-Za-zÁÉÍÓÚÜÑáéíóúüñ .,()\-]/g, '') // saca emojis y símbolos raros
+    .replace(/\s+/g, ' ').trim().slice(0, 60) || 'remate';
+}
+
+function generarTxtRemate(r) {
+  var L = [];
+  L.push('DigBin — ' + (r.nombre || 'Remate'));
+  if (r.empresa) L.push('Rematador: ' + r.empresa);
+  if (r.fecha) L.push('Cierra: ' + r.fecha);
+  if (r.url) L.push('Web: ' + r.url);
+  L.push('Vinilos: ' + r.vinilos.length);
+  if (generado) L.push('Datos al: ' + fechaOfertas());
+  var hayDesc = r.vinilos.some(function (v) { return v.descripcion; });
+  if (!hayDesc) {
+    L.push('');
+    L.push('(Las descripciones completas aparecen después de la próxima ' +
+      'actualización — tocá "Recorrida" en el menú.)');
+  }
+  L.push('');
+  L.push('='.repeat(56));
+  r.vinilos.forEach(function (v) {
+    L.push('');
+    L.push('LOTE ' + (v.lote != null ? v.lote : '?'));
+    L.push('Título: ' + (v.titulo || '(sin título)'));
+    if (v.descripcion) L.push('Descripción: ' + v.descripcion);
+    if (v.enlaceLote) L.push('Enlace: ' + v.enlaceLote);
+    L.push('-'.repeat(40));
+  });
+  return L.join('\n');
+}
+
+function descargarTxtRemate(r) {
+  try {
+    var txt = generarTxtRemate(r);
+    var blob = new Blob([txt], { type: 'text/plain;charset=utf-8' });
+    var url = URL.createObjectURL(blob);
+    var a = document.createElement('a');
+    a.href = url;
+    a.download = 'DigBin - ' + sanitizarNombreArchivo(r.nombre) + ' (remate ' + r.id + ').txt';
+    document.body.appendChild(a);
+    a.click();
+    setTimeout(function () { URL.revokeObjectURL(url); a.remove(); }, 1500);
+    mostrarAviso('📄 Descargando el listado de vinilos…');
+  } catch (e) {
+    mostrarAviso('No se pudo generar el archivo. Probá de nuevo.');
+  }
+}
 
 window.addEventListener('hashchange', enrutar);
 
