@@ -1,261 +1,7 @@
 {
-  "generado": "2026-09-04T04:14:08.095Z",
+  "generado": "2026-09-04T21:15:08.763Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "7669",
-      "nombre": "✅ Hay muchos tesoros escondidos OPORTUNIDADES ♏✴⚠GRAN REMATE VINTAGE: FILATELIA, HISTORIA DEPORTIVA, BANDERINES Y COLECCIONISMO y muchas cosas mas!! ✅♏✴⚠ TOMATE EL TIEMPO DE MIRAR TODO EN DETALLE MUY VARIADO!!!✅♏✴⚠ CIENTOS DE VINILOS y CD ✅♏✴⚠",
-      "empresa": "Laura Calviño",
-      "departamento": "Montevideo",
-      "lugar": "Av. Sayago 925, Montevideo",
-      "fecha": "04/09/2026, 17:00",
-      "fechaISO": "2026-09-04T20:00:00.000Z",
-      "timestamp": 1788552000,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7669",
-      "totalLotes": 333,
-      "vinilos": [
-        {
-          "id": 1100558,
-          "lote": "37",
-          "titulo": "Venezuela Clásica y Moderna – Simón Bolívar, Escudo Nacional EE.UU. de Venezuela y Temáticas (17 Ejemplares)",
-          "descripcion": "17 ejemplares de la República / Estados Unidos de Venezuela (Correos y Correo Aéreo), abarcando desde las series clásicas del Escudo Nacional (década de 1930) y emisiones de próceres de mediados de siglo hasta conmemorativos artísticos y de infraestructura de las décadas de 1970 a 1990. Destacan las piezas de la serie bolivariana (Simón Bolívar), el Libertador condecorado, emisiones fiscales de educación y obras públicas, arte colonial religioso (San Ignacio de Loyola) y series navideñas/folclóricas.",
-          "artista": "Venezuela Clásica y Moderna",
-          "album": "Simón Bolívar, Escudo Nacional EE",
-          "sello": null,
-          "anio": "1930",
-          "moneda": "$",
-          "base": 100,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1100558/1891cee6100432f8bcde47d1e72c6b6c.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7669?lote=37",
-          "motivos": [
-            "formato \"Artista - Título\" + contexto musical",
-            "año 1930"
-          ]
-        },
-        {
-          "id": 1100562,
-          "lote": "41",
-          "titulo": "Suiza (Helvetia) – Carta Certificada con R-Label, Correo Aéreo Swissair, Pro Juventute y Tiras sobre Fragmento (Más de 110 Piezas)",
-          "descripcion": "110 ejemplares de la Confederación Suiza (Helvetia / PTT), concentrados entre las décadas de 1940 y 1980. Destaca por su notable volumen y calidad de conservación, incluyendo una extensa representación de la serie clásica de Monumentos Históricos y Paisajes Alpinos, emisiones benéficas con sobretasa de Pro Juventute y Pro Patria (fauna, flora, trajes típicos y folclore), Correo Aéreo (Swissair), múltiples tiras y combinaciones preservadas sobre fragmentos originales de correspondencia con matasellos circulares nítidos de Basilea (Basel Elisabethen), y una etiqueta original de carta certificada (R-Label Basel).",
-          "artista": "Suiza (Helvetia)",
-          "album": "Carta Certificada con R-Label, Correo Aéreo Swissair, Pro Juventute y Tiras sobr",
-          "sello": null,
-          "anio": "1940",
-          "moneda": "$",
-          "base": 100,
-          "oferta": 100,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1100562/80c7afdaa08c32e1643a3f1cb80c5472.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7669?lote=41",
-          "motivos": [
-            "formato \"Artista - Título\" + contexto musical",
-            "año 1940"
-          ]
-        },
-        {
-          "id": 1100594,
-          "lote": "73",
-          "titulo": "España – Rey Juan Carlos I (100 Pts x 2), Arte Clásico (El Greco, Turina, Sarasate), Trajes Típicos y Mutualidad Postal (Aprox. 36 Piezas)",
-          "descripcion": "36 ejemplares centrados en España (Correos y Telégrafos / España) con complementos de Francia (République Française), Países Bajos (Nederland - Europa CEPT) y Granada (Grenada - Flora), abarcando desde las décadas de 1940 hasta 1980. Destaca por su amplia variedad temática: la monarquía española (Rey Juan Carlos I en alto facial de 100 Ptas, Alfonso XII y Alfonso XIII), arte clásico y pintura (El Greco, Murillo, Cosme Gómez), folclore y trajes regionales (Vizcaya, Salamanca), música (Joaquín Turina, Pablo Sarasate), historia y efemérides (Bimilenario de Zaragoza, Hispanidad 1974), uniformes militares, deporte (gimnasia rítmica) y una pieza fiscal/mutualista clásica de correos (Mutualidad de Correos - Aportación Voluntaria).",
-          "artista": "España",
-          "album": "Rey Juan Carlos I (100 Pts x 2), Arte Clásico (El Greco, Turina, Sarasate), Traj",
-          "sello": null,
-          "anio": "1940",
-          "moneda": "$",
-          "base": 100,
-          "oferta": 100,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1100594/750ae913ccb01c66a67cde498d0699cd.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7669?lote=73",
-          "motivos": [
-            "formato \"Artista - Título\" + contexto musical",
-            "año 1940"
-          ]
-        },
-        {
-          "id": 1100598,
-          "lote": "77",
-          "titulo": "España & Francia – Pintura Clásica (El Greco, Goya, De La Tour, Clouet), Juan Ramón Jiménez Nobel, Granada 50 Pts y Turina (23 Piezas)",
-          "descripcion": "23 piezas con marcado predominio de España (Correos y Telégrafos / España), complementado con piezas de arte de Francia (République Française) y flora tropical de Granada (Grenada), abarcando desde las décadas de 1960 hasta 1980. Destaca por su alta especialización en Grandes Maestros de la Pintura Española y Universal (El Greco, Francisco de Goya, Georges de La Tour, Jean Clouet), efemérides literarias y musicales (Premio Nobel Juan Ramón Jiménez, Joaquín Turina), danza y festivales internacionales (Festival de Música y Danza de Granada 50 Ptas en pareja y suelto), folclore regional (Traje típico de Navarra), telecomunicaciones (Año Mundial de las Comunicaciones 38 Pts) y uniformes militares históricos.",
-          "artista": "España & Francia",
-          "album": "Pintura Clásica (El Greco, Goya, De La Tour, Clouet), Juan Ramón Jiménez Nobel",
-          "sello": null,
-          "anio": "1960",
-          "moneda": "$",
-          "base": 100,
-          "oferta": 100,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1100598/fd20a019ba546bcc517c550a7c2509f1.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7669?lote=77",
-          "motivos": [
-            "formato \"Artista - Título\" + contexto musical",
-            "año 1960"
-          ]
-        },
-        {
-          "id": 1100657,
-          "lote": "289",
-          "titulo": "Lote de 12 CD",
-          "descripcion": "Temática Navideña: Songs of Christmas (Radio City Music Hall), A Rosie Christmas (con artistas como Celine Dion, Cher y Billy Joel) y una selección de Melodías Navideñas.\r\nMúsica Atmosférica y Global: Amazonia (sonidos de la selva), Pure Heaven (relajación y ambiente) y Heavy Classix.Artistas y Bandas Sonoras: Álbumes destacados de Loreena McKennitt (The Visit y The Book of Secrets), la cantante argentina Teresa Parodi (Señales de Vida), Celtic Woman, y la banda sonora original del musical The Music Man.\r\nRecopilatorios: Incluye el álbum All My Love con éxitos de artistas como Wham, Michael Bolton y Gloria Estefan.",
-          "artista": null,
-          "album": null,
-          "sello": "Music Hall",
-          "anio": null,
-          "moneda": "$",
-          "base": 25,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1100657/d89b8eaa12bd58b56fa1eadedd183972.JPG",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7669?lote=289",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1100662,
-          "lote": "294",
-          "titulo": "Lote Colección: Festivales Sinfónicos y Clásicos Esenciales",
-          "descripcion": "Festival Tchaikovsky: Una serie de álbumes dedicados exclusivamente a las obras maestras de Peter Ilyitch Tchaikovsky, incluyendo sinfonías, conciertos y oberturas.\r\n\r\nSelecciones Temáticas: Lo mejor del Barroco, Best-Loved Classics (EMI Classics) y una recopilación de valses de Chopin.\r\n\r\nOtras Joyas: Destaca el álbum Danzón en vivo con Andrea Merenzon y Paquito D'Rivera, y una colección de los Valses de Strauss interpretados por Frank Pourcel y The National Philharmonic Orchestra.",
-          "artista": null,
-          "album": null,
-          "sello": "EMI",
-          "anio": null,
-          "moneda": "$",
-          "base": 25,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1100662/43298d7b9ebea6c6a699cd7beb42e6ec.JPG",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7669?lote=294",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1100663,
-          "lote": "295",
-          "titulo": "Ediciones Especiales, Piano y Selecciones Pop",
-          "descripcion": "Ediciones Especiales: Incluye materiales de la colección Revista Clásica, destacando el álbum \"El Valor Intangible de la Música\", obras de piano interpretadas por Sebastián Forster y las \"Escenas del Oratorio Paulus\" de Felix Mendelssohn-Bartholdy.\r\n\r\nContemporáneo y Ambient: Presenta copias del álbum Music For Films de Brian Eno (ECM), una pieza clave para coleccionistas de música experimental y ambiental.\r\n\r\nRecopilatorio Pop: Se incluye el álbum The Very Best of That Loving Feeling, con una selección de baladas y éxitos internacionales.",
-          "artista": null,
-          "album": null,
-          "sello": "Clave",
-          "anio": null,
-          "moneda": "$",
-          "base": 150,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1100663/093de70baa58a0f9c3fe60f71e93330b.JPG",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7669?lote=295",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1100653,
-          "lote": "297",
-          "titulo": "Lote de 11 CDs: Joyas de la Música Brasileña y Lusófona",
-          "descripcion": "Incluye títulos destacados de:\r\n\r\nArtistas icónicos: Maria Bethânia, Mart'n'ália (dos álbumes), Silvia Goes, Vitor Ramil, y el legendario Pixinguinha.\r\n\r\nVariedad: Una curaduría que combina clásicos atemporales, interpretaciones íntimas al piano, ritmos de grupo (Banda Eva) y sonidos del mundo (Tabanka Djaz, Juka, Fortuna).",
-          "artista": "Música Brasileña",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 25,
-          "oferta": 25,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1100653/c19a6670cf33a0cd46e86f717052a8d3.JPG",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7669?lote=297",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1101105,
-          "lote": "416",
-          "titulo": "Long Playing   decca",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": "Decca",
-          "anio": null,
-          "moneda": "$",
-          "base": 25,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1101105/6d408cd77d6a9023659a3116ae8f0905.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7669?lote=416",
-          "motivos": [
-            "sello Decca + contexto musical"
-          ]
-        },
-        {
-          "id": 1101119,
-          "lote": "430",
-          "titulo": "Long Play  Beethoven",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 25,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1101119/60e0ed47d6c2a1ee151a3540186e9479.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7669?lote=430",
-          "motivos": [
-            "dice \"long play\""
-          ]
-        },
-        {
-          "id": 1101120,
-          "lote": "431",
-          "titulo": "Long Play  Beethoven",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 25,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1101120/c1403a19a57956bcfb14ca029772c6e1.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7669?lote=431",
-          "motivos": [
-            "dice \"long play\""
-          ]
-        },
-        {
-          "id": 1101140,
-          "lote": "451",
-          "titulo": "Caruso in Song  Long Play",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 25,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1101140/b28ca68c677c347b81132541496ef30c.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7669?lote=451",
-          "motivos": [
-            "dice \"long play\""
-          ]
-        },
-        {
-          "id": 1101147,
-          "lote": "458",
-          "titulo": "Long Play  The Fhiladelphia Orchestra",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 25,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1101147/6c9b2dc130af7ddd0361fd4b8b767392.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7669?lote=458",
-          "motivos": [
-            "dice \"long play\""
-          ]
-        }
-      ],
-      "datosDe": "2026-09-04T04:14:08.095Z"
-    },
     {
       "id": "7475",
       "nombre": "SUBASTA DE LIBROS COLECCIÓN FAMILIA CLARA INÉS ZOLESI TERCERA PARTE. EJEMPLARES ANTIGUOS Y MODERNOS.",
@@ -269,7 +15,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7475",
       "totalLotes": 147,
       "vinilos": [],
-      "datosDe": "2026-09-04T04:14:08.095Z"
+      "datosDe": "2026-09-04T21:15:08.763Z"
     },
     {
       "id": "7761",
@@ -282,7 +28,7 @@
       "timestamp": 1788625800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7761",
-      "totalLotes": 479,
+      "totalLotes": 497,
       "vinilos": [
         {
           "id": 1117387,
@@ -350,14 +96,14 @@
           "moneda": "$",
           "base": 300,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1117497/8e0382c43258b41b534b9ffdfc8dc430.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1117497/99d386ed366d2a7dc0f3b9d833e14c33.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7761?lote=232",
           "motivos": [
             "dice \"disco\""
           ]
         }
       ],
-      "datosDe": "2026-09-04T04:14:08.095Z"
+      "datosDe": "2026-09-04T21:15:08.763Z"
     },
     {
       "id": "7783",
@@ -372,7 +118,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7783",
       "totalLotes": 156,
       "vinilos": [],
-      "datosDe": "2026-09-04T04:14:08.095Z"
+      "datosDe": "2026-09-04T21:15:08.763Z"
     },
     {
       "id": "7698",
@@ -398,7 +144,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 250,
+          "oferta": 270,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1103714/5bbb7becf1d19fdc6d46bbd71443a94a.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7698?lote=64",
           "motivos": [
@@ -434,7 +180,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 260,
+          "oferta": 360,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1103716/d1fe957d09b8a659398fb68fd052a810.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7698?lote=66",
           "motivos": [
@@ -471,7 +217,7 @@
           "anio": "1992",
           "moneda": "$",
           "base": 200,
-          "oferta": 260,
+          "oferta": 280,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1115007/c3e8db7614817a62c7afe2adf9060369.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7698?lote=79F",
           "motivos": [
@@ -490,7 +236,7 @@
           "anio": "2011",
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1115008/cbbbb861f904aabddf0c567b91ac5195.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7698?lote=79G",
           "motivos": [
@@ -509,7 +255,7 @@
           "anio": "2010",
           "moneda": "$",
           "base": 200,
-          "oferta": 280,
+          "oferta": 330,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1115009/f19331cb1672f2fa439165eabf2001dc.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7698?lote=79H",
           "motivos": [
@@ -518,7 +264,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-04T04:14:08.095Z"
+      "datosDe": "2026-09-04T21:15:08.763Z"
     },
     {
       "id": "7804",
@@ -552,7 +298,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-04T04:14:08.095Z"
+      "datosDe": "2026-09-04T21:15:08.763Z"
     },
     {
       "id": "7672",
@@ -567,7 +313,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7672",
       "totalLotes": 128,
       "vinilos": [],
-      "datosDe": "2026-09-04T04:14:08.095Z"
+      "datosDe": "2026-09-04T21:15:08.763Z"
     },
     {
       "id": "7577",
@@ -582,7 +328,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7577",
       "totalLotes": 83,
       "vinilos": [],
-      "datosDe": "2026-09-04T04:14:08.095Z"
+      "datosDe": "2026-09-04T21:15:08.763Z"
     },
     {
       "id": "7535",
@@ -597,7 +343,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7535",
       "totalLotes": 100,
       "vinilos": [],
-      "datosDe": "2026-09-04T04:14:08.095Z"
+      "datosDe": "2026-09-04T21:15:08.763Z"
     },
     {
       "id": "7700",
@@ -612,7 +358,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7700",
       "totalLotes": 221,
       "vinilos": [],
-      "datosDe": "2026-09-04T04:14:08.095Z"
+      "datosDe": "2026-09-04T21:15:08.763Z"
     },
     {
       "id": "7717",
@@ -847,7 +593,7 @@
           "anio": "1969",
           "moneda": "$",
           "base": 300,
-          "oferta": 1100,
+          "oferta": 1200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107671/d2851666e93de022ad9f36543931d2d5.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=11",
           "motivos": [
@@ -904,7 +650,7 @@
           "anio": "1970",
           "moneda": "$",
           "base": 500,
-          "oferta": 650,
+          "oferta": 800,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107677/ac25d61367817bce4dc85a02e0463d45.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=14",
           "motivos": [
@@ -961,7 +707,7 @@
           "anio": "1960",
           "moneda": "$",
           "base": 300,
-          "oferta": 450,
+          "oferta": 650,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107680/41e8157731965cffaa5b9b7e6dd5a76b.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=17",
           "motivos": [
@@ -1153,7 +899,7 @@
           "anio": "2014",
           "moneda": "$",
           "base": 300,
-          "oferta": 930,
+          "oferta": 1330,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107690/5236399c987713b08a7883427f4c985f.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=27",
           "motivos": [
@@ -1173,7 +919,7 @@
           "anio": "2021",
           "moneda": "$",
           "base": 300,
-          "oferta": 900,
+          "oferta": 1400,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107691/183ff6d7eb975af598aeb071727b14e7.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=28",
           "motivos": [
@@ -1364,7 +1110,7 @@
           "anio": "1969",
           "moneda": "$",
           "base": 300,
-          "oferta": 550,
+          "oferta": 700,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107701/a34d358d963371634d11b50863405351.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=38",
           "motivos": [
@@ -1383,7 +1129,7 @@
           "anio": "1980",
           "moneda": "$",
           "base": 300,
-          "oferta": 1100,
+          "oferta": 1300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107702/2e8fc1afbd296ffe38f121ce6a4c904e.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=39",
           "motivos": [
@@ -3650,7 +3396,7 @@
           "anio": "1967",
           "moneda": "$",
           "base": 300,
-          "oferta": 500,
+          "oferta": 550,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113325/14bdf70fabe890c6ce537cb1e6894385.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=157",
           "motivos": [
@@ -3764,7 +3510,7 @@
           "anio": "2020",
           "moneda": "$",
           "base": 300,
-          "oferta": 300,
+          "oferta": 350,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113331/fb4cf01a45811b3c1f254c57599cece4.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=163",
           "motivos": [
@@ -4431,7 +4177,7 @@
           "anio": "1972",
           "moneda": "$",
           "base": 500,
-          "oferta": 700,
+          "oferta": 750,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113449/40f336f9b4069ba7dd7c96298803d90a.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=198",
           "motivos": [
@@ -4554,7 +4300,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-04T04:14:08.095Z"
+      "datosDe": "2026-09-04T21:15:08.763Z"
     },
     {
       "id": "7545",
@@ -4567,9 +4313,9 @@
       "timestamp": 1788737400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7545",
-      "totalLotes": 155,
+      "totalLotes": 167,
       "vinilos": [],
-      "datosDe": "2026-09-04T04:14:08.095Z"
+      "datosDe": "2026-09-04T21:15:08.763Z"
     },
     {
       "id": "7788",
@@ -4584,7 +4330,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7788",
       "totalLotes": 50,
       "vinilos": [],
-      "datosDe": "2026-09-04T04:14:08.095Z"
+      "datosDe": "2026-09-04T21:15:08.763Z"
     },
     {
       "id": "7813",
@@ -4599,7 +4345,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7813",
       "totalLotes": 68,
       "vinilos": [],
-      "datosDe": "2026-09-04T04:14:08.095Z"
+      "datosDe": "2026-09-04T21:15:08.763Z"
     },
     {
       "id": "7665",
@@ -4614,7 +4360,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7665",
       "totalLotes": 171,
       "vinilos": [],
-      "datosDe": "2026-09-04T04:14:08.095Z"
+      "datosDe": "2026-09-04T21:15:08.763Z"
     },
     {
       "id": "7666",
@@ -4629,7 +4375,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7666",
       "totalLotes": 104,
       "vinilos": [],
-      "datosDe": "2026-09-04T04:14:08.095Z"
+      "datosDe": "2026-09-04T21:15:08.763Z"
     },
     {
       "id": "7801",
@@ -4644,7 +4390,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7801",
       "totalLotes": 56,
       "vinilos": [],
-      "datosDe": "2026-09-04T04:14:08.095Z"
+      "datosDe": "2026-09-04T21:15:08.763Z"
     },
     {
       "id": "7747",
@@ -4944,7 +4690,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-04T04:14:08.095Z"
+      "datosDe": "2026-09-04T21:15:08.763Z"
     },
     {
       "id": "7636",
@@ -4959,7 +4705,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7636",
       "totalLotes": 161,
       "vinilos": [],
-      "datosDe": "2026-09-04T04:14:08.095Z"
+      "datosDe": "2026-09-04T21:15:08.763Z"
     },
     {
       "id": "7711",
@@ -5011,11 +4757,26 @@
           ]
         }
       ],
-      "datosDe": "2026-09-04T04:14:08.095Z"
+      "datosDe": "2026-09-04T21:15:08.763Z"
+    },
+    {
+      "id": "7743",
+      "nombre": "LIQUIDACIÓN TOTAL DE APARTAMENTO FAMILIAR",
+      "empresa": "Remates Charrúa",
+      "departamento": "Salto",
+      "lugar": "Asencio, Salto",
+      "fecha": "12/09/2026, 14:00",
+      "fechaISO": "2026-09-12T17:00:00.000Z",
+      "timestamp": 1789232400,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7743",
+      "totalLotes": 195,
+      "vinilos": [],
+      "datosDe": "2026-09-04T21:15:08.763Z"
     },
     {
       "id": "7809",
-      "nombre": "✅ Remate de antiguedades y coleccionables, Se destaca barras de jabón, medallas religiosas, coleccionables de fotografía y antiguas cámaras, palotes, sacacorchos, aluminio y más!!!",
+      "nombre": "✅ Remate de antiguedades y coleccionables, Se destaca barras de jabón, medallas religiosas, coleccionables de fotografía y antiguas cámaras, palotes, sacacorchos, aluminio, cuchillos, herramientas de zapatero, adornos liliputienses, candados, escritorio y más!!!",
       "empresa": "Valentina Rodríguez",
       "departamento": "MONTEVIDEO",
       "lugar": "AV. DAMASO A. LARRAÑAGA 3452, MONTEVIDEO",
@@ -5024,7 +4785,7 @@
       "timestamp": 1789408800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7809",
-      "totalLotes": 136,
+      "totalLotes": 210,
       "vinilos": [
         {
           "id": 1118496,
@@ -5153,7 +4914,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-04T04:14:08.095Z"
+      "datosDe": "2026-09-04T21:15:08.763Z"
     },
     {
       "id": "7729",
@@ -5168,7 +4929,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7729",
       "totalLotes": 100,
       "vinilos": [],
-      "datosDe": "2026-09-04T04:14:08.095Z"
+      "datosDe": "2026-09-04T21:15:08.763Z"
     },
     {
       "id": "7828",
@@ -5183,7 +4944,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7828",
       "totalLotes": 14,
       "vinilos": [],
-      "datosDe": "2026-09-04T04:14:08.095Z"
+      "datosDe": "2026-09-04T21:15:08.763Z"
     }
   ]
 }
