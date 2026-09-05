@@ -1,110 +1,7 @@
 {
-  "generado": "2026-09-05T04:12:51.555Z",
+  "generado": "2026-09-05T21:14:19.329Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "7761",
-      "nombre": "REMATE MULTIRUBRO. DEPÓSITO DE AGUA 7000 LTS. ZORRA 4 RUEDAS. CINCEL 9 PÚAS. COMEDERO. ESTACAS PARA TERNEROS. HAMACAS DE PATIO EN HIERRO. JUEGO DE PATIO EN HIERRO SALDOS DE CERÁMICAS. PASTOREADORES.",
-      "empresa": "Diego Alfonso Machin",
-      "departamento": "Florida",
-      "lugar": "Avda. Artigas 931, Cardal, Florida",
-      "fecha": "05/09/2026, 13:30",
-      "fechaISO": "2026-09-05T16:30:00.000Z",
-      "timestamp": 1788625800,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7761",
-      "totalLotes": 497,
-      "vinilos": [
-        {
-          "id": 1117387,
-          "lote": "122",
-          "titulo": "CUATRO DISCOS DE ACERO DOS GRANDES Y DOS CHICOS",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 400,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1117387/cf3ee95e56685d20535f0bda32004270.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7761?lote=122",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1117402,
-          "lote": "137",
-          "titulo": "DISCO DE DESVASTE SANDERPRO",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1117402/6b53e2f92772a162d0d936bbdc28348b.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7761?lote=137",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1117417,
-          "lote": "152",
-          "titulo": "2 DISCOS DE ACERO",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1117417/5d78938221732f5f4010e19ff93be4b4.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7761?lote=152",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1117497,
-          "lote": "232",
-          "titulo": "DISCO PROFESIONAL DE MADERA BOSCH",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1117497/99d386ed366d2a7dc0f3b9d833e14c33.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7761?lote=232",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        }
-      ],
-      "datosDe": "2026-09-05T04:12:51.555Z"
-    },
-    {
-      "id": "7783",
-      "nombre": "Sábado 15:30hs SIN BASE Y AL MEJOR POSTOR DESTACAMOS: Radios Antiguas y Componentes De Radios Teléfonos Vintage Balanzas Botellas Cráneo De Ciervo Objetos Rústicos Y De Campo Cuchillos Criollos Jarras De Cerveza Ollas Antiguas Mariposa Colgante Vitro Cristalería Loza Y Porcelana Antigua Metales Plateados Luminarias Grandes Muchos Espejos De Cuerpo Entero Reloj Cuckoo Antigüedades En Gral Muebles De Estilo Y De Diseño ¡IMPERDIBLE!",
-      "empresa": "Remate G. Federico",
-      "departamento": "Montevideo",
-      "lugar": "Arenal Grande 1818 esq La Paz de 9:30 a 18, Montevideo",
-      "fecha": "05/09/2026, 15:30",
-      "fechaISO": "2026-09-05T18:30:00.000Z",
-      "timestamp": 1788633000,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7783",
-      "totalLotes": 156,
-      "vinilos": [],
-      "datosDe": "2026-09-05T04:12:51.555Z"
-    },
     {
       "id": "7698",
       "nombre": "Imperdible liquidación de bienes muebles, destacando varieda en mobiliario, coleccionables, antiguedades, monedas de plata,cuchilleria, vajilla,,mantelería,electrodomésticos,música y mucho más imposible detallar!!",
@@ -129,7 +26,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 410,
+          "oferta": 550,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1103714/5bbb7becf1d19fdc6d46bbd71443a94a.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7698?lote=64",
           "motivos": [
@@ -147,7 +44,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 220,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1103715/d5fecfd37ae57413a89c0e5d14e164e2.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7698?lote=65",
           "motivos": [
@@ -165,7 +62,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 420,
+          "oferta": 650,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1103716/d1fe957d09b8a659398fb68fd052a810.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7698?lote=66",
           "motivos": [
@@ -183,7 +80,7 @@
           "anio": "2022",
           "moneda": "$",
           "base": 200,
-          "oferta": 220,
+          "oferta": 300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1115006/e810bf748d10d6797f7182ca90145e02.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7698?lote=79E",
           "motivos": [
@@ -202,7 +99,7 @@
           "anio": "1992",
           "moneda": "$",
           "base": 200,
-          "oferta": 360,
+          "oferta": 500,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1115007/c3e8db7614817a62c7afe2adf9060369.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7698?lote=79F",
           "motivos": [
@@ -221,7 +118,7 @@
           "anio": "2011",
           "moneda": "$",
           "base": 200,
-          "oferta": 270,
+          "oferta": 340,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1115008/cbbbb861f904aabddf0c567b91ac5195.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7698?lote=79G",
           "motivos": [
@@ -240,7 +137,7 @@
           "anio": "2010",
           "moneda": "$",
           "base": 200,
-          "oferta": 360,
+          "oferta": 500,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1115009/f19331cb1672f2fa439165eabf2001dc.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7698?lote=79H",
           "motivos": [
@@ -249,7 +146,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-05T04:12:51.555Z"
+      "datosDe": "2026-09-05T21:14:19.329Z"
     },
     {
       "id": "7804",
@@ -283,7 +180,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-05T04:12:51.555Z"
+      "datosDe": "2026-09-05T21:14:19.329Z"
     },
     {
       "id": "7672",
@@ -298,7 +195,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7672",
       "totalLotes": 128,
       "vinilos": [],
-      "datosDe": "2026-09-05T04:12:51.555Z"
+      "datosDe": "2026-09-05T21:14:19.329Z"
     },
     {
       "id": "7577",
@@ -313,7 +210,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7577",
       "totalLotes": 85,
       "vinilos": [],
-      "datosDe": "2026-09-05T04:12:51.555Z"
+      "datosDe": "2026-09-05T21:14:19.329Z"
     },
     {
       "id": "7535",
@@ -328,7 +225,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7535",
       "totalLotes": 100,
       "vinilos": [],
-      "datosDe": "2026-09-05T04:12:51.555Z"
+      "datosDe": "2026-09-05T21:14:19.329Z"
     },
     {
       "id": "7700",
@@ -343,7 +240,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7700",
       "totalLotes": 221,
       "vinilos": [],
-      "datosDe": "2026-09-05T04:12:51.555Z"
+      "datosDe": "2026-09-05T21:14:19.329Z"
     },
     {
       "id": "7717",
@@ -521,7 +418,7 @@
           "anio": "1984",
           "moneda": "$",
           "base": 300,
-          "oferta": 300,
+          "oferta": 450,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1106802/c56180ff570f88ee11dc7df607003410.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=8",
           "motivos": [
@@ -1114,7 +1011,7 @@
           "anio": "1980",
           "moneda": "$",
           "base": 300,
-          "oferta": 1400,
+          "oferta": 1580,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107702/2e8fc1afbd296ffe38f121ce6a4c904e.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=39",
           "motivos": [
@@ -1152,7 +1049,7 @@
           "anio": "1982",
           "moneda": "$",
           "base": 300,
-          "oferta": 1200,
+          "oferta": 1250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107704/053e2749452db5411248221ba43633ca.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=41",
           "motivos": [
@@ -2750,7 +2647,7 @@
           "anio": "1982",
           "moneda": "$",
           "base": 300,
-          "oferta": null,
+          "oferta": 300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1107788/1cdc5aa1d4dd8eeeee5099fee199ed91.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=125",
           "motivos": [
@@ -3819,7 +3716,7 @@
           "anio": "1978",
           "moneda": "$",
           "base": 300,
-          "oferta": 300,
+          "oferta": 350,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113348/c436a10be3347091df694c2467f871c5.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=180",
           "motivos": [
@@ -4219,7 +4116,7 @@
           "anio": "1976",
           "moneda": "$",
           "base": 500,
-          "oferta": null,
+          "oferta": 500,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113452/1c36ec438331d4598c144af620881f12.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=201",
           "motivos": [
@@ -4257,7 +4154,7 @@
           "anio": "1971",
           "moneda": "$",
           "base": 500,
-          "oferta": 500,
+          "oferta": 550,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1113454/e0edc3bc4161e181fc1c3b5b1fa26e4f.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7717?lote=203",
           "motivos": [
@@ -4285,7 +4182,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-05T04:12:51.555Z"
+      "datosDe": "2026-09-05T21:14:19.329Z"
     },
     {
       "id": "7545",
@@ -4298,9 +4195,9 @@
       "timestamp": 1788737400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7545",
-      "totalLotes": 168,
+      "totalLotes": 169,
       "vinilos": [],
-      "datosDe": "2026-09-05T04:12:51.555Z"
+      "datosDe": "2026-09-05T21:14:19.329Z"
     },
     {
       "id": "7788",
@@ -4315,7 +4212,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7788",
       "totalLotes": 50,
       "vinilos": [],
-      "datosDe": "2026-09-05T04:12:51.555Z"
+      "datosDe": "2026-09-05T21:14:19.329Z"
     },
     {
       "id": "7813",
@@ -4330,7 +4227,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7813",
       "totalLotes": 68,
       "vinilos": [],
-      "datosDe": "2026-09-05T04:12:51.555Z"
+      "datosDe": "2026-09-05T21:14:19.329Z"
     },
     {
       "id": "7663",
@@ -4365,7 +4262,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-05T04:12:51.555Z"
+      "datosDe": "2026-09-05T21:14:19.329Z"
     },
     {
       "id": "7665",
@@ -4380,7 +4277,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7665",
       "totalLotes": 171,
       "vinilos": [],
-      "datosDe": "2026-09-05T04:12:51.555Z"
+      "datosDe": "2026-09-05T21:14:19.329Z"
     },
     {
       "id": "7666",
@@ -4395,7 +4292,22 @@
       "url": "https://www.remotes.com.uy/participar/remate/7666",
       "totalLotes": 104,
       "vinilos": [],
-      "datosDe": "2026-09-05T04:12:51.555Z"
+      "datosDe": "2026-09-05T21:14:19.329Z"
+    },
+    {
+      "id": "7825",
+      "nombre": "⚠️ ATENCIÓN ⚠️",
+      "empresa": "Remate Paysandú",
+      "departamento": "Paysandú",
+      "lugar": "Uruguay y Montecaseros, Ciudad de Paysandú, Paysandú",
+      "fecha": "09/09/2026, 13:00",
+      "fechaISO": "2026-09-09T16:00:00.000Z",
+      "timestamp": 1788969600,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7825",
+      "totalLotes": 114,
+      "vinilos": [],
+      "datosDe": "2026-09-05T21:14:19.329Z"
     },
     {
       "id": "7834",
@@ -4410,7 +4322,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7834",
       "totalLotes": 99,
       "vinilos": [],
-      "datosDe": "2026-09-05T04:12:51.555Z"
+      "datosDe": "2026-09-05T21:14:19.329Z"
     },
     {
       "id": "7801",
@@ -4425,7 +4337,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7801",
       "totalLotes": 56,
       "vinilos": [],
-      "datosDe": "2026-09-05T04:12:51.555Z"
+      "datosDe": "2026-09-05T21:14:19.329Z"
     },
     {
       "id": "7747",
@@ -4725,7 +4637,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-05T04:12:51.555Z"
+      "datosDe": "2026-09-05T21:14:19.329Z"
     },
     {
       "id": "7636",
@@ -4740,7 +4652,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7636",
       "totalLotes": 161,
       "vinilos": [],
-      "datosDe": "2026-09-05T04:12:51.555Z"
+      "datosDe": "2026-09-05T21:14:19.329Z"
     },
     {
       "id": "7711",
@@ -4792,7 +4704,545 @@
           ]
         }
       ],
-      "datosDe": "2026-09-05T04:12:51.555Z"
+      "datosDe": "2026-09-05T21:14:19.329Z"
+    },
+    {
+      "id": "7833",
+      "nombre": "💿🔷Remate de Ofertas en Vinilos🔷💿",
+      "empresa": "Verónica Aristegui Díaz",
+      "departamento": "San José",
+      "lugar": "Parada 8 manzana 3 solar 16 calle colocolo, Playa pascual, San José, San José",
+      "fecha": "11/09/2026, 19:30",
+      "fechaISO": "2026-09-11T22:30:00.000Z",
+      "timestamp": 1789165800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7833",
+      "totalLotes": 115,
+      "vinilos": [
+        {
+          "id": 1124748,
+          "lote": "0",
+          "titulo": "Vinilos",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 0,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1124748/bf21fe280b90827e56e421a163f00029.png",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=0",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1123673,
+          "lote": "1",
+          "titulo": "Grupo de 10 SINGLES DIFERENTES de MUSICA DISCO, ROCK , POP SOUL y/o R&B. Incluye temas por los siguientes artistas: Elkie Brooks, Tracey Ullman, Limahl, The Babys, Jim Davison, Ultravox, Jaki Graham, Debbie Gibson, Adam And The Ants, Yazoo.",
+          "descripcion": null,
+          "artista": "MUSICA DISCO",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123673/c77b467bd2a048c9e726daf32c55ee36.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=1",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1123675,
+          "lote": "2",
+          "titulo": "Grupo de 10 SINGLES DIFERENTES de MUSICA DISCO, POP ROCK, POP SOUL y/o R&B. Incluye temas por los siguientes artistas: Taylor Dayne, Martika, Stevie NIcks con Don Henley, Diana Ross, Louise Goffin’s, The Group “Big Trouble”, promocional “Profiles in Gold: Album 2” con Genesis, Leif Garrett, Roberta Flack, Chick, The Motels, Exposé.",
+          "descripcion": null,
+          "artista": "MUSICA DISCO",
+          "album": "Big Trouble",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123675/61cdc737fc1a145ce601e22c2f8460a4.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=2",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1123717,
+          "lote": "28",
+          "titulo": "Grupo de 10 SINGLES DIFERENTES de MUSICA POP, CLÁSICA, HARD ROCK, DANCE POP y/o R&B. Incluye temas por los siguientes artistas: Tony Banks con Andy Taylor, Aled Jones, Swing Out Sister, Ian Gillan, Feargal Sharkey, Shalamar, Breathe Jeramaine Stewart, George Michael, The High. (El doble tiene un solo disco).",
+          "descripcion": null,
+          "artista": "MUSICA POP",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123717/51a371ce36188dbda8d9173ad26ec971.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=28",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1123719,
+          "lote": "30",
+          "titulo": "Grupo de 10 SINGLES DIFERENTES de MUSICA PIANO, ROCK, JAZZ, SWING y/o R&B. Incluye temas por los siguientes artistas: Johnny Maddox. Johnny Hawkins, Tommy Dorsey, Welterfolge, Duke Ellington y su Orquesta, “Hot Lips” Page y su Orquesta, Billy Holiday y su Orquesta, Kansas City Five (le falta la tapa trasera), Oscar Peterson (disco doble), Ethel Waters acompañada de la orquesta de J. C. Heard, Cozy Coley todas sus Grandes Estrellas y J. C. Heard con su Orquesta.",
+          "descripcion": null,
+          "artista": "MUSICA PIANO",
+          "album": "Hot Lips",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://www.remotes.com.uy/img/full/resources/img/sinfoto.png",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=30",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1123744,
+          "lote": "44",
+          "titulo": "Grupo de 10 SINGLES DIFERENTES de MUSICA DISCO, SOUL, POP, COUNTRY y/o R&B. Incluye temas por los siguientes artistas: First Choice, Millie Jackson Paula Anka, Peter Sarstedt, Lou Rawls, Maxine Nightingale, Gary Morris, Rita Coolidge, D.Train, Invisible Man’s Band.",
+          "descripcion": null,
+          "artista": "MUSICA DISCO",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123744/f25b1a4fd5243df60d3e6e26f9423a8a.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=44",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1123749,
+          "lote": "49",
+          "titulo": "Grupo de 10 SINGLES DIFERENTES de MUSICA FUNK/SOUL,JAZZ, ROCK, DISCO y/o R&B. Incluye temas por los siguientes artistas: Andrew Gold, Stephanie Mills, People’s Choice, Crusaders, Don Henley, Bar-Kays, Angela Bolfill, Chuck Mangione Stories, Dean Friedman.",
+          "descripcion": null,
+          "artista": "MUSICA FUNK",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://www.remotes.com.uy/img/full/resources/img/sinfoto.png",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=49",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1123750,
+          "lote": "50",
+          "titulo": "Grupo de 10 SINGLES DIFERENTES de MUSICA POP ROCK, ROCK PROGRESIVO, DISCO, SOUL y/o R&B. Incluye temas por los siguientes artistas: Gallagher & Lyle, Jim Capaldi, The Spinners, Kelly Marie, Chris White, The Chi-Lites, Marvin Gaye, Modern Romance, New Jersey Connection.",
+          "descripcion": null,
+          "artista": "MUSICA POP ROCK",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123750/5a0c16fa0517a597497d33c1dd7b4393.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=50",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1123751,
+          "lote": "51",
+          "titulo": "Grupo de 10 SINGLES DIFERENTES de MUSICA FUNK/SOUL, POP ROCK, DISCO y/o R&B. Incluye temas por los siguientes artistas: The Whatnauts, The Chi-Lites, B. T. Express, Donna Summer, Brass Construction, Mel Brooks, Deliverance, Ohio Players, Peter Brown, Paul Simon.",
+          "descripcion": null,
+          "artista": "MUSICA FUNK",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://www.remotes.com.uy/img/full/resources/img/sinfoto.png",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=51",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1123752,
+          "lote": "52",
+          "titulo": "Grupo de 10 SINGLES DIFERENTES de MUSICA SOUL, ZAMBA/JAZZ, POP ROCK, DISCO y/o R&B. Incluye temas por los siguientes artistas: Bobby Caldwell, Sergio Mendes, Claudja Barry, Central Line, Alice Visconti, Grover Washington, Change, The Bellamy Brothers, Richard “Dimples” Fields, Joyce Kennedy & Jeffrey Osborne.",
+          "descripcion": null,
+          "artista": "MUSICA SOUL",
+          "album": "Dimples",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123752/cb71f5d92a086eff2a527c5a7b093f8a.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=52",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1123761,
+          "lote": "53",
+          "titulo": "Grupo de 10 SINGLES DIFERENTES de MUSICA FOLK, SOUL, BLUE, JAZZ, POP, DISCO y/o R&B. Incluye temas por los siguientes artistas: Gary Shearston, Rose Royce, Jimmy Helms, Manhattans, The Manhattan Transfers, Gallagher & Lyle, Steve Carlisle, Sammy Hagar, Carrie Lucas, Michael Franks.",
+          "descripcion": null,
+          "artista": "MUSICA FOLK",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123761/5d960493c4098e182b96558ab56ea1bd.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=53",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1123763,
+          "lote": "54",
+          "titulo": "Grupo de 10 SINGLES DIFERENTES de MUSICA SOUL, BLUE, JAZZ, POP ROCK, DISCO y/o R&B. Incluye temas por los siguientes artistas: The Stylistics, Ray Goodman & Brown, Change, Esther Phillips, Robert Palmer, D-Train, Michael Stanley Band, Candy Staton, Crown Heights Affair, Was (Not Was).",
+          "descripcion": null,
+          "artista": "Not Was",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123763/64136436d7e1cd6e0f70629bcef7eb32.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=54",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1123767,
+          "lote": "56",
+          "titulo": "Grupo de 10 SINGLES DIFERENTES de MUSICA POP( “MÚSICA DE LAS BIG BANDS”), POST-DISCO Y DANCE, JAZZ-FUNK, HARD ROCK MELÓDICO, ROCK y/o R&B. Incluye temas por los siguientes artistas: Kid Creole and The Coconuts, Imagination, Gladys Knight & The Pips, 1910 Fruitgum Company, Shakatak, White Lion (2), Heart, The Edgar Winter Group, Pia Zadora.",
+          "descripcion": null,
+          "artista": "MUSICA POP",
+          "album": "MÚSICA DE LAS BIG BANDS",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123767/345becb11d8f13b45f8b442f50228766.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=56",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1123770,
+          "lote": "57",
+          "titulo": "Grupo de 10 SINGLES DIFERENTES de MUSICA HARD ROCK, COUNTRY, DISCO, SOUL y/o R&B. Incluye temas por los siguientes artistas: Bachman-Turner Overdrive, The Kendalls. Gene Chandler, Four Tops, Shalamar, Gwen Guthrie, The Temptations, Dr. Hook, Aretha Franklin, Tony Etoria.",
+          "descripcion": null,
+          "artista": "MUSICA HARD ROCK",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123770/474e2138b062fbf2fed767e62e51484b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=57",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1123774,
+          "lote": "59",
+          "titulo": "Grupo de 10 SINGLES DIFERENTES de MUSICA DISCO, POP ROCK, HARD ROCK, POP y/o R&B. Incluye temas por los siguientes artistas: Madleen Kane, The S.O.S. Band, The Statler Brothers, Fireball, Golden Earring, DeBarge,(2), Galaxy featuring Phil Fearon, Jim Capaldi, Galaxy featuring Claudio Galdez.",
+          "descripcion": null,
+          "artista": "MUSICA DISCO",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123774/f90616da216a3487afc8804d8988907f.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=59",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1123826,
+          "lote": "76",
+          "titulo": "Grupo de 10 SINGLES DIFERENTES de MUSICA POP/SOUL, DISCO,NEW WAVE, ROCK y/o R&B. Incluye temas por los siguientes artistas: Vanity (Denise Matthews), Al Camp, Tony Basil, Rockwell, Electric Ligth Orchestra, Al Jarreau, Jermaine Stewart, New Edition, T’Pau.",
+          "descripcion": null,
+          "artista": "Denise Matthews",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123826/1f5ad831ce89034a6341b26857674a9e.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=76",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1123832,
+          "lote": "82",
+          "titulo": "Grupo de 6 LONG PLAYS DIFERENTES de MUSICA DE JAZZ. Incluye temas por los siguientes artistas: Duke Ellington (álbum doble), The Red Nichols and his Five Pennies, Delta Jazz Band (3), “Los Estudiantes Holandeses” (miembros de la Dutch Swing College Band), Antigua Jazz Band (4), Pee Wee Hunt.",
+          "descripcion": null,
+          "artista": "MUSICA DE JAZZ. Incluye",
+          "album": "Los Estudiantes Holandeses",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123832/02d0587381ea08a43eefdece0dcf08ee.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=82",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1123833,
+          "lote": "83",
+          "titulo": "Grupo de 6 LONG PLAYS DIFERENTES de ARTISTAS VARIOS: Tavares (In The City, Loveline, The Best Of Tavares, Sky - High),Captain & Tennille, Jonathan Butller (álbum doble).",
+          "descripcion": null,
+          "artista": "ARTISTAS VARIOS",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123833/72ac792498c4f36e95f30199279c2669.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=83",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1123839,
+          "lote": "89",
+          "titulo": "Grupo de 6 LONG PLAYS DIFERENTES de MUSICA DE JAZZ, DISCO, SOUL y/o R&B. Incluye temas por los siguientes artistas: Johhny Mathis, The Sylvers, Tavares, Blue Magic, Dayton, Johhny Mathis (álbum doble).",
+          "descripcion": null,
+          "artista": "MUSICA DE JAZZ",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123839/d92641a72afa7326bf052f50d12469ef.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=89",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1123842,
+          "lote": "92",
+          "titulo": "Grupo de 6 LONG PLAYS DIFERENTES de ARTISTAS VARIOS DE MÚSICA POP, DISCO, ROCK: Donna Sumer, Village People, Electric Light Orchestra, Creedence Clearwater Revival, The Bee Gees y Peter Frampton (álbum doble), The Original Motion Picture Sound Track Album “Jesus Christ Superstar”.",
+          "descripcion": null,
+          "artista": "ARTISTAS VARIOS DE MÚSICA",
+          "album": "Jesus Christ Superstar",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123842/013758fe063efe35c5c8a3c9593089f9.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=92",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1123846,
+          "lote": "96",
+          "titulo": "Grupo de 6 LONG PLAYS DIFERENTES de MUSICA URUGUAYA interpretados por: Luis Di Mateo, Sexteto Electrónico Moderno: “Sin Comentarios” “Las Cosas Pasan” “Álbum de Estudio y Debut, Los Iracundos: “Los Iracundos en Estereofonía” “Sin Palabras”.",
+          "descripcion": null,
+          "artista": "MUSICA URUGUAYA",
+          "album": "Sin Comentarios",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123846/3501c136ba771743d6c650df7f015929.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=96",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1123848,
+          "lote": "98",
+          "titulo": "Grupo de 6 LONG PLAYS DIFERENTES de MUSICA POP/ROCK, DISCO y/o R&B. Incluye temas por los siguientes artistas: Harry Nilsson, Andy Gibb, Los Plateros (Vol. 2) “Éxitos De Los Plateros”, Brenda Lee acompañada por Anita Kerr y la Orquesta dirigida por Owen Bradley, Brenda Lee “Saltemos el Palo de la Escoba”.",
+          "descripcion": null,
+          "artista": "MUSICA POP",
+          "album": "Éxitos De Los Plateros",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123848/d5d49610005a8aca89c8d4820e91845a.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=98",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1123850,
+          "lote": "100",
+          "titulo": "Grupo de 6 LONG PLAYS DIFERENTES de MUSICA DISCO, ROCK, FUNK/SOUL, POP. Incluye temas por los siguientes artistas: Village People, Glass (featuring John Williams), Donna Summer, Rouen, Paul Williams, “Cheech y Chong”.",
+          "descripcion": null,
+          "artista": "MUSICA DISCO",
+          "album": "Cheech y Chong",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123850/d818bb44125ee92e1b98420a2d1f1561.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=100",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1123851,
+          "lote": "101",
+          "titulo": "Grupo de 6 LONG PLAYS DIFERENTES de MUSICA POP, SOUL,ROCK, COUNTRY. Incluye temas por los siguientes artistas: Dionne Warwick”, Soul ‘N’ Rock, Eddie Fisher (álbum doble), Roger Whittaker, Rare, Ferlin Husky.",
+          "descripcion": null,
+          "artista": "MUSICA POP",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123851/20ea7ac35989f8b2880e189700542271.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=101",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1123855,
+          "lote": "105",
+          "titulo": "Grupo de 6 LONG PLAYS DIFERENTES de MUSICA SOUL/DISCO, POP, ROCK. Incluye temas por los siguientes artistas: “Soul Explotion” (recopilatorio), “Momentos” (varios artistas originales), Música Poderosa Vo.9 (intérpretes de la época como Cris Manzano), D.J. Pato C (recopilación de canciones), “Música Para Gente Paqueta” (recopilación de éxitos radiales del momento). “The Rosko Show” (compilado de famosos).",
+          "descripcion": null,
+          "artista": "MUSICA SOUL",
+          "album": "Soul Explotion",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123855/0ce9be8f0fd8fa8684a824c4025d7f95.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=105",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1123856,
+          "lote": "106",
+          "titulo": "Grupo de 6 LONG PLAYS DIFERENTES de MUSICA, POP, ROCK, BALADAS,. Incluye temas por los siguientes artistas: “Alta Tensión” (álbum recopilatorio de grandes éxitos como el de los Iracundos), Leonardo Favio, “Los Preferidos De La Luna” (recopilación entre otros Palito Ortega, La Joven Guardia, Los Iracundos), Silvana Di Lorenzo, Los Diablos, Leonardo Favio “Fuiste Mía Un Verano”.",
+          "descripcion": null,
+          "artista": "MUSICA",
+          "album": "Alta Tensión",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123856/db795d6506d4aed06aed21cea5b41335.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=106",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1123862,
+          "lote": "112",
+          "titulo": "Grupo de 6 LONG PLAYS DIFERENTES de MUSICA DISCO, SOUL y/o R&B. Incluye temas por los siguientes artistas: The Three Degrees, T. S. Monk, Fait Hope & Charity, The Chi-Lites, Marilyn McCoo & Billy Davis Jr, The Three Degrees.",
+          "descripcion": null,
+          "artista": "MUSICA DISCO",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123862/eb30dfbcd967c510283e70b67e80aab7.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=112",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1123863,
+          "lote": "113",
+          "titulo": "Grupo de 6 LONG PLAYS DIFERENTES de MUSICA DISCO, FUNK, SOUL y/o R&B. Incluye temas por los siguientes artistas: Marilyn & Billy, First Circle, The Floaters, Fat Larry’s Band, Double Exposure, Lipps Inc.",
+          "descripcion": null,
+          "artista": "MUSICA DISCO",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123863/3bd3e56d282ee7c1e4c505af851a2bcb.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=113",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1123864,
+          "lote": "114",
+          "titulo": "Grupo de 6 LONG PLAYS DIFERENTES de MUSICA DISCO, POP/ROCK, FUNK, SOUL y/o R&B. Incluye temas por los siguientes artistas: Odyssey, Tomy Orlando and Dawn, The Temptations, The Stylistics, Hurricane Smith, Chi-Lites.",
+          "descripcion": null,
+          "artista": "MUSICA DISCO",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123864/3a38b86b93409a749f8188d975d00b7c.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=114",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        }
+      ],
+      "datosDe": "2026-09-05T21:14:19.329Z"
     },
     {
       "id": "7743",
@@ -4807,7 +5257,22 @@
       "url": "https://www.remotes.com.uy/participar/remate/7743",
       "totalLotes": 195,
       "vinilos": [],
-      "datosDe": "2026-09-05T04:12:51.555Z"
+      "datosDe": "2026-09-05T21:14:19.329Z"
+    },
+    {
+      "id": "7838",
+      "nombre": "Gran Remate Especial de Libros Coleccionables Infantiles.",
+      "empresa": "Claudia Fabiana Rodríguez Rodríguez",
+      "departamento": "Montevideo",
+      "lugar": "Palmar 2154, Montevideo",
+      "fecha": "13/09/2026, 19:00",
+      "fechaISO": "2026-09-13T22:00:00.000Z",
+      "timestamp": 1789336800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7838",
+      "totalLotes": 42,
+      "vinilos": [],
+      "datosDe": "2026-09-05T21:14:19.329Z"
     },
     {
       "id": "7809",
@@ -4949,7 +5414,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-05T04:12:51.555Z"
+      "datosDe": "2026-09-05T21:14:19.329Z"
     },
     {
       "id": "7729",
@@ -4964,7 +5429,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7729",
       "totalLotes": 100,
       "vinilos": [],
-      "datosDe": "2026-09-05T04:12:51.555Z"
+      "datosDe": "2026-09-05T21:14:19.329Z"
     },
     {
       "id": "7828",
@@ -4979,7 +5444,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7828",
       "totalLotes": 14,
       "vinilos": [],
-      "datosDe": "2026-09-05T04:12:51.555Z"
+      "datosDe": "2026-09-05T21:14:19.329Z"
     }
   ]
 }
