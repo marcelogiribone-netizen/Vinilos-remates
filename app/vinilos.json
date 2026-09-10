@@ -1,337 +1,7 @@
 {
-  "generado": "2026-09-10T08:46:30.027Z",
+  "generado": "2026-09-10T23:03:01.196Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "7747",
-      "nombre": "✅ Remate de Vinilos Disco -",
-      "empresa": "Valentina Rodríguez",
-      "departamento": "Montevideo",
-      "lugar": "Av. Dámaso Antonio Larrañaga 3452, Montevideo",
-      "fecha": "10/09/2026, 15:00",
-      "fechaISO": "2026-09-10T18:00:00.000Z",
-      "timestamp": 1789063200,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7747",
-      "totalLotes": 157,
-      "vinilos": [
-        {
-          "id": 1110753,
-          "lote": "1",
-          "titulo": "1) Disco Lp 1998 ( Gangsta Rap ) Marvaless, Fearless",
-          "descripcion": null,
-          "artista": "Gangsta Rap",
-          "album": null,
-          "sello": null,
-          "anio": "1998",
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1110753/688717af0fd201987d6d95738463d22e.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7747?lote=1",
-          "motivos": [
-            "dice \"LP\"",
-            "año 1998"
-          ]
-        },
-        {
-          "id": 1110754,
-          "lote": "2",
-          "titulo": "2) Disco Maxi 12  ( HIP - HOP ) 1998  Sporty Thievz  \"Street Cinema\"",
-          "descripcion": null,
-          "artista": null,
-          "album": "HOP ) 1998 Sporty Thievz \"Street Cinema\"",
-          "sello": null,
-          "anio": "1998",
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1110754/1894c22ad3a2d4059c40eb899c601209.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7747?lote=2",
-          "motivos": [
-            "dice \"disco\"",
-            "año 1998"
-          ]
-        },
-        {
-          "id": 1110755,
-          "lote": "3",
-          "titulo": "3) Disco Maxi 12. HIP - HOP  ( G Funk - Party Rap ) Knee Deep (The Deeper Mix) Banda sonora de la película Good Burger (1997)",
-          "descripcion": null,
-          "artista": "The Deeper Mix",
-          "album": "HOP ( G Funk - Party Rap ) Knee Deep (The Deeper Mix) Banda sonora de la pelícu",
-          "sello": null,
-          "anio": "1997",
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1110755/2a08f89fd68480134f447f4d4aaade7c.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7747?lote=3",
-          "motivos": [
-            "dice \"disco\"",
-            "año 1997"
-          ]
-        },
-        {
-          "id": 1110756,
-          "lote": "4",
-          "titulo": "4) Disco Maxi 12 \"Dis Scare Dem\" de Scare Dem Crew (con Elephant Man y Harry Toddler) 1998  ( Dancehall Reggae ) Sampleo de Superstition\" Stevie Wonder",
-          "descripcion": null,
-          "artista": "Dancehall Reggae",
-          "album": "Dis Scare Dem",
-          "sello": null,
-          "anio": "1998",
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1110756/1994c1989801974aecc41ca24864afb3.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7747?lote=4",
-          "motivos": [
-            "dice \"disco\"",
-            "año 1998"
-          ]
-        },
-        {
-          "id": 1110757,
-          "lote": "5",
-          "titulo": "5) Disco Vinilo promocional 12 pulgadas ( HIP - HOP ) Compilación Baby Boomin'  en 1997. Versiones remix de «Jazzy Belle» de OutKast y «You Should Know» de Donnell Jones con Lil' Cease.",
-          "descripcion": null,
-          "artista": "OutKast",
-          "album": "HOP ) Compilación Baby Boomin' en 1997",
-          "sello": null,
-          "anio": "1997",
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1110757/2220b5441138705155866747feeb14dd.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7747?lote=5",
-          "motivos": [
-            "dice \"vinilo\"",
-            "año 1997"
-          ]
-        },
-        {
-          "id": 1110758,
-          "lote": "6",
-          "titulo": "6) Vinilo Maxi 12 Promocial  HIP - HOP - Gospel y Soul R&B SWV (Sisters With Voices) 1990",
-          "descripcion": null,
-          "artista": "Sisters With Voices",
-          "album": "HOP - Gospel y Soul R&B SWV (Sisters With Voices) 1990",
-          "sello": null,
-          "anio": "1990",
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1110758/742f94e1ec7c0dddbe2935d40c3c8f6b.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7747?lote=6",
-          "motivos": [
-            "dice \"vinilo\"",
-            "año 1990"
-          ]
-        },
-        {
-          "id": 1110759,
-          "lote": "7",
-          "titulo": "7) Disco Maxi 12 Promocial  ( Dancehall Reggae ) Dancehall de 1997, \"Who Am I\" ( Artista jamaicano Beenie Man.",
-          "descripcion": null,
-          "artista": "Dancehall Reggae",
-          "album": "Who Am I",
-          "sello": null,
-          "anio": "1997",
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1110759/033fd9c81f2c9d9daf4024a4c52f25e0.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7747?lote=7",
-          "motivos": [
-            "dice \"disco\"",
-            "año 1997"
-          ]
-        },
-        {
-          "id": 1110760,
-          "lote": "8",
-          "titulo": "8) Disco Vinilo Promociónal  \"Bad Kat\" presenta tres pistas de reggae del año 1997: \"Whosoever\", \"Wet and Tight\" y \"Oh Jah\". Sellado de Origen",
-          "descripcion": null,
-          "artista": null,
-          "album": "Bad Kat",
-          "sello": null,
-          "anio": "1997",
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1110760/578f7055b8ab234c3182f0e845b8c9b3.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7747?lote=8",
-          "motivos": [
-            "dice \"vinilo\"",
-            "año 1997"
-          ]
-        },
-        {
-          "id": 1110761,
-          "lote": "9",
-          "titulo": "9) Disco 12 Maxi 1996 ( HIP - HOP - Hardcorde Rap ) Uzi titulado The Don / Big Nutuzi, «Intro», «Andcha Weekend», «Wicked (Radio Edit)» y «Mouth On The Trigga (Radio Edit)».",
-          "descripcion": null,
-          "artista": "Radio Edit",
-          "album": "HOP - Hardcorde Rap ) Uzi titulado The Don / Big Nutuzi, «Intro», «Andcha Weeken",
-          "sello": null,
-          "anio": "1996",
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1110761/5f88bc7bb85a36b99b717b1b890bcd80.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7747?lote=9",
-          "motivos": [
-            "dice \"disco\"",
-            "año 1996"
-          ]
-        },
-        {
-          "id": 1110762,
-          "lote": "10",
-          "titulo": "10) Vinilo promocional 12  ( HIP - HOP - RAP  \"Money\"  Charli Baltimore 1998",
-          "descripcion": null,
-          "artista": null,
-          "album": "HOP - RAP \"Money\" Charli Baltimore 1998",
-          "sello": null,
-          "anio": "1998",
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1110762/1c8ca0359f61ca8deca8393981b67300.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7747?lote=10",
-          "motivos": [
-            "dice \"vinilo\"",
-            "año 1998"
-          ]
-        },
-        {
-          "id": 1110763,
-          "lote": "11",
-          "titulo": "11) Disco de Vinilo 1998 promocional 12   ( Hip Hop y Funk / Soul ) «Hard to Handle» de David Miller con Teddy Riley y Nutta Butta",
-          "descripcion": null,
-          "artista": null,
-          "album": "Hard to Handle",
-          "sello": null,
-          "anio": "1998",
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1110763/3216da4ce16fb205d17050a9c3452a1f.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7747?lote=11",
-          "motivos": [
-            "dice \"vinilo\"",
-            "\"disco de vinilo\"",
-            "año 1998"
-          ]
-        },
-        {
-          "id": 1110764,
-          "lote": "12",
-          "titulo": "12) Disco Maxi 12 HIP HOP - RAP  1997 \"Touch Tha Sky\" Bro-Flo (Tha Madd \"Mac\")",
-          "descripcion": null,
-          "artista": null,
-          "album": "RAP 1997 \"Touch Tha Sky\" Bro-Flo (Tha Madd \"Mac\")",
-          "sello": null,
-          "anio": "1997",
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1110764/801c87b0a874a74073840e967e513570.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7747?lote=12",
-          "motivos": [
-            "dice \"disco\"",
-            "año 1997"
-          ]
-        },
-        {
-          "id": 1110786,
-          "lote": "34",
-          "titulo": "34) Dos Discos Simples  ( Kenny Roggers )",
-          "descripcion": null,
-          "artista": "Kenny Roggers",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1110786/342042dc5f792e023be9f8f7c89e1d80.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7747?lote=34",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1110893,
-          "lote": "141",
-          "titulo": "141) Eddy Grant  ( Boy In The Street) Disco Color Rojo con Información. 1984 Made in Germany",
-          "descripcion": null,
-          "artista": "Boy In The Street",
-          "album": null,
-          "sello": null,
-          "anio": "1984",
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1110893/dfd05fcfb321bc5362b7c3dc80274754.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7747?lote=141",
-          "motivos": [
-            "dice \"disco\"",
-            "año 1984"
-          ]
-        },
-        {
-          "id": 1110904,
-          "lote": "152",
-          "titulo": "152) Rolling Stones  Disco de Cuatro Pistas. Edición Uruguaya. Sin fecha de Emisión",
-          "descripcion": null,
-          "artista": "Cuatro Pistas. Edición Uruguaya",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1110904/8e87cd4523c36d3dda215a9340fe4ae6.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7747?lote=152",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        }
-      ],
-      "datosDe": "2026-09-10T08:46:30.027Z"
-    },
-    {
-      "id": "7636",
-      "nombre": "EL MULTIRUBRO DE REMATES DEL CERRO CON LINDOS LOTES DESTACADOS  - VINTAGE- APROVECHA- ADEMAS TENEMOS ARTICULOS NUEVOS-  SE AGREGO UN HERMOSO JUEGO DE COMEDOR - LOTES A RETIRAR EN AGUAS CORRIENTES CANELONES- DEJA TU PRE_OFERTA YA. REMATES DEL CERRO LLEGA A TODOS LADOS.",
-      "empresa": "Remates del Cerro",
-      "departamento": "Montevideo",
-      "lugar": "Turquía 4004 esquina Bélgica, Montevideo",
-      "fecha": "10/09/2026, 19:00",
-      "fechaISO": "2026-09-10T22:00:00.000Z",
-      "timestamp": 1789077600,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7636",
-      "totalLotes": 163,
-      "vinilos": [],
-      "datosDe": "2026-09-10T08:46:30.027Z"
-    },
-    {
-      "id": "7780",
-      "nombre": "JUEVES 19:30hs SIN BASE Y AL MEJOR POSTOR: Gran Cantidad De Cuadros Firmas Como Ulda Rubiolo Eduardo Amezaga Entre Otros Figuras De Porcelana Cerámicas Firmadas Vajilla En Loza y Porcelana Europea Cristalería Antigüedades Coleccionables Metales Bañados En Plata Muebles Antiguos Y Modernos Sofá De Cuero Barcito Años 60's Electrodomésticos Bastones Andadores y Silla De Ruedas ¡Y Muchos Mas! ¡IMPERDIBLE!",
-      "empresa": "Remate G. Federico",
-      "departamento": "Montevideo",
-      "lugar": "Arenal Grande 1818 esq La Paz de 9:30 a 18, Montevideo",
-      "fecha": "10/09/2026, 19:30",
-      "fechaISO": "2026-09-10T22:30:00.000Z",
-      "timestamp": 1789079400,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7780",
-      "totalLotes": 140,
-      "vinilos": [],
-      "datosDe": "2026-09-10T08:46:30.027Z"
-    },
     {
       "id": "7753",
       "nombre": "VUELVE EL ESPECIAL DE ANTIGÜEDADES, COLECCIONABLES Y DEMÁS❗️",
@@ -345,7 +15,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7753",
       "totalLotes": 104,
       "vinilos": [],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7711",
@@ -358,7 +28,7 @@
       "timestamp": 1789164000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7711",
-      "totalLotes": 165,
+      "totalLotes": 171,
       "vinilos": [
         {
           "id": 1105743,
@@ -397,7 +67,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7833",
@@ -747,7 +417,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123839/d92641a72afa7326bf052f50d12469ef.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=89",
           "motivos": [
@@ -765,7 +435,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 250,
+          "oferta": 350,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123842/013758fe063efe35c5c8a3c9593089f9.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=92",
           "motivos": [
@@ -801,7 +471,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123848/d5d49610005a8aca89c8d4820e91845a.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=98",
           "motivos": [
@@ -819,7 +489,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123850/d818bb44125ee92e1b98420a2d1f1561.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=100",
           "motivos": [
@@ -837,7 +507,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123851/20ea7ac35989f8b2880e189700542271.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=101",
           "motivos": [
@@ -891,7 +561,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123862/eb30dfbcd967c510283e70b67e80aab7.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=112",
           "motivos": [
@@ -909,7 +579,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 350,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123863/3bd3e56d282ee7c1e4c505af851a2bcb.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=113",
           "motivos": [
@@ -927,7 +597,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1123864/3a38b86b93409a749f8188d975d00b7c.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7833?lote=114",
           "motivos": [
@@ -935,7 +605,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7666",
@@ -950,7 +620,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7666",
       "totalLotes": 104,
       "vinilos": [],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7456",
@@ -965,7 +635,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7456",
       "totalLotes": 111,
       "vinilos": [],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7743",
@@ -978,9 +648,9 @@
       "timestamp": 1789232400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7743",
-      "totalLotes": 206,
+      "totalLotes": 207,
       "vinilos": [],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7841",
@@ -995,7 +665,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7841",
       "totalLotes": 151,
       "vinilos": [],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7858",
@@ -1065,7 +735,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7870",
@@ -1078,9 +748,9 @@
       "timestamp": 1789318800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7870",
-      "totalLotes": 31,
+      "totalLotes": 80,
       "vinilos": [],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7807",
@@ -1093,9 +763,9 @@
       "timestamp": 1789333200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7807",
-      "totalLotes": 118,
+      "totalLotes": 131,
       "vinilos": [],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7838",
@@ -1110,7 +780,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7838",
       "totalLotes": 59,
       "vinilos": [],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7840",
@@ -1125,7 +795,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7840",
       "totalLotes": 219,
       "vinilos": [],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7843",
@@ -1140,7 +810,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7843",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7809",
@@ -1153,7 +823,7 @@
       "timestamp": 1789408800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7809",
-      "totalLotes": 205,
+      "totalLotes": 212,
       "vinilos": [
         {
           "id": 1118496,
@@ -1220,7 +890,7 @@
           "anio": null,
           "moneda": "$",
           "base": 150,
-          "oferta": null,
+          "oferta": 150,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1118499/9ce405c79b1cbe2d747fef5e394dc1d8.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7809?lote=39",
           "motivos": [
@@ -1256,7 +926,7 @@
           "anio": null,
           "moneda": "$",
           "base": 100,
-          "oferta": null,
+          "oferta": 100,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1118501/c96df8ca4315b4758e1b1a1d5224123c.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7809?lote=41",
           "motivos": [
@@ -1274,7 +944,7 @@
           "anio": null,
           "moneda": "$",
           "base": 150,
-          "oferta": null,
+          "oferta": 150,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1118502/faf9ab2ee7ef3398e94c96d69068f2b1.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7809?lote=42",
           "motivos": [
@@ -1282,7 +952,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7830",
@@ -1295,9 +965,9 @@
       "timestamp": 1789417800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7830",
-      "totalLotes": 103,
+      "totalLotes": 102,
       "vinilos": [],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7788",
@@ -1312,7 +982,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7788",
       "totalLotes": 50,
       "vinilos": [],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7847",
@@ -1325,9 +995,9 @@
       "timestamp": 1789495200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7847",
-      "totalLotes": 145,
+      "totalLotes": 151,
       "vinilos": [],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7861",
@@ -1361,7 +1031,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7801",
@@ -1395,7 +1065,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7011",
@@ -1686,7 +1356,59 @@
           ]
         }
       ],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
+    },
+    {
+      "id": "7740",
+      "nombre": "\"Remate de Tesoros Sueltos: Electro, Decoración, Calefacción, Tecnología y objetos de colección a precios de arranque — ¡No te lo pierdas, esta oportunidad no se repite!\"",
+      "empresa": "Pablo Barrientos",
+      "departamento": "Canelones",
+      "lugar": "CONTINUACION Z4 ENTRE 8 Y 9 Parque del Plata , Costa de Oro, Canelones",
+      "fecha": "17/09/2026, 19:00",
+      "fechaISO": "2026-09-17T22:00:00.000Z",
+      "timestamp": 1789682400,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7740",
+      "totalLotes": 217,
+      "vinilos": [
+        {
+          "id": 1109506,
+          "lote": "11",
+          "titulo": "Lámpara de escritorio articulada con filtros",
+          "descripcion": "En metal, con aros y discos intercambiables",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 0,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1109506/fbafe9b64784b71b4f6943b3a0648f52.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7740?lote=11",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1109522,
+          "lote": "27",
+          "titulo": "CD Peteco Carabajal A Viva Voz",
+          "descripcion": "Soy Santiagueño Soy Chacarera, incluye disco bonus",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 0,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1109522/86aa0c7576e34497bf1d721a3f1ad6bf.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7740?lote=27",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        }
+      ],
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7729",
@@ -1701,7 +1423,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7729",
       "totalLotes": 100,
       "vinilos": [],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7795",
@@ -1716,7 +1438,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7795",
       "totalLotes": 62,
       "vinilos": [],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7790",
@@ -1724,14 +1446,14 @@
       "empresa": "Chinopin Muebles y Antigüedades",
       "departamento": "Durazno",
       "lugar": "Ignacio Oribe 148, Durazno",
-      "fecha": "19/09/2026, 15:00",
-      "fechaISO": "2026-09-19T18:00:00.000Z",
-      "timestamp": 1789840800,
+      "fecha": "19/09/2026, 16:00",
+      "fechaISO": "2026-09-19T19:00:00.000Z",
+      "timestamp": 1789844400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7790",
-      "totalLotes": 89,
+      "totalLotes": 93,
       "vinilos": [],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7818",
@@ -1746,7 +1468,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7818",
       "totalLotes": 174,
       "vinilos": [],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     },
     {
       "id": "7828",
@@ -1761,7 +1483,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7828",
       "totalLotes": 14,
       "vinilos": [],
-      "datosDe": "2026-09-10T08:46:30.027Z"
+      "datosDe": "2026-09-10T23:03:01.196Z"
     }
   ]
 }
