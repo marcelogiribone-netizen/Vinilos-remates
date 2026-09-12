@@ -1,37 +1,7 @@
 {
-  "generado": "2026-09-12T08:29:11.650Z",
+  "generado": "2026-09-12T22:55:39.897Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "7743",
-      "nombre": "LIQUIDACIÓN TOTAL DE APARTAMENTO FAMILIAR",
-      "empresa": "Remates Charrúa",
-      "departamento": "Salto",
-      "lugar": "Asencio, Salto",
-      "fecha": "12/09/2026, 14:00",
-      "fechaISO": "2026-09-12T17:00:00.000Z",
-      "timestamp": 1789232400,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7743",
-      "totalLotes": 208,
-      "vinilos": [],
-      "datosDe": "2026-09-12T08:29:11.650Z"
-    },
-    {
-      "id": "7841",
-      "nombre": "EN SALTO - EXCEPCIONAL REMATE: TODO BUENO, SE DESTACA 20 MESAS Y 80 SILLAS \"DELFINO Y ALVAREZ\", COLCHONES Y MOBILIARIO POR RENOVACIÓN DE HOTEL DE TERMAS, GRAN MESA DE DIRECTORIO FUMAYA, EN JUEGO CON MOBILIARIO DE OFICINA POR ACTUALIZACIÓN DE MOBILIARIO DE COMPAÑÍA DE SEGUROS, MESA DE PING PONG PROFESIONAL ANGEL TUCCI, TABLA DE SURF - ADEMÁS: EXCELENTE MOBILIARIO, ANTIGÚEDADES, SON 200 LOTES DE PRIMERA - ENVÍAMOS TODO A TODOS LOS DESTINOS - RE-MA-TA-ZO!!!",
-      "empresa": "Alfredo Berretta",
-      "departamento": "SALTO",
-      "lugar": "ARTIGAS 1230, SALTO",
-      "fecha": "12/09/2026, 16:00",
-      "fechaISO": "2026-09-12T19:00:00.000Z",
-      "timestamp": 1789239600,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7841",
-      "totalLotes": 168,
-      "vinilos": [],
-      "datosDe": "2026-09-12T08:29:11.650Z"
-    },
     {
       "id": "7858",
       "nombre": "ATENCIÓN SE AGREGARON NUEVOS LOTES!!!!!  GRAN REMATE LIQUIDACION POR VENTA DE PROPIEDAD EN SAN LUIS!!!! SE DESTACAN MUEBLES, ELECTRODOMÉSTICOS, ART. DE PESCA, ART. JARDINERÍA, BAZAR, HERRAMIENTAS DE MANO Y ELÉCTRICAS, BATERIAS DE COCINA, MESAS Y SILLAS DE JARDÍN, PARRILLAS Y DISCOS DE ARADO, CUADROS Y ANTIGÜEDADES ETC",
@@ -100,7 +70,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-12T08:29:11.650Z"
+      "datosDe": "2026-09-12T22:55:39.897Z"
     },
     {
       "id": "7870",
@@ -115,7 +85,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7870",
       "totalLotes": 89,
       "vinilos": [],
-      "datosDe": "2026-09-12T08:29:11.650Z"
+      "datosDe": "2026-09-12T22:55:39.897Z"
     },
     {
       "id": "7807",
@@ -130,7 +100,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7807",
       "totalLotes": 143,
       "vinilos": [],
-      "datosDe": "2026-09-12T08:29:11.650Z"
+      "datosDe": "2026-09-12T22:55:39.897Z"
     },
     {
       "id": "7838",
@@ -145,7 +115,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7838",
       "totalLotes": 59,
       "vinilos": [],
-      "datosDe": "2026-09-12T08:29:11.650Z"
+      "datosDe": "2026-09-12T22:55:39.897Z"
     },
     {
       "id": "7840",
@@ -160,7 +130,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7840",
       "totalLotes": 219,
       "vinilos": [],
-      "datosDe": "2026-09-12T08:29:11.650Z"
+      "datosDe": "2026-09-12T22:55:39.897Z"
     },
     {
       "id": "7875",
@@ -173,9 +143,9 @@
       "timestamp": 1789338600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7875",
-      "totalLotes": 183,
+      "totalLotes": 163,
       "vinilos": [],
-      "datosDe": "2026-09-12T08:29:11.650Z"
+      "datosDe": "2026-09-12T22:55:39.897Z"
     },
     {
       "id": "7456",
@@ -190,7 +160,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7456",
       "totalLotes": 111,
       "vinilos": [],
-      "datosDe": "2026-09-12T08:29:11.650Z"
+      "datosDe": "2026-09-12T22:55:39.897Z"
     },
     {
       "id": "7809",
@@ -332,7 +302,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-12T08:29:11.650Z"
+      "datosDe": "2026-09-12T22:55:39.897Z"
     },
     {
       "id": "7830",
@@ -345,9 +315,9 @@
       "timestamp": 1789417800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7830",
-      "totalLotes": 103,
+      "totalLotes": 105,
       "vinilos": [],
-      "datosDe": "2026-09-12T08:29:11.650Z"
+      "datosDe": "2026-09-12T22:55:39.897Z"
     },
     {
       "id": "7788",
@@ -362,7 +332,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7788",
       "totalLotes": 50,
       "vinilos": [],
-      "datosDe": "2026-09-12T08:29:11.650Z"
+      "datosDe": "2026-09-12T22:55:39.897Z"
     },
     {
       "id": "7847",
@@ -377,7 +347,90 @@
       "url": "https://www.remotes.com.uy/participar/remate/7847",
       "totalLotes": 173,
       "vinilos": [],
-      "datosDe": "2026-09-12T08:29:11.650Z"
+      "datosDe": "2026-09-12T22:55:39.897Z"
+    },
+    {
+      "id": "7861",
+      "nombre": "LIQUIDACIÓN TOTAL DE CASA DE FAMILIA",
+      "empresa": "Remates Charrúa",
+      "departamento": "Salto",
+      "lugar": "Avenida Juan Harriague n° 1389, Salto",
+      "fecha": "15/09/2026, 18:00",
+      "fechaISO": "2026-09-15T21:00:00.000Z",
+      "timestamp": 1789506000,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7861",
+      "totalLotes": 150,
+      "vinilos": [
+        {
+          "id": 1129889,
+          "lote": "113",
+          "titulo": "Clavos y discos",
+          "descripcion": "Lote compuesto por variados clavos, tornillos y discos",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 150,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1129889/6bb7d91d537e774424481a7bd3768cf1.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7861?lote=113",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        }
+      ],
+      "datosDe": "2026-09-12T22:55:39.897Z"
+    },
+    {
+      "id": "7801",
+      "nombre": "Gran Liquidacion de Antiguedades, casquillos militares, adornos y demas lotes. Envios a todo el pais!!!",
+      "empresa": "Mauricio Rosa",
+      "departamento": "Canelones",
+      "lugar": "Ruta 7 Km 90, Canelones",
+      "fecha": "15/09/2026, 19:00",
+      "fechaISO": "2026-09-15T22:00:00.000Z",
+      "timestamp": 1789509600,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7801",
+      "totalLotes": 89,
+      "vinilos": [
+        {
+          "id": 1126532,
+          "lote": "84",
+          "titulo": "Bicicleta nueva sin uso rueda ancha trasera, frano de disco delantera, este lote se envia con comisionista o se retira en San Ramón Canelones.",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 5000,
+          "oferta": 5000,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1126532/cc98cf9cad421feefad0576f3fb50045.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7801?lote=84",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        }
+      ],
+      "datosDe": "2026-09-12T22:55:39.897Z"
+    },
+    {
+      "id": "7848",
+      "nombre": "⚠️ ATENCIÓN aun faltan cargar más lotes pero ya podes ofertar⚠️",
+      "empresa": "Remate Paysandú",
+      "departamento": "Paysandú",
+      "lugar": "Uruguay y Montecaseros, Ciudad de Paysandú, Paysandú",
+      "fecha": "16/09/2026, 12:00",
+      "fechaISO": "2026-09-16T15:00:00.000Z",
+      "timestamp": 1789570800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7848",
+      "totalLotes": 151,
+      "vinilos": [],
+      "datosDe": "2026-09-12T22:55:39.897Z"
     },
     {
       "id": "7889",
@@ -385,9 +438,9 @@
       "empresa": "Flores Montaña Subastas",
       "departamento": "SALTO",
       "lugar": "SALTO, SALTO",
-      "fecha": "15/09/2026, 15:30",
-      "fechaISO": "2026-09-15T18:30:00.000Z",
-      "timestamp": 1789497000,
+      "fecha": "16/09/2026, 15:30",
+      "fechaISO": "2026-09-16T18:30:00.000Z",
+      "timestamp": 1789583400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7889",
       "totalLotes": 86,
@@ -1123,7 +1176,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132439/77f2ea23c55e65db1b9f7d6fee8d563f.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=42",
           "motivos": [
@@ -1528,90 +1581,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-12T08:29:11.650Z"
-    },
-    {
-      "id": "7861",
-      "nombre": "LIQUIDACIÓN TOTAL DE CASA DE FAMILIA",
-      "empresa": "Remates Charrúa",
-      "departamento": "Salto",
-      "lugar": "Avenida Juan Harriague n° 1389, Salto",
-      "fecha": "15/09/2026, 18:00",
-      "fechaISO": "2026-09-15T21:00:00.000Z",
-      "timestamp": 1789506000,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7861",
-      "totalLotes": 150,
-      "vinilos": [
-        {
-          "id": 1129889,
-          "lote": "113",
-          "titulo": "Clavos y discos",
-          "descripcion": "Lote compuesto por variados clavos, tornillos y discos",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 150,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1129889/6bb7d91d537e774424481a7bd3768cf1.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7861?lote=113",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        }
-      ],
-      "datosDe": "2026-09-12T08:29:11.650Z"
-    },
-    {
-      "id": "7801",
-      "nombre": "Gran Liquidacion de Antiguedades, casquillos militares, adornos y demas lotes. Envios a todo el pais!!!",
-      "empresa": "Mauricio Rosa",
-      "departamento": "Canelones",
-      "lugar": "Ruta 7 Km 90, Canelones",
-      "fecha": "15/09/2026, 19:00",
-      "fechaISO": "2026-09-15T22:00:00.000Z",
-      "timestamp": 1789509600,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7801",
-      "totalLotes": 89,
-      "vinilos": [
-        {
-          "id": 1126532,
-          "lote": "84",
-          "titulo": "Bicicleta nueva sin uso rueda ancha trasera, frano de disco delantera, este lote se envia con comisionista o se retira en San Ramón Canelones.",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 5000,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1126532/cc98cf9cad421feefad0576f3fb50045.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7801?lote=84",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        }
-      ],
-      "datosDe": "2026-09-12T08:29:11.650Z"
-    },
-    {
-      "id": "7848",
-      "nombre": "⚠️ ATENCIÓN aun faltan cargar más lotes pero ya podes ofertar⚠️",
-      "empresa": "Remate Paysandú",
-      "departamento": "Paysandú",
-      "lugar": "Uruguay y Montecaseros, Ciudad de Paysandú, Paysandú",
-      "fecha": "16/09/2026, 12:00",
-      "fechaISO": "2026-09-16T15:00:00.000Z",
-      "timestamp": 1789570800,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7848",
-      "totalLotes": 151,
-      "vinilos": [],
-      "datosDe": "2026-09-12T08:29:11.650Z"
+      "datosDe": "2026-09-12T22:55:39.897Z"
     },
     {
       "id": "7660",
@@ -1624,7 +1594,7 @@
       "timestamp": 1789680600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7660",
-      "totalLotes": 101,
+      "totalLotes": 102,
       "vinilos": [
         {
           "id": 1132144,
@@ -1663,7 +1633,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-12T08:29:11.650Z"
+      "datosDe": "2026-09-12T22:55:39.897Z"
     },
     {
       "id": "7740",
@@ -1715,7 +1685,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-12T08:29:11.650Z"
+      "datosDe": "2026-09-12T22:55:39.897Z"
     },
     {
       "id": "7729",
@@ -1730,7 +1700,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7729",
       "totalLotes": 100,
       "vinilos": [],
-      "datosDe": "2026-09-12T08:29:11.650Z"
+      "datosDe": "2026-09-12T22:55:39.897Z"
     },
     {
       "id": "7011",
@@ -1958,7 +1928,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1094862/a2e47e20a3382b2bf2c8506001aac329.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7011?lote=107",
           "motivos": [
@@ -2021,7 +1991,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-12T08:29:11.650Z"
+      "datosDe": "2026-09-12T22:55:39.897Z"
     },
     {
       "id": "7795",
@@ -2036,7 +2006,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7795",
       "totalLotes": 62,
       "vinilos": [],
-      "datosDe": "2026-09-12T08:29:11.650Z"
+      "datosDe": "2026-09-12T22:55:39.897Z"
     },
     {
       "id": "7790",
@@ -2051,7 +2021,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7790",
       "totalLotes": 95,
       "vinilos": [],
-      "datosDe": "2026-09-12T08:29:11.650Z"
+      "datosDe": "2026-09-12T22:55:39.897Z"
     },
     {
       "id": "7818",
@@ -2066,7 +2036,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7818",
       "totalLotes": 174,
       "vinilos": [],
-      "datosDe": "2026-09-12T08:29:11.650Z"
+      "datosDe": "2026-09-12T22:55:39.897Z"
     },
     {
       "id": "7843",
@@ -2081,7 +2051,22 @@
       "url": "https://www.remotes.com.uy/participar/remate/7843",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-09-12T08:29:11.650Z"
+      "datosDe": "2026-09-12T22:55:39.897Z"
+    },
+    {
+      "id": "7876",
+      "nombre": "⚜️⚜️⚜️ ¡GRAN REMATE! LIQUIDACION CASA EN SHANGRILA – ULTIMA PARTE – RETIRO EN MONTEVIDEO (BASILIO ARAUJO 3732) ✅MUEBLES ANTIGUOS COMO JUEGOS DE COMEDOR, APARADORES, COMODA CON ESPEJO Y MAS ✅PINTURA NACIONAL ✅ANTIGUEDADES Y COLECCIONABLES ✅GRAN JUEGO DE CUBIERTOS 130 PIEZAS 12 PERSONAS ✅RELOJES DE MESA FRANCES Y CON FISIONOMIA TIGRE ✅PORCELANA OLMOS Y VAJILLA INGLESA ✅JARRAS DE CERVEZA ✅DECORACIÓN & ADORNOS ✅MENAGE ✅MOBILIARIO Y ACCESORIOS PARA BEBES Y NIÑOS✅BIJOUTERIE ✅LIBROS SELECCIONADOS Y MUCHO MÁS ✅ENVÍO A TODO EL PAÍS ✅¡PARTICIPA Y DEJA TU PRE-OFERTA AHORA!",
+      "empresa": "LOS ROBLES",
+      "departamento": "Montevideo",
+      "lugar": "Basilio Araújo 3732, Montevideo",
+      "fecha": "20/09/2026, 19:30",
+      "fechaISO": "2026-09-20T22:30:00.000Z",
+      "timestamp": 1789943400,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7876",
+      "totalLotes": 189,
+      "vinilos": [],
+      "datosDe": "2026-09-12T22:55:39.897Z"
     },
     {
       "id": "7828",
@@ -2115,7 +2100,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-12T08:29:11.650Z"
+      "datosDe": "2026-09-12T22:55:39.897Z"
     }
   ]
 }
