@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-11T23:08:59.640Z",
+  "generado": "2026-09-12T08:29:11.650Z",
   "fallos": 0,
   "remates": [
     {
@@ -13,9 +13,9 @@
       "timestamp": 1789232400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7743",
-      "totalLotes": 209,
+      "totalLotes": 208,
       "vinilos": [],
-      "datosDe": "2026-09-11T23:08:59.640Z"
+      "datosDe": "2026-09-12T08:29:11.650Z"
     },
     {
       "id": "7841",
@@ -28,13 +28,13 @@
       "timestamp": 1789239600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7841",
-      "totalLotes": 154,
+      "totalLotes": 168,
       "vinilos": [],
-      "datosDe": "2026-09-11T23:08:59.640Z"
+      "datosDe": "2026-09-12T08:29:11.650Z"
     },
     {
       "id": "7858",
-      "nombre": "HOY EXHIBICIÓN DE 12 A 17 HS EN  BALTAZAR BRUM ESQ INTERBALNEARIA EN SAN LUIS.GRAN REMATE LIQUIDACION POR VENTA DE PROPIEDAD EN SAN LUIS!!!! SE DESTACAN MUEBLES, ELECTRODOMÉSTICOS, ART. DE PESCA, ART. JARDINERÍA, BAZAR, HERRAMIENTAS DE MANO Y ELÉCTRICAS, BATERIAS DE COCINA, MESAS Y SILLAS DE JARDÍN, PARRILLAS Y DISCOS DE ARADO, CUADROS Y ANTIGÜEDADES ETC",
+      "nombre": "ATENCIÓN SE AGREGARON NUEVOS LOTES!!!!!  GRAN REMATE LIQUIDACION POR VENTA DE PROPIEDAD EN SAN LUIS!!!! SE DESTACAN MUEBLES, ELECTRODOMÉSTICOS, ART. DE PESCA, ART. JARDINERÍA, BAZAR, HERRAMIENTAS DE MANO Y ELÉCTRICAS, BATERIAS DE COCINA, MESAS Y SILLAS DE JARDÍN, PARRILLAS Y DISCOS DE ARADO, CUADROS Y ANTIGÜEDADES ETC",
       "empresa": "Remate Ferreira",
       "departamento": "Canelones",
       "lugar": "Av.30 Mts ENTRE D y E, Las Toscas, Canelones",
@@ -43,7 +43,7 @@
       "timestamp": 1789308000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7858",
-      "totalLotes": 178,
+      "totalLotes": 205,
       "vinilos": [
         {
           "id": 1127053,
@@ -56,7 +56,7 @@
           "anio": null,
           "moneda": "$",
           "base": 1200,
-          "oferta": 2800,
+          "oferta": 4200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1127053/921d0ff0d74ae637deeaf30b80dc7842.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7858?lote=8",
           "motivos": [
@@ -74,7 +74,7 @@
           "anio": null,
           "moneda": "$",
           "base": 800,
-          "oferta": 1450,
+          "oferta": 1600,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1127169/40ffbc7dfc5ab52c8a915a22d27e3af6.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7858?lote=124",
           "motivos": [
@@ -100,7 +100,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-11T23:08:59.640Z"
+      "datosDe": "2026-09-12T08:29:11.650Z"
     },
     {
       "id": "7870",
@@ -115,7 +115,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7870",
       "totalLotes": 89,
       "vinilos": [],
-      "datosDe": "2026-09-11T23:08:59.640Z"
+      "datosDe": "2026-09-12T08:29:11.650Z"
     },
     {
       "id": "7807",
@@ -130,7 +130,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7807",
       "totalLotes": 143,
       "vinilos": [],
-      "datosDe": "2026-09-11T23:08:59.640Z"
+      "datosDe": "2026-09-12T08:29:11.650Z"
     },
     {
       "id": "7838",
@@ -145,7 +145,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7838",
       "totalLotes": 59,
       "vinilos": [],
-      "datosDe": "2026-09-11T23:08:59.640Z"
+      "datosDe": "2026-09-12T08:29:11.650Z"
     },
     {
       "id": "7840",
@@ -160,7 +160,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7840",
       "totalLotes": 219,
       "vinilos": [],
-      "datosDe": "2026-09-11T23:08:59.640Z"
+      "datosDe": "2026-09-12T08:29:11.650Z"
     },
     {
       "id": "7875",
@@ -175,7 +175,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7875",
       "totalLotes": 183,
       "vinilos": [],
-      "datosDe": "2026-09-11T23:08:59.640Z"
+      "datosDe": "2026-09-12T08:29:11.650Z"
     },
     {
       "id": "7456",
@@ -190,7 +190,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7456",
       "totalLotes": 111,
       "vinilos": [],
-      "datosDe": "2026-09-11T23:08:59.640Z"
+      "datosDe": "2026-09-12T08:29:11.650Z"
     },
     {
       "id": "7809",
@@ -332,7 +332,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-11T23:08:59.640Z"
+      "datosDe": "2026-09-12T08:29:11.650Z"
     },
     {
       "id": "7830",
@@ -347,7 +347,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7830",
       "totalLotes": 103,
       "vinilos": [],
-      "datosDe": "2026-09-11T23:08:59.640Z"
+      "datosDe": "2026-09-12T08:29:11.650Z"
     },
     {
       "id": "7788",
@@ -362,7 +362,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7788",
       "totalLotes": 50,
       "vinilos": [],
-      "datosDe": "2026-09-11T23:08:59.640Z"
+      "datosDe": "2026-09-12T08:29:11.650Z"
     },
     {
       "id": "7847",
@@ -377,7 +377,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7847",
       "totalLotes": 173,
       "vinilos": [],
-      "datosDe": "2026-09-11T23:08:59.640Z"
+      "datosDe": "2026-09-12T08:29:11.650Z"
     },
     {
       "id": "7889",
@@ -1528,7 +1528,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-11T23:08:59.640Z"
+      "datosDe": "2026-09-12T08:29:11.650Z"
     },
     {
       "id": "7861",
@@ -1541,7 +1541,7 @@
       "timestamp": 1789506000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7861",
-      "totalLotes": 130,
+      "totalLotes": 150,
       "vinilos": [
         {
           "id": 1129889,
@@ -1562,7 +1562,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-11T23:08:59.640Z"
+      "datosDe": "2026-09-12T08:29:11.650Z"
     },
     {
       "id": "7801",
@@ -1596,7 +1596,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-11T23:08:59.640Z"
+      "datosDe": "2026-09-12T08:29:11.650Z"
     },
     {
       "id": "7848",
@@ -1611,7 +1611,126 @@
       "url": "https://www.remotes.com.uy/participar/remate/7848",
       "totalLotes": 151,
       "vinilos": [],
-      "datosDe": "2026-09-11T23:08:59.640Z"
+      "datosDe": "2026-09-12T08:29:11.650Z"
+    },
+    {
+      "id": "7660",
+      "nombre": "🐎 ¡IMPERDIBLE REMATE DE ARTÍCULOS CRIOLLOS Y ANTIGÜEDADES DE CAMPO! 🧉 CUCHILLOS, MATES Y BOMBILLAS ✨ PIEZAS DE PLATA Y ORO ✅ RASTRAS Y SOGUERÍA CRIOLLA ✅ ANTIGUAS HERRAMIENTAS RURALES, ARADOS Y RUEDAS DE CARRO ✅REBENQUES Y ENSERES CRIOLLOS ✅ ROBUSTOS LEÑEROS DE HIERRO FORJADO, MUEBLES RÚSTICOS, PERCHEROS, TACHOS LECHEROS Y MUCHO MÁS. 🔥 UNA VARIADA SELECCIÓN PARA COLECCIONISTAS Y PARA DARLE CARÁCTER A SU HOGAR, QUINCHO O ESTANCIA.  ➡️ SI NO PUEDE ACOMPAÑARNOS DURANTE LA TRANSMISIÓN, PUEDE DEJAR SU PREOFERTA.",
+      "empresa": "Mesa & Rossell - Remates de calidad",
+      "departamento": "Montevideo",
+      "lugar": "Lancaster e/ Rafael Hortiguera (La esquina de los buenos negocios), Montevideo",
+      "fecha": "17/09/2026, 18:30",
+      "fechaISO": "2026-09-17T21:30:00.000Z",
+      "timestamp": 1789680600,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7660",
+      "totalLotes": 101,
+      "vinilos": [
+        {
+          "id": 1132144,
+          "lote": "66",
+          "titulo": "NO SE ENVÍA. Antiguo arado de mancera de tracción animal, realizado en hierro, con dos manceras unidas por travesaño, vertedera curva y rueda delantera de disco con soporte de regulación. Para restaurar - Ver más en detalles y medidas en fotografías",
+          "descripcion": "⚠️Plazo para pago y retiro hasta el SÁBADO 19/9, haga su oferta con responsabilidad sabiendo que podrá cumplir las condiciones del remate⚠️",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "U$S",
+          "base": 30,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132144/ea8bbec70de115b022634fbfaae68576.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7660?lote=66",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1132146,
+          "lote": "68",
+          "titulo": "NO SE ENVÍA. Antiguo arado de mancera de tracción animal, realizado en hierro, con mancera larga, cuerpo con dos alas curvas y rueda delantera de disco con soporte y enganche regulables. Para restaurar - Ver más en detalles y medidas en fotografías",
+          "descripcion": "⚠️Plazo para pago y retiro hasta el SÁBADO 19/9, haga su oferta con responsabilidad sabiendo que podrá cumplir las condiciones del remate⚠️",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "U$S",
+          "base": 30,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132146/8abc4449dca30c4e3275958c5c536d07.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7660?lote=68",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        }
+      ],
+      "datosDe": "2026-09-12T08:29:11.650Z"
+    },
+    {
+      "id": "7740",
+      "nombre": "\"Remate de Tesoros Sueltos: Electro, Decoración, Calefacción, Tecnología y objetos de colección a precios de arranque — ¡No te lo pierdas, esta oportunidad no se repite!\"",
+      "empresa": "Pablo Barrientos",
+      "departamento": "Canelones",
+      "lugar": "CONTINUACION Z4 ENTRE 8 Y 9 Parque del Plata , Costa de Oro, Canelones",
+      "fecha": "17/09/2026, 19:00",
+      "fechaISO": "2026-09-17T22:00:00.000Z",
+      "timestamp": 1789682400,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7740",
+      "totalLotes": 217,
+      "vinilos": [
+        {
+          "id": 1109506,
+          "lote": "11",
+          "titulo": "Lámpara de escritorio articulada con filtros",
+          "descripcion": "En metal, con aros y discos intercambiables",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 0,
+          "oferta": 50,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1109506/fbafe9b64784b71b4f6943b3a0648f52.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7740?lote=11",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1109522,
+          "lote": "27",
+          "titulo": "CD Peteco Carabajal A Viva Voz",
+          "descripcion": "Soy Santiagueño Soy Chacarera, incluye disco bonus",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 0,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1109522/86aa0c7576e34497bf1d721a3f1ad6bf.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7740?lote=27",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        }
+      ],
+      "datosDe": "2026-09-12T08:29:11.650Z"
+    },
+    {
+      "id": "7729",
+      "nombre": "⭐️BUELA REMATA⭐️ ⏩⏩⏩NUEVO REMATE MULTIRUBRO⏪⏪⏪ ✅MERCADERÍA NUEVA ✅ENVIOS A TODO EL PAIS ✅EMBALAJE SIN COSTO",
+      "empresa": "Ana Paula Buela Salato",
+      "departamento": "Montevideo",
+      "lugar": "José Usera 3329, Montevideo",
+      "fecha": "18/09/2026, 19:00",
+      "fechaISO": "2026-09-18T22:00:00.000Z",
+      "timestamp": 1789768800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7729",
+      "totalLotes": 100,
+      "vinilos": [],
+      "datosDe": "2026-09-12T08:29:11.650Z"
     },
     {
       "id": "7011",
@@ -1619,9 +1738,9 @@
       "empresa": "Luciana Pesce",
       "departamento": "San José",
       "lugar": "Km 29. Ruta 1, San José",
-      "fecha": "16/09/2026, 19:30",
-      "fechaISO": "2026-09-16T22:30:00.000Z",
-      "timestamp": 1789597800,
+      "fecha": "18/09/2026, 19:30",
+      "fechaISO": "2026-09-18T22:30:00.000Z",
+      "timestamp": 1789770600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7011",
       "totalLotes": 170,
@@ -1902,126 +2021,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-11T23:08:59.640Z"
-    },
-    {
-      "id": "7660",
-      "nombre": "🐎 ¡IMPERDIBLE REMATE DE ARTÍCULOS CRIOLLOS Y ANTIGÜEDADES DE CAMPO! 🧉 CUCHILLOS, MATES Y BOMBILLAS ✨ PIEZAS DE PLATA Y ORO ✅ RASTRAS Y SOGUERÍA CRIOLLA ✅ ANTIGUAS HERRAMIENTAS RURALES, ARADOS Y RUEDAS DE CARRO ✅REBENQUES Y ENSERES CRIOLLOS ✅ ROBUSTOS LEÑEROS DE HIERRO FORJADO, MUEBLES RÚSTICOS, PERCHEROS, TACHOS LECHEROS Y MUCHO MÁS. 🔥 UNA VARIADA SELECCIÓN PARA COLECCIONISTAS Y PARA DARLE CARÁCTER A SU HOGAR, QUINCHO O ESTANCIA.  ➡️ SI NO PUEDE ACOMPAÑARNOS DURANTE LA TRANSMISIÓN, PUEDE DEJAR SU PREOFERTA.",
-      "empresa": "Mesa & Rossell - Remates de calidad",
-      "departamento": "Montevideo",
-      "lugar": "Lancaster e/ Rafael Hortiguera (La esquina de los buenos negocios), Montevideo",
-      "fecha": "17/09/2026, 18:30",
-      "fechaISO": "2026-09-17T21:30:00.000Z",
-      "timestamp": 1789680600,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7660",
-      "totalLotes": 101,
-      "vinilos": [
-        {
-          "id": 1132144,
-          "lote": "66",
-          "titulo": "NO SE ENVÍA. Antiguo arado de mancera de tracción animal, realizado en hierro, con dos manceras unidas por travesaño, vertedera curva y rueda delantera de disco con soporte de regulación. Para restaurar - Ver más en detalles y medidas en fotografías",
-          "descripcion": "⚠️Plazo para pago y retiro hasta el SÁBADO 19/9, haga su oferta con responsabilidad sabiendo que podrá cumplir las condiciones del remate⚠️",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "U$S",
-          "base": 30,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132144/ea8bbec70de115b022634fbfaae68576.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7660?lote=66",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132146,
-          "lote": "68",
-          "titulo": "NO SE ENVÍA. Antiguo arado de mancera de tracción animal, realizado en hierro, con mancera larga, cuerpo con dos alas curvas y rueda delantera de disco con soporte y enganche regulables. Para restaurar - Ver más en detalles y medidas en fotografías",
-          "descripcion": "⚠️Plazo para pago y retiro hasta el SÁBADO 19/9, haga su oferta con responsabilidad sabiendo que podrá cumplir las condiciones del remate⚠️",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "U$S",
-          "base": 30,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132146/8abc4449dca30c4e3275958c5c536d07.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7660?lote=68",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        }
-      ],
-      "datosDe": "2026-09-11T23:08:59.640Z"
-    },
-    {
-      "id": "7740",
-      "nombre": "\"Remate de Tesoros Sueltos: Electro, Decoración, Calefacción, Tecnología y objetos de colección a precios de arranque — ¡No te lo pierdas, esta oportunidad no se repite!\"",
-      "empresa": "Pablo Barrientos",
-      "departamento": "Canelones",
-      "lugar": "CONTINUACION Z4 ENTRE 8 Y 9 Parque del Plata , Costa de Oro, Canelones",
-      "fecha": "17/09/2026, 19:00",
-      "fechaISO": "2026-09-17T22:00:00.000Z",
-      "timestamp": 1789682400,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7740",
-      "totalLotes": 217,
-      "vinilos": [
-        {
-          "id": 1109506,
-          "lote": "11",
-          "titulo": "Lámpara de escritorio articulada con filtros",
-          "descripcion": "En metal, con aros y discos intercambiables",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 0,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1109506/fbafe9b64784b71b4f6943b3a0648f52.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7740?lote=11",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1109522,
-          "lote": "27",
-          "titulo": "CD Peteco Carabajal A Viva Voz",
-          "descripcion": "Soy Santiagueño Soy Chacarera, incluye disco bonus",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 0,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1109522/86aa0c7576e34497bf1d721a3f1ad6bf.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7740?lote=27",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        }
-      ],
-      "datosDe": "2026-09-11T23:08:59.640Z"
-    },
-    {
-      "id": "7729",
-      "nombre": "⭐️BUELA REMATA⭐️ ⏩⏩⏩NUEVO REMATE MULTIRUBRO⏪⏪⏪ ✅MERCADERÍA NUEVA ✅ENVIOS A TODO EL PAIS ✅EMBALAJE SIN COSTO",
-      "empresa": "Ana Paula Buela Salato",
-      "departamento": "Montevideo",
-      "lugar": "José Usera 3329, Montevideo",
-      "fecha": "18/09/2026, 19:00",
-      "fechaISO": "2026-09-18T22:00:00.000Z",
-      "timestamp": 1789768800,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7729",
-      "totalLotes": 100,
-      "vinilos": [],
-      "datosDe": "2026-09-11T23:08:59.640Z"
+      "datosDe": "2026-09-12T08:29:11.650Z"
     },
     {
       "id": "7795",
@@ -2036,7 +2036,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7795",
       "totalLotes": 62,
       "vinilos": [],
-      "datosDe": "2026-09-11T23:08:59.640Z"
+      "datosDe": "2026-09-12T08:29:11.650Z"
     },
     {
       "id": "7790",
@@ -2051,7 +2051,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7790",
       "totalLotes": 95,
       "vinilos": [],
-      "datosDe": "2026-09-11T23:08:59.640Z"
+      "datosDe": "2026-09-12T08:29:11.650Z"
     },
     {
       "id": "7818",
@@ -2066,7 +2066,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7818",
       "totalLotes": 174,
       "vinilos": [],
-      "datosDe": "2026-09-11T23:08:59.640Z"
+      "datosDe": "2026-09-12T08:29:11.650Z"
     },
     {
       "id": "7843",
@@ -2081,11 +2081,11 @@
       "url": "https://www.remotes.com.uy/participar/remate/7843",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-09-11T23:08:59.640Z"
+      "datosDe": "2026-09-12T08:29:11.650Z"
     },
     {
       "id": "7828",
-      "nombre": "FECHA A CONFIRMAR ---🏺LA PAZ  - Envíos a Todo el País - ¡REMATE ESPECIAL! ANTIGÜEDADES, VINTAGE & PIEZAS ÚNICAS — ¡OPORTUNIDADES DESDE $100!    Una selección de objetos con historia, piezas vintage, porcelanas, vajilla, decoración y artículos de colección.  ------------ ¡MIRÁ LOS LOTES, ELEGÍ TUS FAVORITOS Y OFERTÁ!   ------------------------------------------------- ⭐ ¿ TIENE ARTÍCULOS EN DESUSO, STOCK INMOVILIZADO Y PREFIERE UNA MODALIDAD MAS PRÁCTICA, PRIVADA Y CÓMODA ?---------------¡CONVERTILOS EN DINERO!--------------Realizamos remates online y presenciales y trabajamos con particulares, comercios, empresas, sucesiones, liquidaciones y revendedores de todo el país.Nos encargamos de la publicación, promoción, gestión de consultas, cobro y coordinación de entrega, para que puedas vender de forma ágil y sin complicaciones.📲 Consultas: 092 222 266",
+      "nombre": "FECHA A CONFIRMAR ---🏺LA PAZ  Y ARTIGAS - Envíos a Todo el País - ¡REMATE ESPECIAL! ANTIGÜEDADES, VINTAGE & PIEZAS ÚNICAS — ¡OPORTUNIDADES DESDE $100!    Una selección de objetos con historia, piezas vintage, porcelanas, vajilla, decoración y artículos de colección.  ------------ ¡MIRÁ LOS LOTES, ELEGÍ TUS FAVORITOS Y OFERTÁ!   ------------------------------------------------- ⭐ ¿ TIENE ARTÍCULOS EN DESUSO, STOCK INMOVILIZADO Y PREFIERE UNA MODALIDAD MAS PRÁCTICA, PRIVADA Y CÓMODA ?---------------¡CONVERTILOS EN DINERO!--------------Realizamos remates online y presenciales y trabajamos con particulares, comercios, empresas, sucesiones, liquidaciones y revendedores de todo el país.Nos encargamos de la publicación, promoción, gestión de consultas, cobro y coordinación de entrega, para que puedas vender de forma ágil y sin complicaciones.📲 Consultas: 092 222 266",
       "empresa": "Vip Subastas",
       "departamento": "CANELONES",
       "lugar": "LA PAZ, CANELONES",
@@ -2094,9 +2094,28 @@
       "timestamp": 1789948800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7828",
-      "totalLotes": 14,
-      "vinilos": [],
-      "datosDe": "2026-09-11T23:08:59.640Z"
+      "totalLotes": 29,
+      "vinilos": [
+        {
+          "id": 1078402,
+          "lote": "203",
+          "titulo": "UBICACIÓN CIUDAD DE ARTIGAS - CANCIONES DE LA HUERTA – JUAN M. ÓLIVER (HIJO) | PRIMERA EDICIÓN 1914 ⭐⭐⭐⭐⭐",
+          "descripcion": "Canciones de la Huerta es una obra poética del escritor uruguayo Juan M. Óliver (hijo), publicada en Montevideo en 1914. Se trata de una edición temprana de la literatura uruguaya del siglo XX, perteneciente a una época especialmente apreciada por coleccionistas de poesía nacional y bibliografía histórica.\r\n\r\nImpresa por la reconocida Imprenta y Librería Mercurio, esta edición conserva el formato original de publicación y constituye un interesante testimonio de la producción literaria uruguaya previa a la década de 1920.\r\n\r\nCaracterísticas del ejemplar:\r\n\r\nPrimera edición.\r\nMontevideo, 1914.\r\nImp. y Lib. Mercurio.\r\n73 páginas.\r\nMedidas: 19 cm × 14 cm.\r\nEncuadernación rústica original.\r\n\r\nLa obra reúne composiciones poéticas representativas de la sensibilidad literaria de comienzos del siglo XX, período de gran desarrollo cultural en Uruguay. Los ejemplares originales de esta época son cada vez menos frecuentes en el mercado, especialmente cuando conservan sus cubiertas originales.\r\n\r\nEstado de conservación: regular. Presenta manchas de humedad visibles en cubiertas y algunas hojas, propias de su antigüedad. El ejemplar se encuentra completo, con encuadernación firme y texto legible.\r\n\r\nImportante: presenta firma o anotación manuscrita a tinta en guarda. No ha sido autenticada ni atribuida documentalmente, por lo que se ofrece únicamente como marca presente en el ejemplar, sin asignarle valor adicional.\r\n\r\nLas fotografías forman parte integrante de la descripción y permiten apreciar con mayor detalle el estado de conservación del libro.",
+          "artista": "UBICACIÓN CIUDAD DE ARTIGAS",
+          "album": "CANCIONES DE LA HUERTA – JUAN M",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1078402/795abfa166a5321a7881a1ef0fcb726d.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7828?lote=203",
+          "motivos": [
+            "formato \"Artista - Título\" + contexto musical"
+          ]
+        }
+      ],
+      "datosDe": "2026-09-12T08:29:11.650Z"
     }
   ]
 }
