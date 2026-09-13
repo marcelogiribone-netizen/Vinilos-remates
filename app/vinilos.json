@@ -1,167 +1,7 @@
 {
-  "generado": "2026-09-13T09:18:00.351Z",
+  "generado": "2026-09-13T23:03:48.192Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "7858",
-      "nombre": "ATENCIÓN SE AGREGARON NUEVOS LOTES!!!!!  GRAN REMATE LIQUIDACION POR VENTA DE PROPIEDAD EN SAN LUIS!!!! SE DESTACAN MUEBLES, ELECTRODOMÉSTICOS, ART. DE PESCA, ART. JARDINERÍA, BAZAR, HERRAMIENTAS DE MANO Y ELÉCTRICAS, BATERIAS DE COCINA, MESAS Y SILLAS DE JARDÍN, PARRILLAS Y DISCOS DE ARADO, CUADROS Y ANTIGÜEDADES ETC",
-      "empresa": "Remate Ferreira",
-      "departamento": "Canelones",
-      "lugar": "Av.30 Mts ENTRE D y E, Las Toscas, Canelones",
-      "fecha": "13/09/2026, 11:00",
-      "fechaISO": "2026-09-13T14:00:00.000Z",
-      "timestamp": 1789308000,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7858",
-      "totalLotes": 208,
-      "vinilos": [
-        {
-          "id": 1127053,
-          "lote": "8",
-          "titulo": "equipo de música Philips con dos parlantes",
-          "descripcion": "equipo de audio 3 en 1 radio pasacaset y toca disco. UNICO EN SU ESTADO",
-          "artista": null,
-          "album": null,
-          "sello": "Philips",
-          "anio": null,
-          "moneda": "$",
-          "base": 1200,
-          "oferta": 4200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1127053/921d0ff0d74ae637deeaf30b80dc7842.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7858?lote=8",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1127169,
-          "lote": "124",
-          "titulo": "desmalezadora hyundai 52 C.C",
-          "descripcion": "desmalezadora hyundai + discos y arnes",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 800,
-          "oferta": 1650,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1127169/40ffbc7dfc5ab52c8a915a22d27e3af6.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7858?lote=124",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1127203,
-          "lote": "158",
-          "titulo": "taladro + accsesorios",
-          "descripcion": "taladro black&decker funcionando + cajita con mechas + disco de pulir + accsesorios",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1127203/ae2693d4e67108561c6f0ed6f308f65e.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7858?lote=158",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        }
-      ],
-      "datosDe": "2026-09-13T09:18:00.351Z"
-    },
-    {
-      "id": "7870",
-      "nombre": "LIQUIDACION, ANTIGUEDADES, COLECCIONABLES Y ARTICULOS DEL HOGAR, ESTE DOMINGO 14:00",
-      "empresa": "Flores Montaña Subastas",
-      "departamento": "SALTO",
-      "lugar": "SALTO, SALTO",
-      "fecha": "13/09/2026, 14:00",
-      "fechaISO": "2026-09-13T17:00:00.000Z",
-      "timestamp": 1789318800,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7870",
-      "totalLotes": 89,
-      "vinilos": [],
-      "datosDe": "2026-09-13T09:18:00.351Z"
-    },
-    {
-      "id": "7807",
-      "nombre": "Gran Remate de Antigüedades y Oportunidades — Domingo 13 , 18:00 hs | Preofertá y obtené flete gratis . Beneficio válido para quienes hayan realizado preoferta y superen los $5.000 en precio de remate/adjudicación. Flete gratis a todo el país solo en artículos pequeños. No incluye muebles ni artículos de gran porte.El embalaje se cobra en todos los casos .",
-      "empresa": "Nelson Javier Jolochin Solan",
-      "departamento": "Paysandu",
-      "lugar": "18 de Julio 721, Paysandu",
-      "fecha": "13/09/2026, 18:00",
-      "fechaISO": "2026-09-13T21:00:00.000Z",
-      "timestamp": 1789333200,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7807",
-      "totalLotes": 143,
-      "vinilos": [],
-      "datosDe": "2026-09-13T09:18:00.351Z"
-    },
-    {
-      "id": "7838",
-      "nombre": "Gran Remate Especial de Libros Coleccionables Infantiles.",
-      "empresa": "Claudia Fabiana Rodríguez Rodríguez",
-      "departamento": "Montevideo",
-      "lugar": "Palmar 2154, Montevideo",
-      "fecha": "13/09/2026, 19:00",
-      "fechaISO": "2026-09-13T22:00:00.000Z",
-      "timestamp": 1789336800,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7838",
-      "totalLotes": 68,
-      "vinilos": [],
-      "datosDe": "2026-09-13T09:18:00.351Z"
-    },
-    {
-      "id": "7840",
-      "nombre": "Primera parte de imponente liquidación familiar!!! bienes muebles de importantes pisos frente a la rambla de punta carretas,  mobiliario francés con mucha orfebrería en bronce, gran colección de figuras Lladró entre otras, gran Audio technics,  mesa de Ajedrez, importantes juegos de fina porcelana,  alfombras persas,  tallas en marfil, libras esterlinas,  antiguedades varias, muchas de ellas siglo XIX....",
-      "empresa": "ElEjido",
-      "departamento": "MONTEVIDEO",
-      "lugar": "EJIDO 932, MONTEVIDEO",
-      "fecha": "13/09/2026, 19:00",
-      "fechaISO": "2026-09-13T22:00:00.000Z",
-      "timestamp": 1789336800,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7840",
-      "totalLotes": 219,
-      "vinilos": [],
-      "datosDe": "2026-09-13T09:18:00.351Z"
-    },
-    {
-      "id": "7875",
-      "nombre": "Excepcional liquidación de artículos coleccionables ferroviarios y otros",
-      "empresa": "Fernando Nalerio",
-      "departamento": "Montevideo",
-      "lugar": "Barrios Amorin y Paysandu , Montevideo",
-      "fecha": "13/09/2026, 19:30",
-      "fechaISO": "2026-09-13T22:30:00.000Z",
-      "timestamp": 1789338600,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7875",
-      "totalLotes": 163,
-      "vinilos": [],
-      "datosDe": "2026-09-13T09:18:00.351Z"
-    },
-    {
-      "id": "7456",
-      "nombre": "Remate reprogramado para el domingo 13 de Setiembre con las mismas condiciones.",
-      "empresa": "Mage Remates",
-      "departamento": "Montevideo",
-      "lugar": "Jaime Roldos y Pons 4541, Montevideo",
-      "fecha": "13/09/2026, 20:30",
-      "fechaISO": "2026-09-13T23:30:00.000Z",
-      "timestamp": 1789342200,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7456",
-      "totalLotes": 111,
-      "vinilos": [],
-      "datosDe": "2026-09-13T09:18:00.351Z"
-    },
     {
       "id": "7809",
       "nombre": "✅ Remate de antiguedades y coleccionables, Se destaca barras de jabón, medallas religiosas, coleccionables de fotografía y antiguas cámaras, palotes, sacacorchos, aluminio, cuchillos, herramientas de zapatero, adornos liliputienses, candados, escritorio y más!!!",
@@ -186,7 +26,7 @@
           "anio": null,
           "moneda": "$",
           "base": 100,
-          "oferta": null,
+          "oferta": 100,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1118496/942110d68213e93ae6adb8bda732cd47.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7809?lote=36",
           "motivos": [
@@ -302,7 +142,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-13T09:18:00.351Z"
+      "datosDe": "2026-09-13T23:03:48.192Z"
     },
     {
       "id": "7830",
@@ -317,7 +157,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7830",
       "totalLotes": 105,
       "vinilos": [],
-      "datosDe": "2026-09-13T09:18:00.351Z"
+      "datosDe": "2026-09-13T23:03:48.192Z"
     },
     {
       "id": "7788",
@@ -332,7 +172,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7788",
       "totalLotes": 50,
       "vinilos": [],
-      "datosDe": "2026-09-13T09:18:00.351Z"
+      "datosDe": "2026-09-13T23:03:48.192Z"
     },
     {
       "id": "7847",
@@ -347,7 +187,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7847",
       "totalLotes": 173,
       "vinilos": [],
-      "datosDe": "2026-09-13T09:18:00.351Z"
+      "datosDe": "2026-09-13T23:03:48.192Z"
     },
     {
       "id": "7861",
@@ -381,7 +221,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-13T09:18:00.351Z"
+      "datosDe": "2026-09-13T23:03:48.192Z"
     },
     {
       "id": "7801",
@@ -415,7 +255,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-13T09:18:00.351Z"
+      "datosDe": "2026-09-13T23:03:48.192Z"
     },
     {
       "id": "7848",
@@ -428,9 +268,9 @@
       "timestamp": 1789570800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7848",
-      "totalLotes": 151,
+      "totalLotes": 150,
       "vinilos": [],
-      "datosDe": "2026-09-13T09:18:00.351Z"
+      "datosDe": "2026-09-13T23:03:48.192Z"
     },
     {
       "id": "7889",
@@ -1581,7 +1421,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-13T09:18:00.351Z"
+      "datosDe": "2026-09-13T23:03:48.192Z"
     },
     {
       "id": "7660",
@@ -1594,7 +1434,7 @@
       "timestamp": 1789680600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7660",
-      "totalLotes": 102,
+      "totalLotes": 103,
       "vinilos": [
         {
           "id": 1132144,
@@ -1607,7 +1447,7 @@
           "anio": null,
           "moneda": "U$S",
           "base": 30,
-          "oferta": null,
+          "oferta": 30,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132144/ea8bbec70de115b022634fbfaae68576.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7660?lote=66",
           "motivos": [
@@ -1625,7 +1465,7 @@
           "anio": null,
           "moneda": "U$S",
           "base": 30,
-          "oferta": null,
+          "oferta": 30,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132146/8abc4449dca30c4e3275958c5c536d07.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7660?lote=68",
           "motivos": [
@@ -1633,7 +1473,208 @@
           ]
         }
       ],
-      "datosDe": "2026-09-13T09:18:00.351Z"
+      "datosDe": "2026-09-13T23:03:48.192Z"
+    },
+    {
+      "id": "7905",
+      "nombre": "INIGUALABLE remate de POPURRI DE COLECCIONABLES al mejor estilo RDV: CINE, PAPELES CON HISTORIA, JUGUETES, DEPORTES, y mucho más...Pase y revise...realmente hay DE TODO",
+      "empresa": "Rincón del Vintage",
+      "departamento": "Montevideo",
+      "lugar": "Caramuru 6007 esq. Belastiqui (Punta Gorda), Montevideo",
+      "fecha": "17/09/2026, 18:45",
+      "fechaISO": "2026-09-17T21:45:00.000Z",
+      "timestamp": 1789681500,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7905",
+      "totalLotes": 304,
+      "vinilos": [
+        {
+          "id": 1134432,
+          "lote": "34",
+          "titulo": "Seis tarjetas del Álbum uruguayo Astros del Cine, se destacan Carlos Gardel, Clark Gable, Gary Cooper, Greta Garbo et",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134432/8535938b0b36e42b9386ea70ffb6cc6e.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7905?lote=34",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1134443,
+          "lote": "45",
+          "titulo": "Álbum fotográfico de la Película \"La Batalla del Río de la Plata\" Año 1956, filmada en Uruguay, con gran cantidad de fotografías originales.",
+          "descripcion": null,
+          "artista": "Película",
+          "album": "La Batalla del Río de la Plata",
+          "sello": null,
+          "anio": "1956",
+          "moneda": "$",
+          "base": 800,
+          "oferta": 1100,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134443/ae66f4ed5fae335c3becd25fed0ca597.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7905?lote=45",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1956"
+          ]
+        },
+        {
+          "id": 1134498,
+          "lote": "100",
+          "titulo": "Variedad de artículos: lunchera de Vascolet, maletín de Heidi y Marco, disco inflable de Batman return y colgante de Mafalda en madera",
+          "descripcion": null,
+          "artista": "Vascolet",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 400,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134498/a6bced531a5e4603d04af8e7925d0361.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7905?lote=100",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1134531,
+          "lote": "130",
+          "titulo": "Lote De Seis Álbumes De Figuritas Incompletos: El Por Que de Las Cosas, Tarzan, Maravillas De La Historia Natural.",
+          "descripcion": null,
+          "artista": "Las Cosas",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134531/5f29cd1597927f522dfc38a0f3ad922b.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7905?lote=130",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1134532,
+          "lote": "131",
+          "titulo": "Álbum Águila Encuadernado, Completo",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134532/e5e39eb81f3dfae9c6d1375c396ac07d.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7905?lote=131",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1134537,
+          "lote": "136",
+          "titulo": "Álbum Para Fotografías De Garfield Año 1978",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1978",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134537/f3377f805b5e5a0dd56cc8bf2c085cae.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7905?lote=136",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1978"
+          ]
+        },
+        {
+          "id": 1134538,
+          "lote": "137",
+          "titulo": "Álbum Para Pins Vacío, Excelente Estado",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 400,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134538/60b758303c3bb0e4694ca468e9dcfe13.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7905?lote=137",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1134602,
+          "lote": "201",
+          "titulo": "Álbumes de figuritas del Mundial de Sudáfrica 2010 y Rusia 2018 incompletos pero con muchas figuritas",
+          "descripcion": null,
+          "artista": "Sudáfrica",
+          "album": null,
+          "sello": null,
+          "anio": "2010",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134602/80a2daecdf9945cf1b0fd21f83ba3561.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7905?lote=201",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 2010"
+          ]
+        },
+        {
+          "id": 1134603,
+          "lote": "202",
+          "titulo": "Álbumes de figuritas de la Copa América 2011 y 2015 incompletos",
+          "descripcion": null,
+          "artista": "Copa América",
+          "album": null,
+          "sello": null,
+          "anio": "2011",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134603/311eb77233c2542c035ab25d427aac6b.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7905?lote=202",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 2011"
+          ]
+        },
+        {
+          "id": 1134604,
+          "lote": "203",
+          "titulo": "Álbum del Fútbol Uruguayo año 2001, Completo",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "2001",
+          "moneda": "$",
+          "base": 400,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134604/8446131b5221c698e8ed2c4ea09bf2d8.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7905?lote=203",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 2001"
+          ]
+        }
+      ],
+      "datosDe": "2026-09-13T23:03:48.192Z"
     },
     {
       "id": "7740",
@@ -1685,7 +1726,22 @@
           ]
         }
       ],
-      "datosDe": "2026-09-13T09:18:00.351Z"
+      "datosDe": "2026-09-13T23:03:48.192Z"
+    },
+    {
+      "id": "7456",
+      "nombre": "Por motivos de FUERZA MAYOR, postergamos para el próximo viernes 18 de Setiembre a partir de las 18:15 hrs. el remate de Antigüedades, Coleccionables especialmente seleccionados, Monedas antiguas y Medallas.",
+      "empresa": "Mage Remates",
+      "departamento": "Montevideo",
+      "lugar": "Jaime Roldos y Pons 4541, Montevideo",
+      "fecha": "18/09/2026, 18:15",
+      "fechaISO": "2026-09-18T21:15:00.000Z",
+      "timestamp": 1789766100,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7456",
+      "totalLotes": 111,
+      "vinilos": [],
+      "datosDe": "2026-09-13T23:03:48.192Z"
     },
     {
       "id": "7729",
@@ -1700,7 +1756,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7729",
       "totalLotes": 100,
       "vinilos": [],
-      "datosDe": "2026-09-13T09:18:00.351Z"
+      "datosDe": "2026-09-13T23:03:48.192Z"
     },
     {
       "id": "7011",
@@ -1991,7 +2047,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-13T09:18:00.351Z"
+      "datosDe": "2026-09-13T23:03:48.192Z"
     },
     {
       "id": "7795",
@@ -1999,14 +2055,14 @@
       "empresa": "Mage Remates",
       "departamento": "Montevideo",
       "lugar": "Jaime Roldos y Pons 4541, Montevideo",
-      "fecha": "18/09/2026, 20:30",
-      "fechaISO": "2026-09-18T23:30:00.000Z",
-      "timestamp": 1789774200,
+      "fecha": "18/09/2026, 20:45",
+      "fechaISO": "2026-09-18T23:45:00.000Z",
+      "timestamp": 1789775100,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7795",
-      "totalLotes": 62,
+      "totalLotes": 68,
       "vinilos": [],
-      "datosDe": "2026-09-13T09:18:00.351Z"
+      "datosDe": "2026-09-13T23:03:48.192Z"
     },
     {
       "id": "7790",
@@ -2021,7 +2077,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7790",
       "totalLotes": 95,
       "vinilos": [],
-      "datosDe": "2026-09-13T09:18:00.351Z"
+      "datosDe": "2026-09-13T23:03:48.192Z"
     },
     {
       "id": "7818",
@@ -2036,7 +2092,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7818",
       "totalLotes": 174,
       "vinilos": [],
-      "datosDe": "2026-09-13T09:18:00.351Z"
+      "datosDe": "2026-09-13T23:03:48.192Z"
     },
     {
       "id": "7843",
@@ -2051,7 +2107,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7843",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-09-13T09:18:00.351Z"
+      "datosDe": "2026-09-13T23:03:48.192Z"
     },
     {
       "id": "7876",
@@ -2066,7 +2122,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7876",
       "totalLotes": 189,
       "vinilos": [],
-      "datosDe": "2026-09-13T09:18:00.351Z"
+      "datosDe": "2026-09-13T23:03:48.192Z"
     },
     {
       "id": "7828",
@@ -2100,7 +2156,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-13T09:18:00.351Z"
+      "datosDe": "2026-09-13T23:03:48.192Z"
     }
   ]
 }
