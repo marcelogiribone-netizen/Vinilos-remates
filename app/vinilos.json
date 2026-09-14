@@ -1,179 +1,7 @@
 {
-  "generado": "2026-09-14T09:41:02.542Z",
+  "generado": "2026-09-14T23:48:29.660Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "7809",
-      "nombre": "✅ HOY Gran Remate de antigüedades y coleccionables, Se destaca barras de jabón, medallas religiosas, coleccionables de fotografía y antiguas cámaras, palotes, sacacorchos, aluminio, cuchillos, herramientas de zapatero, adornos liliputienses, candados, escritorio y más!!!",
-      "empresa": "Valentina Rodríguez",
-      "departamento": "Montevideo",
-      "lugar": "Av. Dámaso Antonio Larrañaga 3452, Montevideo",
-      "fecha": "14/09/2026, 15:00",
-      "fechaISO": "2026-09-14T18:00:00.000Z",
-      "timestamp": 1789408800,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7809",
-      "totalLotes": 215,
-      "vinilos": [
-        {
-          "id": 1118496,
-          "lote": "36",
-          "titulo": "3 discos con fotos 3D para view master imagenes de Florida, USA",
-          "descripcion": null,
-          "artista": "Florida",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 100,
-          "oferta": 100,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1118496/942110d68213e93ae6adb8bda732cd47.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7809?lote=36",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1118497,
-          "lote": "37",
-          "titulo": "6 discos con fotos 3D para view master imagenes  3 de Suiza y 3 de Francia",
-          "descripcion": null,
-          "artista": "Suiza",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1118497/4f952e770c5d0b8110ae8e2140fb0a5b.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7809?lote=37",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1118498,
-          "lote": "38",
-          "titulo": "3 discos con fotos 3D para view master imagenes de Canada",
-          "descripcion": null,
-          "artista": "Canada",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 100,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1118498/ce870f797b5719eefad13ca094e31aef.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7809?lote=38",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1118499,
-          "lote": "39",
-          "titulo": "3 discos con fotos 3D para view master de Hulk",
-          "descripcion": null,
-          "artista": "Hulk",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 150,
-          "oferta": 150,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1118499/9ce405c79b1cbe2d747fef5e394dc1d8.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7809?lote=39",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1118500,
-          "lote": "40",
-          "titulo": "1 disco con fotos 3D para view master de los 3 cochinitos",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 100,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1118500/cb46a0803ca0837ab2273725ab9a082b.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7809?lote=40",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1118501,
-          "lote": "41",
-          "titulo": "2 discos con fotos 3D para view master de Disneyland",
-          "descripcion": null,
-          "artista": "Disneyland",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 100,
-          "oferta": 100,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1118501/c96df8ca4315b4758e1b1a1d5224123c.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7809?lote=41",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1118502,
-          "lote": "42",
-          "titulo": "4 discos con fotos 3D para view master de The Magic Kingdom",
-          "descripcion": null,
-          "artista": "The Magic Kingdom",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 150,
-          "oferta": 150,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1118502/faf9ab2ee7ef3398e94c96d69068f2b1.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7809?lote=42",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        }
-      ],
-      "datosDe": "2026-09-14T09:41:02.542Z"
-    },
-    {
-      "id": "7830",
-      "nombre": "♦️Antigüedades Y Coleccionables♦️",
-      "empresa": "Verónica Aristegui Díaz",
-      "departamento": "San José",
-      "lugar": "Parada 8 manzana 3 solar 16 calle colocolo, Playa pascual, San José, San José",
-      "fecha": "14/09/2026, 17:30",
-      "fechaISO": "2026-09-14T20:30:00.000Z",
-      "timestamp": 1789417800,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7830",
-      "totalLotes": 105,
-      "vinilos": [],
-      "datosDe": "2026-09-14T09:41:02.542Z"
-    },
-    {
-      "id": "7788",
-      "nombre": "GRAN REMATE DE DISCOS LP DE GRANDES ARTISTAS SE SEGUIRÁN AGREGANDO LOTES",
-      "empresa": "Remates Squadroni",
-      "departamento": "Montevideo",
-      "lugar": "Tristan Narvaja 1724 ( Montevideo), Montevideo",
-      "fecha": "14/09/2026, 19:00",
-      "fechaISO": "2026-09-14T22:00:00.000Z",
-      "timestamp": 1789423200,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7788",
-      "totalLotes": 50,
-      "vinilos": [],
-      "datosDe": "2026-09-14T09:41:02.542Z"
-    },
     {
       "id": "7847",
       "nombre": "✅ Remate de antiguedades y coleccionables, se destacan artículos de Coca-Cola, encendedores, silbato Acme, coleccionables de whisky, christofle, artículos del mundial 2026, herramientas, muebles y más!!!",
@@ -187,7 +15,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7847",
       "totalLotes": 173,
       "vinilos": [],
-      "datosDe": "2026-09-14T09:41:02.542Z"
+      "datosDe": "2026-09-14T23:48:29.660Z"
     },
     {
       "id": "7861",
@@ -200,7 +28,7 @@
       "timestamp": 1789506000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7861",
-      "totalLotes": 152,
+      "totalLotes": 153,
       "vinilos": [
         {
           "id": 1129889,
@@ -221,7 +49,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-14T09:41:02.542Z"
+      "datosDe": "2026-09-14T23:48:29.660Z"
     },
     {
       "id": "7801",
@@ -255,7 +83,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-14T09:41:02.542Z"
+      "datosDe": "2026-09-14T23:48:29.660Z"
     },
     {
       "id": "7848",
@@ -270,7 +98,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7848",
       "totalLotes": 150,
       "vinilos": [],
-      "datosDe": "2026-09-14T09:41:02.542Z"
+      "datosDe": "2026-09-14T23:48:29.660Z"
     },
     {
       "id": "7889",
@@ -602,7 +430,7 @@
           "anio": null,
           "moneda": "$",
           "base": 300,
-          "oferta": 420,
+          "oferta": 460,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132415/1ad077ecf2a30828d05920342cb8b5f8.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=18",
           "motivos": [
@@ -1421,7 +1249,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-14T09:41:02.542Z"
+      "datosDe": "2026-09-14T23:48:29.660Z"
     },
     {
       "id": "7660",
@@ -1473,7 +1301,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-14T09:41:02.542Z"
+      "datosDe": "2026-09-14T23:48:29.660Z"
     },
     {
       "id": "7905",
@@ -1517,7 +1345,7 @@
           "anio": "1956",
           "moneda": "$",
           "base": 800,
-          "oferta": 1100,
+          "oferta": 1200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134443/ae66f4ed5fae335c3becd25fed0ca597.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7905?lote=45",
           "motivos": [
@@ -1554,7 +1382,7 @@
           "anio": null,
           "moneda": "$",
           "base": 300,
-          "oferta": null,
+          "oferta": 300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134531/5f29cd1597927f522dfc38a0f3ad922b.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7905?lote=130",
           "motivos": [
@@ -1665,7 +1493,7 @@
           "anio": "2001",
           "moneda": "$",
           "base": 400,
-          "oferta": null,
+          "oferta": 400,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134604/8446131b5221c698e8ed2c4ea09bf2d8.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7905?lote=203",
           "motivos": [
@@ -1674,7 +1502,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-14T09:41:02.542Z"
+      "datosDe": "2026-09-14T23:48:29.660Z"
     },
     {
       "id": "7740",
@@ -1726,7 +1554,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-14T09:41:02.542Z"
+      "datosDe": "2026-09-14T23:48:29.660Z"
     },
     {
       "id": "7456",
@@ -1741,7 +1569,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7456",
       "totalLotes": 111,
       "vinilos": [],
-      "datosDe": "2026-09-14T09:41:02.542Z"
+      "datosDe": "2026-09-14T23:48:29.660Z"
     },
     {
       "id": "7729",
@@ -1756,7 +1584,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7729",
       "totalLotes": 100,
       "vinilos": [],
-      "datosDe": "2026-09-14T09:41:02.542Z"
+      "datosDe": "2026-09-14T23:48:29.660Z"
     },
     {
       "id": "7011",
@@ -1874,7 +1702,7 @@
           "anio": null,
           "moneda": "$",
           "base": 300,
-          "oferta": null,
+          "oferta": 300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1061134/9971152ebd012f4b09c7bf29b7c6f7f9.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7011?lote=68",
           "motivos": [
@@ -2047,7 +1875,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-14T09:41:02.542Z"
+      "datosDe": "2026-09-14T23:48:29.660Z"
     },
     {
       "id": "7795",
@@ -2062,7 +1890,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7795",
       "totalLotes": 69,
       "vinilos": [],
-      "datosDe": "2026-09-14T09:41:02.542Z"
+      "datosDe": "2026-09-14T23:48:29.660Z"
     },
     {
       "id": "7790",
@@ -2077,7 +1905,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7790",
       "totalLotes": 95,
       "vinilos": [],
-      "datosDe": "2026-09-14T09:41:02.542Z"
+      "datosDe": "2026-09-14T23:48:29.660Z"
     },
     {
       "id": "7818",
@@ -2092,7 +1920,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7818",
       "totalLotes": 174,
       "vinilos": [],
-      "datosDe": "2026-09-14T09:41:02.542Z"
+      "datosDe": "2026-09-14T23:48:29.660Z"
     },
     {
       "id": "7843",
@@ -2107,7 +1935,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7843",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-09-14T09:41:02.542Z"
+      "datosDe": "2026-09-14T23:48:29.660Z"
     },
     {
       "id": "7876",
@@ -2122,17 +1950,17 @@
       "url": "https://www.remotes.com.uy/participar/remate/7876",
       "totalLotes": 189,
       "vinilos": [],
-      "datosDe": "2026-09-14T09:41:02.542Z"
+      "datosDe": "2026-09-14T23:48:29.660Z"
     },
     {
       "id": "7828",
-      "nombre": "FECHA A CONFIRMAR ---🏺LA PAZ  Y ARTIGAS - Envíos a Todo el País - ¡REMATE ESPECIAL! ANTIGÜEDADES, VINTAGE & PIEZAS ÚNICAS — ¡OPORTUNIDADES DESDE $100!    Una selección de objetos con historia, piezas vintage, porcelanas, vajilla, decoración y artículos de colección.  ------------ ¡MIRÁ LOS LOTES, ELEGÍ TUS FAVORITOS Y OFERTÁ!   ------------------------------------------------- ⭐ ¿ TIENE ARTÍCULOS EN DESUSO, STOCK INMOVILIZADO Y PREFIERE UNA MODALIDAD MAS PRÁCTICA, PRIVADA Y CÓMODA ?---------------¡CONVERTILOS EN DINERO!--------------Realizamos remates online y presenciales y trabajamos con particulares, comercios, empresas, sucesiones, liquidaciones y revendedores de todo el país.Nos encargamos de la publicación, promoción, gestión de consultas, cobro y coordinación de entrega, para que puedas vender de forma ágil y sin complicaciones.📲 Consultas: 092 222 266",
+      "nombre": "🏺LA PAZ  Y ARTIGAS - Envíos a Todo el País - ¡REMATE ESPECIAL! ANTIGÜEDADES, VINTAGE & PIEZAS ÚNICAS — ¡OPORTUNIDADES DESDE $100!    Una selección de objetos con historia, piezas vintage, porcelanas, vajilla, decoración y artículos de colección.  ------------ ¡MIRÁ LOS LOTES, ELEGÍ TUS FAVORITOS Y OFERTÁ!   ------------------------------------------------- ⭐ ¿ TIENE ARTÍCULOS EN DESUSO, STOCK INMOVILIZADO Y PREFIERE UNA MODALIDAD MAS PRÁCTICA, PRIVADA Y CÓMODA ?---------------¡CONVERTILOS EN DINERO!--------------Realizamos remates online y presenciales y trabajamos con particulares, comercios, empresas, sucesiones, liquidaciones y revendedores de todo el país.Nos encargamos de la publicación, promoción, gestión de consultas, cobro y coordinación de entrega, para que puedas vender de forma ágil y sin complicaciones.📲 Consultas: 092 222 266",
       "empresa": "Vip Subastas",
       "departamento": "CANELONES",
       "lugar": "LA PAZ, CANELONES",
-      "fecha": "20/09/2026, 21:00",
-      "fechaISO": "2026-09-21T00:00:00.000Z",
-      "timestamp": 1789948800,
+      "fecha": "06/10/2026, 21:00",
+      "fechaISO": "2026-10-07T00:00:00.000Z",
+      "timestamp": 1791331200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7828",
       "totalLotes": 29,
@@ -2156,7 +1984,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-14T09:41:02.542Z"
+      "datosDe": "2026-09-14T23:48:29.660Z"
     }
   ]
 }
