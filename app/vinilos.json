@@ -1,1173 +1,7 @@
 {
-  "generado": "2026-09-16T09:09:59.727Z",
+  "generado": "2026-09-16T23:35:59.943Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "7848",
-      "nombre": "⚠️ ATENCIÓN aun faltan cargar más lotes pero ya podes ofertar⚠️",
-      "empresa": "Remate Paysandú",
-      "departamento": "Paysandú",
-      "lugar": "Uruguay y Montecaseros, Ciudad de Paysandú, Paysandú",
-      "fecha": "16/09/2026, 12:00",
-      "fechaISO": "2026-09-16T15:00:00.000Z",
-      "timestamp": 1789570800,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7848",
-      "totalLotes": 153,
-      "vinilos": [],
-      "datosDe": "2026-09-16T09:09:59.727Z"
-    },
-    {
-      "id": "7889",
-      "nombre": "Gran Subasta de Vinilos, CDs y Cassettes: Lotes Variados, Clásicos e Ítemes Únicos",
-      "empresa": "Flores Montaña Subastas",
-      "departamento": "SALTO",
-      "lugar": "SALTO, SALTO",
-      "fecha": "16/09/2026, 15:30",
-      "fechaISO": "2026-09-16T18:30:00.000Z",
-      "timestamp": 1789583400,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7889",
-      "totalLotes": 86,
-      "vinilos": [
-        {
-          "id": 1132398,
-          "lote": "1",
-          "titulo": "Lote 4 discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132398/39f7dec6a4eae3ad2106e69c5774755c.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=1",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132399,
-          "lote": "2",
-          "titulo": "Lote 4 discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132399/8a8a01dbf9ee47139939f2774de20d80.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=2",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132400,
-          "lote": "3",
-          "titulo": "Lote 4 discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132400/25249f4b5907ac4f0c87458ff1e36404.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=3",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132401,
-          "lote": "4",
-          "titulo": "Lote 4 discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132401/3ae4842e6b7d5cc1e06d6e48f3ea91dd.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=4",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132402,
-          "lote": "5",
-          "titulo": "Lote 4 discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132402/355b0f2726022c5a2946dcff02ee0fbc.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=5",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132403,
-          "lote": "6",
-          "titulo": "Lote 4 discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132403/0427dab5fa07c0314df11e7d332b33d3.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=6",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132404,
-          "lote": "7",
-          "titulo": "Lote 4 discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132404/4b643ca6e1ef78d3e806dac8ecbb325b.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=7",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132405,
-          "lote": "8",
-          "titulo": "Lote 4 discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132405/e7f23a4f8f83d119ad5d241822a712fc.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=8",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132406,
-          "lote": "9",
-          "titulo": "Lote 4 discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132406/62285e66cc6c802738089a4cb3b5722b.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=9",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132407,
-          "lote": "10",
-          "titulo": "Disco de los más buscados el cubano",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 440,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132407/ce9159a3206308d78048abcaffaa8f54.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=10",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132408,
-          "lote": "11",
-          "titulo": "Dos discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132408/6443b0e238f683de473446f73bb72a91.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=11",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132409,
-          "lote": "12",
-          "titulo": "Disco de los más buscados grupo keguay",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 420,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132409/5f9898aa3f7f97488ab58108ee7d453d.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=12",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132410,
-          "lote": "13",
-          "titulo": "Disco de los más buscados combo kamguey",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 420,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132410/27a61b2fff61e42f1b751bccfdda7d2e.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=13",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132411,
-          "lote": "14",
-          "titulo": "Disco de los más buscados los tabanos",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 460,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132411/0ee974bc09915483e55b6bcd4733eb64.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=14",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132412,
-          "lote": "15",
-          "titulo": "Disco de los más buscados Maracaibo",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 340,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132412/1acd432bcdf519fee393f0437b1b35a2.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=15",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132413,
-          "lote": "16",
-          "titulo": "Disco de los más buscados anakaona",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 380,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132413/fb26a30cbab7f78f8cfa6f43b664f061.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=16",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132414,
-          "lote": "17",
-          "titulo": "Disco de los más buscados Aldo monges",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132414/94fdedf4bc9e2e230098b0a118f2fe5b.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=17",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132415,
-          "lote": "18",
-          "titulo": "Disco antiguo tim Maia",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 1400,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132415/1ad077ecf2a30828d05920342cb8b5f8.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=18",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132416,
-          "lote": "19",
-          "titulo": "Disco De los más buscados cotopaxi",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 400,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132416/401bf6b702d028ae5c3fa0c972e7f44c.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=19",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132417,
-          "lote": "20",
-          "titulo": "Disco Roberto Barry el mundo gira en el sexo",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 400,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132417/9f9febed390a0d8049a1c22efb517344.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=20",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132418,
-          "lote": "21",
-          "titulo": "Otro disco de los más buscados sonora Borinquen",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 440,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132418/dd7f998a8269955a38d0435681a554a0.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=21",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132419,
-          "lote": "22",
-          "titulo": "Otro disco de los más buscados grupo keguay",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 320,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132419/2ab82d970dce03dd6359990c2367d896.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=22",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132420,
-          "lote": "23",
-          "titulo": "Disco música the bee gees",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132420/ebd10e92b6746e8e001304d9574f2fea.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=23",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132421,
-          "lote": "24",
-          "titulo": "Disco antiguo Frank sinatra - basie",
-          "descripcion": null,
-          "artista": "Disco antiguo Frank sinatra",
-          "album": "basie",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132421/49a83f480dd8ef8e099b28767e7a49a1.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=24",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132422,
-          "lote": "25",
-          "titulo": "Disco antiguo Frank sinatra",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 500,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132422/33a87ae6234f87456dd1bd073b269c81.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=25",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132423,
-          "lote": "26",
-          "titulo": "Disco único difícil de encontrar Tita Merello",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 500,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132423/4f213b1cf244d91917bc438ff4b01270.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=26",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132424,
-          "lote": "27",
-          "titulo": "Disco antiguo los iracundos",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 220,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132424/6bb46779742e33331ba99bd27cbff5fc.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=27",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132425,
-          "lote": "28",
-          "titulo": "Disco antiguo Gardel",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132425/57e830d0579a1558345e16f45e9e4c2d.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=28",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132427,
-          "lote": "30",
-          "titulo": "Disco variado en la playa con Macondo",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 340,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132427/ee5f8f2a1c6f9402401fc57e2819f158.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=30",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132428,
-          "lote": "31",
-          "titulo": "Disco variado tropicanaclub",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 500,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132428/f292569c1fdd336f0a47dfba8786a54a.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=31",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132429,
-          "lote": "32",
-          "titulo": "Dos discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132429/54f8f50b68147f2e86b921f6204fa7d7.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=32",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132430,
-          "lote": "33",
-          "titulo": "Dos discos varios Frank pourcel",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132430/e17057ac78a2d8cb40134b76d2b6c5c0.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=33",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132431,
-          "lote": "34",
-          "titulo": "Dos discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132431/56f06d8d679fe5a877e20d6b3333555a.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=34",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132432,
-          "lote": "35",
-          "titulo": "Dos discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132432/b8d33b2f94ac19f6e57195109424e573.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=35",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132433,
-          "lote": "36",
-          "titulo": "Dos discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132433/419858cd76ab53a66bf00541452dfcc4.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=36",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132434,
-          "lote": "37",
-          "titulo": "Dos discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132434/e6c5cdf6b2290317cc7d81ecc8364c5a.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=37",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132435,
-          "lote": "38",
-          "titulo": "Dos discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132435/3634ee4173e4c3d74c6597a090255870.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=38",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132436,
-          "lote": "39",
-          "titulo": "Dos discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132436/699337562c232183a4cad722742486e5.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=39",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132437,
-          "lote": "40",
-          "titulo": "Dos discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132437/70abf034f8dc3fecf712a71f4755020e.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=40",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132438,
-          "lote": "41",
-          "titulo": "Dos discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132438/d845e62df942828215fbcdfa5bab0069.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=41",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132439,
-          "lote": "42",
-          "titulo": "Dos discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132439/77f2ea23c55e65db1b9f7d6fee8d563f.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=42",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132440,
-          "lote": "43",
-          "titulo": "Dos discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132440/96f7ab5e0fc577113e9f36deb297f4d6.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=43",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132441,
-          "lote": "44",
-          "titulo": "Disco antiguo Sandro",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132441/b694bd3fe2500d28b158a0d82b32ad91.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=44",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132442,
-          "lote": "45",
-          "titulo": "Dos discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132442/e9d0d9742bd648696dcfd6b00b10a545.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=45",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132443,
-          "lote": "46",
-          "titulo": "Dos discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132443/44d4bc02163705a7563b17861aadd198.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=46",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132444,
-          "lote": "47",
-          "titulo": "Dos discos varios Roberto Carlos",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132444/ebfe311c16dc3e3987c438b40d607eb1.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=47",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132445,
-          "lote": "48",
-          "titulo": "Dos discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132445/f3dd0611befa9259cf03acd3ce8f01e2.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=48",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132446,
-          "lote": "49",
-          "titulo": "Dos discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 280,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132446/450cf71b89be15ffd4c178551604fe19.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=49",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132447,
-          "lote": "50",
-          "titulo": "Dos discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132447/7271ee7d9ba5885288cad4d337d1cf9b.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=50",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132448,
-          "lote": "51",
-          "titulo": "Dos discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132448/a85e8fa094ce643454c0b54f014619dd.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=51",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132449,
-          "lote": "52",
-          "titulo": "Disco antiguo trio los panchos",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132449/6747b9efdf58a6eb340356320dccc6b7.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=52",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132450,
-          "lote": "53",
-          "titulo": "Dos discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132450/c47e6d5063684ce601b5b0b0232ec444.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=53",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132451,
-          "lote": "54",
-          "titulo": "Dos discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132451/721b1974b6e0133f00520286935db05f.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=54",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132452,
-          "lote": "55",
-          "titulo": "Dos discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132452/e20d02c8033716475c22dcf8b98ea551.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=55",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132453,
-          "lote": "56",
-          "titulo": "Dos discos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132453/159dbd66a78f738b886dfbe658e712e1.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=56",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132454,
-          "lote": "57",
-          "titulo": "Lote 4 discos chicos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132454/63f2cd403fc883cced8205c5faa1a88c.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=57",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132455,
-          "lote": "58",
-          "titulo": "Lote 3 discos chicos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132455/bf52e2e02d38ae290f559cfb3eea29b7.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=58",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132456,
-          "lote": "59",
-          "titulo": "Lote 4 discos chicos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132456/5925c00b479a6b1dd3a029c6de581309.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=59",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132457,
-          "lote": "60",
-          "titulo": "Lote 3 discos chicos varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132457/3fb6508251a82ce863a0de84439246e2.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=60",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132465,
-          "lote": "68",
-          "titulo": "Lote 4 discos varios bolero",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132465/2360152d753d5fadab1b8fe10a41e15d.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=68",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132466,
-          "lote": "69",
-          "titulo": "Dos discos originales murga Uruguay",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132466/4df60d33e161aa4a90187a58c214a228.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=69",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132468,
-          "lote": "71",
-          "titulo": "Dos discos originales varios",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132468/df9f99cf3bc8a7f3ed94c1bc9e245ece.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=71",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132469,
-          "lote": "72",
-          "titulo": "Disco original nuevo sellado mejor Uruguay en sudáfrica 2010",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": "2010",
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132469/ce142c157bf869a1d4cc0ee4d3de7ccd.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7889?lote=72",
-          "motivos": [
-            "dice \"disco\"",
-            "año 2010"
-          ]
-        }
-      ],
-      "datosDe": "2026-09-16T09:09:59.727Z"
-    },
     {
       "id": "7914",
       "nombre": "Remate únicamente de PRE-OFERTAS‼️",
@@ -1181,7 +15,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7914",
       "totalLotes": 55,
       "vinilos": [],
-      "datosDe": "2026-09-16T09:09:59.727Z"
+      "datosDe": "2026-09-16T23:35:59.943Z"
     },
     {
       "id": "7660",
@@ -1233,7 +67,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-16T09:09:59.727Z"
+      "datosDe": "2026-09-16T23:35:59.943Z"
     },
     {
       "id": "7905",
@@ -1434,7 +268,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-16T09:09:59.727Z"
+      "datosDe": "2026-09-16T23:35:59.943Z"
     },
     {
       "id": "7740",
@@ -1486,7 +320,42 @@
           ]
         }
       ],
-      "datosDe": "2026-09-16T09:09:59.727Z"
+      "datosDe": "2026-09-16T23:35:59.943Z"
+    },
+    {
+      "id": "7845",
+      "nombre": "Liquidación Mercería en El Reducto - Cristalería - Adornos - Muebles -Mostrador, Banquetas, Carteles y Artículos Coleccionables Coca Cola - Fuentes a Agua Interiores - Adoquines y Más.....SEGUIMOS SUBIENDO LOTES SEGUI MIRANDO NUESTRA SUBASTA... Puedes Ir Dejando Tus Pre-Ofertas!!!!!",
+      "empresa": "Eduardo Díaz Bazán",
+      "departamento": "Montevideo",
+      "lugar": "San Martín 2644, Montevideo",
+      "fecha": "18/09/2026, 16:30",
+      "fechaISO": "2026-09-18T19:30:00.000Z",
+      "timestamp": 1789759800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7845",
+      "totalLotes": 423,
+      "vinilos": [
+        {
+          "id": 1125817,
+          "lote": "58",
+          "titulo": "Libro Recopilación De Fotografías Artística \"Hasta Hoy\" - Anne Geddes Año 1998",
+          "descripcion": null,
+          "artista": null,
+          "album": "Hasta Hoy",
+          "sello": null,
+          "anio": "1998",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1125817/268fa39ff1e58f5b4f595201c249b794.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7845?lote=58",
+          "motivos": [
+            "formato \"Artista - Título\" + contexto musical",
+            "año 1998"
+          ]
+        }
+      ],
+      "datosDe": "2026-09-16T23:35:59.943Z"
     },
     {
       "id": "7456",
@@ -1501,7 +370,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7456",
       "totalLotes": 111,
       "vinilos": [],
-      "datosDe": "2026-09-16T09:09:59.727Z"
+      "datosDe": "2026-09-16T23:35:59.943Z"
     },
     {
       "id": "7729",
@@ -1516,7 +385,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7729",
       "totalLotes": 100,
       "vinilos": [],
-      "datosDe": "2026-09-16T09:09:59.727Z"
+      "datosDe": "2026-09-16T23:35:59.943Z"
     },
     {
       "id": "7795",
@@ -1531,7 +400,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7795",
       "totalLotes": 69,
       "vinilos": [],
-      "datosDe": "2026-09-16T09:09:59.727Z"
+      "datosDe": "2026-09-16T23:35:59.943Z"
     },
     {
       "id": "7790",
@@ -1546,7 +415,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7790",
       "totalLotes": 95,
       "vinilos": [],
-      "datosDe": "2026-09-16T09:09:59.727Z"
+      "datosDe": "2026-09-16T23:35:59.943Z"
     },
     {
       "id": "7818",
@@ -1561,7 +430,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7818",
       "totalLotes": 174,
       "vinilos": [],
-      "datosDe": "2026-09-16T09:09:59.727Z"
+      "datosDe": "2026-09-16T23:35:59.943Z"
     },
     {
       "id": "7843",
@@ -1576,7 +445,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7843",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-09-16T09:09:59.727Z"
+      "datosDe": "2026-09-16T23:35:59.943Z"
     },
     {
       "id": "7876",
@@ -1591,7 +460,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7876",
       "totalLotes": 189,
       "vinilos": [],
-      "datosDe": "2026-09-16T09:09:59.727Z"
+      "datosDe": "2026-09-16T23:35:59.943Z"
     },
     {
       "id": "7871",
@@ -1606,7 +475,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7871",
       "totalLotes": 105,
       "vinilos": [],
-      "datosDe": "2026-09-16T09:09:59.727Z"
+      "datosDe": "2026-09-16T23:35:59.943Z"
     },
     {
       "id": "7011",
@@ -1897,7 +766,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-16T09:09:59.727Z"
+      "datosDe": "2026-09-16T23:35:59.943Z"
     },
     {
       "id": "7920",
@@ -1912,7 +781,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7920",
       "totalLotes": 111,
       "vinilos": [],
-      "datosDe": "2026-09-16T09:09:59.727Z"
+      "datosDe": "2026-09-16T23:35:59.943Z"
     },
     {
       "id": "7828",
@@ -1946,7 +815,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-16T09:09:59.727Z"
+      "datosDe": "2026-09-16T23:35:59.943Z"
     },
     {
       "id": "7928",
@@ -1961,7 +830,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7928",
       "totalLotes": 1,
       "vinilos": [],
-      "datosDe": "2026-09-16T09:09:59.727Z"
+      "datosDe": "2026-09-16T23:35:59.943Z"
     }
   ]
 }
