@@ -1,330 +1,10 @@
 {
-  "generado": "2026-09-17T09:18:11.437Z",
+  "generado": "2026-09-17T23:29:09.816Z",
   "fallos": 0,
   "remates": [
     {
-      "id": "7914",
-      "nombre": "Remate únicamente de PRE-OFERTAS‼️",
-      "empresa": "Ignacio Zinoveev",
-      "departamento": "Maldonado",
-      "lugar": "Av Lussich , Maldonado",
-      "fecha": "17/09/2026, 18:00",
-      "fechaISO": "2026-09-17T21:00:00.000Z",
-      "timestamp": 1789678800,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7914",
-      "totalLotes": 55,
-      "vinilos": [],
-      "datosDe": "2026-09-17T09:18:11.437Z"
-    },
-    {
-      "id": "7660",
-      "nombre": "🐎 ¡IMPERDIBLE REMATE DE ARTÍCULOS CRIOLLOS Y ANTIGÜEDADES DE CAMPO! 🧉 CUCHILLOS, MATES Y BOMBILLAS ✨ PIEZAS DE PLATA Y ORO ✅ RASTRAS Y SOGUERÍA CRIOLLA ✅ ANTIGUAS HERRAMIENTAS RURALES, ARADOS Y RUEDAS DE CARRO ✅REBENQUES Y ENSERES CRIOLLOS ✅ ROBUSTOS LEÑEROS DE HIERRO FORJADO, MUEBLES RÚSTICOS, PERCHEROS, TACHOS LECHEROS Y MUCHO MÁS. 🔥 UNA VARIADA SELECCIÓN PARA COLECCIONISTAS Y PARA DARLE CARÁCTER A SU HOGAR, QUINCHO O ESTANCIA.  ➡️ SI NO PUEDE ACOMPAÑARNOS DURANTE LA TRANSMISIÓN, PUEDE DEJAR SU PREOFERTA.",
-      "empresa": "Mesa & Rossell - Remates de calidad",
-      "departamento": "Montevideo",
-      "lugar": "Lancaster e/ Rafael Hortiguera (La esquina de los buenos negocios), Montevideo",
-      "fecha": "17/09/2026, 18:30",
-      "fechaISO": "2026-09-17T21:30:00.000Z",
-      "timestamp": 1789680600,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7660",
-      "totalLotes": 103,
-      "vinilos": [
-        {
-          "id": 1132144,
-          "lote": "66",
-          "titulo": "NO SE ENVÍA. Antiguo arado de mancera de tracción animal, realizado en hierro, con dos manceras unidas por travesaño, vertedera curva y rueda delantera de disco con soporte de regulación. Para restaurar - Ver más en detalles y medidas en fotografías",
-          "descripcion": "⚠️Plazo para pago y retiro hasta el SÁBADO 19/9, haga su oferta con responsabilidad sabiendo que podrá cumplir las condiciones del remate⚠️",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "U$S",
-          "base": 30,
-          "oferta": 30,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132144/ea8bbec70de115b022634fbfaae68576.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7660?lote=66",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1132146,
-          "lote": "68",
-          "titulo": "NO SE ENVÍA. Antiguo arado de mancera de tracción animal, realizado en hierro, con mancera larga, cuerpo con dos alas curvas y rueda delantera de disco con soporte y enganche regulables. Para restaurar - Ver más en detalles y medidas en fotografías",
-          "descripcion": "⚠️Plazo para pago y retiro hasta el SÁBADO 19/9, haga su oferta con responsabilidad sabiendo que podrá cumplir las condiciones del remate⚠️",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "U$S",
-          "base": 30,
-          "oferta": 30,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1132146/8abc4449dca30c4e3275958c5c536d07.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7660?lote=68",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        }
-      ],
-      "datosDe": "2026-09-17T09:18:11.437Z"
-    },
-    {
-      "id": "7905",
-      "nombre": "INIGUALABLE remate de POPURRI DE COLECCIONABLES al mejor estilo RDV: CINE, PAPELES CON HISTORIA, JUGUETES, DEPORTES, y mucho más...Pase y revise...realmente hay DE TODO",
-      "empresa": "Rincón del Vintage",
-      "departamento": "Montevideo",
-      "lugar": "Caramuru 6007 esq. Belastiqui (Punta Gorda), Montevideo",
-      "fecha": "17/09/2026, 18:45",
-      "fechaISO": "2026-09-17T21:45:00.000Z",
-      "timestamp": 1789681500,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7905",
-      "totalLotes": 304,
-      "vinilos": [
-        {
-          "id": 1134432,
-          "lote": "34",
-          "titulo": "Seis tarjetas del Álbum uruguayo Astros del Cine, se destacan Carlos Gardel, Clark Gable, Gary Cooper, Greta Garbo et",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134432/8535938b0b36e42b9386ea70ffb6cc6e.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7905?lote=34",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1134443,
-          "lote": "45",
-          "titulo": "Álbum fotográfico de la Película \"La Batalla del Río de la Plata\" Año 1956, filmada en Uruguay, con gran cantidad de fotografías originales.",
-          "descripcion": null,
-          "artista": "Película",
-          "album": "La Batalla del Río de la Plata",
-          "sello": null,
-          "anio": "1956",
-          "moneda": "$",
-          "base": 800,
-          "oferta": 1200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134443/ae66f4ed5fae335c3becd25fed0ca597.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7905?lote=45",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1956"
-          ]
-        },
-        {
-          "id": 1134498,
-          "lote": "100",
-          "titulo": "Variedad de artículos: lunchera de Vascolet, maletín de Heidi y Marco, disco inflable de Batman return y colgante de Mafalda en madera",
-          "descripcion": null,
-          "artista": "Vascolet",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 400,
-          "oferta": 400,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134498/a6bced531a5e4603d04af8e7925d0361.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7905?lote=100",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1134531,
-          "lote": "130",
-          "titulo": "Lote De Seis Álbumes De Figuritas Incompletos: El Por Que de Las Cosas, Tarzan, Maravillas De La Historia Natural.",
-          "descripcion": null,
-          "artista": "Las Cosas",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134531/5f29cd1597927f522dfc38a0f3ad922b.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7905?lote=130",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1134532,
-          "lote": "131",
-          "titulo": "Álbum Águila Encuadernado, Completo",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134532/e5e39eb81f3dfae9c6d1375c396ac07d.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7905?lote=131",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1134537,
-          "lote": "136",
-          "titulo": "Álbum Para Fotografías De Garfield Año 1978",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": "1978",
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134537/f3377f805b5e5a0dd56cc8bf2c085cae.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7905?lote=136",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1978"
-          ]
-        },
-        {
-          "id": 1134538,
-          "lote": "137",
-          "titulo": "Álbum Para Pins Vacío, Excelente Estado",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 400,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134538/60b758303c3bb0e4694ca468e9dcfe13.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7905?lote=137",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1134602,
-          "lote": "201",
-          "titulo": "Álbumes de figuritas del Mundial de Sudáfrica 2010 y Rusia 2018 incompletos pero con muchas figuritas",
-          "descripcion": null,
-          "artista": "Sudáfrica",
-          "album": null,
-          "sello": null,
-          "anio": "2010",
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134602/80a2daecdf9945cf1b0fd21f83ba3561.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7905?lote=201",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 2010"
-          ]
-        },
-        {
-          "id": 1134603,
-          "lote": "202",
-          "titulo": "Álbumes de figuritas de la Copa América 2011 y 2015 incompletos",
-          "descripcion": null,
-          "artista": "Copa América",
-          "album": null,
-          "sello": null,
-          "anio": "2011",
-          "moneda": "$",
-          "base": 300,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134603/311eb77233c2542c035ab25d427aac6b.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7905?lote=202",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 2011"
-          ]
-        },
-        {
-          "id": 1134604,
-          "lote": "203",
-          "titulo": "Álbum del Fútbol Uruguayo año 2001, Completo",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": "2001",
-          "moneda": "$",
-          "base": 400,
-          "oferta": 440,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134604/8446131b5221c698e8ed2c4ea09bf2d8.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7905?lote=203",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 2001"
-          ]
-        }
-      ],
-      "datosDe": "2026-09-17T09:18:11.437Z"
-    },
-    {
-      "id": "7740",
-      "nombre": "\"Remate de Tesoros Sueltos: Electro, Decoración, Calefacción, Tecnología y objetos de colección a precios de arranque — ¡No te lo pierdas, esta oportunidad no se repite!\"",
-      "empresa": "Pablo Barrientos",
-      "departamento": "Canelones",
-      "lugar": "CONTINUACION Z4 ENTRE 8 Y 9 Parque del Plata , Costa de Oro, Canelones",
-      "fecha": "17/09/2026, 19:00",
-      "fechaISO": "2026-09-17T22:00:00.000Z",
-      "timestamp": 1789682400,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7740",
-      "totalLotes": 217,
-      "vinilos": [
-        {
-          "id": 1109506,
-          "lote": "11",
-          "titulo": "Lámpara de escritorio articulada con filtros",
-          "descripcion": "En metal, con aros y discos intercambiables",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 0,
-          "oferta": 60,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1109506/fbafe9b64784b71b4f6943b3a0648f52.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7740?lote=11",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1109522,
-          "lote": "27",
-          "titulo": "CD Peteco Carabajal A Viva Voz",
-          "descripcion": "Soy Santiagueño Soy Chacarera, incluye disco bonus",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 0,
-          "oferta": 50,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1109522/86aa0c7576e34497bf1d721a3f1ad6bf.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7740?lote=27",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        }
-      ],
-      "datosDe": "2026-09-17T09:18:11.437Z"
-    },
-    {
       "id": "7845",
-      "nombre": "Liquidación Mercería en El Reducto - Cristalería - Adornos - Muebles -Mostrador, Banquetas, Carteles y Artículos Coleccionables Coca Cola - Fuentes a Agua Interiores - Adoquines y Más.....SEGUIMOS SUBIENDO LOTES SEGUI MIRANDO NUESTRA SUBASTA... Puedes Ir Dejando Tus Pre-Ofertas!!!!!",
+      "nombre": "Liquidación Mercería en El Reducto - Cristalería - Adornos - Muebles -Mostrador, Banquetas, Carteles y Artículos Coleccionables Coca Cola - Campana de Vidrio Pertencio a Importente Bar de Mvdeo - Fuentes a Agua Interiores - Adoquines y Más.....SEGUIMOS SUBIENDO LOTES SEGUI MIRANDO NUESTRA SUBASTA... Puedes Ir Dejando Tus Pre-Ofertas!!!!!",
       "empresa": "Eduardo Díaz Bazán",
       "departamento": "Montevideo",
       "lugar": "San Martín 2644, Montevideo",
@@ -333,7 +13,7 @@
       "timestamp": 1789759800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7845",
-      "totalLotes": 427,
+      "totalLotes": 441,
       "vinilos": [
         {
           "id": 1125817,
@@ -346,16 +26,34 @@
           "anio": "1998",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1125817/268fa39ff1e58f5b4f595201c249b794.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7845?lote=58",
           "motivos": [
             "formato \"Artista - Título\" + contexto musical",
             "año 1998"
           ]
+        },
+        {
+          "id": 1134890,
+          "lote": "265",
+          "titulo": "\"Vintage De Coca-Cola Años 80/90 Barra Alta De Pared: Estructura Alargada De Metal En Color Rojo Brillante Con El Logotipo Clásico De Coca-Cola Impreso En Color Blanco En Los Extremos Del Frente. Diseñada Para Ser Fijada A La Pared, Optimizando El Espacio. Juego De Taburetes (3 Unidades): Tres Banquetas Altas Tubulares De Hierro Pintado En Color Rojo. Cuentan Con Asientos Circulares Acolchados En Cuerina O Vinilo Rojo Y Un Respaldo Bajo De Diseño Curvado Característico De La Época.\"",
+          "descripcion": "No Se Envia Se Retira en la En la Avda. San Martín esq. Guadalupe (Montevideo) - CONCURRIR CON DOS PERSONAS PARA SU TRASLADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 1000,
+          "oferta": 1000,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134890/aaa3ae90b663fdfc412a93e30e8d9432.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7845?lote=265",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
         }
       ],
-      "datosDe": "2026-09-17T09:18:11.437Z"
+      "datosDe": "2026-09-17T23:29:09.816Z"
     },
     {
       "id": "7456",
@@ -370,7 +68,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7456",
       "totalLotes": 111,
       "vinilos": [],
-      "datosDe": "2026-09-17T09:18:11.437Z"
+      "datosDe": "2026-09-17T23:29:09.816Z"
     },
     {
       "id": "7729",
@@ -385,7 +83,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7729",
       "totalLotes": 100,
       "vinilos": [],
-      "datosDe": "2026-09-17T09:18:11.437Z"
+      "datosDe": "2026-09-17T23:29:09.816Z"
     },
     {
       "id": "7795",
@@ -400,7 +98,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7795",
       "totalLotes": 69,
       "vinilos": [],
-      "datosDe": "2026-09-17T09:18:11.437Z"
+      "datosDe": "2026-09-17T23:29:09.816Z"
     },
     {
       "id": "7790",
@@ -415,7 +113,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7790",
       "totalLotes": 95,
       "vinilos": [],
-      "datosDe": "2026-09-17T09:18:11.437Z"
+      "datosDe": "2026-09-17T23:29:09.816Z"
     },
     {
       "id": "7818",
@@ -430,7 +128,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7818",
       "totalLotes": 174,
       "vinilos": [],
-      "datosDe": "2026-09-17T09:18:11.437Z"
+      "datosDe": "2026-09-17T23:29:09.816Z"
     },
     {
       "id": "7843",
@@ -445,7 +143,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7843",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-09-17T09:18:11.437Z"
+      "datosDe": "2026-09-17T23:29:09.816Z"
     },
     {
       "id": "7876",
@@ -458,9 +156,9 @@
       "timestamp": 1789943400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7876",
-      "totalLotes": 189,
+      "totalLotes": 190,
       "vinilos": [],
-      "datosDe": "2026-09-17T09:18:11.437Z"
+      "datosDe": "2026-09-17T23:29:09.816Z"
     },
     {
       "id": "7871",
@@ -475,7 +173,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7871",
       "totalLotes": 105,
       "vinilos": [],
-      "datosDe": "2026-09-17T09:18:11.437Z"
+      "datosDe": "2026-09-17T23:29:09.816Z"
     },
     {
       "id": "7011",
@@ -511,7 +209,7 @@
         {
           "id": 1017561,
           "lote": "23",
-          "titulo": "2 Álbumes de figuritas Panini, incompletos. Wolrd Cup France 1998 y Selecciones de América 2001.",
+          "titulo": "2 Álbumes de figuritas Panini, incompletos. World Cup France 1998 y Selecciones de América 2001.",
           "descripcion": null,
           "artista": "América",
           "album": null,
@@ -766,7 +464,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-17T09:18:11.437Z"
+      "datosDe": "2026-09-17T23:29:09.816Z"
     },
     {
       "id": "7920",
@@ -781,7 +479,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7920",
       "totalLotes": 111,
       "vinilos": [],
-      "datosDe": "2026-09-17T09:18:11.437Z"
+      "datosDe": "2026-09-17T23:29:09.816Z"
     },
     {
       "id": "7828",
@@ -815,7 +513,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-17T09:18:11.437Z"
+      "datosDe": "2026-09-17T23:29:09.816Z"
     },
     {
       "id": "7928",
@@ -830,7 +528,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7928",
       "totalLotes": 1,
       "vinilos": [],
-      "datosDe": "2026-09-17T09:18:11.437Z"
+      "datosDe": "2026-09-17T23:29:09.816Z"
     }
   ]
 }
