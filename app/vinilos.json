@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-17T23:29:09.816Z",
+  "generado": "2026-09-18T08:53:33.528Z",
   "fallos": 0,
   "remates": [
     {
@@ -45,7 +45,7 @@
           "anio": null,
           "moneda": "$",
           "base": 1000,
-          "oferta": 1000,
+          "oferta": 1200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134890/aaa3ae90b663fdfc412a93e30e8d9432.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7845?lote=265",
           "motivos": [
@@ -53,7 +53,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-17T23:29:09.816Z"
+      "datosDe": "2026-09-18T08:53:33.528Z"
     },
     {
       "id": "7456",
@@ -68,7 +68,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7456",
       "totalLotes": 111,
       "vinilos": [],
-      "datosDe": "2026-09-17T23:29:09.816Z"
+      "datosDe": "2026-09-18T08:53:33.528Z"
     },
     {
       "id": "7729",
@@ -81,9 +81,28 @@
       "timestamp": 1789768800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7729",
-      "totalLotes": 100,
-      "vinilos": [],
-      "datosDe": "2026-09-17T23:29:09.816Z"
+      "totalLotes": 115,
+      "vinilos": [
+        {
+          "id": 1141608,
+          "lote": "108",
+          "titulo": "Cierra Circular de madera con disco.",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 1800,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1141608/507df4aa0915b024d24e9ea392623e88.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7729?lote=108",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        }
+      ],
+      "datosDe": "2026-09-18T08:53:33.528Z"
     },
     {
       "id": "7795",
@@ -98,7 +117,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7795",
       "totalLotes": 69,
       "vinilos": [],
-      "datosDe": "2026-09-17T23:29:09.816Z"
+      "datosDe": "2026-09-18T08:53:33.528Z"
     },
     {
       "id": "7790",
@@ -113,7 +132,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7790",
       "totalLotes": 95,
       "vinilos": [],
-      "datosDe": "2026-09-17T23:29:09.816Z"
+      "datosDe": "2026-09-18T08:53:33.528Z"
     },
     {
       "id": "7818",
@@ -128,7 +147,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7818",
       "totalLotes": 174,
       "vinilos": [],
-      "datosDe": "2026-09-17T23:29:09.816Z"
+      "datosDe": "2026-09-18T08:53:33.528Z"
     },
     {
       "id": "7843",
@@ -143,11 +162,11 @@
       "url": "https://www.remotes.com.uy/participar/remate/7843",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-09-17T23:29:09.816Z"
+      "datosDe": "2026-09-18T08:53:33.528Z"
     },
     {
       "id": "7876",
-      "nombre": "⚜️⚜️⚜️ ¡GRAN REMATE! LIQUIDACION CASA EN SHANGRILA – ULTIMA PARTE – RETIRO EN MONTEVIDEO (BASILIO ARAUJO 3732) ✅MUEBLES ANTIGUOS COMO JUEGOS DE COMEDOR, APARADORES, COMODA CON ESPEJO Y MAS ✅PINTURA NACIONAL ✅ANTIGUEDADES Y COLECCIONABLES ✅GRAN JUEGO DE CUBIERTOS 130 PIEZAS 12 PERSONAS ✅RELOJES DE MESA FRANCES Y CON FISIONOMIA TIGRE ✅PORCELANA OLMOS Y VAJILLA INGLESA ✅JARRAS DE CERVEZA ✅DECORACIÓN & ADORNOS ✅MENAGE ✅MOBILIARIO Y ACCESORIOS PARA BEBES Y NIÑOS✅BIJOUTERIE ✅LIBROS SELECCIONADOS Y MUCHO MÁS ✅ENVÍO A TODO EL PAÍS ✅¡PARTICIPA Y DEJA TU PRE-OFERTA AHORA!",
+      "nombre": "⚜️⚜️⚜️ ¡GRAN REMATE! LIQUIDACION CASA EN SHANGRILA – ULTIMA PARTE – RETIRO EN MONTEVIDEO (BASILIO ARAUJO 3732) ✅MUEBLES ANTIGUOS: ESPECTACULAR ROPERO COLONIAL 1 PUERTA CON ESPEJO, JUEGOS DE COMEDOR, APARADORES, COMODA CON ESPEJO Y MAS ✅PINTURA NACIONAL ✅ANTIGUEDADES Y COLECCIONABLES ✅GRAN JUEGO DE CUBIERTOS 130 PIEZAS 12 PERSONAS ✅RELOJES DE MESA FRANCES Y CON FISIONOMIA TIGRE ✅PORCELANA OLMOS Y VAJILLA INGLESA ✅JARRAS DE CERVEZA ✅DECORACIÓN & ADORNOS ✅MENAGE ✅MOBILIARIO Y ACCESORIOS PARA BEBES Y NIÑOS✅BIJOUTERIE ✅LIBROS SELECCIONADOS Y MUCHO MÁS ✅ENVÍO A TODO EL PAÍS ✅¡PARTICIPA Y DEJA TU PRE-OFERTA AHORA!",
       "empresa": "LOS ROBLES",
       "departamento": "Montevideo",
       "lugar": "Basilio Araújo 3732, Montevideo",
@@ -158,7 +177,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7876",
       "totalLotes": 190,
       "vinilos": [],
-      "datosDe": "2026-09-17T23:29:09.816Z"
+      "datosDe": "2026-09-18T08:53:33.528Z"
     },
     {
       "id": "7871",
@@ -173,7 +192,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7871",
       "totalLotes": 105,
       "vinilos": [],
-      "datosDe": "2026-09-17T23:29:09.816Z"
+      "datosDe": "2026-09-18T08:53:33.528Z"
     },
     {
       "id": "7011",
@@ -464,7 +483,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-17T23:29:09.816Z"
+      "datosDe": "2026-09-18T08:53:33.528Z"
     },
     {
       "id": "7920",
@@ -479,7 +498,190 @@
       "url": "https://www.remotes.com.uy/participar/remate/7920",
       "totalLotes": 111,
       "vinilos": [],
-      "datosDe": "2026-09-17T23:29:09.816Z"
+      "datosDe": "2026-09-18T08:53:33.528Z"
+    },
+    {
+      "id": "7890",
+      "nombre": "GRAN REMATE EN DONDE SE DESTACA 48PCS EN PORCELANA SELLADA POLACA, GRAN VARIEDAD DE ADORNOS, AUTOS EN METAL, JUGUETES ANTIGUOS, CAMPANAS EN BRONCE, FUENTE SELLADA INGLESA, COPAS, CUADROS, ESTATUILLAS COLECCIONABLES PAPA FRANCISCO, DISCOS DE CORTE CAT, PINCELES, VALIJAS DE HERRAMIENTAS, REEL DE PESCA NUEVOS Y MUCHO MÁS❗️",
+      "empresa": "Emilio Baptista Martínez",
+      "departamento": "Montevideo",
+      "lugar": "Domingo Aramburu 1647, Montevideo",
+      "fecha": "23/09/2026, 16:00",
+      "fechaISO": "2026-09-23T19:00:00.000Z",
+      "timestamp": 1790190000,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7890",
+      "totalLotes": 100,
+      "vinilos": [],
+      "datosDe": "2026-09-18T08:53:33.528Z"
+    },
+    {
+      "id": "7935",
+      "nombre": "LIQUIDACION DE ALHAJAMIENTO DE VIVIENDA EN PARQUE BATLLE POR REFORMA, Se destaca un juego de comedor con mesa redonda extensible y sillas, además de muebles para living y dormitorio, mesas auxiliares, escritorios, Bibliotecas, espejos, lámparas y distintos objetos decorativos. Para los amantes de los libros y el coleccionismo: una interesante selección de libros y colecciones, entre ellos un ejemplar impreso en el año 1921, una pieza con más de un siglo de historia que merece especial atención. También encontrarán cuadros y láminas enmarcadas, paisajes, naturalezas muertas, reproducciones clásicas, objetos antiguos, colecciones vinculadas a la historia uruguaya y una selección de discos de vinilo, con títulos de Alfredo Zitarrosa, música clásica y otros intérpretes.",
+      "empresa": "Pablo Barrientos",
+      "departamento": "Canelones",
+      "lugar": "CONTINUACION Z4 ENTRE 8 Y 9 Parque del Plata , Costa de Oro, Canelones",
+      "fecha": "25/09/2026, 19:00",
+      "fechaISO": "2026-09-25T22:00:00.000Z",
+      "timestamp": 1790373600,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7935",
+      "totalLotes": 107,
+      "vinilos": [
+        {
+          "id": 1141095,
+          "lote": "830",
+          "titulo": "Libro ilustrado Montevideo",
+          "descripcion": "Tipo: libro/álbum ilustrado. Volumen dedicado a Montevideo, con material gráfico, artístico e histórico.",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1141095/727ab693f809c4af199843eaf19b1020.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7935?lote=830",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1141115,
+          "lote": "873",
+          "titulo": "Disco de vinilo Demis Roussos",
+          "descripcion": "Tipo: música. Disco de vinilo LP de Demis Roussos, sello Philips, con funda original visible.",
+          "artista": null,
+          "album": null,
+          "sello": "Philips",
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1141115/c7e4c91be6a1b0e3dee19d37c2a1fb1d.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7935?lote=873",
+          "motivos": [
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1141116,
+          "lote": "874",
+          "titulo": "Disco de vinilo Paul Mauriat - Recuerdos de Rusia",
+          "descripcion": "Tipo: música. LP 'Recuerdos de Rusia', Paul Mauriat y su Orquesta, sello Philips.",
+          "artista": "Disco de vinilo Paul Mauriat",
+          "album": "Recuerdos de Rusia",
+          "sello": "Philips",
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1141116/03be860cb67fa20a81d5b7c73731974e.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7935?lote=874",
+          "motivos": [
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1141117,
+          "lote": "875",
+          "titulo": "Disco de vinilo Doctor Zhivago",
+          "descripcion": "Tipo: música/cine. Banda de sonido original de la película 'Doctor Zhivago', disco de vinilo con funda MGM.",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1141117/1149f7528744084f87e65079195d5c37.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7935?lote=875",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1141118,
+          "lote": "876",
+          "titulo": "Disco de vinilo Alfredo Zitarrosa - Del amor herido",
+          "descripcion": "Tipo: música. LP de Alfredo Zitarrosa, 'Canta (2) Zitarrosa / Del amor herido', sello Orfeo.",
+          "artista": "Disco de vinilo Alfredo Zitarrosa",
+          "album": "Del amor herido",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1141118/1fb4df8f0c85a0771d424af51a01934f.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7935?lote=876",
+          "motivos": [
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1141119,
+          "lote": "877",
+          "titulo": "Disco de cd  Beethoven",
+          "descripcion": "Tipo: música clásica. Disco/compact disco dedicado a Beethoven, con funda ilustrada. 5 volumenes",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1141119/61906f3a6e956cfbf19e1733ff6a6abe.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7935?lote=877",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1141122,
+          "lote": "880",
+          "titulo": "Disco de vinilo La Tarantella",
+          "descripcion": "Tipo: música. Discos compactos de  'La Tarantella' y repertorio italiano, con funda ilustrada.",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1141122/4fd46ed253daea039e040e333d5677d2.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7935?lote=880",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1141124,
+          "lote": "882",
+          "titulo": "Cofre secreto imitando libro  ilustrado con mapa del mundo",
+          "descripcion": "Tipo: libro/álbum. Volumen de tapa rígida oscura con representación del globo terráqueo.",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1141124/6b0f6dc7399c5631414bae1028d2c9dc.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7935?lote=882",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        }
+      ],
+      "datosDe": "2026-09-18T08:53:33.528Z"
     },
     {
       "id": "7828",
@@ -513,7 +715,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-17T23:29:09.816Z"
+      "datosDe": "2026-09-18T08:53:33.528Z"
     },
     {
       "id": "7928",
@@ -528,7 +730,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7928",
       "totalLotes": 1,
       "vinilos": [],
-      "datosDe": "2026-09-17T23:29:09.816Z"
+      "datosDe": "2026-09-18T08:53:33.528Z"
     }
   ]
 }
