@@ -1,109 +1,7 @@
 {
-  "generado": "2026-09-18T08:53:33.528Z",
+  "generado": "2026-09-18T23:09:59.942Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "7845",
-      "nombre": "Liquidación Mercería en El Reducto - Cristalería - Adornos - Muebles -Mostrador, Banquetas, Carteles y Artículos Coleccionables Coca Cola - Campana de Vidrio Pertencio a Importente Bar de Mvdeo - Fuentes a Agua Interiores - Adoquines y Más.....SEGUIMOS SUBIENDO LOTES SEGUI MIRANDO NUESTRA SUBASTA... Puedes Ir Dejando Tus Pre-Ofertas!!!!!",
-      "empresa": "Eduardo Díaz Bazán",
-      "departamento": "Montevideo",
-      "lugar": "San Martín 2644, Montevideo",
-      "fecha": "18/09/2026, 16:30",
-      "fechaISO": "2026-09-18T19:30:00.000Z",
-      "timestamp": 1789759800,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7845",
-      "totalLotes": 441,
-      "vinilos": [
-        {
-          "id": 1125817,
-          "lote": "58",
-          "titulo": "Libro Recopilación De Fotografías Artística \"Hasta Hoy\" - Anne Geddes Año 1998",
-          "descripcion": null,
-          "artista": null,
-          "album": "Hasta Hoy",
-          "sello": null,
-          "anio": "1998",
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1125817/268fa39ff1e58f5b4f595201c249b794.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7845?lote=58",
-          "motivos": [
-            "formato \"Artista - Título\" + contexto musical",
-            "año 1998"
-          ]
-        },
-        {
-          "id": 1134890,
-          "lote": "265",
-          "titulo": "\"Vintage De Coca-Cola Años 80/90 Barra Alta De Pared: Estructura Alargada De Metal En Color Rojo Brillante Con El Logotipo Clásico De Coca-Cola Impreso En Color Blanco En Los Extremos Del Frente. Diseñada Para Ser Fijada A La Pared, Optimizando El Espacio. Juego De Taburetes (3 Unidades): Tres Banquetas Altas Tubulares De Hierro Pintado En Color Rojo. Cuentan Con Asientos Circulares Acolchados En Cuerina O Vinilo Rojo Y Un Respaldo Bajo De Diseño Curvado Característico De La Época.\"",
-          "descripcion": "No Se Envia Se Retira en la En la Avda. San Martín esq. Guadalupe (Montevideo) - CONCURRIR CON DOS PERSONAS PARA SU TRASLADO",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 1000,
-          "oferta": 1200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1134890/aaa3ae90b663fdfc412a93e30e8d9432.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7845?lote=265",
-          "motivos": [
-            "dice \"vinilo\""
-          ]
-        }
-      ],
-      "datosDe": "2026-09-18T08:53:33.528Z"
-    },
-    {
-      "id": "7456",
-      "nombre": "Viernes 18 de Setiembre a partir de las 18:15 hrs.; SUBASTA de Antigüedades, Coleccionables especialmente seleccionados, Monedas antiguas y Medallas.",
-      "empresa": "Mage Remates",
-      "departamento": "Montevideo",
-      "lugar": "Jaime Roldos y Pons 4541, Montevideo",
-      "fecha": "18/09/2026, 18:15",
-      "fechaISO": "2026-09-18T21:15:00.000Z",
-      "timestamp": 1789766100,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7456",
-      "totalLotes": 111,
-      "vinilos": [],
-      "datosDe": "2026-09-18T08:53:33.528Z"
-    },
-    {
-      "id": "7729",
-      "nombre": "⭐️BUELA REMATA⭐️ ⏩⏩⏩NUEVO REMATE MULTIRUBRO⏪⏪⏪ ✅MERCADERÍA NUEVA ✅ENVIOS A TODO EL PAIS ✅EMBALAJE SIN COSTO",
-      "empresa": "Ana Paula Buela Salato",
-      "departamento": "Montevideo",
-      "lugar": "José Usera 3329, Montevideo",
-      "fecha": "18/09/2026, 19:00",
-      "fechaISO": "2026-09-18T22:00:00.000Z",
-      "timestamp": 1789768800,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7729",
-      "totalLotes": 115,
-      "vinilos": [
-        {
-          "id": 1141608,
-          "lote": "108",
-          "titulo": "Cierra Circular de madera con disco.",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 1800,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1141608/507df4aa0915b024d24e9ea392623e88.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7729?lote=108",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        }
-      ],
-      "datosDe": "2026-09-18T08:53:33.528Z"
-    },
     {
       "id": "7795",
       "nombre": "Remate de Platos y Platillos VINTAGE DECÓ (Coleccionables)",
@@ -117,7 +15,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7795",
       "totalLotes": 69,
       "vinilos": [],
-      "datosDe": "2026-09-18T08:53:33.528Z"
+      "datosDe": "2026-09-18T23:09:59.942Z"
     },
     {
       "id": "7790",
@@ -132,7 +30,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7790",
       "totalLotes": 95,
       "vinilos": [],
-      "datosDe": "2026-09-18T08:53:33.528Z"
+      "datosDe": "2026-09-18T23:09:59.942Z"
     },
     {
       "id": "7818",
@@ -147,7 +45,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7818",
       "totalLotes": 174,
       "vinilos": [],
-      "datosDe": "2026-09-18T08:53:33.528Z"
+      "datosDe": "2026-09-18T23:09:59.942Z"
     },
     {
       "id": "7843",
@@ -162,11 +60,11 @@
       "url": "https://www.remotes.com.uy/participar/remate/7843",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-09-18T08:53:33.528Z"
+      "datosDe": "2026-09-18T23:09:59.942Z"
     },
     {
       "id": "7876",
-      "nombre": "⚜️⚜️⚜️ ¡GRAN REMATE! LIQUIDACION CASA EN SHANGRILA – ULTIMA PARTE – RETIRO EN MONTEVIDEO (BASILIO ARAUJO 3732) ✅MUEBLES ANTIGUOS: ESPECTACULAR ROPERO COLONIAL 1 PUERTA CON ESPEJO, JUEGOS DE COMEDOR, APARADORES, COMODA CON ESPEJO Y MAS ✅PINTURA NACIONAL ✅ANTIGUEDADES Y COLECCIONABLES ✅GRAN JUEGO DE CUBIERTOS 130 PIEZAS 12 PERSONAS ✅RELOJES DE MESA FRANCES Y CON FISIONOMIA TIGRE ✅PORCELANA OLMOS Y VAJILLA INGLESA ✅JARRAS DE CERVEZA ✅DECORACIÓN & ADORNOS ✅MENAGE ✅MOBILIARIO Y ACCESORIOS PARA BEBES Y NIÑOS✅BIJOUTERIE ✅LIBROS SELECCIONADOS Y MUCHO MÁS ✅ENVÍO A TODO EL PAÍS ✅¡PARTICIPA Y DEJA TU PRE-OFERTA AHORA!",
+      "nombre": "⚜️⚜️⚜️¡VOLVÉ A MIRAR! 🔥 NUEVOS LOTES DE MUEBLES DE ROBLE SE SUMAN AL REMATE ¡GRAN REMATE! LIQUIDACION CASA EN SHANGRILA – ULTIMA PARTE – RETIRO EN MONTEVIDEO (BASILIO ARAUJO 3732) ✅MUEBLES ANTIGUOS: ESPECTACULAR ROPERO COLONIAL 1 PUERTA CON ESPEJO, JUEGOS DE COMEDOR, APARADORES, COMODA CON ESPEJO Y MAS ✅PINTURA NACIONAL ✅ANTIGUEDADES Y COLECCIONABLES ✅GRAN JUEGO DE CUBIERTOS 130 PIEZAS 12 PERSONAS ✅RELOJES DE MESA FRANCES Y CON FISIONOMIA TIGRE ✅PORCELANA OLMOS Y VAJILLA INGLESA ✅JARRAS DE CERVEZA ✅DECORACIÓN & ADORNOS ✅MENAGE ✅MOBILIARIO Y ACCESORIOS PARA BEBES Y NIÑOS✅BIJOUTERIE ✅LIBROS SELECCIONADOS Y MUCHO MÁS ✅ENVÍO A TODO EL PAÍS ✅¡PARTICIPA Y DEJA TU PRE-OFERTA AHORA!",
       "empresa": "LOS ROBLES",
       "departamento": "Montevideo",
       "lugar": "Basilio Araújo 3732, Montevideo",
@@ -175,9 +73,9 @@
       "timestamp": 1789943400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7876",
-      "totalLotes": 190,
+      "totalLotes": 207,
       "vinilos": [],
-      "datosDe": "2026-09-18T08:53:33.528Z"
+      "datosDe": "2026-09-18T23:09:59.942Z"
     },
     {
       "id": "7871",
@@ -192,7 +90,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7871",
       "totalLotes": 105,
       "vinilos": [],
-      "datosDe": "2026-09-18T08:53:33.528Z"
+      "datosDe": "2026-09-18T23:09:59.942Z"
     },
     {
       "id": "7011",
@@ -236,7 +134,7 @@
           "anio": "1998",
           "moneda": "$",
           "base": 300,
-          "oferta": null,
+          "oferta": 300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1017561/3a4152b85c9ccb4e7643cb46d203bea3.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7011?lote=23",
           "motivos": [
@@ -255,7 +153,7 @@
           "anio": "2009",
           "moneda": "$",
           "base": 400,
-          "oferta": null,
+          "oferta": 400,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1061115/fb9fe7eefdf846e6d6fe3418a6e8f85c.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7011?lote=49",
           "motivos": [
@@ -284,10 +182,10 @@
         {
           "id": 1061132,
           "lote": "66",
-          "titulo": "2 álbumes revistas \"labores\".",
+          "titulo": "2 revistas \"labores. Gran Álbum\". Años 70´s. Revistas coleccionables y populares en su epoca por contener moldes y patrones para tejer prendas a dos agujas y crochet. Explicaciones paso a paso para realizar los diseños.",
           "descripcion": null,
           "artista": null,
-          "album": "labores",
+          "album": "labores. Gran Álbum",
           "sello": null,
           "anio": null,
           "moneda": "$",
@@ -300,12 +198,30 @@
           ]
         },
         {
-          "id": 1061134,
-          "lote": "68",
-          "titulo": "Años 60´s. 2 revistas  Gran Álbum \"Labores\".",
+          "id": 1061133,
+          "lote": "67",
+          "titulo": "2 revistas \"labores. Gran Álbum\". Años 70´s. Revistas coleccionables y populares en su epoca por contener moldes y patrones para tejer prendas a dos agujas y crochet.",
           "descripcion": null,
           "artista": null,
-          "album": "Labores",
+          "album": "labores. Gran Álbum",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1061133/453d540fd24ff3f5e363ffd47e5fd667.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7011?lote=67",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1061134,
+          "lote": "68",
+          "titulo": "Años 60´s. 2 revistas \"Labores. Gran Álbum\". Revistas coleccionables",
+          "descripcion": null,
+          "artista": null,
+          "album": "Labores. Gran Álbum",
           "sello": null,
           "anio": null,
           "moneda": "$",
@@ -483,7 +399,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-18T08:53:33.528Z"
+      "datosDe": "2026-09-18T23:09:59.942Z"
     },
     {
       "id": "7920",
@@ -496,9 +412,43 @@
       "timestamp": 1790108100,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7920",
-      "totalLotes": 111,
+      "totalLotes": 112,
       "vinilos": [],
-      "datosDe": "2026-09-18T08:53:33.528Z"
+      "datosDe": "2026-09-18T23:09:59.942Z"
+    },
+    {
+      "id": "7829",
+      "nombre": "MARTES 19:30hs Sin Base Y AL Mejor Postor: MUCHAS HERRAMIENTAS Antigüedades Coleccionables Guitarra Española Adornos Cd's Luminarias Cuchillos Criollos Libros Tallas En Madera Plantas Muchos Espejos Muchos Muebles Vintage Y Nuevos En Liquidación Comercial Sillones Ejecutivos Para Escritorio De Diseño ¡Y Muchos Mas!",
+      "empresa": "Remate G. Federico",
+      "departamento": "Montevideo",
+      "lugar": "Arenal Grande 1818 esq La Paz de 9:30 a 18, Montevideo",
+      "fecha": "22/09/2026, 19:30",
+      "fechaISO": "2026-09-22T22:30:00.000Z",
+      "timestamp": 1790116200,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7829",
+      "totalLotes": 135,
+      "vinilos": [
+        {
+          "id": 1139224,
+          "lote": "199",
+          "titulo": "L 199 - Lote De Varias Piezas - Importante lote de CDs de música clásica y variada junto a enciclopedia multimedia 'Videopedia Britannica' de 'Las Cruzadas Medievales' (Varias unidades)",
+          "descripcion": "Estado: Lote compuesto por numerosos CDs, incluyendo colecciones de música clásica como 'Tiempo de Ópera', Mozart y obras de compositores como Milenkovic, Gershwin y Bizet, así como música popular uruguaya (Los Wawancó, Los Músicos de la República) y juegos de PC antiguos (BC Racers, Wing Commander). Incluye una caja de enciclopedia multimedia 'Videopedia Britannica - Las Cruzadas Medievales'. En aparente buen estado general, con señales de uso esperables por el tiempo.. Medidas: 1 lote.",
+          "artista": "Varias unidades",
+          "album": "Lote De Varias Piezas - Importante lote de CDs de música clásica y variada junto",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1139224/40f94d1d5bfe88f53c0b28eaded0f5b3.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7829?lote=199",
+          "motivos": [
+            "formato \"Artista - Título\" + contexto musical"
+          ]
+        }
+      ],
+      "datosDe": "2026-09-18T23:09:59.942Z"
     },
     {
       "id": "7890",
@@ -513,7 +463,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7890",
       "totalLotes": 100,
       "vinilos": [],
-      "datosDe": "2026-09-18T08:53:33.528Z"
+      "datosDe": "2026-09-18T23:09:59.942Z"
     },
     {
       "id": "7935",
@@ -681,7 +631,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-18T08:53:33.528Z"
+      "datosDe": "2026-09-18T23:09:59.942Z"
     },
     {
       "id": "7828",
@@ -715,7 +665,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-18T08:53:33.528Z"
+      "datosDe": "2026-09-18T23:09:59.942Z"
     },
     {
       "id": "7928",
@@ -730,7 +680,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7928",
       "totalLotes": 1,
       "vinilos": [],
-      "datosDe": "2026-09-18T08:53:33.528Z"
+      "datosDe": "2026-09-18T23:09:59.942Z"
     }
   ]
 }
