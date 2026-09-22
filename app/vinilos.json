@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-21T23:58:50.310Z",
+  "generado": "2026-09-22T09:10:05.454Z",
   "fallos": 0,
   "remates": [
     {
@@ -15,7 +15,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7920",
       "totalLotes": 112,
       "vinilos": [],
-      "datosDe": "2026-09-21T23:58:50.310Z"
+      "datosDe": "2026-09-22T09:10:05.454Z"
     },
     {
       "id": "7829",
@@ -49,7 +49,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-21T23:58:50.310Z"
+      "datosDe": "2026-09-22T09:10:05.454Z"
     },
     {
       "id": "7927",
@@ -64,7 +64,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7927",
       "totalLotes": 111,
       "vinilos": [],
-      "datosDe": "2026-09-21T23:58:50.310Z"
+      "datosDe": "2026-09-22T09:10:05.454Z"
     },
     {
       "id": "7890",
@@ -79,7 +79,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7890",
       "totalLotes": 100,
       "vinilos": [],
-      "datosDe": "2026-09-21T23:58:50.310Z"
+      "datosDe": "2026-09-22T09:10:05.454Z"
     },
     {
       "id": "7970",
@@ -94,7 +94,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7970",
       "totalLotes": 51,
       "vinilos": [],
-      "datosDe": "2026-09-21T23:58:50.310Z"
+      "datosDe": "2026-09-22T09:10:05.454Z"
     },
     {
       "id": "7977",
@@ -109,7 +109,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7977",
       "totalLotes": 115,
       "vinilos": [],
-      "datosDe": "2026-09-21T23:58:50.310Z"
+      "datosDe": "2026-09-22T09:10:05.454Z"
     },
     {
       "id": "7934",
@@ -124,7 +124,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7934",
       "totalLotes": 104,
       "vinilos": [],
-      "datosDe": "2026-09-21T23:58:50.310Z"
+      "datosDe": "2026-09-22T09:10:05.454Z"
     },
     {
       "id": "7935",
@@ -292,7 +292,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-21T23:58:50.310Z"
+      "datosDe": "2026-09-22T09:10:05.454Z"
     },
     {
       "id": "7958",
@@ -307,7 +307,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7958",
       "totalLotes": 110,
       "vinilos": [],
-      "datosDe": "2026-09-21T23:58:50.310Z"
+      "datosDe": "2026-09-22T09:10:05.454Z"
     },
     {
       "id": "7989",
@@ -322,7 +322,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7989",
       "totalLotes": 70,
       "vinilos": [],
-      "datosDe": "2026-09-21T23:58:50.310Z"
+      "datosDe": "2026-09-22T09:10:05.454Z"
     },
     {
       "id": "7915",
@@ -393,7 +393,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-21T23:58:50.310Z"
+      "datosDe": "2026-09-22T09:10:05.454Z"
     },
     {
       "id": "7916",
@@ -419,7 +419,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1136307/9eb11e64bd7c67f1d6e034f444ab6d85.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7916?lote=157",
           "motivos": [
@@ -427,7 +427,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-21T23:58:50.310Z"
+      "datosDe": "2026-09-22T09:10:05.454Z"
     },
     {
       "id": "7824",
@@ -462,11 +462,11 @@
           ]
         }
       ],
-      "datosDe": "2026-09-21T23:58:50.310Z"
+      "datosDe": "2026-09-22T09:10:05.454Z"
     },
     {
       "id": "7919",
-      "nombre": "❌IMPERDIBLE GRAN REMATE✳️❌PÚBLICO EN GENERAL Y REVENDEDORES❌✳️   ⛔️BAZAR⛔ TAMBIÉN ▶️JUGUETES⛔️FIGURAS ANIME ⛔️TECNOLOGIA▶️DESTRUCTORA DE PAPEL▶️JUEGOS▶️COLECCIONABLES▶️ROPA ▶️CALZADO▶️DEPORTE  ▶️ELECTROMESTICOS , SE DESTACA⛔️ANAFE y MUCHO MÁS!! Jueves 1/10 a las17:00 hs y Viernes 2/10 a las17:00hs (hasta lote 165 jueves y 166 en adelante viernes  )REALIZAMOS ENVÍOS A TODO EL PAIS. CONSULTAS : ▶️099 23 45 11 ▶️099 28 53 90",
+      "nombre": "❌IMPERDIBLE GRAN REMATE✳️❌PÚBLICO EN GENERAL",
       "empresa": "Remates República",
       "departamento": "Montevideo",
       "lugar": "Venezuela 1327 casi Libertador , Montevideo",
@@ -514,7 +514,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-21T23:58:50.310Z"
+      "datosDe": "2026-09-22T09:10:05.454Z"
     },
     {
       "id": "7978",
@@ -529,7 +529,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7978",
       "totalLotes": 78,
       "vinilos": [],
-      "datosDe": "2026-09-21T23:58:50.310Z"
+      "datosDe": "2026-09-22T09:10:05.454Z"
     },
     {
       "id": "7828",
@@ -563,7 +563,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-21T23:58:50.310Z"
+      "datosDe": "2026-09-22T09:10:05.454Z"
     },
     {
       "id": "7928",
@@ -578,7 +578,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7928",
       "totalLotes": 1,
       "vinilos": [],
-      "datosDe": "2026-09-21T23:58:50.310Z"
+      "datosDe": "2026-09-22T09:10:05.454Z"
     }
   ]
 }
