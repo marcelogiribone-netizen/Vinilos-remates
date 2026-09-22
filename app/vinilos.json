@@ -1,71 +1,7 @@
 {
-  "generado": "2026-09-22T09:10:05.454Z",
+  "generado": "2026-09-22T23:33:13.089Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "7920",
-      "nombre": "Subasta Especial de Antigüedades, Coleccionismo y Curiosidades",
-      "empresa": "Flores Montaña Subastas",
-      "departamento": "SALTO",
-      "lugar": "SALTO, SALTO",
-      "fecha": "22/09/2026, 17:15",
-      "fechaISO": "2026-09-22T20:15:00.000Z",
-      "timestamp": 1790108100,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7920",
-      "totalLotes": 112,
-      "vinilos": [],
-      "datosDe": "2026-09-22T09:10:05.454Z"
-    },
-    {
-      "id": "7829",
-      "nombre": "MARTES 19:30hs Sin Base Y AL Mejor Postor: MUCHAS HERRAMIENTAS Antigüedades Coleccionables Guitarra Española Adornos Cd's Luminarias Cuchillos Criollos Libros Tallas En Madera Plantas Muchos Espejos Muchos Muebles Vintage Y Nuevos En Liquidación Comercial Sillones Ejecutivos Para Escritorio De Diseño ¡Y Muchos Mas!",
-      "empresa": "Remate G. Federico",
-      "departamento": "Montevideo",
-      "lugar": "Arenal Grande 1818 esq La Paz de 9:30 a 18, Montevideo",
-      "fecha": "22/09/2026, 19:30",
-      "fechaISO": "2026-09-22T22:30:00.000Z",
-      "timestamp": 1790116200,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7829",
-      "totalLotes": 137,
-      "vinilos": [
-        {
-          "id": 1139224,
-          "lote": "30",
-          "titulo": "L 199 - Lote De Varias Piezas - Importante lote de CDs de música clásica y variada junto a enciclopedia multimedia 'Videopedia Britannica' de 'Las Cruzadas Medievales' (Varias unidades)",
-          "descripcion": "Estado: Lote compuesto por numerosos CDs, incluyendo colecciones de música clásica como 'Tiempo de Ópera', Mozart y obras de compositores como Milenkovic, Gershwin y Bizet, así como música popular uruguaya (Los Wawancó, Los Músicos de la República) y juegos de PC antiguos (BC Racers, Wing Commander). Incluye una caja de enciclopedia multimedia 'Videopedia Britannica - Las Cruzadas Medievales'. En aparente buen estado general, con señales de uso esperables por el tiempo.. Medidas: 1 lote.",
-          "artista": "Varias unidades",
-          "album": "Lote De Varias Piezas - Importante lote de CDs de música clásica y variada junto",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1139224/40f94d1d5bfe88f53c0b28eaded0f5b3.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7829?lote=30",
-          "motivos": [
-            "formato \"Artista - Título\" + contexto musical"
-          ]
-        }
-      ],
-      "datosDe": "2026-09-22T09:10:05.454Z"
-    },
-    {
-      "id": "7927",
-      "nombre": "REMATE MULTIRUBRO!!! Herramientas, artículos de bazar, organización del hogar, tecnología, electrodomésticos, de todo un poco y más! Imperdibles ofertas!",
-      "empresa": "M.A.S. Remates",
-      "departamento": "Montevideo",
-      "lugar": "Gral Fausto Aguilar 1120 apto 005 esquina Paraguay, Montevideo",
-      "fecha": "22/09/2026, 19:45",
-      "fechaISO": "2026-09-22T22:45:00.000Z",
-      "timestamp": 1790117100,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7927",
-      "totalLotes": 111,
-      "vinilos": [],
-      "datosDe": "2026-09-22T09:10:05.454Z"
-    },
     {
       "id": "7890",
       "nombre": "GRAN REMATE EN DONDE SE DESTACA 48PCS EN PORCELANA SELLADA POLACA, GRAN VARIEDAD DE ADORNOS, AUTOS EN METAL, JUGUETES ANTIGUOS, CAMPANAS EN BRONCE, FUENTE SELLADA INGLESA, COPAS, CUADROS, ESTATUILLAS COLECCIONABLES PAPA FRANCISCO, DISCOS DE CORTE CAT, PINCELES, VALIJAS DE HERRAMIENTAS, REEL DE PESCA NUEVOS Y MUCHO MÁS❗️",
@@ -79,7 +15,22 @@
       "url": "https://www.remotes.com.uy/participar/remate/7890",
       "totalLotes": 100,
       "vinilos": [],
-      "datosDe": "2026-09-22T09:10:05.454Z"
+      "datosDe": "2026-09-22T23:33:13.089Z"
+    },
+    {
+      "id": "7927",
+      "nombre": "REMATE MULTIRUBRO!!! Herramientas, artículos de bazar, organización del hogar, tecnología, electrodomésticos, de todo un poco y más! Imperdibles ofertas!",
+      "empresa": "M.A.S. Remates",
+      "departamento": "Montevideo",
+      "lugar": "Gral Fausto Aguilar 1120 apto 005 esquina Paraguay, Montevideo",
+      "fecha": "23/09/2026, 19:45",
+      "fechaISO": "2026-09-23T22:45:00.000Z",
+      "timestamp": 1790203500,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7927",
+      "totalLotes": 111,
+      "vinilos": [],
+      "datosDe": "2026-09-22T23:33:13.089Z"
     },
     {
       "id": "7970",
@@ -94,7 +45,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7970",
       "totalLotes": 51,
       "vinilos": [],
-      "datosDe": "2026-09-22T09:10:05.454Z"
+      "datosDe": "2026-09-22T23:33:13.089Z"
     },
     {
       "id": "7977",
@@ -109,7 +60,22 @@
       "url": "https://www.remotes.com.uy/participar/remate/7977",
       "totalLotes": 115,
       "vinilos": [],
-      "datosDe": "2026-09-22T09:10:05.454Z"
+      "datosDe": "2026-09-22T23:33:13.089Z"
+    },
+    {
+      "id": "7926",
+      "nombre": "IMPERDIBLE REMATE ANTIGUEDADES,ARTICULOS COLECCIONABLES Y MAS , RIFLE REMINGTON 44-40 DE TROMBON-RIFLE REMINGTON ROLLING BLOCK-- CARRUAJE JARDINERA 4 RUEDAS ---SULKY--MATES PLATA Y ORO--BOMBILLAS PLATA Y ORO,,,VAINAS METAL BLANCO MESA VICTORIANA--BERGERE---COLECCION JARRAS CERVECERAS Y MUCHOS LOTES MAS . POR CONSULTA Y MAS INFORMACION 091 296 984 RICHARD BORGES REMATADOR HACEMOS ENVIOS A TODO EL PAIS",
+      "empresa": "Richard Borges",
+      "departamento": "SALTO",
+      "lugar": "BLANDEGUES 705, SALTO",
+      "fecha": "24/09/2026, 19:00",
+      "fechaISO": "2026-09-24T22:00:00.000Z",
+      "timestamp": 1790287200,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7926",
+      "totalLotes": 104,
+      "vinilos": [],
+      "datosDe": "2026-09-22T23:33:13.089Z"
     },
     {
       "id": "7934",
@@ -124,7 +90,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7934",
       "totalLotes": 104,
       "vinilos": [],
-      "datosDe": "2026-09-22T09:10:05.454Z"
+      "datosDe": "2026-09-22T23:33:13.089Z"
     },
     {
       "id": "7935",
@@ -292,7 +258,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-22T09:10:05.454Z"
+      "datosDe": "2026-09-22T23:33:13.089Z"
     },
     {
       "id": "7958",
@@ -305,9 +271,9 @@
       "timestamp": 1790433000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7958",
-      "totalLotes": 110,
+      "totalLotes": 113,
       "vinilos": [],
-      "datosDe": "2026-09-22T09:10:05.454Z"
+      "datosDe": "2026-09-22T23:33:13.089Z"
     },
     {
       "id": "7989",
@@ -320,9 +286,9 @@
       "timestamp": 1790444400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7989",
-      "totalLotes": 70,
+      "totalLotes": 69,
       "vinilos": [],
-      "datosDe": "2026-09-22T09:10:05.454Z"
+      "datosDe": "2026-09-22T23:33:13.089Z"
     },
     {
       "id": "7915",
@@ -393,7 +359,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-22T09:10:05.454Z"
+      "datosDe": "2026-09-22T23:33:13.089Z"
     },
     {
       "id": "7916",
@@ -427,7 +393,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-22T09:10:05.454Z"
+      "datosDe": "2026-09-22T23:33:13.089Z"
     },
     {
       "id": "7824",
@@ -462,7 +428,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-22T09:10:05.454Z"
+      "datosDe": "2026-09-22T23:33:13.089Z"
     },
     {
       "id": "7919",
@@ -514,7 +480,37 @@
           ]
         }
       ],
-      "datosDe": "2026-09-22T09:10:05.454Z"
+      "datosDe": "2026-09-22T23:33:13.089Z"
+    },
+    {
+      "id": "7892",
+      "nombre": "Remate antigüedades, art. de colección. , autos, cuadros, chapas esmaltadas,  auto de calecita.",
+      "empresa": "Remates Villar",
+      "departamento": "Montevideo",
+      "lugar": "isidoro de Maria 1710, Montevideo",
+      "fecha": "02/10/2026, 19:00",
+      "fechaISO": "2026-10-02T22:00:00.000Z",
+      "timestamp": 1790978400,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7892",
+      "totalLotes": 84,
+      "vinilos": [],
+      "datosDe": "2026-09-22T23:33:13.089Z"
+    },
+    {
+      "id": "7951",
+      "nombre": "Gran remate de antiguedades y Coleccionables, botellas, cuchillos y demas!!",
+      "empresa": "Mauricio Rosa",
+      "departamento": "Canelones",
+      "lugar": "Ruta 7 Km 90, Canelones",
+      "fecha": "03/10/2026, 20:30",
+      "fechaISO": "2026-10-03T23:30:00.000Z",
+      "timestamp": 1791070200,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7951",
+      "totalLotes": 42,
+      "vinilos": [],
+      "datosDe": "2026-09-22T23:33:13.089Z"
     },
     {
       "id": "7978",
@@ -527,9 +523,9 @@
       "timestamp": 1791327600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7978",
-      "totalLotes": 78,
+      "totalLotes": 81,
       "vinilos": [],
-      "datosDe": "2026-09-22T09:10:05.454Z"
+      "datosDe": "2026-09-22T23:33:13.089Z"
     },
     {
       "id": "7828",
@@ -563,7 +559,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-22T09:10:05.454Z"
+      "datosDe": "2026-09-22T23:33:13.089Z"
     },
     {
       "id": "7928",
@@ -578,7 +574,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7928",
       "totalLotes": 1,
       "vinilos": [],
-      "datosDe": "2026-09-22T09:10:05.454Z"
+      "datosDe": "2026-09-22T23:33:13.089Z"
     }
   ]
 }
