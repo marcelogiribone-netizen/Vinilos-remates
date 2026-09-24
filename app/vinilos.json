@@ -1,37 +1,7 @@
 {
-  "generado": "2026-09-24T09:07:00.097Z",
+  "generado": "2026-09-24T23:49:24.098Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "7977",
-      "nombre": "♦️Antiguedades Y Coleccionables♦️",
-      "empresa": "Verónica Aristegui Díaz",
-      "departamento": "San José",
-      "lugar": "Parada 8 manzana 3 solar 16 calle colocolo, Playa pascual, San José, San José",
-      "fecha": "24/09/2026, 17:30",
-      "fechaISO": "2026-09-24T20:30:00.000Z",
-      "timestamp": 1790281800,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7977",
-      "totalLotes": 116,
-      "vinilos": [],
-      "datosDe": "2026-09-24T09:07:00.097Z"
-    },
-    {
-      "id": "7926",
-      "nombre": "✅HOY✅. IMPERDIBLE REMATE ANTIGUEDADES, ARTÍCULOS COLECCIONABLES Y MAS , RIFLE REMINGTON 44-40 DE TROMBON-RIFLE REMINGTON ROLLING BLOCK-- CARRUAJE JARDINERA 4 RUEDAS ---SULKY--MATES PLATA Y ORO--BOMBILLAS PLATA Y ORO,,,VAINAS METAL BLANCO MESA VICTORIANA--BERGERE---COLECCION JARRAS CERVECERAS Y MUCHOS LOTES MAS . POR CONSULTA Y MAS INFORMACION 091 296 984 RICHARD BORGES REMATADOR HACEMOS ENVIOS A TODO EL PAIS",
-      "empresa": "Richard Borges",
-      "departamento": "SALTO",
-      "lugar": "BLANDEGUES 705, SALTO",
-      "fecha": "24/09/2026, 18:30",
-      "fechaISO": "2026-09-24T21:30:00.000Z",
-      "timestamp": 1790285400,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7926",
-      "totalLotes": 104,
-      "vinilos": [],
-      "datosDe": "2026-09-24T09:07:00.097Z"
-    },
     {
       "id": "7934",
       "nombre": "Remate en nuestro local de Trinidad-Flores! Herramientas y multirubro! Destacamos kayak para 2 personas como nuevo. Hacemos envíos a todo el país.",
@@ -45,7 +15,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7934",
       "totalLotes": 104,
       "vinilos": [],
-      "datosDe": "2026-09-24T09:07:00.097Z"
+      "datosDe": "2026-09-24T23:49:24.098Z"
     },
     {
       "id": "7935",
@@ -71,7 +41,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1141095/727ab693f809c4af199843eaf19b1020.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7935?lote=830",
           "motivos": [
@@ -213,7 +183,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-24T09:07:00.097Z"
+      "datosDe": "2026-09-24T23:49:24.098Z"
     },
     {
       "id": "8009",
@@ -228,7 +198,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8009",
       "totalLotes": 42,
       "vinilos": [],
-      "datosDe": "2026-09-24T09:07:00.097Z"
+      "datosDe": "2026-09-24T23:49:24.098Z"
     },
     {
       "id": "8013",
@@ -334,7 +304,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-24T09:07:00.097Z"
+      "datosDe": "2026-09-24T23:49:24.098Z"
     },
     {
       "id": "7958",
@@ -349,7 +319,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7958",
       "totalLotes": 113,
       "vinilos": [],
-      "datosDe": "2026-09-24T09:07:00.097Z"
+      "datosDe": "2026-09-24T23:49:24.098Z"
     },
     {
       "id": "7966",
@@ -362,7 +332,7 @@
       "timestamp": 1790438400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7966",
-      "totalLotes": 343,
+      "totalLotes": 347,
       "vinilos": [
         {
           "id": 1148021,
@@ -419,7 +389,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-24T09:07:00.097Z"
+      "datosDe": "2026-09-24T23:49:24.098Z"
     },
     {
       "id": "7989",
@@ -434,7 +404,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7989",
       "totalLotes": 78,
       "vinilos": [],
-      "datosDe": "2026-09-24T09:07:00.097Z"
+      "datosDe": "2026-09-24T23:49:24.098Z"
     },
     {
       "id": "7915",
@@ -505,7 +475,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-24T09:07:00.097Z"
+      "datosDe": "2026-09-24T23:49:24.098Z"
     },
     {
       "id": "7916",
@@ -539,7 +509,37 @@
           ]
         }
       ],
-      "datosDe": "2026-09-24T09:07:00.097Z"
+      "datosDe": "2026-09-24T23:49:24.098Z"
+    },
+    {
+      "id": "8024",
+      "nombre": "Gran liquidacion de bienes de familia en Atlántida. Se destaca: mobiliario de epoca, antigüedades, libros, articulos para el hogar, herramientas y mas.",
+      "empresa": "Fernando Nalerio",
+      "departamento": "Canelones",
+      "lugar": "calle 18 y calle 7 Atlantida , Canelones",
+      "fecha": "27/09/2026, 19:30",
+      "fechaISO": "2026-09-27T22:30:00.000Z",
+      "timestamp": 1790548200,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8024",
+      "totalLotes": 154,
+      "vinilos": [],
+      "datosDe": "2026-09-24T23:49:24.098Z"
+    },
+    {
+      "id": "7964",
+      "nombre": "⚠️ ATENCIÓN  ⚠️",
+      "empresa": "Remate Paysandú",
+      "departamento": "Paysandú",
+      "lugar": "Uruguay y Montecaseros, Ciudad de Paysandú, Paysandú",
+      "fecha": "29/09/2026, 13:00",
+      "fechaISO": "2026-09-29T16:00:00.000Z",
+      "timestamp": 1790697600,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7964",
+      "totalLotes": 71,
+      "vinilos": [],
+      "datosDe": "2026-09-24T23:49:24.098Z"
     },
     {
       "id": "8012",
@@ -554,7 +554,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8012",
       "totalLotes": 104,
       "vinilos": [],
-      "datosDe": "2026-09-24T09:07:00.097Z"
+      "datosDe": "2026-09-24T23:49:24.098Z"
     },
     {
       "id": "7824",
@@ -589,7 +589,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-24T09:07:00.097Z"
+      "datosDe": "2026-09-24T23:49:24.098Z"
     },
     {
       "id": "7919",
@@ -602,7 +602,7 @@
       "timestamp": 1790884800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7919",
-      "totalLotes": 333,
+      "totalLotes": 335,
       "vinilos": [
         {
           "id": 1137406,
@@ -641,7 +641,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-24T09:07:00.097Z"
+      "datosDe": "2026-09-24T23:49:24.098Z"
     },
     {
       "id": "7892",
@@ -656,7 +656,22 @@
       "url": "https://www.remotes.com.uy/participar/remate/7892",
       "totalLotes": 84,
       "vinilos": [],
-      "datosDe": "2026-09-24T09:07:00.097Z"
+      "datosDe": "2026-09-24T23:49:24.098Z"
+    },
+    {
+      "id": "8014",
+      "nombre": "ATENCIÓN   - Materiales de reciclajes de obras, algunos pertenecieron al viejo aeropuerto de carrasco, Pinotea tablas de pisos de 110 años de antiguedad ,puertas, tirantes de maderas, hierros, puertas vidrios, placas de granito, caños con forma de canaletas de desague para varios usos, entre ellos, huertas, comedero para ganado, 40 cm diám y 1m largo.  TAMBIEN Obras de Arte, Siltales madera tallada con terciopelo y ratán - Retiro zona cerca del Aeropuerto y Zonamerica",
+      "empresa": "Uruguay Remates",
+      "departamento": "Montevideo",
+      "lugar": "A confirmar , Montevideo",
+      "fecha": "03/10/2026, 15:00",
+      "fechaISO": "2026-10-03T18:00:00.000Z",
+      "timestamp": 1791050400,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8014",
+      "totalLotes": 41,
+      "vinilos": [],
+      "datosDe": "2026-09-24T23:49:24.098Z"
     },
     {
       "id": "7951",
@@ -669,9 +684,24 @@
       "timestamp": 1791070200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7951",
-      "totalLotes": 42,
+      "totalLotes": 94,
       "vinilos": [],
-      "datosDe": "2026-09-24T09:07:00.097Z"
+      "datosDe": "2026-09-24T23:49:24.098Z"
+    },
+    {
+      "id": "7956",
+      "nombre": "ATENCIÓN!!!!! GRAN REMATE DE LIQUIDACIÓN DE DEPÓSITO EN SAYAGO!! SE DESTACAN HELADERAS COMERCIALES, ARTÍCULOS PARA SPA O CENTRO DE ESTÉTICA Y MÁS!!!! VAJILLA, CRISTALERIA, MOBILIARIO, ANTIGÜEDADES Y TODO LO QUE SE TE OCURRA, NO TE LO PIERDAS!!! DEJA TU PREOFERTA",
+      "empresa": "Romina Muraña Facal",
+      "departamento": "Montevideo",
+      "lugar": "Waterloo 981-a, Montevideo",
+      "fecha": "04/10/2026, 11:30",
+      "fechaISO": "2026-10-04T14:30:00.000Z",
+      "timestamp": 1791124200,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7956",
+      "totalLotes": 191,
+      "vinilos": [],
+      "datosDe": "2026-09-24T23:49:24.098Z"
     },
     {
       "id": "7983",
@@ -723,7 +753,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-24T09:07:00.097Z"
+      "datosDe": "2026-09-24T23:49:24.098Z"
     },
     {
       "id": "7978",
@@ -738,7 +768,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7978",
       "totalLotes": 81,
       "vinilos": [],
-      "datosDe": "2026-09-24T09:07:00.097Z"
+      "datosDe": "2026-09-24T23:49:24.098Z"
     },
     {
       "id": "7828",
@@ -772,7 +802,37 @@
           ]
         }
       ],
-      "datosDe": "2026-09-24T09:07:00.097Z"
+      "datosDe": "2026-09-24T23:49:24.098Z"
+    },
+    {
+      "id": "8010",
+      "nombre": "✨ Una colección para verdaderos apreciadores ✨",
+      "empresa": "Pablo Barrientos",
+      "departamento": "Canelones",
+      "lugar": "CONTINUACION Z4 ENTRE 8 Y 9 Parque del Plata , Costa de Oro, Canelones",
+      "fecha": "08/10/2026, 19:00",
+      "fechaISO": "2026-10-08T22:00:00.000Z",
+      "timestamp": 1791496800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8010",
+      "totalLotes": 130,
+      "vinilos": [],
+      "datosDe": "2026-09-24T23:49:24.098Z"
+    },
+    {
+      "id": "8032",
+      "nombre": "Cargando... GRAN LIQUIDACIÓN DE BIENES QUE ALHAJARON UN APARTAMENTO, UNA CAFETERÍA y PETIT HOTEL DE PUNTA DEL ESTE. EXCEPCIONAL COLECCIÓN DE PINTURA Y ESCULTURA. TODO DE MUY BUENA CALIDAD Y EN EXCELENTE ESTADO. SEGURO ENCONTRARÁ LO QUE ESTA BUSCANDO. VISITE LA EXHIBICIÓN. SE REALIZAN ENVÍOS A TODO EL PAÍS. PLAZO PARA EL PAGO Y RETIRO 48hs. EVACÚE SUS DUDAS ANTES DE OFERTAR.",
+      "empresa": "Mario Santiago Carranza",
+      "departamento": "MALDONADO",
+      "lugar": "Salsipuedes e/Cacique Brown y Tacuabé, MALDONADO",
+      "fecha": "12/10/2026, 19:30",
+      "fechaISO": "2026-10-12T22:30:00.000Z",
+      "timestamp": 1791844200,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8032",
+      "totalLotes": 16,
+      "vinilos": [],
+      "datosDe": "2026-09-24T23:49:24.098Z"
     },
     {
       "id": "7928",
@@ -787,7 +847,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7928",
       "totalLotes": 1,
       "vinilos": [],
-      "datosDe": "2026-09-24T09:07:00.097Z"
+      "datosDe": "2026-09-24T23:49:24.098Z"
     }
   ]
 }
