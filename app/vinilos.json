@@ -1,429 +1,7 @@
 {
-  "generado": "2026-09-26T09:13:30.767Z",
+  "generado": "2026-09-26T23:28:30.189Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "7958",
-      "nombre": "Sábado 26 de Setiembre, Artículos de Rotisería, Panadería, Salón de Fiestas y ortopedia , herramientas, Parlantes amplificados, Termos de Acero Inoxidable, cuadros, Electrodomésticos juegos de comedor, Traílles y Antigüedades",
-      "empresa": "Ruiz Remate",
-      "departamento": "Montevideo",
-      "lugar": "Génova 3455, Montevideo",
-      "fecha": "26/09/2026, 11:30",
-      "fechaISO": "2026-09-26T14:30:00.000Z",
-      "timestamp": 1790433000,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7958",
-      "totalLotes": 135,
-      "vinilos": [],
-      "datosDe": "2026-09-26T09:13:30.767Z"
-    },
-    {
-      "id": "7966",
-      "nombre": "MULTIRUBRO: DECENAS DE CHAMPIONES NUEVOS, ADULTO NIÑO, APARATOS PARA TOMA DE PRESIÒN, CARTERAS Y LENTES MARCAS RECONOCIDAS, BAZAR ELECTRODOMÈSTICOS JUGUETES TRANSFORMER, BICICLETAS MOTOS TRICARGO MONOPATINES TODO ELÈCTRICO!!",
-      "empresa": "Import Remates",
-      "departamento": "Montevideo",
-      "lugar": "Angel Salvo 24, Montevideo",
-      "fecha": "26/09/2026, 13:00",
-      "fechaISO": "2026-09-26T16:00:00.000Z",
-      "timestamp": 1790438400,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7966",
-      "totalLotes": 430,
-      "vinilos": [
-        {
-          "id": 1148021,
-          "lote": "60A",
-          "titulo": "Bicicleta electrica Modelo X9",
-          "descripcion": "BICICLETA ELECTRICA URBANA 14 CON MOTOR DE 500W, UNA BATERÍA DE 48V, CUENTA CON UNA AUTONOMÍA APROXIMADA DE 30KM A PURO ACELERADOR Y CON PEDAL ASISTIDO TE PUEDE LLEGAR HASTA 45/50KM, DOBLE FRENOS DE DISCO CON E-ABS Y CON SUSPENSIÓN HIDRÁULICA, SOPORTA HASTA 100KG.",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "U$S",
-          "base": 550,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1148021/5ce9457d2543527204cb11de2dd67a30.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7966?lote=60A",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1148131,
-          "lote": "252",
-          "titulo": "Lote de disco de pulir goma, 4 pegamentos wokin y candado 4k",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 250,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1148131/cabc51b57490f0e0764600ebe1cd578d.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7966?lote=252",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1150147,
-          "lote": "308",
-          "titulo": "Álbum sellos",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1150147/4e858a50b3616e48173d6250d5d81d3e.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7966?lote=308",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        }
-      ],
-      "datosDe": "2026-09-26T09:13:30.767Z"
-    },
-    {
-      "id": "7989",
-      "nombre": "Liquidación por Entrega de Domicilio, Oportunidad Imperdible: BASES DESDE $100! Muebles, Electro, Vajilla y Coleccionables.",
-      "empresa": "Flores Montaña Subastas",
-      "departamento": "SALTO",
-      "lugar": "SALTO, SALTO",
-      "fecha": "26/09/2026, 14:40",
-      "fechaISO": "2026-09-26T17:40:00.000Z",
-      "timestamp": 1790444400,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7989",
-      "totalLotes": 86,
-      "vinilos": [],
-      "datosDe": "2026-09-26T09:13:30.767Z"
-    },
-    {
-      "id": "7984",
-      "nombre": "SABADO 26 15:30hs Sin Base Y Al Mejor Postor Destacamos: Artículos De Ferretería Y Luminaria Discos Flap Nuevos Luminarias Y Demas, También Bazar Vajilla Cristalería Artículos De Cocina Manteles Ropa De Cama Electrodomésticos Y Muchos Muebles",
-      "empresa": "Remate G. Federico",
-      "departamento": "Montevideo",
-      "lugar": "Arenal Grande 1818 esq La Paz de lu a vi 9:30 a 18hs sa de 9:30 a 13hs, Montevideo",
-      "fecha": "26/09/2026, 15:30",
-      "fechaISO": "2026-09-26T18:30:00.000Z",
-      "timestamp": 1790447400,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7984",
-      "totalLotes": 147,
-      "vinilos": [
-        {
-          "id": 1147752,
-          "lote": "8",
-          "titulo": "L 302 - 10 Piezas - Práctico set de 10 discos de desbaste angulados de la marca \"3 Stars\" en color rojo, para amoladora, grano 80, en caja cerrada (115x22.23 mm)",
-          "descripcion": "Estado: Lote de 10 discos de desbaste angulados, marca \"3 Stars\", grano 80. Ideales para trabajos de amolado y desbaste. Presentados en caja cerrada, con etiqueta de la marca WATY. Medidas: 115x22.23 mm.. Medidas: .",
-          "artista": null,
-          "album": "10 Piezas - Práctico set de 10 discos de desbaste angulados de la marca \"3 Stars",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1147752/bcb36573077e01b88f20c8500c4a21f6.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7984?lote=8",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1147753,
-          "lote": "22",
-          "titulo": "L 301 - 10 Piezas - Caja de 10 discos de desbaste Waty de 115x22,23mm con grano 80, ideales para trabajos de lijado y pulido en diversas superficies.",
-          "descripcion": "Estado: Set de 10 discos de desbaste Waty, modelo LAMELN BRUS, medidas 115x22,23mm con grano 80. Presentados en su caja original, ideales para herramientas de amolado y pulido. Fabricados en Eslovenia.. Nota: Fabricados por el fabricante Waty en Eslovenia. Fecha de fabricación 10.07.2015 visible en el empaque.. Medidas: .",
-          "artista": null,
-          "album": "10 Piezas - Caja de 10 discos de desbaste Waty de 115x22,23mm con grano 80, idea",
-          "sello": null,
-          "anio": "2015",
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1147753/4d235b709fe4eedd6c1c221b0548bbd5.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7984?lote=22",
-          "motivos": [
-            "dice \"disco\"",
-            "año 2015"
-          ]
-        },
-        {
-          "id": 1147754,
-          "lote": "34",
-          "titulo": "L 300 - 1 Caja Con 10 Piezas - Caja de 10 discos de desbaste angulados Waty de 115x22.23mm, grano 80, aptos para amoladoras, con 13300 RPM",
-          "descripcion": "Estado: Caja sellada con 10 discos de desbaste angulados de la marca Waty, ideales para amoladoras y trabajos de pulido y lijado. Grano 80, aptos para una velocidad máxima de 13300 RPM.. Nota: Fabricados por Gwat y D.O.O. en Eslovenia (Made by Gwat company Slovenia).. Medidas: .",
-          "artista": null,
-          "album": "1 Caja Con 10 Piezas - Caja de 10 discos de desbaste angulados Waty de 115x22",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1147754/3bcda9a4cc34403fe28bf6570aa1c6de.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7984?lote=34",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1147755,
-          "lote": "44",
-          "titulo": "L 306 - 10 Piezas - Set de 10 discos de desbaste angulados Waty de 115x22.23 mm y grano 80, ideal para trabajos de metalurgia (nuevos en liquidación comercial por",
-          "descripcion": "Estado: Discos de desbaste de la marca Waty, serie 3Stars Angled. Aptos para 80 m/s y 13300 RPM. Grano 80. Presentados en su caja original, sellada al vacío. Medidas de 115x22.23 mm. Nuevo en liquidación comercial, con pequeños detalles de almacenamiento.. Nota: Fabricado en Eslovenia por 3Stars Group, según información en el etiquetado.. Medidas: .",
-          "artista": null,
-          "album": "10 Piezas - Set de 10 discos de desbaste angulados Waty de 115x22",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1147755/1e5271644c08f46e3add4b72af717d6a.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7984?lote=44",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1147756,
-          "lote": "53",
-          "titulo": "L 304 - 15 Piezas - Práctico lote de 15 discos de lijar de la marca '3Stars' con grano 80, en su caja original sin abrir, ideal para trabajos de desbaste y pulido",
-          "descripcion": "Estado: Lote de 15 discos de lijar angulados, marca '3Stars', grano 80. Presentados en su caja original cerrada de la marca 'Waty'. Adecuados para amoladoras, con una velocidad máxima de 13300 RPM y 80 m/s. En excelente estado, nuevos.. Nota: Fabricado en Eslovenia por '3Stars' (según la etiqueta en el disco).. Medidas: .",
-          "artista": null,
-          "album": "15 Piezas - Práctico lote de 15 discos de lijar de la marca '3Stars' con grano 8",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1147756/d7af606b8456198ac6eb744ff469f1a3.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7984?lote=53",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1147757,
-          "lote": "61",
-          "titulo": "L 305 - 20 Piezas - Lote de 20 discos de desbaste marca \"3 Stars\" Angled para amoladora, grano 80, 115x22.23 (Medidas 150x90x100mm)",
-          "descripcion": "Estado: Lote de discos de desbaste con caja de la marca Waty. Se presentan como nuevos, aptos para amoladoras.. Medidas: .",
-          "artista": null,
-          "album": "20 Piezas - Lote de 20 discos de desbaste marca \"3 Stars\" Angled para amoladora",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1147757/17cbcb4aea91bce71e11f1487bd28fa2.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7984?lote=61",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1147758,
-          "lote": "67",
-          "titulo": "L 303 - 10 Piezas - Caja de 10 discos de lija Flap marca Waty, grano 80, para amoladora (115x22.23mm)",
-          "descripcion": "Estado: Set de 10 discos de lija Flap angulados, marca Waty, con centro metálico. Grano 80, velocidad máxima de 80 m/s y 13300 RPM. Ideal para desbaste y terminación en trabajos de herrería y construcción. Nuevo en caja.. Medidas: .",
-          "artista": null,
-          "album": "10 Piezas - Caja de 10 discos de lija Flap marca Waty, grano 80, para amoladora",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1147758/1237ba8275fd687952a717def69bda32.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7984?lote=67",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1147759,
-          "lote": "72",
-          "titulo": "L 307 - 10 Piezas - Práctico lote de 10 discos de desbaste angulados marca '3 Stars' modelo 80, de 125x22.23 mm para 13300 RPM, ideal para trabajos de metalurgia y",
-          "descripcion": "Estado: Set de 10 discos de desbaste angulados de la marca '3 Stars', granulometría 80, con un diámetro de 125 mm y agujero de 22.23 mm. Aptos para 13300 RPM y una velocidad de 80 m/s. Se presentan nuevos, en su empaque original de caja cerrada de la marca WATY, con film protector. Ideales para trabajos de desbaste en metal y superficies duras.. Nota: Fabricados por GARY SHINYTOOL SLOVENIA, como se indica en la etiqueta del producto.. Medidas: .",
-          "artista": null,
-          "album": "10 Piezas - Práctico lote de 10 discos de desbaste angulados marca '3 Stars' mod",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1147759/3fc50e90d3ea48b5c47646f44ed52328.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7984?lote=72",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1147761,
-          "lote": "76",
-          "titulo": "L 298 - Caja Con 10 Discos - Práctica caja con 10 discos de desbaste angulados Waty de grano 80, ideales para trabajos de pulido y lijado en amoladora (Medida 115x22.23 mm)",
-          "descripcion": "Estado: Caja de 10 discos de desbaste angulados de la marca Waty, modelo Lamelm Brus, con grano 80. Aptos para amoladoras, ideales para trabajos de desbaste, pulido y lijado. Las etiquetas indican que son para una velocidad máxima de 80 m/s y 13300 RPM.. Nota: Fabricado en Eslovenia por 3 Stars.. Medidas: .",
-          "artista": null,
-          "album": "Caja Con 10 Discos - Práctica caja con 10 discos de desbaste angulados Waty de g",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1147761/b08d9dcb34f2922d6704e2b3e2b7b4f8.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7984?lote=76",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1147762,
-          "lote": "80",
-          "titulo": "L 297 - 10 Piezas - Caja de discos de desbaste angulados Waty de 115x22.23 y grano 80, aptos para amoladoras, ideales para trabajos de pulido y remoción de material (10",
-          "descripcion": "Estado: Set de 10 discos de desbaste marca Waty, modelo angulado, con medidas de 115x22.23 mm y grano 80. Presentados en su caja original, ideales para trabajos de lijado y pulido de alta exigencia.. Medidas: .",
-          "artista": null,
-          "album": "10 Piezas - Caja de discos de desbaste angulados Waty de 115x22",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1147762/1c523d3f0f8623bb5ee30683a77c9d47.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7984?lote=80",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1147763,
-          "lote": "82",
-          "titulo": "L 296 - 1 Caja Con 10 Discos - Práctica caja con 10 discos de lija Flap marca Waty de 115x22.23 (grano 80) para uso profesional, nuevos.",
-          "descripcion": "Estado: Set de 10 discos de lija Flap de la marca Waty, grano 80, ideales para uso en amoladoras. Medidas de 115x22.23 mm. Presentados en su caja original, sellados individualmente y en perfecto estado.. Medidas: .",
-          "artista": null,
-          "album": "1 Caja Con 10 Discos - Práctica caja con 10 discos de lija Flap marca Waty de 11",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1147763/b791dce0cca470e861041225d3904a3e.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7984?lote=82",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1147764,
-          "lote": "84",
-          "titulo": "L 299 - 10 Piezas - Set de 10 discos de desbaste abrasivos angulados, grano 80, marca Waty, ideales para amoladora (Nuevos)",
-          "descripcion": "Estado: Set de 10 discos de desbaste con grano 80, en caja original con envoltorio plastico. Apto para amoladoras, con capacidad de 13300 RPM. Ideales para trabajos de pulido y desbaste. Presentan buen estado, sin uso.. Nota: Fabricado en Eslovenia por \"SMIRDEX SL. Medidas: .",
-          "artista": "Nuevos",
-          "album": "10 Piezas - Set de 10 discos de desbaste abrasivos angulados, grano 80, marca Wa",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1147764/cac0fc63dfc3823e825e2e8cc0e3b3d7.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7984?lote=84",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1147778,
-          "lote": "111",
-          "titulo": "L 283 - Lote De 16 Discos - Atractivo lote de 16 discos compactos de la colección '100 Años de Cine' de El País, ideal para amantes del séptimo arte o coleccionistas",
-          "descripcion": "Estado: Colección de CDs del diario El País, temática '100 Años de Cine'. Incluye 16 discos compactos presentados en sus cajas originales. Aparenta buen estado general con signos de uso menores en los estuches.. Medidas: lote de 16 discos.",
-          "artista": "Cine",
-          "album": "Lote De 16 Discos - Atractivo lote de 16 discos compactos de la colección '100 A",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1147778/08637ed4be9774546b6660675c516159.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7984?lote=111",
-          "motivos": [
-            "formato \"Artista - Título\" + contexto musical"
-          ]
-        }
-      ],
-      "datosDe": "2026-09-26T09:13:30.767Z"
-    },
-    {
-      "id": "7915",
-      "nombre": "Gran liquidación de coleccionables mayoría provenientes de antigua casa en el campo. Platería Criolla,  coleccionables,  juguetes en chapa japonesa, Relojes para caballero, alhajas en plata, cerraduras en hierro forjado entre otros.",
-      "empresa": "ElEjido",
-      "departamento": "MONTEVIDEO",
-      "lugar": "EJIDO 932, MONTEVIDEO",
-      "fecha": "26/09/2026, 19:00",
-      "fechaISO": "2026-09-26T22:00:00.000Z",
-      "timestamp": 1790460000,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7915",
-      "totalLotes": 182,
-      "vinilos": [
-        {
-          "id": 1136065,
-          "lote": "135",
-          "titulo": "Álbum Mundial South África 2010 Faltan 6",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": "2010",
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1136065/6bca444b377b29376ae0ea852a793256.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7915?lote=135",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 2010"
-          ]
-        },
-        {
-          "id": 1136066,
-          "lote": "136",
-          "titulo": "Álbum Fútbol Uruguayo Faltan 44",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1136066/395998750d0f6e7e71011fa7ba2ba549.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7915?lote=136",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1136067,
-          "lote": "137",
-          "titulo": "Álbum Copa CocaCola Campeonato Uruguayo Faltan 44",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1136067/5f034d11e49ad820a987bb45d0bbd4b9.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7915?lote=137",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        }
-      ],
-      "datosDe": "2026-09-26T09:13:30.767Z"
-    },
     {
       "id": "7916",
       "nombre": "Segunda parte de gran remate de Coleccionables mayoría provenientes de  antigua casa en el campo con gran variedad de coleccionables,  pintura Nacional ( CastellsCapurroentre otros),  mobiliario, libros,....",
@@ -456,7 +34,22 @@
           ]
         }
       ],
-      "datosDe": "2026-09-26T09:13:30.767Z"
+      "datosDe": "2026-09-26T23:28:30.189Z"
+    },
+    {
+      "id": "8035",
+      "nombre": "GRAN REMATE MULTIRUBRO, DESTACAMOS: CUADRO DE HUGO NANTES Y DE R. PEREZ, LAMINAS, FOTOCOPIADORA, LOCKERS, MOBILIARIO DE OFICINA, MUEBLES DE ROBLE, ELECTRODOMESTICOS, HERRAMIENTAS, NOTEBOOKS, ARTICULOS PARA EL HOGAR, SOMMIERS, TV SMART, ARTICULOS ELECTRONICOS, AURICULARES INALAMBRICOS, ARTICULOS PARA EVENTOS, AIRES ACONDICIONADO, Y MUCHO MÁS.",
+      "empresa": "Escritorio Puglia",
+      "departamento": "Montevideo",
+      "lugar": "República de Corea 3499, esquina Av. Dámaso Antonio Larrañaga, Montevideo",
+      "fecha": "27/09/2026, 19:00",
+      "fechaISO": "2026-09-27T22:00:00.000Z",
+      "timestamp": 1790546400,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8035",
+      "totalLotes": 218,
+      "vinilos": [],
+      "datosDe": "2026-09-26T23:28:30.189Z"
     },
     {
       "id": "8024",
@@ -471,7 +64,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8024",
       "totalLotes": 165,
       "vinilos": [],
-      "datosDe": "2026-09-26T09:13:30.767Z"
+      "datosDe": "2026-09-26T23:28:30.189Z"
     },
     {
       "id": "7998",
@@ -523,7 +116,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-26T09:13:30.767Z"
+      "datosDe": "2026-09-26T23:28:30.189Z"
     },
     {
       "id": "7957",
@@ -558,7 +151,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-26T09:13:30.767Z"
+      "datosDe": "2026-09-26T23:28:30.189Z"
     },
     {
       "id": "8012",
@@ -573,7 +166,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8012",
       "totalLotes": 104,
       "vinilos": [],
-      "datosDe": "2026-09-26T09:13:30.767Z"
+      "datosDe": "2026-09-26T23:28:30.189Z"
     },
     {
       "id": "7964",
@@ -586,9 +179,24 @@
       "timestamp": 1790784000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7964",
-      "totalLotes": 100,
+      "totalLotes": 113,
       "vinilos": [],
-      "datosDe": "2026-09-26T09:13:30.767Z"
+      "datosDe": "2026-09-26T23:28:30.189Z"
+    },
+    {
+      "id": "8025",
+      "nombre": "IMPERDIBLE REMATE EN DONDE SE DESTACA LOZA SELLADA INGLESA; OLMOS, ADORNOS, CUADROS, ESTATUILLAS COLECCIONABLES PAPA FRANCISCO, GRAN CANTIDAD DE CUBIERTOS, HORNO ELÉCTRICO DE 25L, VALIJAS DE VIAJE NUEVAS, 40 DISCOS DE CORTE CAT, VALIJAS DE HERRAMIENTAS, PINCELES, MACETAS DE JARDÍN, CAJONES PLÁSTICOS LECHEROS Y MÁS❗️",
+      "empresa": "Emilio Baptista Martínez",
+      "departamento": "Montevideo",
+      "lugar": "Domingo Aramburu 1647, Montevideo",
+      "fecha": "30/09/2026, 16:00",
+      "fechaISO": "2026-09-30T19:00:00.000Z",
+      "timestamp": 1790794800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8025",
+      "totalLotes": 102,
+      "vinilos": [],
+      "datosDe": "2026-09-26T23:28:30.189Z"
     },
     {
       "id": "7824",
@@ -623,7 +231,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-26T09:13:30.767Z"
+      "datosDe": "2026-09-26T23:28:30.189Z"
     },
     {
       "id": "7919",
@@ -636,7 +244,7 @@
       "timestamp": 1790884800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7919",
-      "totalLotes": 335,
+      "totalLotes": 332,
       "vinilos": [
         {
           "id": 1137406,
@@ -675,7 +283,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-26T09:13:30.767Z"
+      "datosDe": "2026-09-26T23:28:30.189Z"
     },
     {
       "id": "8040",
@@ -690,7 +298,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8040",
       "totalLotes": 102,
       "vinilos": [],
-      "datosDe": "2026-09-26T09:13:30.767Z"
+      "datosDe": "2026-09-26T23:28:30.189Z"
     },
     {
       "id": "7892",
@@ -705,7 +313,22 @@
       "url": "https://www.remotes.com.uy/participar/remate/7892",
       "totalLotes": 84,
       "vinilos": [],
-      "datosDe": "2026-09-26T09:13:30.767Z"
+      "datosDe": "2026-09-26T23:28:30.189Z"
+    },
+    {
+      "id": "8033",
+      "nombre": "GRAN REMATE ESPECIAL - EXPO SALTO 2026",
+      "empresa": "Remates Charrúa",
+      "departamento": "Salto",
+      "lugar": "Expo Salto, Salto",
+      "fecha": "03/10/2026, 14:00",
+      "fechaISO": "2026-10-03T17:00:00.000Z",
+      "timestamp": 1791046800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8033",
+      "totalLotes": 78,
+      "vinilos": [],
+      "datosDe": "2026-09-26T23:28:30.189Z"
     },
     {
       "id": "8014",
@@ -720,7 +343,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8014",
       "totalLotes": 41,
       "vinilos": [],
-      "datosDe": "2026-09-26T09:13:30.767Z"
+      "datosDe": "2026-09-26T23:28:30.189Z"
     },
     {
       "id": "7951",
@@ -735,7 +358,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7951",
       "totalLotes": 94,
       "vinilos": [],
-      "datosDe": "2026-09-26T09:13:30.767Z"
+      "datosDe": "2026-09-26T23:28:30.189Z"
     },
     {
       "id": "7956",
@@ -750,7 +373,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7956",
       "totalLotes": 191,
       "vinilos": [],
-      "datosDe": "2026-09-26T09:13:30.767Z"
+      "datosDe": "2026-09-26T23:28:30.189Z"
     },
     {
       "id": "7917",
@@ -765,7 +388,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7917",
       "totalLotes": 232,
       "vinilos": [],
-      "datosDe": "2026-09-26T09:13:30.767Z"
+      "datosDe": "2026-09-26T23:28:30.189Z"
     },
     {
       "id": "7983",
@@ -778,7 +401,7 @@
       "timestamp": 1791151200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7983",
-      "totalLotes": 184,
+      "totalLotes": 185,
       "vinilos": [
         {
           "id": 1146604,
@@ -817,7 +440,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-26T09:13:30.767Z"
+      "datosDe": "2026-09-26T23:28:30.189Z"
     },
     {
       "id": "7832",
@@ -869,11 +492,26 @@
           ]
         }
       ],
-      "datosDe": "2026-09-26T09:13:30.767Z"
+      "datosDe": "2026-09-26T23:28:30.189Z"
+    },
+    {
+      "id": "7980",
+      "nombre": "Por venta de 2 apartamentos rematamos su contenido completo con hallazgos increíbles como un manuscrito medieval, muebles de estilo,  vajilla,  cristalería Saint Louis,  juego de cubiertos Solingen, loza inglesa, antiguedades,  platina, pintura Nacional. Terminamos con jarras Royal Doulton y gran colección de libros relacionados al Arte y La Pintura",
+      "empresa": "ElEjido",
+      "departamento": "MONTEVIDEO",
+      "lugar": "EJIDO 932, MONTEVIDEO",
+      "fecha": "05/10/2026, 19:00",
+      "fechaISO": "2026-10-05T22:00:00.000Z",
+      "timestamp": 1791237600,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7980",
+      "totalLotes": 225,
+      "vinilos": [],
+      "datosDe": "2026-09-26T23:28:30.189Z"
     },
     {
       "id": "7962",
-      "nombre": "¡GRAN REMATE DE COLECCIÓN! HISTORIA Y TRADICIÓN URUGUAYA, Gran variedad de Libros, Cuadros, Medallas, Diarios de Época, Objetos Gauchescos, del PARTIDO NACIONAL Y COLORADO entre otros",
+      "nombre": "¡GRAN REMATE DE COLECCIÓN! HISTORIA Y TRADICIÓN URUGUAYA, Gran variedad de Libros, Cuadros, Medallas, Diarios de Época, Objetos Gauchescos, del PARTIDO NACIONAL Y COLORADO entre otros. NO SE HACEN ENVÍOS",
       "empresa": "Stajano Remates",
       "departamento": "Montevideo",
       "lugar": "Humberto 1 N° 4030, Montevideo",
@@ -882,9 +520,9 @@
       "timestamp": 1791320400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7962",
-      "totalLotes": 81,
+      "totalLotes": 83,
       "vinilos": [],
-      "datosDe": "2026-09-26T09:13:30.767Z"
+      "datosDe": "2026-09-26T23:28:30.189Z"
     },
     {
       "id": "7978",
@@ -899,7 +537,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7978",
       "totalLotes": 81,
       "vinilos": [],
-      "datosDe": "2026-09-26T09:13:30.767Z"
+      "datosDe": "2026-09-26T23:28:30.189Z"
     },
     {
       "id": "7828",
@@ -933,7 +571,7 @@
           ]
         }
       ],
-      "datosDe": "2026-09-26T09:13:30.767Z"
+      "datosDe": "2026-09-26T23:28:30.189Z"
     },
     {
       "id": "8010",
@@ -948,7 +586,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8010",
       "totalLotes": 130,
       "vinilos": [],
-      "datosDe": "2026-09-26T09:13:30.767Z"
+      "datosDe": "2026-09-26T23:28:30.189Z"
     },
     {
       "id": "8032",
@@ -961,9 +599,9 @@
       "timestamp": 1791844200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8032",
-      "totalLotes": 96,
+      "totalLotes": 148,
       "vinilos": [],
-      "datosDe": "2026-09-26T09:13:30.767Z"
+      "datosDe": "2026-09-26T23:28:30.189Z"
     },
     {
       "id": "7928",
@@ -978,7 +616,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7928",
       "totalLotes": 1,
       "vinilos": [],
-      "datosDe": "2026-09-26T09:13:30.767Z"
+      "datosDe": "2026-09-26T23:28:30.189Z"
     }
   ]
 }
