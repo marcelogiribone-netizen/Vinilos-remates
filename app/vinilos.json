@@ -1,108 +1,7 @@
 {
-  "generado": "2026-10-02T10:21:58.982Z",
+  "generado": "2026-10-03T00:20:14.244Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "7919",
-      "nombre": "❌IMPERDIBLE GRAN REMATE✳️❌PÚBLICO EN GENERAL",
-      "empresa": "Remates República",
-      "departamento": "Montevideo",
-      "lugar": "Venezuela 1327 casi Libertador , Montevideo",
-      "fecha": "02/10/2026, 17:00",
-      "fechaISO": "2026-10-02T20:00:00.000Z",
-      "timestamp": 1790971200,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7919",
-      "totalLotes": 354,
-      "vinilos": [
-        {
-          "id": 1137406,
-          "lote": "201",
-          "titulo": "Un lanzador de discos de spider-man y una figura de Max Steel",
-          "descripcion": null,
-          "artista": "Max Steel",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1137406/ba4bb3e9998d4614c127294ff187c095.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7919?lote=201",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1146155,
-          "lote": "321",
-          "titulo": "17 Cómics Alix Por Jacques Martin Álbumes Casterman En Neerlandés",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 50,
-          "oferta": 50,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1146155/c82d03457b54e3c4e8919dd47ff9e5da.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7919?lote=321",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        }
-      ],
-      "datosDe": "2026-10-02T10:21:58.982Z"
-    },
-    {
-      "id": "7943",
-      "nombre": "ANTIGUEDADES COLECCIOANBLES Y MAS!",
-      "empresa": "Flores Montaña Subastas",
-      "departamento": "SALTO",
-      "lugar": "SALTO, SALTO",
-      "fecha": "02/10/2026, 18:30",
-      "fechaISO": "2026-10-02T21:30:00.000Z",
-      "timestamp": 1790976600,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7943",
-      "totalLotes": 118,
-      "vinilos": [],
-      "datosDe": "2026-10-02T10:21:58.982Z"
-    },
-    {
-      "id": "8059",
-      "nombre": "COLECCIONABLES !!! VARIADOS TODO MUY LINDO Y BARATO !!! DESTACANDO : PIEZAS DE BARCO,  PARTE DE MICROSCOPIO MARCA ERNS LEITZ, ART ALUMINIO, ART FORD A Y CROMADOS, VALIJA DE MEDICO, ART DE PELUQUERO, FUSTA DE JOCKEY, LIBROS, BOLETOS DE LA ONDA, ARTICULOS DE CAMPO, TELEFONO ANTEL, JUEGOS LOTERIA, ADORNOS ETC ETC ESTE VIERNES 2 DE OCTUBRE A LAS 19 HORAS  EN COLONIA ON LINE 220 !!!",
-      "empresa": "Gardiol y otros",
-      "departamento": "Colonia",
-      "lugar": "RUTA 1 KM. 165 RIACHUELO, Colonia",
-      "fecha": "02/10/2026, 19:00",
-      "fechaISO": "2026-10-02T22:00:00.000Z",
-      "timestamp": 1790978400,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8059",
-      "totalLotes": 61,
-      "vinilos": [
-        {
-          "id": 1159432,
-          "lote": "38",
-          "titulo": "LIBROS \" EL MATE \"Y DISCO CON TEMA MATE AMARGO",
-          "descripcion": "DE COLECCIÓN",
-          "artista": null,
-          "album": "EL MATE",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 350,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1159432/84f645d031dc8116fc45461378307082.JPG",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8059?lote=38",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        }
-      ],
-      "datosDe": "2026-10-02T10:21:58.982Z"
-    },
     {
       "id": "8033",
       "nombre": "GRAN REMATE ESPECIAL - EXPO SALTO 2026",
@@ -114,9 +13,9 @@
       "timestamp": 1791046800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8033",
-      "totalLotes": 220,
+      "totalLotes": 209,
       "vinilos": [],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "8014",
@@ -131,7 +30,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8014",
       "totalLotes": 42,
       "vinilos": [],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "7508",
@@ -165,7 +64,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "8079",
@@ -180,7 +79,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8079",
       "totalLotes": 73,
       "vinilos": [],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "7951",
@@ -195,7 +94,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7951",
       "totalLotes": 122,
       "vinilos": [],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "7956",
@@ -210,7 +109,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7956",
       "totalLotes": 191,
       "vinilos": [],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "8068",
@@ -223,12 +122,12 @@
       "timestamp": 1791150300,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8068",
-      "totalLotes": 490,
+      "totalLotes": 491,
       "vinilos": [
         {
           "id": 1162629,
           "lote": "27",
-          "titulo": "Demencial Álbum con fotografías relacionadas con el desembarco de los féretros y sepelio de los tripulantes alemanes fallecidos del acorazado Graf Spee en 1939. Las hojas están sueltas y faltan las tapas del álbum",
+          "titulo": "Demencial Álbum con 18 fotografías relacionadas con el desembarco de los féretros y sepelio de los tripulantes alemanes fallecidos del acorazado Graf Spee en 1939. Las hojas están sueltas y faltan las tapas del álbum. Cada foto mide 18 x 11 cm",
           "descripcion": null,
           "artista": null,
           "album": null,
@@ -236,7 +135,7 @@
           "anio": "1939",
           "moneda": "$",
           "base": 1900,
-          "oferta": null,
+          "oferta": 2800,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1162629/7cbd81dc15d8d60a0e7e53261c039c54.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8068?lote=27",
           "motivos": [
@@ -255,7 +154,7 @@
           "anio": null,
           "moneda": "$",
           "base": 8000,
-          "oferta": null,
+          "oferta": 9000,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1162852/c0ae6c2a4a0bc3bb8c7c84d1a1308ba2.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8068?lote=233",
           "motivos": [
@@ -263,7 +162,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "7917",
@@ -278,7 +177,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7917",
       "totalLotes": 232,
       "vinilos": [],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "7983",
@@ -291,7 +190,7 @@
       "timestamp": 1791151200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7983",
-      "totalLotes": 223,
+      "totalLotes": 241,
       "vinilos": [
         {
           "id": 1146604,
@@ -348,7 +247,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "8052",
@@ -1567,7 +1466,7 @@
           "anio": "1975",
           "moneda": "$",
           "base": 300,
-          "oferta": 450,
+          "oferta": 500,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1158262/8bf499548851ba430f1c049076585723.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8052?lote=65",
           "motivos": [
@@ -1586,7 +1485,7 @@
           "anio": "1969",
           "moneda": "$",
           "base": 300,
-          "oferta": 300,
+          "oferta": 350,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1158263/43db1c8bfa9d2ba4c7efd29a0066ade4.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8052?lote=66",
           "motivos": [
@@ -1624,7 +1523,7 @@
           "anio": "1970",
           "moneda": "$",
           "base": 300,
-          "oferta": 550,
+          "oferta": 600,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1158265/e6629a299faccdea033cbbe19291adf7.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8052?lote=68",
           "motivos": [
@@ -3215,7 +3114,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "8061",
@@ -3230,7 +3129,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8061",
       "totalLotes": 152,
       "vinilos": [],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "8040",
@@ -3245,7 +3144,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8040",
       "totalLotes": 102,
       "vinilos": [],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "7980",
@@ -3260,7 +3159,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7980",
       "totalLotes": 225,
       "vinilos": [],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "7962",
@@ -3275,7 +3174,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7962",
       "totalLotes": 83,
       "vinilos": [],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "8018",
@@ -3290,11 +3189,11 @@
       "url": "https://www.remotes.com.uy/participar/remate/8018",
       "totalLotes": 167,
       "vinilos": [],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "7769",
-      "nombre": "Subasta de Antiguedades y Coleccionables. (Se continuaran añadiendo lotes) .",
+      "nombre": "Subasta de Antiguedades y Coleccionables. Se destaca: alcancia del Banco Río Negro, candados, farol inglés de minería y más...",
       "empresa": "Luciana Pesce",
       "departamento": "San José",
       "lugar": "Km 29. Ruta 1, San José",
@@ -3316,7 +3215,7 @@
           "anio": null,
           "moneda": "$",
           "base": 300,
-          "oferta": null,
+          "oferta": 300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1114364/a1448efa58014dd2287ade1b2b7967ab.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7769?lote=11",
           "motivos": [
@@ -3342,7 +3241,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "8001",
@@ -3376,7 +3275,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "7978",
@@ -3391,7 +3290,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7978",
       "totalLotes": 91,
       "vinilos": [],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "7828",
@@ -3425,7 +3324,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "8031",
@@ -3440,7 +3339,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8031",
       "totalLotes": 104,
       "vinilos": [],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "8070",
@@ -5424,7 +5323,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "8010",
@@ -5439,7 +5338,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8010",
       "totalLotes": 130,
       "vinilos": [],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "7832",
@@ -5491,7 +5390,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "8082",
@@ -5506,7 +5405,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8082",
       "totalLotes": 150,
       "vinilos": [],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "8032",
@@ -5519,9 +5418,24 @@
       "timestamp": 1791844200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8032",
-      "totalLotes": 148,
+      "totalLotes": 201,
       "vinilos": [],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
+    },
+    {
+      "id": "7883",
+      "nombre": "❌LINDOS LOTES▶️ANTIGUEDADES ➡️LOSA, ➡️BANDERINES   ➡️ADORNOS Y MÁS✅ CONSULTAS :099 28 53 90 ✅",
+      "empresa": "Remates República",
+      "departamento": "Montevideo",
+      "lugar": "Venezuela 1327 casi Libertador , Montevideo",
+      "fecha": "13/10/2026, 18:00",
+      "fechaISO": "2026-10-13T21:00:00.000Z",
+      "timestamp": 1791925200,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7883",
+      "totalLotes": 130,
+      "vinilos": [],
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "7928",
@@ -5536,7 +5450,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7928",
       "totalLotes": 1,
       "vinilos": [],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "7892",
@@ -5551,7 +5465,41 @@
       "url": "https://www.remotes.com.uy/participar/remate/7892",
       "totalLotes": 84,
       "vinilos": [],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
+    },
+    {
+      "id": "8093",
+      "nombre": "⭐️BUELA REMATA⭐️ 🚩🚩🚩NUEVO REMATE MULTIRUBRO🚩🚩🚩 ✔MERCADERÍA NUEVA ✔ENVIOS A TODO EL PAIS ✔EMBALAJE SIN COSTO",
+      "empresa": "Ana Paula Buela Salato",
+      "departamento": "Montevideo",
+      "lugar": "José Usera 3329, Montevideo",
+      "fecha": "23/10/2026, 19:00",
+      "fechaISO": "2026-10-23T22:00:00.000Z",
+      "timestamp": 1792792800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8093",
+      "totalLotes": 113,
+      "vinilos": [
+        {
+          "id": 1163739,
+          "lote": "75",
+          "titulo": "Cierra Circular de madera con disco.",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 1800,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1163739/507df4aa0915b024d24e9ea392623e88.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8093?lote=75",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        }
+      ],
+      "datosDe": "2026-10-03T00:20:14.244Z"
     },
     {
       "id": "6923",
@@ -5566,7 +5514,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/6923",
       "totalLotes": 326,
       "vinilos": [],
-      "datosDe": "2026-10-02T10:21:58.982Z"
+      "datosDe": "2026-10-03T00:20:14.244Z"
     }
   ]
 }
