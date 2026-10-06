@@ -1,75 +1,7 @@
 {
-  "generado": "2026-10-05T11:16:11.379Z",
+  "generado": "2026-10-06T01:42:40.077Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "8068",
-      "nombre": "LUNES 5/10 DIA 2: VAYA DIRECTO AL LOTE 225 Y REVISE LO NO VENDIDO (LO QUE NO ESTA PINTADO DE ROJO DE DIA 1)",
-      "empresa": "Rincón del Vintage",
-      "departamento": "Montevideo",
-      "lugar": "Caramuru 6007 esq. Belastiqui (Punta Gorda), Montevideo",
-      "fecha": "05/10/2026, 18:45",
-      "fechaISO": "2026-10-05T21:45:00.000Z",
-      "timestamp": 1791236700,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8068",
-      "totalLotes": 490,
-      "vinilos": [
-        {
-          "id": 1162629,
-          "lote": "27",
-          "titulo": "Demencial Álbum con 18 fotografías relacionadas con el desembarco de los féretros y sepelio de los tripulantes alemanes fallecidos del acorazado Graf Spee en 1939. Las hojas están sueltas y faltan las tapas del álbum. Cada foto mide 18 x 11 cm",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": "1939",
-          "moneda": "$",
-          "base": 1900,
-          "oferta": 3600,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1162629/7cbd81dc15d8d60a0e7e53261c039c54.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8068?lote=27",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1939"
-          ]
-        },
-        {
-          "id": 1162852,
-          "lote": "233",
-          "titulo": "Reloj aviador BULOVA A 15 automático reedición de BULOVA del proyecto presentado a la Fuerza Aérea Americana en la Segunda Guerra Mundial \nCaja: Acero inoxidable 316l cepillado y pulido 42mm\nCristal: Zafiro de doble cúpula antirreflejos \nMáquina: Miyota 82s6 21 rubíes automático \nMalla: Cuero desgaste original con hebilla original \nLuminiscencia: Superluminova en agujas y dial\nDoble disco giratorio interior operado por tres coronas para segundo huso horario y tiempo de vuelo transcurrido, etc.\nCondición de nuevo, fue usado dos o tres veces, cero rayas excelente estado, no tiene su caja",
-          "descripcion": null,
-          "artista": "BULOVA",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 8000,
-          "oferta": 18500,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1162852/c0ae6c2a4a0bc3bb8c7c84d1a1308ba2.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8068?lote=233",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        }
-      ],
-      "datosDe": "2026-10-05T11:16:11.379Z"
-    },
-    {
-      "id": "7980",
-      "nombre": "Por venta de 2 apartamentos rematamos su contenido completo con hallazgos increíbles como un manuscrito medieval, muebles de estilo,  vajilla,  cristalería Saint Louis,  juego de cubiertos Solingen, loza inglesa, antiguedades,  platina, pintura Nacional. Terminamos con jarras Royal Doulton y gran colección de libros relacionados al Arte y La Pintura",
-      "empresa": "ElEjido",
-      "departamento": "MONTEVIDEO",
-      "lugar": "EJIDO 932, MONTEVIDEO",
-      "fecha": "05/10/2026, 19:00",
-      "fechaISO": "2026-10-05T22:00:00.000Z",
-      "timestamp": 1791237600,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7980",
-      "totalLotes": 225,
-      "vinilos": [],
-      "datosDe": "2026-10-05T11:16:11.379Z"
-    },
     {
       "id": "8055",
       "nombre": "!!REMATAZO!!! Remates Nenhof, antigüedades, coleccionismo, bazar, adornos y más. SEGUIMOS CARGANDO LOTES Y FOTOS HASTA LAS 21 hrs NOCHE DEL LUNES",
@@ -81,9 +13,9 @@
       "timestamp": 1791316800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8055",
-      "totalLotes": 296,
+      "totalLotes": 299,
       "vinilos": [],
-      "datosDe": "2026-10-05T11:16:11.379Z"
+      "datosDe": "2026-10-06T01:42:40.077Z"
     },
     {
       "id": "8040",
@@ -98,7 +30,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8040",
       "totalLotes": 107,
       "vinilos": [],
-      "datosDe": "2026-10-05T11:16:11.379Z"
+      "datosDe": "2026-10-06T01:42:40.077Z"
     },
     {
       "id": "7962",
@@ -113,7 +45,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7962",
       "totalLotes": 83,
       "vinilos": [],
-      "datosDe": "2026-10-05T11:16:11.379Z"
+      "datosDe": "2026-10-06T01:42:40.077Z"
     },
     {
       "id": "8018",
@@ -128,7 +60,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8018",
       "totalLotes": 167,
       "vinilos": [],
-      "datosDe": "2026-10-05T11:16:11.379Z"
+      "datosDe": "2026-10-06T01:42:40.077Z"
     },
     {
       "id": "7769",
@@ -180,7 +112,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-05T11:16:11.379Z"
+      "datosDe": "2026-10-06T01:42:40.077Z"
     },
     {
       "id": "8106",
@@ -193,9 +125,24 @@
       "timestamp": 1791324000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8106",
-      "totalLotes": 75,
+      "totalLotes": 76,
       "vinilos": [],
-      "datosDe": "2026-10-05T11:16:11.379Z"
+      "datosDe": "2026-10-06T01:42:40.077Z"
+    },
+    {
+      "id": "8110",
+      "nombre": "Gran REMATE por MUDANZA en CASA MODERNA DE POCITOS, SEGUNDA PARTE , muebles, juego dormitorio, sillones petit, escritorio y cajonera,  adornos, bazar, libros infantiles, legos , chapas decorativas ORIGINALES traídas de EEUU, COLECCIONABLES ,  luminaria, tech, tablets electrodomésticos, horno Ariston de empotrar,  en perfecto estado. Retira viernes 9 de octubre. Estamos subiendo lotes, te esperamos.",
+      "empresa": "Elena María Guerra Rodríguez",
+      "departamento": "Montevideo",
+      "lugar": "A coordinar, Montevideo",
+      "fecha": "06/10/2026, 19:15",
+      "fechaISO": "2026-10-06T22:15:00.000Z",
+      "timestamp": 1791324900,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8110",
+      "totalLotes": 92,
+      "vinilos": [],
+      "datosDe": "2026-10-06T01:42:40.077Z"
     },
     {
       "id": "8001",
@@ -221,7 +168,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1147784/a25ea06c3930868efd926fddac5e5e69.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8001?lote=284",
           "motivos": [
@@ -229,7 +176,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-05T11:16:11.379Z"
+      "datosDe": "2026-10-06T01:42:40.077Z"
     },
     {
       "id": "7978",
@@ -244,7 +191,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7978",
       "totalLotes": 90,
       "vinilos": [],
-      "datosDe": "2026-10-05T11:16:11.379Z"
+      "datosDe": "2026-10-06T01:42:40.077Z"
     },
     {
       "id": "7828",
@@ -278,7 +225,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-05T11:16:11.379Z"
+      "datosDe": "2026-10-06T01:42:40.077Z"
     },
     {
       "id": "8031",
@@ -293,7 +240,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8031",
       "totalLotes": 106,
       "vinilos": [],
-      "datosDe": "2026-10-05T11:16:11.379Z"
+      "datosDe": "2026-10-06T01:42:40.077Z"
     },
     {
       "id": "8070",
@@ -750,7 +697,7 @@
           "anio": "1989",
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161052/e48393889f0a864d9eb3eaf28c440806.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=24",
           "motivos": [
@@ -843,7 +790,7 @@
           "anio": "1976",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161057/f927c0a25a55d1e1428cf18937908985.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=29",
           "motivos": [
@@ -1145,7 +1092,7 @@
           "anio": "1982",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161098/a092b9fedfd0439a61186eb53cf359d7.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=70",
           "motivos": [
@@ -1218,7 +1165,7 @@
           "anio": "1978",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161102/8ca35c70ba2f31f02b5f97e2ffdd1422.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=74",
           "motivos": [
@@ -1313,7 +1260,7 @@
           "anio": "1986",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161107/219609a20af0e85d9ed7c0a92480d766.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=79",
           "motivos": [
@@ -1502,7 +1449,7 @@
           "anio": "1977",
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161182/be39d957bf536269f1b203b184248b32.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=154",
           "motivos": [
@@ -1521,7 +1468,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161183/1018df434e21ed667d1e97958bc5e4d8.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=155",
           "motivos": [
@@ -1539,7 +1486,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161184/346862efbf5cadcf80a0acdf7f930189.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=156",
           "motivos": [
@@ -1575,7 +1522,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161186/b00d8a3454dd3d91c28c4386e1400807.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=158",
           "motivos": [
@@ -1593,7 +1540,7 @@
           "anio": "1990",
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 350,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161187/6b77188aa9e0f959dcf74d805428ca3e.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=159",
           "motivos": [
@@ -1612,7 +1559,7 @@
           "anio": "1984",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161188/657f20099abae86b6f662715ddf45f09.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=160",
           "motivos": [
@@ -1631,7 +1578,7 @@
           "anio": "1984",
           "moneda": "$",
           "base": 200,
-          "oferta": 300,
+          "oferta": 500,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161189/5f1405570694a9f8caec3feba70ce394.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=161",
           "motivos": [
@@ -1669,7 +1616,7 @@
           "anio": "1982",
           "moneda": "$",
           "base": 200,
-          "oferta": 350,
+          "oferta": 500,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161191/eab229a63ffc5e1104603568f7c17269.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=163",
           "motivos": [
@@ -1688,7 +1635,7 @@
           "anio": "1996",
           "moneda": "$",
           "base": 200,
-          "oferta": 300,
+          "oferta": 550,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161192/cd2742cf5d9b642feae5a4162614ec1d.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=164",
           "motivos": [
@@ -1707,7 +1654,7 @@
           "anio": "1989",
           "moneda": "$",
           "base": 200,
-          "oferta": 300,
+          "oferta": 500,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161193/a16a47594a17bc050a9723bee62c7ec0.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=165",
           "motivos": [
@@ -1726,7 +1673,7 @@
           "anio": "1979",
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 350,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161194/43f388e33f83131f56a428f2f2fa46d9.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=166",
           "motivos": [
@@ -1745,7 +1692,7 @@
           "anio": "1977",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161195/5334c2e491bebebcf18293bac526c942.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=167",
           "motivos": [
@@ -1783,7 +1730,7 @@
           "anio": "1968",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161197/cc549d935667c195e93ee86e82d180ad.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=169",
           "motivos": [
@@ -1802,7 +1749,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161198/cfc3056d8349bfdfd4a961f04877e26b.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=170",
           "motivos": [
@@ -1820,7 +1767,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161199/ca07443a3bf6aad2df0a6045533cd30b.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=171",
           "motivos": [
@@ -1875,7 +1822,7 @@
           "anio": "1988",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161202/60764a83bb111db63b1f07b8299da328.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=174",
           "motivos": [
@@ -1912,7 +1859,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161204/304658cfb6e71776d2bb950bc78b8128.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=176",
           "motivos": [
@@ -1948,7 +1895,7 @@
           "anio": "1974",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161206/0f6cbcc58314935be48b03ec37d51656.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=178",
           "motivos": [
@@ -1967,7 +1914,7 @@
           "anio": "1970",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161207/70145aa87c401e9a7d75e79af3214bf3.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=179",
           "motivos": [
@@ -1986,7 +1933,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161208/82505ef159912302cb66f111455e9f05.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=180",
           "motivos": [
@@ -2004,7 +1951,7 @@
           "anio": "1979",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161209/ee0ff03049d81423cc84a48d2f6066fd.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=181",
           "motivos": [
@@ -2042,7 +1989,7 @@
           "anio": "1979",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161211/9861b1734acc4b9411793a99ee070e07.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=183",
           "motivos": [
@@ -2174,7 +2121,7 @@
           "anio": "1981",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161218/37a7a12e6bf5919932625f4960cd3d61.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=190",
           "motivos": [
@@ -2193,7 +2140,7 @@
           "anio": "1969",
           "moneda": "$",
           "base": 200,
-          "oferta": 300,
+          "oferta": 400,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161219/386cbe3c73578d3d627d7d6a3d4eb8b0.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=191",
           "motivos": [
@@ -2268,7 +2215,7 @@
           "anio": "1969",
           "moneda": "$",
           "base": 200,
-          "oferta": 350,
+          "oferta": 450,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161223/d5466a1bbd90d4d369afb90add4cfac8.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=195",
           "motivos": [
@@ -2277,7 +2224,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-05T11:16:11.379Z"
+      "datosDe": "2026-10-06T01:42:40.077Z"
     },
     {
       "id": "8010",
@@ -2292,7 +2239,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8010",
       "totalLotes": 130,
       "vinilos": [],
-      "datosDe": "2026-10-05T11:16:11.379Z"
+      "datosDe": "2026-10-06T01:42:40.077Z"
     },
     {
       "id": "7832",
@@ -2344,7 +2291,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-05T11:16:11.379Z"
+      "datosDe": "2026-10-06T01:42:40.077Z"
     },
     {
       "id": "8082",
@@ -2359,7 +2306,22 @@
       "url": "https://www.remotes.com.uy/participar/remate/8082",
       "totalLotes": 150,
       "vinilos": [],
-      "datosDe": "2026-10-05T11:16:11.379Z"
+      "datosDe": "2026-10-06T01:42:40.077Z"
+    },
+    {
+      "id": "7942",
+      "nombre": "En esta oportunidad sacamos a subasta más de 90 lotes increíbles: vajilla sellada, piezas en plata y bronce, grabadoras y radios antiguas, tocadiscos, saca puntas de colección y mucho artículos únicos.",
+      "empresa": "Flores Montaña Subastas",
+      "departamento": "SALTO",
+      "lugar": "SALTO, SALTO",
+      "fecha": "10/10/2026, 17:15",
+      "fechaISO": "2026-10-10T20:15:00.000Z",
+      "timestamp": 1791663300,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7942",
+      "totalLotes": 97,
+      "vinilos": [],
+      "datosDe": "2026-10-06T01:42:40.077Z"
     },
     {
       "id": "8084",
@@ -2372,7 +2334,7 @@
       "timestamp": 1791756000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8084",
-      "totalLotes": 235,
+      "totalLotes": 295,
       "vinilos": [
         {
           "id": 1164658,
@@ -2411,37 +2373,679 @@
           ]
         }
       ],
-      "datosDe": "2026-10-05T11:16:11.379Z"
+      "datosDe": "2026-10-06T01:42:40.077Z"
     },
     {
-      "id": "8032",
-      "nombre": "Cargando... GRAN LIQUIDACIÓN DE BIENES QUE ALHAJARON UN APARTAMENTO, UNA CAFETERÍA y PETIT HOTEL DE PUNTA DEL ESTE. EXCEPCIONAL COLECCIÓN DE PINTURA Y ESCULTURA. TODO DE MUY BUENA CALIDAD Y EN EXCELENTE ESTADO. SEGURO ENCONTRARÁ LO QUE ESTA BUSCANDO. VISITE LA EXHIBICIÓN. SE REALIZAN ENVÍOS A TODO EL PAÍS. PLAZO PARA EL PAGO Y RETIRO 48hs. EVACÚE SUS DUDAS ANTES DE OFERTAR.",
-      "empresa": "Mario Santiago Carranza",
-      "departamento": "MALDONADO",
-      "lugar": "Salsipuedes e/Cacique Brown y Tacuabé, MALDONADO",
-      "fecha": "12/10/2026, 19:30",
-      "fechaISO": "2026-10-12T22:30:00.000Z",
-      "timestamp": 1791844200,
+      "id": "8089",
+      "nombre": "🏆⚽ GRAN SUBASTA COLECCIONABLE DE FÚTBOL ⚽🏆",
+      "empresa": "Verónica Aristegui Díaz",
+      "departamento": "San José",
+      "lugar": "Parada 8 manzana 3 solar 16 calle colocolo, Playa pascual, San José, San José",
+      "fecha": "11/10/2026, 19:30",
+      "fechaISO": "2026-10-11T22:30:00.000Z",
+      "timestamp": 1791757800,
       "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8032",
-      "totalLotes": 304,
-      "vinilos": [],
-      "datosDe": "2026-10-05T11:16:11.379Z"
-    },
-    {
-      "id": "8088",
-      "nombre": "✅ Remate de Coleccionables y Antigüedades, Se destacan botellas antiguas, destapadores, platina y más!! Estamos cargando lotes",
-      "empresa": "Valentina Rodríguez",
-      "departamento": "Montevideo",
-      "lugar": "Av. Dámaso Antonio Larrañaga 3452, Montevideo",
-      "fecha": "13/10/2026, 15:00",
-      "fechaISO": "2026-10-13T18:00:00.000Z",
-      "timestamp": 1791914400,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8088",
-      "totalLotes": 173,
-      "vinilos": [],
-      "datosDe": "2026-10-05T11:16:11.379Z"
+      "url": "https://www.remotes.com.uy/participar/remate/8089",
+      "totalLotes": 264,
+      "vinilos": [
+        {
+          "id": 1163785,
+          "lote": "3",
+          "titulo": "Álbum completo \"Futbolcrackito\" (Colección 1968) ​ Álbum completo de la edición de 1968. Incluye planteles del fútbol uruguayo (Nacional, Peñarol, Defensor, Danubio, Racing, Huracán Buceo, Wanderers, Bella Vista, Colón, Progreso, Rentistas, Fénix, La Luz, Central Español, Uruguay Montevideo), además de secciones temáticas como \"Grandes Pensadores\" y \"El Arte y sus Genios\". Se aclara que cuenta con 3 figuritas impresas/copias.  ​Estado: Álbum en buenas condiciones generales, con desgaste natural por el paso del tiempo y daños menores en bordes y lomo. ​",
+          "descripcion": null,
+          "artista": null,
+          "album": "Futbolcrackito",
+          "sello": null,
+          "anio": "1968",
+          "moneda": "$",
+          "base": 950,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1163785/a6ae1aa53dfba4875fd54e32d12cf7f0.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=3",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1968"
+          ]
+        },
+        {
+          "id": 1163787,
+          "lote": "4",
+          "titulo": "Álbum completo \" LOS TRICO Y LOS PEÑA, Las aventuras de Cacho y Coquito\" (1980 - Teledoce) ​ Álbum completo de figuritas brillantes y autoadhesivas. Incluye planteles y escudos del fútbol uruguayo (Peñarol, Nacional, Defensor, Danubio, entre otros), además de figuritas de artistas y música internacional.  ​Estado: Muy buen estado de conservación general. ​",
+          "descripcion": null,
+          "artista": "Cacho",
+          "album": "LOS TRICO Y LOS PEÑA, Las aventuras de Cacho y Coquito",
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 950,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1163787/2425eff3a1bb5563b3b9036230d23d9f.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=4",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1163797,
+          "lote": "7",
+          "titulo": "Álbum \"Los Trico..! Los Peña..!\" (Álbum Fútbol 1965) ​ Álbum  con formato apaisado publicado en 1965. Contiene secciones dedicadas a Peñarol (\"Los Peña..!\"), Nacional (\"Los Trico..!\"), Selección Uruguaya de Fútbol de 1965 y clubes de Primera División como Rampla Juniors. Incluye además secciones especiales de \"Comentaristas y Relatores\" y \"Los Auténticos Beatles\". Presenta figuritas de destacadas figuras como Mazurkiewicz, Roque Gastón Máspoli, Alberto Spencer, Ladislao Mazurkiewicz, Néstor Gonçalvez, Cincunegui, José Nasazzi (sección relatores/comentaristas) y estampas a color de los miembros de The Beatles. Casi completo.    ​Estado: En buen estado general de conservación, con daños menores desgaste y dobleces lógicos del uso y paso del tiempo.   ​",
+          "descripcion": null,
+          "artista": "Fútbol",
+          "album": "Los Trico..! Los Peña..!",
+          "sello": null,
+          "anio": "1965",
+          "moneda": "$",
+          "base": 950,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1163797/e09daee7f4d1d0d5e007e46893461e6a.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=7",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1965"
+          ]
+        },
+        {
+          "id": 1163798,
+          "lote": "8",
+          "titulo": "Álbum Fútbol Uruguayo - Campeonato Apertura 2005 (Panini) ​ Álbum oficial del Fútbol Uruguayo correspondiente al Campeonato Apertura 2005, editado por Panini con el auspicio de Solanas de Punta del Este y derechos de Tenfield. Incluye las plantillas completas y figuritas/stickers de los escudos y planteles de los equipos de Primera División, como Nacional, Defensor Sporting, C.A. Cerro y Cerrito. Contiene las figuritas de figuras destacadas como Diego Godín (en sus inicios en Cerro), Sebastián Viera, Fernando Muslera, Gonzalo \"Chory\" Castro, Fabián Coelho, Jorge \"El Japo\" Rodríguez, entre otros. ​Estado: Excelente estado de conservación, completo/casi completo, impecable presentación interior y tapas muy bien mantenidas. ​",
+          "descripcion": null,
+          "artista": "Álbum Fútbol Uruguayo",
+          "album": "Campeonato Apertura 2005 (Panini) ​ Álbum oficial del Fútbol Uruguayo correspond",
+          "sello": null,
+          "anio": "2005",
+          "moneda": "$",
+          "base": 950,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1163798/5e1efcb7928959b1e6a3d71ffaf5e8f6.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=8",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 2005"
+          ]
+        },
+        {
+          "id": 1164386,
+          "lote": "46",
+          "titulo": "Banderín \"La Familia Tricolor\" - C.N. de F. (\"Vamos al Estadio\") ​  Banderín de formato alargado impreso sobre plástico/acetato. Presenta la ilustración de un personaje característico con la inscripción \"Vamos al Estadio\", una caravana de niños con indumentaria tricolor llevando la bandera con las siglas \"C.N. de F.\" y la frase \"La Familia Tricolor\". ​",
+          "descripcion": null,
+          "artista": "Banderín \"La Familia Tricolor\"",
+          "album": "La Familia Tricolor",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 350,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164386/27ea347e2c79f542aca5189c5951c9e8.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=46",
+          "motivos": [
+            "dice \"acetato\""
+          ]
+        },
+        {
+          "id": 1164349,
+          "lote": "68",
+          "titulo": "Álbum \"México 70\" (Impreso).  ​Álbum completo con figuritas impresas de origen (\"cromo impreso\").  Portada ilustrada con el balón oficial, calendario del torneo y mapa de sedes.   ​Estado: Excelente conservación, firme y de colores vivos.   ​",
+          "descripcion": null,
+          "artista": "Impreso",
+          "album": "México 70",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 150,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164349/ad0d5731522aae217099ce0437d751ae.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=68",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1164347,
+          "lote": "69",
+          "titulo": "Álbum Panini Francia 1998 (Impreso)  ​ Álbum  con figuritas impresas de fábrica. Portada clásica con banderas de paises participantes.   ​Estado: Muy buen estado",
+          "descripcion": null,
+          "artista": "Impreso",
+          "album": null,
+          "sello": null,
+          "anio": "1998",
+          "moneda": "$",
+          "base": 150,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164347/afd065ba1ecdad80a237486a9cb98dc4.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=69",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1998"
+          ]
+        },
+        {
+          "id": 1164346,
+          "lote": "70",
+          "titulo": "Álbum Panini \"México 86\" (Impreso) ​  Álbum impreso de origen. Tapa con el logo oficial del Mundial 86, franja de banderas y la mascota Pique.   Excelente estado de conservación.   ​",
+          "descripcion": null,
+          "artista": "Impreso",
+          "album": "México 86",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 150,
+          "oferta": 150,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164346/09e414a6262fcdf3ccf10225fb9098a9.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=70",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1164345,
+          "lote": "71",
+          "titulo": "Álbum Panini \"Italia '90\" (Impreso)  ​ Álbum con figuritas impresas en sus páginas. Tapa ilustrada con los futbolistas disputando la pelota y el logo oficial del torneo.   ​Estado: Impecable presentación con colores vivos.",
+          "descripcion": null,
+          "artista": "Impreso",
+          "album": "Italia '90",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 150,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164345/a501018a16f90a07c9bb19f09da9e552.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=71",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1164344,
+          "lote": "72",
+          "titulo": "Álbum Panini \"USA 94\" (Impreso) ​ Álbum  impreso de origen. Portada sobre fondo azul estrellado con la Estatua de la Libertad y banderas nacionales.   ​Estado: Muy buena condición.   ​",
+          "descripcion": null,
+          "artista": "Impreso",
+          "album": "USA 94",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 150,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164344/bbac984f125581e527640a116357d5c4.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=72",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1164343,
+          "lote": "73",
+          "titulo": "Álbum Panini \"España 82\" (Impreso) ​  Álbum con figuritas impresas de fábrica.   ​Estado: Excelente estado general.   ​",
+          "descripcion": null,
+          "artista": "Impreso",
+          "album": "España 82",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 150,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164343/fb56c3a0d21dd98d6b87a9f25d457b6f.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=73",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1164342,
+          "lote": "74",
+          "titulo": "Álbum Panini \"Korea Japan 2002\" (Impreso) ​  Álbum impreso. Portada con el trofeo estilizado del Mundial 2002, fondo dorado y las mascotas oficiales.   ​Estado: Muy buen estado de conservación.   ​",
+          "descripcion": null,
+          "artista": "Impreso",
+          "album": "Korea Japan 2002",
+          "sello": null,
+          "anio": "2002",
+          "moneda": "$",
+          "base": 150,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164342/a2a7552caa07018a31864015731f9974.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=74",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 2002"
+          ]
+        },
+        {
+          "id": 1164341,
+          "lote": "75",
+          "titulo": "Álbum Panini \"Germany 2006\" (Impreso) ​  Álbum con figuritas impresas de origen. Diseñado en tonos celestes con el logo de caras sonrientes del torneo y banderas en el margen.   ​Estado: Excelentes condiciones, muy bien cuidado.   ​",
+          "descripcion": null,
+          "artista": "Impreso",
+          "album": "Germany 2006",
+          "sello": null,
+          "anio": "2006",
+          "moneda": "$",
+          "base": 150,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164341/ececa2bd6597b01bb6754adc131a269a.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=75",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 2006"
+          ]
+        },
+        {
+          "id": 1164339,
+          "lote": "76",
+          "titulo": "Álbum Panini \"South Africa 2010\" (Impreso) ​ Álbum con figuritas impresas de origen (\"cromo impreso\"). Portada en tonos rojos y cálidos con el logo oficial del Mundial Sudáfrica 2010 y banderas de los países participantes.   ​Estado: Excelente estado de conservación.   ​",
+          "descripcion": null,
+          "artista": "Impreso",
+          "album": "South Africa 2010",
+          "sello": null,
+          "anio": "2010",
+          "moneda": "$",
+          "base": 150,
+          "oferta": 150,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164339/da7397cd66fbfe646f48eb7350d70090.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=76",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 2010"
+          ]
+        },
+        {
+          "id": 1164939,
+          "lote": "106",
+          "titulo": "Lote de Figuritas Panini – Uruguay Clausura 2008 / Varadero  ​ Lote de  figuritas de fútbol uruguayo del álbum Uruguay Clausura 2008 (Panini) y suplementos/bloques promocionales Varadero. ​  Panini (Uruguay Clausura 2008) en su sobre/formato original (Patritti, Núñez Medina, Olveira Romero, Lucas Mattías, Macchi Varela, etc.) y  planchas múltiples de figuritas tipo carnet (jugadores de Liverpool, Peñarol, Cerro, Danubio, Tacuarembó, etc.). ​Estado: Excelente estado de conservación.",
+          "descripcion": null,
+          "artista": "Lote de Figuritas Panini",
+          "album": "Uruguay Clausura 2008 / Varadero ​ Lote de figuritas de fútbol uruguayo del ál",
+          "sello": null,
+          "anio": "2008",
+          "moneda": "$",
+          "base": 120,
+          "oferta": 120,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164939/0e98c49f9f02d14cc09eed31775c9864.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=106",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 2008"
+          ]
+        },
+        {
+          "id": 1164944,
+          "lote": "109",
+          "titulo": "Colección de Figuritas y Stickers de Fútbol Uruguayo e Internacional (15 piezas) ​  Lote variado de piezas que incluye figuras del fútbol uruguayo (Nacional, Peñarol, Wanderers, Liverpool, Fénix, Atenas de San Carlos), selección uruguaya y álbumes FIFA.   ​Destacados: Luis Artime (\"Estrella\" / Nacional), Vicente Sánchez (\"Goleador\" / Nacional), Diego Godín y Cristian \"Cebolla\" Rodríguez (Uruguay), Deivis Barone, Néstor Fabián Silva, Ramón D. Larrosa, Matías Corujo, Martín González, Jorge Rodríguez y escudo de Atenas de San Carlos / Anastasia.   ​Estado: Muy bueno en general.",
+          "descripcion": null,
+          "artista": "Figuritas",
+          "album": "Estrella",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 120,
+          "oferta": 120,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164944/61e94fb6f589d1366bcb4d25647f4c32.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=109",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1164953,
+          "lote": "114",
+          "titulo": "Selección Antigua de Figuritas Antiguas, Históricas y Coleccionables (11 piezas)  ​Lote vintage muy variado con piezas históricas del fútbol uruguayo e internacional, incluyendo caricaturas clisé, banderas de Mundiales y álbumes icónicos como Ídolos '70, Los Treboles, Donald y Famosa.   ​Destacados: ​Roberto Matosas (Caricatura a color en River Plate).   ​Peñarol: Foto de plantel histórico \"Uno de los grandes equipos del C.A. Peñarol\" y chapa / cromo de Pavone.   ​Nacional vs. Peñarol: Cromo humorístico / caricatura del clásico \"Gol\".   ​Mundial Londres '66: Cromo desplegable/doble de banderas (Uruguay, México, Inglaterra/Londres 66).   ​Otros: Cromo caricatura \"A. Paz\", futbolista Díaz, cromo de halterofilia (N.º 167) y jugador Candedo (Huracán).   ​Estado: En buenas condiciones,  algunas presentan detalles.",
+          "descripcion": null,
+          "artista": "Caricatura a color en River Plate",
+          "album": "Uno de los grandes equipos del C.A. Peñarol",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 120,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164953/cd734e4c1496dd38b1240939a8a7ca07.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=114",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1164954,
+          "lote": "115",
+          "titulo": "Colección Fútbol Uruguayo – Campeonato Apertura 2009 Panini y más (18 piezas) ​ Lote  de figuritas oficiales Panini correspondientes al álbum Apertura Campeonato 2009 del fútbol uruguayo.   ​Destacados: ​Defensor Sporting / Danubio / River / Tacuarembó: Marcelo Sosa, Marcelo Tejera, Sebastián Eguren, Carlos Díaz, Bruno Silva, Juan Olivera, Diego Pérez, Omar Pouso, Nicolás Azenarez, Jonathan Ramírez, Héctor B. Silva Cabrera, Matías Corujo, Agustín Peña, Luis Machado y Martín González.   ​Fotos de Equipo: Incluye 2 figuritas de formaciones de planteles.   ​Estado: Excelente estado de conservación.",
+          "descripcion": null,
+          "artista": "Colección Fútbol Uruguayo",
+          "album": "Campeonato Apertura 2009 Panini y más (18 piezas) ​ Lote de figuritas oficiales",
+          "sello": null,
+          "anio": "2009",
+          "moneda": "$",
+          "base": 90,
+          "oferta": 90,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164954/50ced19f47991989aa3aba08ad863237.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=115",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 2009"
+          ]
+        },
+        {
+          "id": 1164970,
+          "lote": "125",
+          "titulo": "Lote de Figuritas de Franz Beckenbauer (Ídolos 70 y otra edición de época).  Cantidad: 3 figuritas. Contenido:   ​2 figuritas grandes de Franz Beckenbauer (Álbum Ídolos 70, N° 207 al reverso).   ​1 figurita menor con rotulado frontal \"60 - Franz Beckenbauer\" de 1978. Estado: Recuperadas pero en buenas condiciones.",
+          "descripcion": null,
+          "artista": "Figuritas",
+          "album": "60 - Franz Beckenbauer",
+          "sello": null,
+          "anio": "1978",
+          "moneda": "$",
+          "base": 180,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164970/40c389f4fe9868825c3e7a0e9c8f1399.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=125",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1978"
+          ]
+        },
+        {
+          "id": 1164977,
+          "lote": "129",
+          "titulo": "Figuritas de la Selección Española – Álbum Portezuelo (Mundial 1994)  Jugadores / Contenido: ​Plantel / Equipo Selección Española ​Fernando R. Hierro ​Luis Enrique Martínez ​Fernando Giner ​José M.ª Bakero ​José A. Goicoechea ​Miguel Ángel Nadal ​F. José Camarasa ​Julio Salinas ​J. L. P. Caminero ​Javier Clemente (D.T.) ​Francisco Buyo ​Alberto Ferrer ​Toni Jiménez ​Andoni Zubizarreta ​Julen Guerrero / Voro Estado: Muy buen estado de conservación.",
+          "descripcion": null,
+          "artista": "Figuritas de la Selección Española",
+          "album": "Álbum Portezuelo (Mundial 1994) Jugadores / Contenido: ​Plantel / Equipo Selecc",
+          "sello": null,
+          "anio": "1994",
+          "moneda": "$",
+          "base": 150,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164977/0bd421133a8d7cda4f2715681771be3e.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=129",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1994"
+          ]
+        },
+        {
+          "id": 1165494,
+          "lote": "165",
+          "titulo": "​Banderín  coleccionable - \"Donald Campeón\" (Club Nacional de Football).   Banderín impreso en papel/cartón relativo a la histórica colección de figuritas y golosinas \"Donald Campeón\", ilustrado con el Pato Donald sosteniendo la bandera tricolor. En el reverso/soporte presenta la publicidad del álbum (\"3 figuritas en cada golosina\", \"440 imágenes con los cracks de nuestro deporte\", Walt Disney Productions). Pieza muy rara de época en excelente estado.",
+          "descripcion": null,
+          "artista": "​Banderín coleccionable",
+          "album": "\"Donald Campeón\" (Club Nacional de Football)",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 350,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1165494/e935974ba37d665e88558b7585aec590.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=165",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1165552,
+          "lote": "182",
+          "titulo": "Álbum Antiguo \"España 82\" – FIGUS (Uruguay) - COMPLETO ​ Álbum de colección completo dedicado al Mundial España 1982, publicado en Uruguay por FIGUS.   ​Secciones destacadas: Incluye a Maradona novato y sección especial \"Cracks del Fútbol Uruguayo\" (Enzo Francescoli, Fernando Morena, Hugo De León, etc.), historia de los mundiales y copas de Peñarol, además de las selecciones participantes con sus figuras de época ( Mario Kempes, Arconada, entre otros).   ​Estado: Álbum 100% completo con todas sus figuritas pegadas. Tapa y páginas interiores bien conservadas con desgastes leves de uso normal y pequeñas manchas.",
+          "descripcion": null,
+          "artista": "Peñarol",
+          "album": "FIGUS (Uruguay) - COMPLETO ​ Álbum de colección completo dedicado al Mundial Esp",
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 1200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1165552/456fb8c155efa7ea478c4d5084417842.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=182",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1165551,
+          "lote": "183",
+          "titulo": "Álbum Panini \"UEFA Champions League 2014-2015\" - COMPLETO ​  Álbum de colección oficial Panini de la UEFA Champions League temporada 2014-2015.   ​Secciones destacadas: Escudos metalizados de la fase de grupos, planteles completos de los clubes más importantes de Europa como Atlético de Madrid, Juventus, Real Madrid, Barcelona, Bayern Munich, etc.   ​Estado: Álbum 100% completo con todas sus figuritas pegadas impecablemente. Excelente estado general de conservación, tapas y páginas en gran forma.",
+          "descripcion": null,
+          "artista": "UEFA Champions League",
+          "album": "UEFA Champions League 2014-2015",
+          "sello": null,
+          "anio": "2014",
+          "moneda": "$",
+          "base": 900,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1165551/0b88028962444784d8b85363178899d4.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=183",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 2014"
+          ]
+        },
+        {
+          "id": 1165550,
+          "lote": "184",
+          "titulo": "Álbum Panini \"UEFA Champions League 2008-2009\" - COMPLETO ​ Álbum oficial Panini, distribuido en Uruguay por diario El País.   ​Contenido: Planteles completos de las potencias europeas con sus máximas estrellas, incluyendo a Cristiano Ronaldo (Man. Utd), Lionel Messi (Barcelona), Del Piero (Juventus) y Klose (Bayern München), además de figuras uruguayas como Álvaro Pereira (CFR Cluj).   ​Estado: 100% completo con todas las figuritas pegadas impecablemente y en excelente estado de conservación.",
+          "descripcion": null,
+          "artista": "Man. Utd",
+          "album": "UEFA Champions League 2008-2009",
+          "sello": null,
+          "anio": "2008",
+          "moneda": "$",
+          "base": 1200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1165550/8df16930a42f86e767ffde252cc8d511.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=184",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 2008"
+          ]
+        },
+        {
+          "id": 1165549,
+          "lote": "185",
+          "titulo": "Álbum \"Libro de Oro de Nacional\" - COMPLETO     Álbum histórico del Club Atlético Nacional publicatorio por el Suplemento Deportivo de diario El País.   ​ Historia gráfica completa de la institución, incluyendo planteles históricos, dirigentes, sedes, copas y sus máximas ídolos y glorias deportivas.   ​Detalle especial: Incluye en la contratapa el cupón oficial pegado y sellado por la administración de El País (\"Duplicado\"), certificación necesaria en la época que constataba la verificación del álbum 100% completo para participar del gran concurso.   ​Estado: 100% completo con todas sus figuras pegadas. Excelente estado de conservación estructural y de papel.",
+          "descripcion": null,
+          "artista": "Álbum \"Libro de Oro de Nacional\"",
+          "album": "COMPLETO Álbum histórico del Club Atlético Nacional publicatorio por el Supl",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 1200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1165549/f55c431909ee65a94009e265c8cb6d91.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=185",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1165548,
+          "lote": "186",
+          "titulo": "Álbum Colección \"Goleador en Tecnicolor - Walt Disney\" (1953)   ​  Raro y emblemático álbum publicado en Uruguay en 1953, que combina el fútbol local con la imagen conmemorativa de Walt Disney y sus personajes. Incluye la famosa reproducción del saludo manuscrito de Walt Disney a los deportistas uruguayos.   ​ Páginas dedicadas a los equipos del fútbol uruguayo como Nacional, Peñarol, Central, Cerro, Danubio, Liverpool y Defensor, combinando fotos de futbolistas con ilustraciones de personajes de Disney.   ​Obsequio original: Mantiene adherido en la primera página el certificado/cupón de obsequio original con sello (\"7 de Noviembre 1953\").   ​Estado: Álbum incompleto pero con un gran porcentaje de figuritas pegadas. Muestra desgaste en bordes,  pequño daño, lomo y tapas producto de los años, pero conserva un importante valor histórico y de colección.",
+          "descripcion": null,
+          "artista": "Álbum Colección \"Goleador en Tecnicolor",
+          "album": "Walt Disney\" (1953) ​ Raro y emblemático álbum publicado en Uruguay en 1953",
+          "sello": null,
+          "anio": "1953",
+          "moneda": "$",
+          "base": 1200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1165548/804bf00675da68ec774b3921c886b47b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=186",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1953"
+          ]
+        },
+        {
+          "id": 1165517,
+          "lote": "187",
+          "titulo": "Álbum COMPLETO \"Collecting Cards\" Club Nacional de Football – Campeonato 2012-13.  ​Edición: Álbum  COMPLETO oficial tipo collecting cards / juego de cartas coleccionables de Club Nacional de Football (Aligraf), correspondiente al Campeonato Uruguayo 2012-2013. ​Contenido: Colección completa de 45 cartas guardadas e insertas en sus folios plásticos protectores originales. ​Incluye: ​Plantel completo de la época con figuras como Álvaro \"Chino\" Recoba, Alexander \"Cacique\" Medina, Iván Alonso, Sebastián Abreu, Jorge Bava, Diego Arismendi, entre otros. ​Cartas \"Especiales\" (Gran Parque Central, La Hinchada, Copa Libertadores, Copa Intercontinental). ​Cartas \"Estrellas / Ídolos Históricos\" (Luis Artime, Víctor Espárrago, Santiago Ostolaza, Atilio García, Rubén Sosa). ​Extras: Incluye el sobre original vacío de la colección. ​Estado: Excelente estado de conservación, completo y muy bien cuidado en sus fundas de folios.",
+          "descripcion": null,
+          "artista": "Aligraf",
+          "album": "Collecting Cards",
+          "sello": null,
+          "anio": "2012",
+          "moneda": "$",
+          "base": 1500,
+          "oferta": 1500,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1165517/e91e78af1b752eacc4df5a5765d17bdb.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=187",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 2012"
+          ]
+        },
+        {
+          "id": 1165516,
+          "lote": "188",
+          "titulo": "​ÁLBUM PANINI UEFA CHAMPIONS LEAGUE 2012-2013 – COMPLETO.  ​Editorial: Panini ​Edición: Distribución local / Obsequio (Portezuelo / Uruguay) ​Esta completo en excelente conservación general. Se aprecia muy bien cuidado en sus páginas interiores y tapas. ​Contenido destacado: Incluye a las grandes figuras de la época como Lionel Messi, Cristiano Ronaldo, Zlatan Ibrahimović, Wayne Rooney, Sergio Agüero, Robert Lewandowski, entre otros grandes planteles de Europa (FC Barcelona, Real Madrid, PSG, Arsenal, AC Milan, Borussia Dortmund, Manchester City, FC Porto). ​Ideal para coleccionistas de la época dorada de la Champions League. ​",
+          "descripcion": null,
+          "artista": "Europa",
+          "album": null,
+          "sello": null,
+          "anio": "2012",
+          "moneda": "$",
+          "base": 1200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1165516/522ee3a2f847938e71140edb31ee3f26.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=188",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 2012"
+          ]
+        },
+        {
+          "id": 1166080,
+          "lote": "197",
+          "titulo": "Lámina \"Uruguay va a México 70!!\" - La Gran Pegada   ​ Lámina/póster  a color con foto del plantel Celeste clasificado al Mundial de 1970 (Mazurkiewicz, Rocha, Cubilla, Matosas, etc.). Obsequio del Álbum La Historia del Fútbol.   ​Estado: Muy buen estado general.",
+          "descripcion": null,
+          "artista": null,
+          "album": "La Gran Pegada ​ Lámina/póster a color con foto del plantel Celeste clasifica",
+          "sello": null,
+          "anio": "1970",
+          "moneda": "$",
+          "base": 250,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166080/584e756c84467ad0c9081922004d3a37.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=197",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1970"
+          ]
+        },
+        {
+          "id": 1166053,
+          "lote": "215",
+          "titulo": "Box Set Conmemorativo (camiseta) \"Una Vuelta Inolvidable\" / Luis Suárez – Club Nacional de Football (2022)  ​Marca/Edición: Umbro, Caja de Edición Especial Conmemorativa \"Una Vuelta Inolvidable - 31 de Julio 2022 / Edición del Campeón\", con motivo del histórico retorno y consagración de Luis Suárez en el club.   ​Incluye: ​Caja temática: Presentación  con el lema, firma impresa de Luis Suárez y la fecha histórica del retorno (31 de Julio 2022).   ​Libro/Álbum fotográfico: Edición especial con espiral superior \"Una Vuelta Inolvidable - Edición del Campeón\", con cobertura fotográfica a todo color de la vuelta de Luis Suárez y la obtención del campeonato.   ​Camiseta Oficial: Camiseta de juego de la temporada en su bolsa protectora cerrada de fábrica, con etiqueta de código de barras identificada como \"CAMISETA SUAREZ\" (Código NULSE122SV4XL / NU942861).   ​Talle de la camiseta: XL (GG).   ​Estado: Set completo de colección en estado impecable.",
+          "descripcion": null,
+          "artista": "Football",
+          "album": "Una Vuelta Inolvidable",
+          "sello": null,
+          "anio": "2022",
+          "moneda": "$",
+          "base": 1000,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166053/8aa220dc30618078bf409981505b2b3a.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=215",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 2022"
+          ]
+        },
+        {
+          "id": 1166042,
+          "lote": "220",
+          "titulo": "Vinilo Single 7\" (45 RPM) – Danubio Fútbol Club (\"Danubio Campeón\" / \"Arriba Danubio\")  ​Disco de vinilo formato single / sencillo de 7 pulgadas en su sobre/funda de papel original impreso con la franja diagonal y las iniciales \"D.F.C.\". ​Contenido musical: ​Lado A: \"DANUBIO CAMPEÓN\" (Tomás Cortés) – Interpretado por Coro de Danubio. ​Lado B: \"ARRIBA DANUBIO\" (Coco D'Andraya) – Interpretado por Coro de Danubio. ​Etiqueta / Centro: Etiquetas centrales blancas con tipografía negra e iniciales \"D. F. C.\". ​Estado: Muy buen estado de conservación general, tanto el vinilo como la funda gráfica original.",
+          "descripcion": null,
+          "artista": "Tomás Cortés",
+          "album": "Danubio Fútbol Club (\"Danubio Campeón\" / \"Arriba Danubio\") ​Disco de vinilo for",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166042/be9578533b57ec60884b45891b8ad811.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=220",
+          "motivos": [
+            "dice \"vinilo\"",
+            "menciona RPM",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1167670,
+          "lote": "226",
+          "titulo": "Lote 226: Álbum de Figuritas – \"El Hombre Araña y Kung Fu con los Jugadores de Nacional y Peñarol\" (FIGUS / Cacho Bochinche, 1983) ​  Álbum de figuritas vintage de la cultura popular uruguaya, publicado por FIGUS en 1983 y presentado por Cacho Bochinche.     Rara combinación que incluye secciones de El Hombre Araña y Kung Fu (con figuritas y discos circulares), junto a una lámina desplegable \"Tarde de Clásico\" y figuritas de los planteles de Nacional y Peñarol de 1983 (con figuras como Morena, Jair, entre otros).   ​Estado: Muy buen estado general de época, con gran cantidad de figuritas pegadas, páginas centrales están sueltas.",
+          "descripcion": null,
+          "artista": "Figuritas",
+          "album": "El Hombre Araña y Kung Fu con los Jugadores de Nacional y Peñarol",
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 1500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1167670/f199fc4085f9645aee19217b3a67e963.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=226",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1167417,
+          "lote": "240",
+          "titulo": "Álbum Panini UEFA EURO 2008 Austria-Switzerland completo y en excelente estado.   Todas las figuritas están pegadas, incluyendo escudos, equipos y figuras destacadas como Cristiano Ronaldo, Modrić y Ballack. Páginas e interiores en óptima conservación.",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "2008",
+          "moneda": "$",
+          "base": 1200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1167417/6f65f027c29b4b1e2d8431a0ae349385.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=240",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 2008"
+          ]
+        },
+        {
+          "id": 1167419,
+          "lote": "241",
+          "titulo": "ÁLBUM \"GOLES Y DOBLES\" (1950)  ​Raro y cotizado álbum deportivo uruguayo en formato circular con forma de pelota de cuero, editado en Montevideo (Marzo de 1950) por KAVAL Soc. Com. / Anselmi S.A. Publicado en el histórico año de Maracaná, repasa equipos de fútbol local (Peñarol, Nacional, Defensor, Wanderers, etc.) y básquetbol.   ​Estado: Tapas y páginas originales con desgaste propio del tiempo (pátina y marcas de época).   ​Figuritas: Incluye gran cantidad de estampas pegadas (figuras como J. A. Schiaffino, escudos y escenas deportivas).   ​Nota: Lote integrado por figuritas originales de época y algunas copias/facsímiles de reemplazo colocadas para completar. ​Excelente pieza de colección para la memorabilia deportiva del fútbol uruguayo.",
+          "descripcion": null,
+          "artista": "Maracaná",
+          "album": "GOLES Y DOBLES",
+          "sello": null,
+          "anio": "1950",
+          "moneda": "$",
+          "base": 1500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1167419/097dc5583d1525bbe04d95b372f43983.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=241",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1950"
+          ]
+        },
+        {
+          "id": 1167821,
+          "lote": "242",
+          "titulo": "Lámina color del álbum Goleador dedicada al Club Nacional de Football, \"Campeón Copa Montevideo 1953\".   Presenta al plantel junto a caricaturas de personajes de Disney e ilustra el trofeo. Imprenta N. York.  Buen estado de conservación con leves pliegues de época.",
+          "descripcion": null,
+          "artista": "Football",
+          "album": "Campeón Copa Montevideo 1953",
+          "sello": null,
+          "anio": "1953",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1167821/1e231421c9d0e70622357b3803951134.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=242",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1953"
+          ]
+        }
+      ],
+      "datosDe": "2026-10-06T01:42:40.077Z"
     },
     {
       "id": "7883",
@@ -2456,7 +3060,22 @@
       "url": "https://www.remotes.com.uy/participar/remate/7883",
       "totalLotes": 156,
       "vinilos": [],
-      "datosDe": "2026-10-05T11:16:11.379Z"
+      "datosDe": "2026-10-06T01:42:40.077Z"
+    },
+    {
+      "id": "8088",
+      "nombre": "✅ Remate de Coleccionables y Antigüedades, Se destacan botellas de leche, refresco, cerveza, destapadores, aluminio, platina y más!! Estamos cargando lotes",
+      "empresa": "Valentina Rodríguez",
+      "departamento": "Montevideo",
+      "lugar": "Av. Dámaso Antonio Larrañaga 3452, Montevideo",
+      "fecha": "14/10/2026, 15:00",
+      "fechaISO": "2026-10-14T18:00:00.000Z",
+      "timestamp": 1792000800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8088",
+      "totalLotes": 184,
+      "vinilos": [],
+      "datosDe": "2026-10-06T01:42:40.077Z"
     },
     {
       "id": "7928",
@@ -2471,7 +3090,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7928",
       "totalLotes": 1,
       "vinilos": [],
-      "datosDe": "2026-10-05T11:16:11.379Z"
+      "datosDe": "2026-10-06T01:42:40.077Z"
     },
     {
       "id": "8101",
@@ -2486,22 +3105,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8101",
       "totalLotes": 38,
       "vinilos": [],
-      "datosDe": "2026-10-05T11:16:11.379Z"
-    },
-    {
-      "id": "7892",
-      "nombre": "Remate antigüedades, art. de colección. , autos, cuadros, chapas esmaltadas,  auto de calecita.",
-      "empresa": "Remates Villar",
-      "departamento": "Montevideo",
-      "lugar": "isidoro de Maria 1710, Montevideo",
-      "fecha": "17/10/2026, 18:00",
-      "fechaISO": "2026-10-17T21:00:00.000Z",
-      "timestamp": 1792270800,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7892",
-      "totalLotes": 84,
-      "vinilos": [],
-      "datosDe": "2026-10-05T11:16:11.379Z"
+      "datosDe": "2026-10-06T01:42:40.077Z"
     },
     {
       "id": "8100",
@@ -2535,7 +3139,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-05T11:16:11.379Z"
+      "datosDe": "2026-10-06T01:42:40.077Z"
     },
     {
       "id": "8093",
@@ -2569,7 +3173,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-05T11:16:11.379Z"
+      "datosDe": "2026-10-06T01:42:40.077Z"
     },
     {
       "id": "6923",
@@ -2577,14 +3181,14 @@
       "empresa": "Rey Antigüedades & Subastas",
       "departamento": "Montevideo",
       "lugar": "Maldonado 1083 esq Paraguay, Montevideo",
-      "fecha": "24/10/2027, 17:00",
-      "fechaISO": "2027-10-24T20:00:00.000Z",
-      "timestamp": 1824408000,
+      "fecha": "24/10/2026, 17:00",
+      "fechaISO": "2026-10-24T20:00:00.000Z",
+      "timestamp": 1792872000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/6923",
       "totalLotes": 326,
       "vinilos": [],
-      "datosDe": "2026-10-05T11:16:11.379Z"
+      "datosDe": "2026-10-06T01:42:40.077Z"
     }
   ]
 }
