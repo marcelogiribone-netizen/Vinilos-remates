@@ -1,56 +1,7 @@
 {
-  "generado": "2026-10-07T10:54:52.846Z",
+  "generado": "2026-10-08T00:53:30.252Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "8031",
-      "nombre": "ESPECTACULAR REMATE EN DONDE SE DESTACA CIENTOS DE HERRAMIENTAS DE MANO ANTIGUAS DE CARPINTERÍA, TALLER Y DEMÁS, TERMOFUSORA GOLDEX, VALIJAS DE HERRAMIENTAS TOTAL, LOTES DESTACADOS DE JUGUETES ANTIGUOS, LÁMPARAS, CANDADOS, PIEZAS EN BRONCE; ESMALTADAS, CAMIÓN VINTAGE COLECCIONABLE MAJORETTE Y MUCHO MÁS❗️",
-      "empresa": "Emilio Baptista Martínez",
-      "departamento": "Montevideo",
-      "lugar": "Domingo Aramburu 1647, Montevideo",
-      "fecha": "07/10/2026, 20:30",
-      "fechaISO": "2026-10-07T23:30:00.000Z",
-      "timestamp": 1791415800,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8031",
-      "totalLotes": 110,
-      "vinilos": [],
-      "datosDe": "2026-10-07T10:54:52.846Z"
-    },
-    {
-      "id": "7828",
-      "nombre": "Por motivos de salud se reprogramó para 8/10 a las 21:00 hrs.",
-      "empresa": "Vip Subastas",
-      "departamento": "CANELONES",
-      "lugar": "LA PAZ, CANELONES",
-      "fecha": "07/10/2026, 21:00",
-      "fechaISO": "2026-10-08T00:00:00.000Z",
-      "timestamp": 1791417600,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7828",
-      "totalLotes": 31,
-      "vinilos": [
-        {
-          "id": 1078402,
-          "lote": "203",
-          "titulo": "UBICACIÓN CIUDAD DE ARTIGAS - CANCIONES DE LA HUERTA – JUAN M. ÓLIVER (HIJO) | PRIMERA EDICIÓN 1914 ⭐⭐⭐⭐⭐",
-          "descripcion": "Canciones de la Huerta es una obra poética del escritor uruguayo Juan M. Óliver (hijo), publicada en Montevideo en 1914. Se trata de una edición temprana de la literatura uruguaya del siglo XX, perteneciente a una época especialmente apreciada por coleccionistas de poesía nacional y bibliografía histórica.\r\n\r\nImpresa por la reconocida Imprenta y Librería Mercurio, esta edición conserva el formato original de publicación y constituye un interesante testimonio de la producción literaria uruguaya previa a la década de 1920.\r\n\r\nCaracterísticas del ejemplar:\r\n\r\nPrimera edición.\r\nMontevideo, 1914.\r\nImp. y Lib. Mercurio.\r\n73 páginas.\r\nMedidas: 19 cm × 14 cm.\r\nEncuadernación rústica original.\r\n\r\nLa obra reúne composiciones poéticas representativas de la sensibilidad literaria de comienzos del siglo XX, período de gran desarrollo cultural en Uruguay. Los ejemplares originales de esta época son cada vez menos frecuentes en el mercado, especialmente cuando conservan sus cubiertas originales.\r\n\r\nEstado de conservación: regular. Presenta manchas de humedad visibles en cubiertas y algunas hojas, propias de su antigüedad. El ejemplar se encuentra completo, con encuadernación firme y texto legible.\r\n\r\nImportante: presenta firma o anotación manuscrita a tinta en guarda. No ha sido autenticada ni atribuida documentalmente, por lo que se ofrece únicamente como marca presente en el ejemplar, sin asignarle valor adicional.\r\n\r\nLas fotografías forman parte integrante de la descripción y permiten apreciar con mayor detalle el estado de conservación del libro.",
-          "artista": "UBICACIÓN CIUDAD DE ARTIGAS",
-          "album": "CANCIONES DE LA HUERTA – JUAN M",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 100,
-          "oferta": 100,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1078402/795abfa166a5321a7881a1ef0fcb726d.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7828?lote=203",
-          "motivos": [
-            "formato \"Artista - Título\" + contexto musical"
-          ]
-        }
-      ],
-      "datosDe": "2026-10-07T10:54:52.846Z"
-    },
     {
       "id": "8070",
       "nombre": "✅ Remate de Coleccionables.",
@@ -132,7 +83,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161032/0e7894aa97d218b2db4f9d769e15bbd3.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=4",
           "motivos": [
@@ -282,7 +233,7 @@
           "anio": "1990",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161040/4d821f770e35b6f1e647d293fe33597e.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=12",
           "motivos": [
@@ -469,7 +420,7 @@
           "anio": "1990",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161050/14fc6f01ab351af4774677a883088232.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=22",
           "motivos": [
@@ -525,7 +476,7 @@
           "anio": "1986",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161053/26b877be65e402d70b3baafd95aadcca.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=25",
           "motivos": [
@@ -544,7 +495,7 @@
           "anio": "1984",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161054/08f5196a4aafc5b75462f759a3c4a29d.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=26",
           "motivos": [
@@ -563,7 +514,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161055/16e0aeb97bc9757444b5f00c28571dde.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=27",
           "motivos": [
@@ -675,7 +626,7 @@
           "anio": "1982",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161085/2b3273c0b9b3b6889f14a40e264f8a58.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=57",
           "motivos": [
@@ -694,7 +645,7 @@
           "anio": "1983",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161086/79d1e396534a1ec4b8aa6ec71cc580ce.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=58",
           "motivos": [
@@ -770,7 +721,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161090/a160a0028700b7651aa921e3d8d2311b.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=62",
           "motivos": [
@@ -826,7 +777,7 @@
           "anio": "1991",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161094/5a643d75486350f42a86205677f5ff22.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=66",
           "motivos": [
@@ -845,7 +796,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161095/4afdec080c01786adb59b6c6b4f88a96.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=67",
           "motivos": [
@@ -863,7 +814,7 @@
           "anio": "1989",
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161096/257c23d2fcd76cf55f410e13473cfe84.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=68",
           "motivos": [
@@ -920,7 +871,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161099/e2af3e649540289d964cc6e36dcf6bb2.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=71",
           "motivos": [
@@ -938,7 +889,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161100/5a05944bb25be582a392cd9eb8371420.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=72",
           "motivos": [
@@ -1088,7 +1039,7 @@
           "anio": "1980",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161108/2b91fc508ed92280a8ab7a5b3f523474.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=80",
           "motivos": [
@@ -1107,7 +1058,7 @@
           "anio": "1983",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161109/b9ce8a25e49785d83c67dcae09de718f.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=81",
           "motivos": [
@@ -1202,7 +1153,7 @@
           "anio": "1984",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161114/155ac9f17ad187f307d65b42a8c67f86.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=86",
           "motivos": [
@@ -1240,7 +1191,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161181/e685b570da75587ce69416ebe52268ed.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=153",
           "motivos": [
@@ -1258,7 +1209,7 @@
           "anio": "1977",
           "moneda": "$",
           "base": 200,
-          "oferta": 250,
+          "oferta": 350,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161182/be39d957bf536269f1b203b184248b32.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=154",
           "motivos": [
@@ -1277,7 +1228,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161183/1018df434e21ed667d1e97958bc5e4d8.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=155",
           "motivos": [
@@ -1295,7 +1246,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 250,
+          "oferta": 300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161184/346862efbf5cadcf80a0acdf7f930189.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=156",
           "motivos": [
@@ -1313,7 +1264,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 300,
+          "oferta": 500,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161185/9e04d0c23d63677906caee30e2a75dfb.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=157",
           "motivos": [
@@ -1331,7 +1282,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 250,
+          "oferta": 300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161186/b00d8a3454dd3d91c28c4386e1400807.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=158",
           "motivos": [
@@ -1387,7 +1338,7 @@
           "anio": "1984",
           "moneda": "$",
           "base": 200,
-          "oferta": 500,
+          "oferta": 700,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161189/5f1405570694a9f8caec3feba70ce394.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=161",
           "motivos": [
@@ -1558,7 +1509,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 300,
+          "oferta": 350,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161198/cfc3056d8349bfdfd4a961f04877e26b.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=170",
           "motivos": [
@@ -1594,7 +1545,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161200/0b65a16bffe59959c3f6876688395185.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=172",
           "motivos": [
@@ -1612,7 +1563,7 @@
           "anio": "1987",
           "moneda": "$",
           "base": 200,
-          "oferta": 250,
+          "oferta": 300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161201/e3116ae58f442cc4f53de69cb618606d.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=173",
           "motivos": [
@@ -1650,7 +1601,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161203/4f0abc33f0d4613ecfdcbd031303fe09.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=175",
           "motivos": [
@@ -1668,7 +1619,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161204/304658cfb6e71776d2bb950bc78b8128.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=176",
           "motivos": [
@@ -1704,7 +1655,7 @@
           "anio": "1974",
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161206/0f6cbcc58314935be48b03ec37d51656.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=178",
           "motivos": [
@@ -1723,7 +1674,7 @@
           "anio": "1970",
           "moneda": "$",
           "base": 200,
-          "oferta": 250,
+          "oferta": 400,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161207/70145aa87c401e9a7d75e79af3214bf3.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=179",
           "motivos": [
@@ -1742,7 +1693,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 250,
+          "oferta": 400,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161208/82505ef159912302cb66f111455e9f05.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=180",
           "motivos": [
@@ -1760,7 +1711,7 @@
           "anio": "1979",
           "moneda": "$",
           "base": 200,
-          "oferta": 300,
+          "oferta": 400,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161209/ee0ff03049d81423cc84a48d2f6066fd.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=181",
           "motivos": [
@@ -1798,7 +1749,7 @@
           "anio": "1979",
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161211/9861b1734acc4b9411793a99ee070e07.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=183",
           "motivos": [
@@ -1855,7 +1806,7 @@
           "anio": "1967",
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161214/80a30ce9e1a640567261fe4d50aadc7b.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=186",
           "motivos": [
@@ -1949,7 +1900,7 @@
           "anio": "1969",
           "moneda": "$",
           "base": 200,
-          "oferta": 400,
+          "oferta": 450,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161219/386cbe3c73578d3d627d7d6a3d4eb8b0.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=191",
           "motivos": [
@@ -2024,7 +1975,7 @@
           "anio": "1969",
           "moneda": "$",
           "base": 200,
-          "oferta": 500,
+          "oferta": 700,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1161223/d5466a1bbd90d4d369afb90add4cfac8.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8070?lote=195",
           "motivos": [
@@ -2033,7 +1984,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-07T10:54:52.846Z"
+      "datosDe": "2026-10-08T00:53:30.252Z"
     },
     {
       "id": "8010",
@@ -2048,7 +1999,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8010",
       "totalLotes": 130,
       "vinilos": [],
-      "datosDe": "2026-10-07T10:54:52.846Z"
+      "datosDe": "2026-10-08T00:53:30.252Z"
     },
     {
       "id": "7832",
@@ -2100,7 +2051,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-07T10:54:52.846Z"
+      "datosDe": "2026-10-08T00:53:30.252Z"
     },
     {
       "id": "8082",
@@ -2113,9 +2064,9 @@
       "timestamp": 1791662400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8082",
-      "totalLotes": 150,
+      "totalLotes": 149,
       "vinilos": [],
-      "datosDe": "2026-10-07T10:54:52.846Z"
+      "datosDe": "2026-10-08T00:53:30.252Z"
     },
     {
       "id": "7942",
@@ -2130,7 +2081,41 @@
       "url": "https://www.remotes.com.uy/participar/remate/7942",
       "totalLotes": 97,
       "vinilos": [],
-      "datosDe": "2026-10-07T10:54:52.846Z"
+      "datosDe": "2026-10-08T00:53:30.252Z"
+    },
+    {
+      "id": "7828",
+      "nombre": "Por motivos de salud se reprogramó para 10/10 a las 21:00 hrs.",
+      "empresa": "Vip Subastas",
+      "departamento": "CANELONES",
+      "lugar": "LA PAZ, CANELONES",
+      "fecha": "10/10/2026, 21:00",
+      "fechaISO": "2026-10-11T00:00:00.000Z",
+      "timestamp": 1791676800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7828",
+      "totalLotes": 31,
+      "vinilos": [
+        {
+          "id": 1078402,
+          "lote": "203",
+          "titulo": "UBICACIÓN CIUDAD DE ARTIGAS - CANCIONES DE LA HUERTA – JUAN M. ÓLIVER (HIJO) | PRIMERA EDICIÓN 1914 ⭐⭐⭐⭐⭐",
+          "descripcion": "Canciones de la Huerta es una obra poética del escritor uruguayo Juan M. Óliver (hijo), publicada en Montevideo en 1914. Se trata de una edición temprana de la literatura uruguaya del siglo XX, perteneciente a una época especialmente apreciada por coleccionistas de poesía nacional y bibliografía histórica.\r\n\r\nImpresa por la reconocida Imprenta y Librería Mercurio, esta edición conserva el formato original de publicación y constituye un interesante testimonio de la producción literaria uruguaya previa a la década de 1920.\r\n\r\nCaracterísticas del ejemplar:\r\n\r\nPrimera edición.\r\nMontevideo, 1914.\r\nImp. y Lib. Mercurio.\r\n73 páginas.\r\nMedidas: 19 cm × 14 cm.\r\nEncuadernación rústica original.\r\n\r\nLa obra reúne composiciones poéticas representativas de la sensibilidad literaria de comienzos del siglo XX, período de gran desarrollo cultural en Uruguay. Los ejemplares originales de esta época son cada vez menos frecuentes en el mercado, especialmente cuando conservan sus cubiertas originales.\r\n\r\nEstado de conservación: regular. Presenta manchas de humedad visibles en cubiertas y algunas hojas, propias de su antigüedad. El ejemplar se encuentra completo, con encuadernación firme y texto legible.\r\n\r\nImportante: presenta firma o anotación manuscrita a tinta en guarda. No ha sido autenticada ni atribuida documentalmente, por lo que se ofrece únicamente como marca presente en el ejemplar, sin asignarle valor adicional.\r\n\r\nLas fotografías forman parte integrante de la descripción y permiten apreciar con mayor detalle el estado de conservación del libro.",
+          "artista": "UBICACIÓN CIUDAD DE ARTIGAS",
+          "album": "CANCIONES DE LA HUERTA – JUAN M",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": 100,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1078402/795abfa166a5321a7881a1ef0fcb726d.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/7828?lote=203",
+          "motivos": [
+            "formato \"Artista - Título\" + contexto musical"
+          ]
+        }
+      ],
+      "datosDe": "2026-10-08T00:53:30.252Z"
     },
     {
       "id": "8030",
@@ -2143,7 +2128,7 @@
       "timestamp": 1791752400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8030",
-      "totalLotes": 133,
+      "totalLotes": 132,
       "vinilos": [
         {
           "id": 1165058,
@@ -2164,7 +2149,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-07T10:54:52.846Z"
+      "datosDe": "2026-10-08T00:53:30.252Z"
     },
     {
       "id": "8084",
@@ -2216,7 +2201,386 @@
           ]
         }
       ],
-      "datosDe": "2026-10-07T10:54:52.846Z"
+      "datosDe": "2026-10-08T00:53:30.252Z"
+    },
+    {
+      "id": "8115",
+      "nombre": "Liquidación familiar con mas de 300 lotes cargados, mucha variedad,  coleccionables,  antigüedades, cuchillería, pesca, audio,mobiliario de diseño,  mobiliario francés,  pintura Nacional, alhajas en plata, álbumes, pista de tren Alemana antigua, relojería...... muchísimas oportunidades!",
+      "empresa": "ElEjido",
+      "departamento": "MONTEVIDEO",
+      "lugar": "EJIDO 932, MONTEVIDEO",
+      "fecha": "11/10/2026, 19:00",
+      "fechaISO": "2026-10-11T22:00:00.000Z",
+      "timestamp": 1791756000,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8115",
+      "totalLotes": 298,
+      "vinilos": [
+        {
+          "id": 1166107,
+          "lote": "14",
+          "titulo": "Vinilo de Kiss",
+          "descripcion": null,
+          "artista": "Kiss",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": 200,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166107/e65d6f1c2f96567ea39979bb10af7755.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=14",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1166108,
+          "lote": "15",
+          "titulo": "Selección de 5 Vinilos de Música Variada",
+          "descripcion": null,
+          "artista": "Música Variada",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166108/d20f282f283f792b6e68b372e4d59421.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=15",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1166109,
+          "lote": "16",
+          "titulo": "Selección de 5 Vinilos de Música Variada; Los Fronterizos; José Carbajal y más",
+          "descripcion": null,
+          "artista": "Música Variada",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166109/171af80ea4f204ca1914b6b2d13a6dbc.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=16",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1166110,
+          "lote": "17",
+          "titulo": "Vinilo Doble Carnaval",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166110/3dfe87c7441ca0d3e3152158c7c31e28.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=17",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1166111,
+          "lote": "18",
+          "titulo": "2 Vinilos de Zitarrosa",
+          "descripcion": null,
+          "artista": "Zitarrosa",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166111/bf2887a7f353f653525cc3b5c0cd69ae.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=18",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1166112,
+          "lote": "19",
+          "titulo": "Discos de Pasta de Tango; Carlos Gardel; Francisco Canaro y más",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166112/341c051573e94a18886b17ffc723cefc.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=19",
+          "motivos": [
+            "\"discos de pasta\" (78 RPM)"
+          ]
+        },
+        {
+          "id": 1166113,
+          "lote": "20",
+          "titulo": "Vinilo Edición Especial de Apostando al Futuro",
+          "descripcion": null,
+          "artista": "Apostando",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166113/f0fbef56f3b780304f274be72347c1cf.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=20",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1166114,
+          "lote": "21",
+          "titulo": "Selección de 5 Vinilos de Música Variada; Carlos Gardel; Alberto Castillo y más",
+          "descripcion": null,
+          "artista": "Música Variada",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166114/dbd99c4c0014741df21144f7e2713d84.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=21",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1166151,
+          "lote": "58",
+          "titulo": "Gran Ejemplar de 1001 Discos que hay que Escuchar Antes de Morir en Tapa Dura",
+          "descripcion": null,
+          "artista": "Morir",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": 240,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166151/4432b079009b528333f713e7d6977827.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=58",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1166240,
+          "lote": "147",
+          "titulo": "Gran Cantidad de Discos Vinilos de Música Variada",
+          "descripcion": null,
+          "artista": "Discos Vinilos",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166240/d44d78ec8e92e48e28d37180e66cabb6.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=147",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1166241,
+          "lote": "148",
+          "titulo": "Selección de Vinilos Variados; John Lennon; Billy Idol y más",
+          "descripcion": null,
+          "artista": "Vinilos Variados",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166241/e18436cf39394b65d7a7cb012b45dbeb.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=148",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1166242,
+          "lote": "149",
+          "titulo": "Selección de Vinilos Variados",
+          "descripcion": null,
+          "artista": "Vinilos Variados",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166242/5ae7995e4ee9cf45cbc24217c6e32497.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=149",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1166243,
+          "lote": "150",
+          "titulo": "Selección de Vinilos Variados; Los Fronterizos; Ton Ton y más",
+          "descripcion": null,
+          "artista": "Vinilos Variados",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166243/8bfc496a2bd5c3c96424b54781ff78bd.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=150",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1166244,
+          "lote": "151",
+          "titulo": "Selección de Vinilos Variados",
+          "descripcion": null,
+          "artista": "Vinilos Variados",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166244/6cd4f9754625729d665a901f0f8d667e.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=151",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1166245,
+          "lote": "152",
+          "titulo": "Selección de Música Variada en Vinilo",
+          "descripcion": null,
+          "artista": "Música Variada",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166245/4039bc427c6f003cabea516e70a38e87.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=152",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1166246,
+          "lote": "153",
+          "titulo": "Selección de Vinilos Bee Gees",
+          "descripcion": null,
+          "artista": "Vinilos Bee Gees",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166246/1fa239dcba3403b7489d1695e58eb85f.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=153",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1168784,
+          "lote": "295",
+          "titulo": "2 Antiguos Álbumes de Figuritas Completos",
+          "descripcion": null,
+          "artista": "Figuritas Completos",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1168784/c15549803c947f6df1321c9212c97a26.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=295",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1168785,
+          "lote": "296",
+          "titulo": "4 Álbumes Antiguos Década 1960 Incompletos",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1960",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1168785/13003caa673fa5313460a0424e767c5a.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=296",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1960"
+          ]
+        },
+        {
+          "id": 1168787,
+          "lote": "298",
+          "titulo": "Álbum Antiguo Zorro Walt Disney Muy Completo 1964",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1964",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1168787/9b738403e2fa7b801ae99fa4abdfa2ee.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=298",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1964"
+          ]
+        },
+        {
+          "id": 1168789,
+          "lote": "300",
+          "titulo": "2 Álbumes Completo e Incompleto Década de 1960",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1960",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1168789/6bb6501001ab4597276c4f5be2a50b97.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=300",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1960"
+          ]
+        }
+      ],
+      "datosDe": "2026-10-08T00:53:30.252Z"
     },
     {
       "id": "8089",
@@ -2261,7 +2625,7 @@
           "anio": "1980",
           "moneda": "$",
           "base": 950,
-          "oferta": 950,
+          "oferta": 1000,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1163787/2425eff3a1bb5563b3b9036230d23d9f.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=4",
           "motivos": [
@@ -2280,7 +2644,7 @@
           "anio": "1965",
           "moneda": "$",
           "base": 950,
-          "oferta": null,
+          "oferta": 950,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1163797/e09daee7f4d1d0d5e007e46893461e6a.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=7",
           "motivos": [
@@ -2783,7 +3147,7 @@
           "anio": "2022",
           "moneda": "$",
           "base": 1000,
-          "oferta": 1000,
+          "oferta": 1050,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166053/8aa220dc30618078bf409981505b2b3a.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=215",
           "motivos": [
@@ -2802,7 +3166,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166042/be9578533b57ec60884b45891b8ad811.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=220",
           "motivos": [
@@ -2888,7 +3252,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-07T10:54:52.846Z"
+      "datosDe": "2026-10-08T00:53:30.252Z"
     },
     {
       "id": "8131",
@@ -2901,7 +3265,7 @@
       "timestamp": 1791840600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8131",
-      "totalLotes": 150,
+      "totalLotes": 198,
       "vinilos": [
         {
           "id": 1168978,
@@ -2958,7 +3322,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-07T10:54:52.846Z"
+      "datosDe": "2026-10-08T00:53:30.252Z"
     },
     {
       "id": "7883",
@@ -2973,11 +3337,11 @@
       "url": "https://www.remotes.com.uy/participar/remate/7883",
       "totalLotes": 156,
       "vinilos": [],
-      "datosDe": "2026-10-07T10:54:52.846Z"
+      "datosDe": "2026-10-08T00:53:30.252Z"
     },
     {
       "id": "8088",
-      "nombre": "✅ Remate de Coleccionables y Antigüedades, Se destacan botellas de leche, refresco, cerveza, destapadores, aluminio, veleros, instrumentos musicales y más!! Estamos cargando lotes",
+      "nombre": "✅ Remate de Coleccionables y Antigüedades, Se destacan botellas de leche, refresco, cerveza, destapadores, aluminio, veleros, instrumentos musicales y más!! Imposible que dejes pasar la oportunidad!!!",
       "empresa": "Valentina Rodríguez",
       "departamento": "Montevideo",
       "lugar": "Av. Dámaso Antonio Larrañaga 3452, Montevideo",
@@ -2986,9 +3350,9 @@
       "timestamp": 1792000800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8088",
-      "totalLotes": 178,
+      "totalLotes": 154,
       "vinilos": [],
-      "datosDe": "2026-10-07T10:54:52.846Z"
+      "datosDe": "2026-10-08T00:53:30.252Z"
     },
     {
       "id": "7928",
@@ -3003,7 +3367,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7928",
       "totalLotes": 1,
       "vinilos": [],
-      "datosDe": "2026-10-07T10:54:52.846Z"
+      "datosDe": "2026-10-08T00:53:30.252Z"
     },
     {
       "id": "8123",
@@ -3018,7 +3382,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8123",
       "totalLotes": 75,
       "vinilos": [],
-      "datosDe": "2026-10-07T10:54:52.846Z"
+      "datosDe": "2026-10-08T00:53:30.252Z"
     },
     {
       "id": "8101",
@@ -3033,7 +3397,22 @@
       "url": "https://www.remotes.com.uy/participar/remate/8101",
       "totalLotes": 38,
       "vinilos": [],
-      "datosDe": "2026-10-07T10:54:52.846Z"
+      "datosDe": "2026-10-08T00:53:30.252Z"
+    },
+    {
+      "id": "8004",
+      "nombre": "Sábado 17 Hora 18.55 Tercera Parte de Liquidación Se Destacan Antigüedades de Distintos Tipos Relojes ,Monedas ,Medalla Enchapadas ,Armónica Doble ,Pipa ,Juguete Antiguo ,Cuchillos Antiguos ,Herramientas de Mano ,Matrículas y Más ,Todo a la Venta Envíos a Todo el País Informes 099182611",
+      "empresa": "Fabio Alles Remates",
+      "departamento": "Nueva Helvecia",
+      "lugar": "Germán Imhof equina Frau Vogel, Nueva Helvecia",
+      "fecha": "17/10/2026, 18:55",
+      "fechaISO": "2026-10-17T21:55:00.000Z",
+      "timestamp": 1792274100,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8004",
+      "totalLotes": 62,
+      "vinilos": [],
+      "datosDe": "2026-10-08T00:53:30.252Z"
     },
     {
       "id": "8100",
@@ -3067,7 +3446,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-07T10:54:52.846Z"
+      "datosDe": "2026-10-08T00:53:30.252Z"
     },
     {
       "id": "8093",
@@ -3101,7 +3480,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-07T10:54:52.846Z"
+      "datosDe": "2026-10-08T00:53:30.252Z"
     },
     {
       "id": "6923",
@@ -3116,7 +3495,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/6923",
       "totalLotes": 326,
       "vinilos": [],
-      "datosDe": "2026-10-07T10:54:52.846Z"
+      "datosDe": "2026-10-08T00:53:30.252Z"
     }
   ]
 }
