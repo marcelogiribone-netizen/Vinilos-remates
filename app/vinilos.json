@@ -1,1179 +1,7 @@
 {
-  "generado": "2026-10-11T10:40:29.314Z",
+  "generado": "2026-10-12T00:23:55.667Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "8030",
-      "nombre": "HOY Gran Remate de Antigüedades y Oportunidades —18:00 hs | Preofertá y obtené flete gratis . Beneficio válido para quienes hayan realizado preoferta y superen los $5.000 en precio de remate/adjudicación. Flete gratis a todo el país solo en artículos pequeños. No incluye muebles ni artículos de gran porte.El embalaje se cobra en todos los casos .",
-      "empresa": "Nelson Javier Jolochin Solan",
-      "departamento": "Paysandu",
-      "lugar": "18 de Julio 721, Paysandu",
-      "fecha": "11/10/2026, 17:30",
-      "fechaISO": "2026-10-11T20:30:00.000Z",
-      "timestamp": 1791750600,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8030",
-      "totalLotes": 163,
-      "vinilos": [
-        {
-          "id": 1165058,
-          "lote": "124",
-          "titulo": "Álbum antiguo con colección de billetes Uruguayos",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 1500,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1165058/ed8b6616eb5c0b9ef2ea57833853a3bd.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8030?lote=124",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        }
-      ],
-      "datosDe": "2026-10-11T10:40:29.314Z"
-    },
-    {
-      "id": "8084",
-      "nombre": "GRAN REMATE LIQUIDACION POR SUCESION, DESTACAMOS: MUEBLES DE ESTILO, CUADROS, SILLONES, ARMARIOS, ARTICULOS DE BAZAR, ADORNOS, ROPA, TACOS, HERRAMIENTAS, HELADERAS, COCINA, BICICLETAS, CAMAS, BIJOUTERIE, CAMINADOR, JUEGO INFANTILES, LIBROS, JUEGOS DE PORCELANA INGLESA, GIM MULTIFUNCION... SEGUIREMOS SUMANDO LOTES...",
-      "empresa": "Escritorio Puglia",
-      "departamento": "MONTEVIDEO",
-      "lugar": "AMADO NERVO 3611, MONTEVIDEO",
-      "fecha": "11/10/2026, 19:00",
-      "fechaISO": "2026-10-11T22:00:00.000Z",
-      "timestamp": 1791756000,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8084",
-      "totalLotes": 295,
-      "vinilos": [
-        {
-          "id": 1164658,
-          "lote": "143",
-          "titulo": "Lote 3 álbumes Vida y Color",
-          "descripcion": "Tres tomos de colección enciclopédica con ilustraciones, señales de uso, desgaste en tapas y lomos, completos.",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 300,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164658/29530cadb72b4c577c4b13fdd016211a.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8084?lote=143",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1164686,
-          "lote": "171",
-          "titulo": "Gongo chino a escala en laton o bronce",
-          "descripcion": "disco colgante, soporte de metal con base madera oscura, mazo acolchado.23x24cm",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 400,
-          "oferta": 500,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164686/1fa9a16bf0af38a15bbd50950b3c0c0f.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8084?lote=171",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        }
-      ],
-      "datosDe": "2026-10-11T10:40:29.314Z"
-    },
-    {
-      "id": "8115",
-      "nombre": "Liquidación familiar con mas de 300 lotes cargados, mucha variedad,  coleccionables,  antigüedades, cuchillería, pesca, audio,mobiliario de diseño,  mobiliario francés,  pintura Nacional, alhajas en plata, álbumes, pista de tren Alemana antigua, relojería...... muchísimas oportunidades!",
-      "empresa": "ElEjido",
-      "departamento": "MONTEVIDEO",
-      "lugar": "EJIDO 932, MONTEVIDEO",
-      "fecha": "11/10/2026, 19:00",
-      "fechaISO": "2026-10-11T22:00:00.000Z",
-      "timestamp": 1791756000,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8115",
-      "totalLotes": 298,
-      "vinilos": [
-        {
-          "id": 1166107,
-          "lote": "14",
-          "titulo": "Vinilo de Kiss",
-          "descripcion": null,
-          "artista": "Kiss",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 600,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166107/e65d6f1c2f96567ea39979bb10af7755.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=14",
-          "motivos": [
-            "dice \"vinilo\""
-          ]
-        },
-        {
-          "id": 1166108,
-          "lote": "15",
-          "titulo": "Selección de 5 Vinilos de Música Variada",
-          "descripcion": null,
-          "artista": "Música Variada",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 220,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166108/d20f282f283f792b6e68b372e4d59421.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=15",
-          "motivos": [
-            "dice \"vinilo\""
-          ]
-        },
-        {
-          "id": 1166109,
-          "lote": "16",
-          "titulo": "Selección de 5 Vinilos de Música Variada; Los Fronterizos; José Carbajal y más",
-          "descripcion": null,
-          "artista": "Música Variada",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 220,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166109/171af80ea4f204ca1914b6b2d13a6dbc.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=16",
-          "motivos": [
-            "dice \"vinilo\""
-          ]
-        },
-        {
-          "id": 1166110,
-          "lote": "17",
-          "titulo": "Vinilo Doble Carnaval",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 220,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166110/3dfe87c7441ca0d3e3152158c7c31e28.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=17",
-          "motivos": [
-            "dice \"vinilo\""
-          ]
-        },
-        {
-          "id": 1166111,
-          "lote": "18",
-          "titulo": "2 Vinilos de Zitarrosa",
-          "descripcion": null,
-          "artista": "Zitarrosa",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 390,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166111/bf2887a7f353f653525cc3b5c0cd69ae.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=18",
-          "motivos": [
-            "dice \"vinilo\""
-          ]
-        },
-        {
-          "id": 1166112,
-          "lote": "19",
-          "titulo": "Discos de Pasta de Tango; Carlos Gardel; Francisco Canaro y más",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166112/341c051573e94a18886b17ffc723cefc.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=19",
-          "motivos": [
-            "\"discos de pasta\" (78 RPM)"
-          ]
-        },
-        {
-          "id": 1166113,
-          "lote": "20",
-          "titulo": "Vinilo Edición Especial de Apostando al Futuro Araca La Cana",
-          "descripcion": null,
-          "artista": "Apostando",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 360,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166113/f0fbef56f3b780304f274be72347c1cf.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=20",
-          "motivos": [
-            "dice \"vinilo\""
-          ]
-        },
-        {
-          "id": 1166114,
-          "lote": "21",
-          "titulo": "Selección de 5 Vinilos de Música Variada; Carlos Gardel; Alberto Castillo y más",
-          "descripcion": null,
-          "artista": "Música Variada",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166114/dbd99c4c0014741df21144f7e2713d84.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=21",
-          "motivos": [
-            "dice \"vinilo\""
-          ]
-        },
-        {
-          "id": 1166151,
-          "lote": "58",
-          "titulo": "Gran Ejemplar de 1001 Discos que hay que Escuchar Antes de Morir en Tapa Dura",
-          "descripcion": null,
-          "artista": "Morir",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 750,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166151/4432b079009b528333f713e7d6977827.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=58",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1166240,
-          "lote": "147",
-          "titulo": "Gran Cantidad de Discos Vinilos  simples de Música Variada",
-          "descripcion": null,
-          "artista": "Discos Vinilos",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 550,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166240/d44d78ec8e92e48e28d37180e66cabb6.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=147",
-          "motivos": [
-            "dice \"vinilo\""
-          ]
-        },
-        {
-          "id": 1166241,
-          "lote": "148",
-          "titulo": "Selección de Vinilos simples Variados; John Lennon; Billy Idol y más",
-          "descripcion": null,
-          "artista": "Vinilos",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 900,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166241/e18436cf39394b65d7a7cb012b45dbeb.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=148",
-          "motivos": [
-            "dice \"vinilo\""
-          ]
-        },
-        {
-          "id": 1166242,
-          "lote": "149",
-          "titulo": "Selección de Vinilos simples Variados",
-          "descripcion": null,
-          "artista": "Vinilos",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166242/5ae7995e4ee9cf45cbc24217c6e32497.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=149",
-          "motivos": [
-            "dice \"vinilo\""
-          ]
-        },
-        {
-          "id": 1166243,
-          "lote": "150",
-          "titulo": "Selección de Vinilos Variados; Los Fronterizos; Ton Ton y más",
-          "descripcion": null,
-          "artista": "Vinilos Variados",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166243/8bfc496a2bd5c3c96424b54781ff78bd.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=150",
-          "motivos": [
-            "dice \"vinilo\""
-          ]
-        },
-        {
-          "id": 1166244,
-          "lote": "151",
-          "titulo": "Selección de Vinilos Variados",
-          "descripcion": null,
-          "artista": "Vinilos Variados",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 500,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166244/6cd4f9754625729d665a901f0f8d667e.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=151",
-          "motivos": [
-            "dice \"vinilo\""
-          ]
-        },
-        {
-          "id": 1166245,
-          "lote": "152",
-          "titulo": "Selección de Música Variada en Vinilo",
-          "descripcion": null,
-          "artista": "Música Variada",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166245/4039bc427c6f003cabea516e70a38e87.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=152",
-          "motivos": [
-            "dice \"vinilo\""
-          ]
-        },
-        {
-          "id": 1166246,
-          "lote": "153",
-          "titulo": "Selección de Vinilos Bee Gees",
-          "descripcion": null,
-          "artista": "Vinilos Bee Gees",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 240,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166246/1fa239dcba3403b7489d1695e58eb85f.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=153",
-          "motivos": [
-            "dice \"vinilo\""
-          ]
-        },
-        {
-          "id": 1168784,
-          "lote": "295",
-          "titulo": "2 Antiguos Álbumes de Figuritas Completos",
-          "descripcion": null,
-          "artista": "Figuritas Completos",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1168784/c15549803c947f6df1321c9212c97a26.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=295",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1168785,
-          "lote": "296",
-          "titulo": "4 Álbumes Antiguos Década 1960 Incompletos",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": "1960",
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1168785/13003caa673fa5313460a0424e767c5a.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=296",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1960"
-          ]
-        },
-        {
-          "id": 1168787,
-          "lote": "298",
-          "titulo": "Álbum Antiguo Zorro Walt Disney Muy Completo 1964",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": "1964",
-          "moneda": "$",
-          "base": 200,
-          "oferta": 280,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1168787/9b738403e2fa7b801ae99fa4abdfa2ee.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=298",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1964"
-          ]
-        },
-        {
-          "id": 1168789,
-          "lote": "300",
-          "titulo": "2 Álbumes Completo e Incompleto Década de 1960",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": "1960",
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1168789/6bb6501001ab4597276c4f5be2a50b97.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8115?lote=300",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1960"
-          ]
-        }
-      ],
-      "datosDe": "2026-10-11T10:40:29.314Z"
-    },
-    {
-      "id": "8089",
-      "nombre": "🏆⚽ GRAN SUBASTA COLECCIONABLE DE FÚTBOL ⚽🏆",
-      "empresa": "Verónica Aristegui Díaz",
-      "departamento": "San José",
-      "lugar": "Parada 8 manzana 3 solar 16 calle colocolo, Playa pascual, San José, San José",
-      "fecha": "11/10/2026, 19:30",
-      "fechaISO": "2026-10-11T22:30:00.000Z",
-      "timestamp": 1791757800,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8089",
-      "totalLotes": 289,
-      "vinilos": [
-        {
-          "id": 1163785,
-          "lote": "3",
-          "titulo": "Álbum completo \"Futbolcrackito\" (Colección 1968) ​ Álbum completo de la edición de 1968. Incluye planteles del fútbol uruguayo (Nacional, Peñarol, Defensor, Danubio, Racing, Huracán Buceo, Wanderers, Bella Vista, Colón, Progreso, Rentistas, Fénix, La Luz, Central Español, Uruguay Montevideo), además de secciones temáticas como \"Grandes Pensadores\" y \"El Arte y sus Genios\". Se aclara que cuenta con 3 figuritas impresas/copias.  ​Estado: Álbum en buenas condiciones generales, con desgaste natural por el paso del tiempo y daños menores en bordes y lomo. ​",
-          "descripcion": null,
-          "artista": null,
-          "album": "Futbolcrackito",
-          "sello": null,
-          "anio": "1968",
-          "moneda": "$",
-          "base": 950,
-          "oferta": 4500,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1163785/a6ae1aa53dfba4875fd54e32d12cf7f0.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=3",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1968"
-          ]
-        },
-        {
-          "id": 1163787,
-          "lote": "4",
-          "titulo": "Álbum completo \" LOS TRICO Y LOS PEÑA, Las aventuras de Cacho y Coquito\" (1980 - Teledoce) ​ Álbum completo de figuritas brillantes y autoadhesivas. Incluye planteles y escudos del fútbol uruguayo (Peñarol, Nacional, Defensor, Danubio, entre otros), además de figuritas de artistas y música internacional.  ​Estado: Muy buen estado de conservación general. ​",
-          "descripcion": null,
-          "artista": "Cacho",
-          "album": "LOS TRICO Y LOS PEÑA, Las aventuras de Cacho y Coquito",
-          "sello": null,
-          "anio": "1980",
-          "moneda": "$",
-          "base": 950,
-          "oferta": 1150,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1163787/2425eff3a1bb5563b3b9036230d23d9f.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=4",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1980"
-          ]
-        },
-        {
-          "id": 1163797,
-          "lote": "7",
-          "titulo": "Álbum \"Los Trico..! Los Peña..!\" (Álbum Fútbol 1965) ​ Álbum  con formato apaisado publicado en 1965. Contiene secciones dedicadas a Peñarol (\"Los Peña..!\"), Nacional (\"Los Trico..!\"), Selección Uruguaya de Fútbol de 1965 y clubes de Primera División como Rampla Juniors. Incluye además secciones especiales de \"Comentaristas y Relatores\" y \"Los Auténticos Beatles\". Presenta figuritas de destacadas figuras como Mazurkiewicz, Roque Gastón Máspoli, Alberto Spencer, Ladislao Mazurkiewicz, Néstor Gonçalvez, Cincunegui, José Nasazzi (sección relatores/comentaristas) y estampas a color de los miembros de The Beatles. Casi completo.    ​Estado: En buen estado general de conservación, con daños menores desgaste y dobleces lógicos del uso y paso del tiempo.   ​",
-          "descripcion": null,
-          "artista": "Fútbol",
-          "album": "Los Trico..! Los Peña..!",
-          "sello": null,
-          "anio": "1965",
-          "moneda": "$",
-          "base": 950,
-          "oferta": 3700,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1163797/e09daee7f4d1d0d5e007e46893461e6a.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=7",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1965"
-          ]
-        },
-        {
-          "id": 1163798,
-          "lote": "8",
-          "titulo": "Álbum Fútbol Uruguayo - Campeonato Apertura 2005 (Panini) ​ Álbum oficial del Fútbol Uruguayo correspondiente al Campeonato Apertura 2005, editado por Panini con el auspicio de Solanas de Punta del Este y derechos de Tenfield. Incluye las plantillas completas y figuritas/stickers de los escudos y planteles de los equipos de Primera División, como Nacional, Defensor Sporting, C.A. Cerro y Cerrito. Contiene las figuritas de figuras destacadas como Diego Godín (en sus inicios en Cerro), Sebastián Viera, Fernando Muslera, Gonzalo \"Chory\" Castro, Fabián Coelho, Jorge \"El Japo\" Rodríguez, entre otros. ​Estado: Excelente estado de conservación, completo/casi completo, impecable presentación interior y tapas muy bien mantenidas. ​",
-          "descripcion": null,
-          "artista": "Álbum Fútbol Uruguayo",
-          "album": "Campeonato Apertura 2005 (Panini) ​ Álbum oficial del Fútbol Uruguayo correspond",
-          "sello": null,
-          "anio": "2005",
-          "moneda": "$",
-          "base": 950,
-          "oferta": 3500,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1163798/5e1efcb7928959b1e6a3d71ffaf5e8f6.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=8",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 2005"
-          ]
-        },
-        {
-          "id": 1164386,
-          "lote": "46",
-          "titulo": "Banderín \"La Familia Tricolor\" - C.N. de F. (\"Vamos al Estadio\") ​  Banderín de formato alargado impreso sobre plástico/acetato. Presenta la ilustración de un personaje característico con la inscripción \"Vamos al Estadio\", una caravana de niños con indumentaria tricolor llevando la bandera con las siglas \"C.N. de F.\" y la frase \"La Familia Tricolor\". ​",
-          "descripcion": null,
-          "artista": "Banderín \"La Familia Tricolor\"",
-          "album": "La Familia Tricolor",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 350,
-          "oferta": 350,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164386/27ea347e2c79f542aca5189c5951c9e8.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=46",
-          "motivos": [
-            "dice \"acetato\""
-          ]
-        },
-        {
-          "id": 1164349,
-          "lote": "68",
-          "titulo": "Álbum \"México 70\" (Impreso).  ​Álbum completo con figuritas impresas de origen (\"cromo impreso\").  Portada ilustrada con el balón oficial, calendario del torneo y mapa de sedes.   ​Estado: Excelente conservación, firme y de colores vivos.   ​",
-          "descripcion": null,
-          "artista": "Impreso",
-          "album": "México 70",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 150,
-          "oferta": 950,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164349/ad0d5731522aae217099ce0437d751ae.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=68",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1164347,
-          "lote": "69",
-          "titulo": "Álbum Panini Francia 1998 (Impreso)  ​ Álbum  con figuritas impresas de fábrica. Portada clásica con banderas de paises participantes.   ​Estado: Muy buen estado",
-          "descripcion": null,
-          "artista": "Impreso",
-          "album": null,
-          "sello": null,
-          "anio": "1998",
-          "moneda": "$",
-          "base": 150,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164347/afd065ba1ecdad80a237486a9cb98dc4.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=69",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1998"
-          ]
-        },
-        {
-          "id": 1164346,
-          "lote": "70",
-          "titulo": "Álbum Panini \"México 86\" (Impreso) ​  Álbum impreso de origen. Tapa con el logo oficial del Mundial 86, franja de banderas y la mascota Pique.   Excelente estado de conservación.   ​",
-          "descripcion": null,
-          "artista": "Impreso",
-          "album": "México 86",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 150,
-          "oferta": 1200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164346/09e414a6262fcdf3ccf10225fb9098a9.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=70",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1164345,
-          "lote": "71",
-          "titulo": "Álbum Panini \"Italia '90\" (Impreso)  ​ Álbum con figuritas impresas en sus páginas. Tapa ilustrada con los futbolistas disputando la pelota y el logo oficial del torneo.   ​Estado: Impecable presentación con colores vivos.",
-          "descripcion": null,
-          "artista": "Impreso",
-          "album": "Italia '90",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 150,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164345/a501018a16f90a07c9bb19f09da9e552.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=71",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1164344,
-          "lote": "72",
-          "titulo": "Álbum Panini \"USA 94\" (Impreso) ​ Álbum  impreso de origen. Portada sobre fondo azul estrellado con la Estatua de la Libertad y banderas nacionales.   ​Estado: Muy buena condición.   ​",
-          "descripcion": null,
-          "artista": "Impreso",
-          "album": "USA 94",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 150,
-          "oferta": 850,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164344/bbac984f125581e527640a116357d5c4.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=72",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1164343,
-          "lote": "73",
-          "titulo": "Álbum Panini \"España 82\" (Impreso) ​  Álbum con figuritas impresas de fábrica.   ​Estado: Excelente estado general.   ​",
-          "descripcion": null,
-          "artista": "Impreso",
-          "album": "España 82",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 150,
-          "oferta": 1100,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164343/fb56c3a0d21dd98d6b87a9f25d457b6f.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=73",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1164342,
-          "lote": "74",
-          "titulo": "Álbum Panini \"Korea Japan 2002\" (Impreso) ​  Álbum impreso. Portada con el trofeo estilizado del Mundial 2002, fondo dorado y las mascotas oficiales.   ​Estado: Muy buen estado de conservación.   ​",
-          "descripcion": null,
-          "artista": "Impreso",
-          "album": "Korea Japan 2002",
-          "sello": null,
-          "anio": "2002",
-          "moneda": "$",
-          "base": 150,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164342/a2a7552caa07018a31864015731f9974.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=74",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 2002"
-          ]
-        },
-        {
-          "id": 1164341,
-          "lote": "75",
-          "titulo": "Álbum Panini \"Germany 2006\" (Impreso) ​  Álbum con figuritas impresas de origen. Diseñado en tonos celestes con el logo de caras sonrientes del torneo y banderas en el margen.   ​Estado: Excelentes condiciones, muy bien cuidado.   ​",
-          "descripcion": null,
-          "artista": "Impreso",
-          "album": "Germany 2006",
-          "sello": null,
-          "anio": "2006",
-          "moneda": "$",
-          "base": 150,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164341/ececa2bd6597b01bb6754adc131a269a.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=75",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 2006"
-          ]
-        },
-        {
-          "id": 1164339,
-          "lote": "76",
-          "titulo": "Álbum Panini \"South Africa 2010\" (Impreso) ​ Álbum con figuritas impresas de origen (\"cromo impreso\"). Portada en tonos rojos y cálidos con el logo oficial del Mundial Sudáfrica 2010 y banderas de los países participantes.   ​Estado: Excelente estado de conservación.   ​",
-          "descripcion": null,
-          "artista": "Impreso",
-          "album": "South Africa 2010",
-          "sello": null,
-          "anio": "2010",
-          "moneda": "$",
-          "base": 150,
-          "oferta": 250,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164339/da7397cd66fbfe646f48eb7350d70090.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=76",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 2010"
-          ]
-        },
-        {
-          "id": 1164939,
-          "lote": "106",
-          "titulo": "Lote de Figuritas Panini – Uruguay Clausura 2008 / Varadero  ​ Lote de  figuritas de fútbol uruguayo del álbum Uruguay Clausura 2008 (Panini) y suplementos/bloques promocionales Varadero. ​  Panini (Uruguay Clausura 2008) en su sobre/formato original (Patritti, Núñez Medina, Olveira Romero, Lucas Mattías, Macchi Varela, etc.) y  planchas múltiples de figuritas tipo carnet (jugadores de Liverpool, Peñarol, Cerro, Danubio, Tacuarembó, etc.). ​Estado: Excelente estado de conservación.",
-          "descripcion": null,
-          "artista": "Lote de Figuritas Panini",
-          "album": "Uruguay Clausura 2008 / Varadero ​ Lote de figuritas de fútbol uruguayo del ál",
-          "sello": null,
-          "anio": "2008",
-          "moneda": "$",
-          "base": 120,
-          "oferta": 420,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164939/0e98c49f9f02d14cc09eed31775c9864.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=106",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 2008"
-          ]
-        },
-        {
-          "id": 1164944,
-          "lote": "109",
-          "titulo": "Colección de Figuritas y Stickers de Fútbol Uruguayo e Internacional (15 piezas) ​  Lote variado de piezas que incluye figuras del fútbol uruguayo (Nacional, Peñarol, Wanderers, Liverpool, Fénix, Atenas de San Carlos), selección uruguaya y álbumes FIFA.   ​Destacados: Luis Artime (\"Estrella\" / Nacional), Vicente Sánchez (\"Goleador\" / Nacional), Diego Godín y Cristian \"Cebolla\" Rodríguez (Uruguay), Deivis Barone, Néstor Fabián Silva, Ramón D. Larrosa, Matías Corujo, Martín González, Jorge Rodríguez y escudo de Atenas de San Carlos / Anastasia.   ​Estado: Muy bueno en general.",
-          "descripcion": null,
-          "artista": "Figuritas",
-          "album": "Estrella",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 120,
-          "oferta": 250,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164944/61e94fb6f589d1366bcb4d25647f4c32.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=109",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1164953,
-          "lote": "114",
-          "titulo": "Selección Antigua de Figuritas Antiguas, Históricas y Coleccionables (11 piezas)  ​Lote vintage muy variado con piezas históricas del fútbol uruguayo e internacional, incluyendo caricaturas clisé, banderas de Mundiales y álbumes icónicos como Ídolos '70, Los Treboles, Donald y Famosa.   ​Destacados: ​Roberto Matosas (Caricatura a color en River Plate).   ​Peñarol: Foto de plantel histórico \"Uno de los grandes equipos del C.A. Peñarol\" y chapa / cromo de Pavone.   ​Nacional vs. Peñarol: Cromo humorístico / caricatura del clásico \"Gol\".   ​Mundial Londres '66: Cromo desplegable/doble de banderas (Uruguay, México, Inglaterra/Londres 66).   ​Otros: Cromo caricatura \"A. Paz\", futbolista Díaz, cromo de halterofilia (N.º 167) y jugador Candedo (Huracán).   ​Estado: En buenas condiciones,  algunas presentan detalles.",
-          "descripcion": null,
-          "artista": "Caricatura a color en River Plate",
-          "album": "Uno de los grandes equipos del C.A. Peñarol",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 120,
-          "oferta": 120,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164953/cd734e4c1496dd38b1240939a8a7ca07.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=114",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1164954,
-          "lote": "115",
-          "titulo": "Colección Fútbol Uruguayo – Campeonato Apertura 2009 Panini y más (18 piezas) ​ Lote  de figuritas oficiales Panini correspondientes al álbum Apertura Campeonato 2009 del fútbol uruguayo.   ​Destacados: ​Defensor Sporting / Danubio / River / Tacuarembó: Marcelo Sosa, Marcelo Tejera, Sebastián Eguren, Carlos Díaz, Bruno Silva, Juan Olivera, Diego Pérez, Omar Pouso, Nicolás Azenarez, Jonathan Ramírez, Héctor B. Silva Cabrera, Matías Corujo, Agustín Peña, Luis Machado y Martín González.   ​Fotos de Equipo: Incluye 2 figuritas de formaciones de planteles.   ​Estado: Excelente estado de conservación.",
-          "descripcion": null,
-          "artista": "Colección Fútbol Uruguayo",
-          "album": "Campeonato Apertura 2009 Panini y más (18 piezas) ​ Lote de figuritas oficiales",
-          "sello": null,
-          "anio": "2009",
-          "moneda": "$",
-          "base": 90,
-          "oferta": 300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164954/50ced19f47991989aa3aba08ad863237.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=115",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 2009"
-          ]
-        },
-        {
-          "id": 1164970,
-          "lote": "125",
-          "titulo": "Lote de Figuritas de Franz Beckenbauer (Ídolos 70 y otra edición de época).  Cantidad: 3 figuritas. Contenido:   ​2 figuritas grandes de Franz Beckenbauer (Álbum Ídolos 70, N° 207 al reverso).   ​1 figurita menor con rotulado frontal \"60 - Franz Beckenbauer\" de 1978. Estado: Recuperadas pero en buenas condiciones.",
-          "descripcion": null,
-          "artista": "Figuritas",
-          "album": "60 - Franz Beckenbauer",
-          "sello": null,
-          "anio": "1978",
-          "moneda": "$",
-          "base": 180,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164970/40c389f4fe9868825c3e7a0e9c8f1399.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=125",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1978"
-          ]
-        },
-        {
-          "id": 1164977,
-          "lote": "129",
-          "titulo": "Figuritas de la Selección Española – Álbum Portezuelo (Mundial 1994)  Jugadores / Contenido: ​Plantel / Equipo Selección Española ​Fernando R. Hierro ​Luis Enrique Martínez ​Fernando Giner ​José M.ª Bakero ​José A. Goicoechea ​Miguel Ángel Nadal ​F. José Camarasa ​Julio Salinas ​J. L. P. Caminero ​Javier Clemente (D.T.) ​Francisco Buyo ​Alberto Ferrer ​Toni Jiménez ​Andoni Zubizarreta ​Julen Guerrero / Voro Estado: Muy buen estado de conservación.",
-          "descripcion": null,
-          "artista": "Figuritas de la Selección Española",
-          "album": "Álbum Portezuelo (Mundial 1994) Jugadores / Contenido: ​Plantel / Equipo Selecc",
-          "sello": null,
-          "anio": "1994",
-          "moneda": "$",
-          "base": 150,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1164977/0bd421133a8d7cda4f2715681771be3e.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=129",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1994"
-          ]
-        },
-        {
-          "id": 1165494,
-          "lote": "165",
-          "titulo": "​Banderín  coleccionable - \"Donald Campeón\" (Club Nacional de Football).   Banderín impreso en papel/cartón relativo a la histórica colección de figuritas y golosinas \"Donald Campeón\", ilustrado con el Pato Donald sosteniendo la bandera tricolor. En el reverso/soporte presenta la publicidad del álbum (\"3 figuritas en cada golosina\", \"440 imágenes con los cracks de nuestro deporte\", Walt Disney Productions). Pieza muy rara de época en excelente estado.",
-          "descripcion": null,
-          "artista": "​Banderín coleccionable",
-          "album": "\"Donald Campeón\" (Club Nacional de Football)",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 350,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1165494/e935974ba37d665e88558b7585aec590.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=165",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1165552,
-          "lote": "182",
-          "titulo": "Álbum Antiguo \"España 82\" – FIGUS (Uruguay) - COMPLETO ​ Álbum de colección completo dedicado al Mundial España 1982, publicado en Uruguay por FIGUS.   ​Secciones destacadas: Incluye a Maradona novato y sección especial \"Cracks del Fútbol Uruguayo\" (Enzo Francescoli, Fernando Morena, Hugo De León, etc.), historia de los mundiales y copas de Peñarol, además de las selecciones participantes con sus figuras de época ( Mario Kempes, Arconada, entre otros).   ​Estado: Álbum 100% completo con todas sus figuritas pegadas. Tapa y páginas interiores bien conservadas con desgastes leves de uso normal y pequeñas manchas.",
-          "descripcion": null,
-          "artista": "Peñarol",
-          "album": "FIGUS (Uruguay) - COMPLETO ​ Álbum de colección completo dedicado al Mundial Esp",
-          "sello": null,
-          "anio": "1982",
-          "moneda": "$",
-          "base": 1200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1165552/456fb8c155efa7ea478c4d5084417842.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=182",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1982"
-          ]
-        },
-        {
-          "id": 1165551,
-          "lote": "183",
-          "titulo": "Álbum Panini \"UEFA Champions League 2014-2015\" - COMPLETO ​  Álbum de colección oficial Panini de la UEFA Champions League temporada 2014-2015.   ​Secciones destacadas: Escudos metalizados de la fase de grupos, planteles completos de los clubes más importantes de Europa como Atlético de Madrid, Juventus, Real Madrid, Barcelona, Bayern Munich, etc.   ​Estado: Álbum 100% completo con todas sus figuritas pegadas impecablemente. Excelente estado general de conservación, tapas y páginas en gran forma.",
-          "descripcion": null,
-          "artista": "UEFA Champions League",
-          "album": "UEFA Champions League 2014-2015",
-          "sello": null,
-          "anio": "2014",
-          "moneda": "$",
-          "base": 900,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1165551/0b88028962444784d8b85363178899d4.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=183",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 2014"
-          ]
-        },
-        {
-          "id": 1165550,
-          "lote": "184",
-          "titulo": "Álbum Panini \"UEFA Champions League 2008-2009\" - COMPLETO ​ Álbum oficial Panini, distribuido en Uruguay por diario El País.   ​Contenido: Planteles completos de las potencias europeas con sus máximas estrellas, incluyendo a Cristiano Ronaldo (Man. Utd), Lionel Messi (Barcelona), Del Piero (Juventus) y Klose (Bayern München), además de figuras uruguayas como Álvaro Pereira (CFR Cluj).   ​Estado: 100% completo con todas las figuritas pegadas impecablemente y en excelente estado de conservación.",
-          "descripcion": null,
-          "artista": "Man. Utd",
-          "album": "UEFA Champions League 2008-2009",
-          "sello": null,
-          "anio": "2008",
-          "moneda": "$",
-          "base": 1200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1165550/8df16930a42f86e767ffde252cc8d511.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=184",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 2008"
-          ]
-        },
-        {
-          "id": 1165549,
-          "lote": "185",
-          "titulo": "Álbum \"Libro de Oro de Nacional\" - COMPLETO     Álbum histórico del Club Atlético Nacional publicatorio por el Suplemento Deportivo de diario El País.   ​ Historia gráfica completa de la institución, incluyendo planteles históricos, dirigentes, sedes, copas y sus máximas ídolos y glorias deportivas.   ​Detalle especial: Incluye en la contratapa el cupón oficial pegado y sellado por la administración de El País (\"Duplicado\"), certificación necesaria en la época que constataba la verificación del álbum 100% completo para participar del gran concurso.   ​Estado: 100% completo con todas sus figuras pegadas. Excelente estado de conservación estructural y de papel.",
-          "descripcion": null,
-          "artista": "Álbum \"Libro de Oro de Nacional\"",
-          "album": "COMPLETO Álbum histórico del Club Atlético Nacional publicatorio por el Supl",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 1200,
-          "oferta": 2200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1165549/f55c431909ee65a94009e265c8cb6d91.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=185",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1165548,
-          "lote": "186",
-          "titulo": "Álbum Colección \"Goleador en Tecnicolor - Walt Disney\" (1953)   ​  Raro y emblemático álbum publicado en Uruguay en 1953, que combina el fútbol local con la imagen conmemorativa de Walt Disney y sus personajes. Incluye la famosa reproducción del saludo manuscrito de Walt Disney a los deportistas uruguayos.   ​ Páginas dedicadas a los equipos del fútbol uruguayo como Nacional, Peñarol, Central, Cerro, Danubio, Liverpool y Defensor, combinando fotos de futbolistas con ilustraciones de personajes de Disney.   ​Obsequio original: Mantiene adherido en la primera página el certificado/cupón de obsequio original con sello (\"7 de Noviembre 1953\").   ​Estado: Álbum incompleto pero con un gran porcentaje de figuritas pegadas. Muestra desgaste en bordes,  pequño daño, lomo y tapas producto de los años, pero conserva un importante valor histórico y de colección.",
-          "descripcion": null,
-          "artista": "Álbum Colección \"Goleador en Tecnicolor",
-          "album": "Walt Disney\" (1953) ​ Raro y emblemático álbum publicado en Uruguay en 1953",
-          "sello": null,
-          "anio": "1953",
-          "moneda": "$",
-          "base": 1200,
-          "oferta": 1550,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1165548/804bf00675da68ec774b3921c886b47b.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=186",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1953"
-          ]
-        },
-        {
-          "id": 1165517,
-          "lote": "187",
-          "titulo": "Álbum COMPLETO \"Collecting Cards\" Club Nacional de Football – Campeonato 2012-13.  ​Edición: Álbum  COMPLETO oficial tipo collecting cards / juego de cartas coleccionables de Club Nacional de Football (Aligraf), correspondiente al Campeonato Uruguayo 2012-2013. ​Contenido: Colección completa de 45 cartas guardadas e insertas en sus folios plásticos protectores originales. ​Incluye: ​Plantel completo de la época con figuras como Álvaro \"Chino\" Recoba, Alexander \"Cacique\" Medina, Iván Alonso, Sebastián Abreu, Jorge Bava, Diego Arismendi, entre otros. ​Cartas \"Especiales\" (Gran Parque Central, La Hinchada, Copa Libertadores, Copa Intercontinental). ​Cartas \"Estrellas / Ídolos Históricos\" (Luis Artime, Víctor Espárrago, Santiago Ostolaza, Atilio García, Rubén Sosa). ​Extras: Incluye el sobre original vacío de la colección. ​Estado: Excelente estado de conservación, completo y muy bien cuidado en sus fundas de folios.",
-          "descripcion": null,
-          "artista": "Aligraf",
-          "album": "Collecting Cards",
-          "sello": null,
-          "anio": "2012",
-          "moneda": "$",
-          "base": 1500,
-          "oferta": 3300,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1165517/e91e78af1b752eacc4df5a5765d17bdb.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=187",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 2012"
-          ]
-        },
-        {
-          "id": 1165516,
-          "lote": "188",
-          "titulo": "​ÁLBUM PANINI UEFA CHAMPIONS LEAGUE 2012-2013 – COMPLETO.  ​Editorial: Panini ​Edición: Distribución local / Obsequio (Portezuelo / Uruguay) ​Esta completo en excelente conservación general. Se aprecia muy bien cuidado en sus páginas interiores y tapas. ​Contenido destacado: Incluye a las grandes figuras de la época como Lionel Messi, Cristiano Ronaldo, Zlatan Ibrahimović, Wayne Rooney, Sergio Agüero, Robert Lewandowski, entre otros grandes planteles de Europa (FC Barcelona, Real Madrid, PSG, Arsenal, AC Milan, Borussia Dortmund, Manchester City, FC Porto). ​Ideal para coleccionistas de la época dorada de la Champions League. ​",
-          "descripcion": null,
-          "artista": "Europa",
-          "album": null,
-          "sello": null,
-          "anio": "2012",
-          "moneda": "$",
-          "base": 1200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1165516/522ee3a2f847938e71140edb31ee3f26.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=188",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 2012"
-          ]
-        },
-        {
-          "id": 1166080,
-          "lote": "197",
-          "titulo": "Lámina \"Uruguay va a México 70!!\" - La Gran Pegada   ​ Lámina/póster  a color con foto del plantel Celeste clasificado al Mundial de 1970 (Mazurkiewicz, Rocha, Cubilla, Matosas, etc.). Obsequio del Álbum La Historia del Fútbol.   ​Estado: Muy buen estado general.",
-          "descripcion": null,
-          "artista": null,
-          "album": "La Gran Pegada ​ Lámina/póster a color con foto del plantel Celeste clasifica",
-          "sello": null,
-          "anio": "1970",
-          "moneda": "$",
-          "base": 250,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166080/584e756c84467ad0c9081922004d3a37.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=197",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1970"
-          ]
-        },
-        {
-          "id": 1166053,
-          "lote": "215",
-          "titulo": "Box Set Conmemorativo (camiseta) \"Una Vuelta Inolvidable\" / Luis Suárez – Club Nacional de Football (2022)  ​Marca/Edición: Umbro, Caja de Edición Especial Conmemorativa \"Una Vuelta Inolvidable - 31 de Julio 2022 / Edición del Campeón\", con motivo del histórico retorno y consagración de Luis Suárez en el club.   ​Incluye: ​Caja temática: Presentación  con el lema, firma impresa de Luis Suárez y la fecha histórica del retorno (31 de Julio 2022).   ​Libro/Álbum fotográfico: Edición especial con espiral superior \"Una Vuelta Inolvidable - Edición del Campeón\", con cobertura fotográfica a todo color de la vuelta de Luis Suárez y la obtención del campeonato.   ​Camiseta Oficial: Camiseta de juego de la temporada en su bolsa protectora cerrada de fábrica, con etiqueta de código de barras identificada como \"CAMISETA SUAREZ\" (Código NULSE122SV4XL / NU942861).   ​Talle de la camiseta: XL (GG).   ​Estado: Set completo de colección en estado impecable.",
-          "descripcion": null,
-          "artista": "Football",
-          "album": "Una Vuelta Inolvidable",
-          "sello": null,
-          "anio": "2022",
-          "moneda": "$",
-          "base": 1000,
-          "oferta": 2100,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166053/8aa220dc30618078bf409981505b2b3a.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=215",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 2022"
-          ]
-        },
-        {
-          "id": 1166042,
-          "lote": "220",
-          "titulo": "Vinilo Single 7\" (45 RPM) – Danubio Fútbol Club (\"Danubio Campeón\" / \"Arriba Danubio\")  ​Disco de vinilo formato single / sencillo de 7 pulgadas en su sobre/funda de papel original impreso con la franja diagonal y las iniciales \"D.F.C.\". ​Contenido musical: ​Lado A: \"DANUBIO CAMPEÓN\" (Tomás Cortés) – Interpretado por Coro de Danubio. ​Lado B: \"ARRIBA DANUBIO\" (Coco D'Andraya) – Interpretado por Coro de Danubio. ​Etiqueta / Centro: Etiquetas centrales blancas con tipografía negra e iniciales \"D. F. C.\". ​Estado: Muy buen estado de conservación general, tanto el vinilo como la funda gráfica original.",
-          "descripcion": null,
-          "artista": "Tomás Cortés",
-          "album": "Danubio Fútbol Club (\"Danubio Campeón\" / \"Arriba Danubio\") ​Disco de vinilo for",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1166042/be9578533b57ec60884b45891b8ad811.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=220",
-          "motivos": [
-            "dice \"vinilo\"",
-            "menciona RPM",
-            "\"disco de vinilo\""
-          ]
-        },
-        {
-          "id": 1167670,
-          "lote": "226",
-          "titulo": "Lote 226: Álbum de Figuritas – \"El Hombre Araña y Kung Fu con los Jugadores de Nacional y Peñarol\" (FIGUS / Cacho Bochinche, 1983) ​  Álbum de figuritas vintage de la cultura popular uruguaya, publicado por FIGUS en 1983 y presentado por Cacho Bochinche.     Rara combinación que incluye secciones de El Hombre Araña y Kung Fu (con figuritas y discos circulares), junto a una lámina desplegable \"Tarde de Clásico\" y figuritas de los planteles de Nacional y Peñarol de 1983 (con figuras como Morena, Jair, entre otros).   ​Estado: Muy buen estado general de época, con gran cantidad de figuritas pegadas, páginas centrales están sueltas.",
-          "descripcion": null,
-          "artista": "Figuritas",
-          "album": "El Hombre Araña y Kung Fu con los Jugadores de Nacional y Peñarol",
-          "sello": null,
-          "anio": "1983",
-          "moneda": "$",
-          "base": 1500,
-          "oferta": 2750,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1167670/f199fc4085f9645aee19217b3a67e963.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=226",
-          "motivos": [
-            "dice \"disco\"",
-            "año 1983"
-          ]
-        },
-        {
-          "id": 1167417,
-          "lote": "240",
-          "titulo": "Álbum Panini UEFA EURO 2008 Austria-Switzerland completo y en excelente estado.   Todas las figuritas están pegadas, incluyendo escudos, equipos y figuras destacadas como Cristiano Ronaldo, Modrić y Ballack. Páginas e interiores en óptima conservación.",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": "2008",
-          "moneda": "$",
-          "base": 1200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1167417/6f65f027c29b4b1e2d8431a0ae349385.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=240",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 2008"
-          ]
-        },
-        {
-          "id": 1167419,
-          "lote": "241",
-          "titulo": "ÁLBUM \"GOLES Y DOBLES\" (1950)  ​Raro y cotizado álbum deportivo uruguayo en formato circular con forma de pelota de cuero, editado en Montevideo (Marzo de 1950) por KAVAL Soc. Com. / Anselmi S.A. Publicado en el histórico año de Maracaná, repasa equipos de fútbol local (Peñarol, Nacional, Defensor, Wanderers, etc.) y básquetbol.   ​Estado: Tapas y páginas originales con desgaste propio del tiempo (pátina y marcas de época).   ​Figuritas: Incluye gran cantidad de estampas pegadas (figuras como J. A. Schiaffino, escudos y escenas deportivas).   ​Nota: Lote integrado por figuritas originales de época y algunas copias/facsímiles de reemplazo colocadas para completar. ​Excelente pieza de colección para la memorabilia deportiva del fútbol uruguayo.",
-          "descripcion": null,
-          "artista": "Maracaná",
-          "album": "GOLES Y DOBLES",
-          "sello": null,
-          "anio": "1950",
-          "moneda": "$",
-          "base": 1500,
-          "oferta": 1550,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1167419/097dc5583d1525bbe04d95b372f43983.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=241",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1950"
-          ]
-        },
-        {
-          "id": 1167821,
-          "lote": "242",
-          "titulo": "Lámina color del álbum Goleador dedicada al Club Nacional de Football, \"Campeón Copa Montevideo 1953\".   Presenta al plantel junto a caricaturas de personajes de Disney e ilustra el trofeo. Imprenta N. York.  Buen estado de conservación con leves pliegues de época.",
-          "descripcion": null,
-          "artista": "Football",
-          "album": "Campeón Copa Montevideo 1953",
-          "sello": null,
-          "anio": "1953",
-          "moneda": "$",
-          "base": 200,
-          "oferta": 200,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1167821/1e231421c9d0e70622357b3803951134.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8089?lote=242",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1953"
-          ]
-        }
-      ],
-      "datosDe": "2026-10-11T10:40:29.314Z"
-    },
-    {
-      "id": "8144",
-      "nombre": "⚜️⚜️⚜️¡GRAN REMATE! LIQUIDACION DE APARTAMENTOS PRIMER Y SEGUNDO PISO EN AVENIDA BRASIL 2678 ESQ CORONEL ALEGRE Y RAMBLA GHANDI 237 POCITOS– PRIMERA PARTE ✅MUEBLES MODERNOS Y ANTIGUOS JUEGO COMEDOR, SILLONES DE ROBLE, MESA BAR AMERICANA, APARADOR BIBLIOTECA Y MAS ✅PINTURA NACIONAL ✅ANTIGUEDADES ✅CRISTALERIA ✅VAJILLA INGLESA ✅ILUMINACION✅DECORACIÓN & ADORNOS✅TAPICES✅ELECTRODOMESTICOS✅ Y MUCHO MÁS ✅ENVÍO A TODO EL PAÍS ✅¡PARTICIPA Y DEJA TU PRE-OFERTA AHORA!⚜️",
-      "empresa": "LOS ROBLES",
-      "departamento": "Montevideo",
-      "lugar": "Avenida Brasil 2678, Montevideo",
-      "fecha": "11/10/2026, 19:30",
-      "fechaISO": "2026-10-11T22:30:00.000Z",
-      "timestamp": 1791757800,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8144",
-      "totalLotes": 173,
-      "vinilos": [
-        {
-          "id": 1171233,
-          "lote": "80",
-          "titulo": "Lote de discos de vinilo",
-          "descripcion": "¡¡¡La oferta es por todas las piezas!!!",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": 2000,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1171233/30e8d3c4513dbcdfdbe8509a7c6c27f5.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8144?lote=80",
-          "motivos": [
-            "dice \"vinilo\"",
-            "\"disco de vinilo\""
-          ]
-        }
-      ],
-      "datosDe": "2026-10-11T10:40:29.314Z"
-    },
     {
       "id": "8131",
       "nombre": "Remate Multirubro. Articulos Variados Todo nuevo sin uso. Atención Revendedores. Los lotes tienen la base de la unidad pero debe de llevar todas las unidades que comprende el lote. Articulos del Hogar, decoracion, tecnología, electrodomesticos, perfumes, juguetes y muchos articulos mas. Se envia a todo el país desde la empresa que usted elija desde Tres Cruces. Se siguen subiendo lotes.",
@@ -1185,7 +13,7 @@
       "timestamp": 1791840600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8131",
-      "totalLotes": 218,
+      "totalLotes": 325,
       "vinilos": [
         {
           "id": 1168978,
@@ -1216,7 +44,7 @@
           "anio": null,
           "moneda": "$",
           "base": 3,
-          "oferta": null,
+          "oferta": 3,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1168979/adbb33fda49228404b286802647b8f32.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8131?lote=21A",
           "motivos": [
@@ -1240,9 +68,45 @@
           "motivos": [
             "dice \"disco\""
           ]
+        },
+        {
+          "id": 1174650,
+          "lote": "22A",
+          "titulo": "Discos voladores",
+          "descripcion": "La base es por la unidad pero debe de llevar todas las unidades",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 3,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174650/60f56ffeceb01bd1bb0493e5fcb8bf63.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8131?lote=22A",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1174655,
+          "lote": "22B",
+          "titulo": "Discos voladores",
+          "descripcion": "La base es por la unidad pero debe de llevar todas las unidades",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 3,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174655/60f56ffeceb01bd1bb0493e5fcb8bf63.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8131?lote=22B",
+          "motivos": [
+            "dice \"disco\""
+          ]
         }
       ],
-      "datosDe": "2026-10-11T10:40:29.314Z"
+      "datosDe": "2026-10-12T00:23:55.667Z"
     },
     {
       "id": "7883",
@@ -1257,7 +121,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7883",
       "totalLotes": 156,
       "vinilos": [],
-      "datosDe": "2026-10-11T10:40:29.314Z"
+      "datosDe": "2026-10-12T00:23:55.667Z"
     },
     {
       "id": "7828",
@@ -1291,7 +155,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-11T10:40:29.314Z"
+      "datosDe": "2026-10-12T00:23:55.667Z"
     },
     {
       "id": "8088",
@@ -1306,7 +170,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8088",
       "totalLotes": 158,
       "vinilos": [],
-      "datosDe": "2026-10-11T10:40:29.314Z"
+      "datosDe": "2026-10-12T00:23:55.667Z"
     },
     {
       "id": "7928",
@@ -1321,7 +185,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7928",
       "totalLotes": 1,
       "vinilos": [],
-      "datosDe": "2026-10-11T10:40:29.314Z"
+      "datosDe": "2026-10-12T00:23:55.667Z"
     },
     {
       "id": "8123",
@@ -1336,7 +200,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8123",
       "totalLotes": 75,
       "vinilos": [],
-      "datosDe": "2026-10-11T10:40:29.314Z"
+      "datosDe": "2026-10-12T00:23:55.667Z"
     },
     {
       "id": "8137",
@@ -1351,7 +215,593 @@
       "url": "https://www.remotes.com.uy/participar/remate/8137",
       "totalLotes": 204,
       "vinilos": [],
-      "datosDe": "2026-10-11T10:40:29.314Z"
+      "datosDe": "2026-10-12T00:23:55.667Z"
+    },
+    {
+      "id": "8154",
+      "nombre": "🔷Antigüedades Y Coleccionables🔷",
+      "empresa": "Verónica Aristegui Díaz",
+      "departamento": "San José",
+      "lugar": "Parada 8 manzana 3 solar 16 calle colocolo, Playa pascual, San José, San José",
+      "fecha": "15/10/2026, 17:30",
+      "fechaISO": "2026-10-15T20:30:00.000Z",
+      "timestamp": 1792096200,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8154",
+      "totalLotes": 129,
+      "vinilos": [
+        {
+          "id": 1174349,
+          "lote": "1",
+          "titulo": "MANÁ: \"Revolución de Amor\" CD Industria Argentina, Warner Music, Año 2002.",
+          "descripcion": "Contiene los siguientes temas: Justicia, Tierra y Libertad; Ay, doctor; Fe; Sábanas frías; Pobre Juan; ¿Por qué te vas?; Mariposa traicionera; Sin tu cariño; Eres mi religión; No voy a ser tu esclavo; Ángel de amor; Nada que perder.\r\n\r\nEstado del Disco: Muy bien.\r\nEstado de la Caja: Muy bien.",
+          "artista": "Amor",
+          "album": "Revolución de Amor",
+          "sello": null,
+          "anio": "2002",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174349/57c03fcc9c3f600c269b2390e2c3932b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=1",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2002"
+          ]
+        },
+        {
+          "id": 1174350,
+          "lote": "2",
+          "titulo": "MANÁ: \"Cuando los Ángeles Lloran\" CD Importado USA, Wea Latina, Año 1995.",
+          "descripcion": "Contiene los siguientes temas: Como un perro enloquecido; Selva negra; Hundido en un rincón; El reloj cucú; Mis ojos; Ana; Siembra el amor; Cuando los ángeles lloran; Déjame entrar; No ha parado de llover; Antifaz; El borracho.\r\n\r\nEstado del Disco: Muy bien.\r\n\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "Cuando los Ángeles Lloran",
+          "sello": null,
+          "anio": "1995",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174350/e2f32021df24c04187db79adfcc5c100.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=2",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1995"
+          ]
+        },
+        {
+          "id": 1174351,
+          "lote": "3",
+          "titulo": "MANÁ: \"Sueños Líquidos\" CD Industria Argentina, Wea / Warner Music Argentina, Año 1997.",
+          "descripcion": "Contiene los siguientes temas: Hechicera; Un lobo por tu amor; Como dueles en los labios; Chaman; Tu tienes lo que quiero; Clavado en un bar; Robame el alma; En el muelle de San Blas; La sirena; Me voy a convertir en un ave; Como te extraño corazon; Amame hasta que me muera.\r\n\r\nEstado del Disco: Muy bien.\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "Sueños Líquidos",
+          "sello": null,
+          "anio": "1997",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174351/0380fe10e49f9de31d415650e0e897f0.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=3",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1997"
+          ]
+        },
+        {
+          "id": 1174352,
+          "lote": "4",
+          "titulo": "MANÁ: \"¿Dónde Jugarán Los Niños?\" CD Industria Argentina, Wea / Warner Music Argentina, Año 1992.",
+          "descripcion": "Contiene los siguientes temas: De pies a cabeza; Oye mi amor; Cachito; Vivir sin aire; Donde jugaran los niños?; El desierto; La chula; Como te deseo; Te lloré un rio; Como diablos; Huele a tristeza; Me vale.\r\n\r\nEstado del Disco: Muy bien.\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "¿Dónde Jugarán Los Niños?",
+          "sello": null,
+          "anio": "1992",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174352/cb256da468df20f64cdf31e8e389cf81.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=4",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1992"
+          ]
+        },
+        {
+          "id": 1174353,
+          "lote": "5",
+          "titulo": "MANÁ: \"Drama y Luz\" CD + DVD Industria Argentina, Warner Music, Año 2011.",
+          "descripcion": "Contiene los siguientes temas: Lluvia al corazón; Amor clandestino; Mi reina del dolor; El espejo; Sor María; Vuela libre paloma; No te rindas; Latinoamérica; El dragón; El verdadero amor perdona; Envenéname; No te rindas (Versión alternativa).\r\n\r\nEstado de los Discos: Muy bien.\r\n\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "Drama y Luz",
+          "sello": null,
+          "anio": "2011",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174353/04b684aea16321d16bdf930b00cf2e5e.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=5",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2011"
+          ]
+        },
+        {
+          "id": 1174354,
+          "lote": "6",
+          "titulo": "MANÁ: \"Drama y Luz Edición Deluxe\" CD + DVD Industria Argentina, Warner Music, Año 2011.",
+          "descripcion": "Contiene los siguientes temas: Lluvia al corazón; Amor clandestino; Mi reina del dolor; El espejo; Sor María; Vuela libre paloma; No te rindas; Latinoamérica; El dragón; El verdadero amor perdona; Envenéname; No te rindas (Versión alternativa); Mi corazón no sabe olvidar; Contra todo; Lluvia al corazón (Versión soundcheck); El verdadero amor perdona (A dueto con Prince Royce).\r\n\r\nEstado de los Discos: Muy bien.\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "Drama y Luz Edición Deluxe",
+          "sello": null,
+          "anio": "2011",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174354/1f7181c87435e8085ae60bb492101113.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=6",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2011"
+          ]
+        },
+        {
+          "id": 1174356,
+          "lote": "7",
+          "titulo": "MANÁ: \"Amar es Combatir Deluxe Limited Edition\" CD + DVD Industria Argentina, Warner Music, Año 2007.",
+          "descripcion": "Contiene los siguientes temas: Manda una señal; Labios compartidos; Ojalá pudiera borrarte; Arráncame el corazón; Tengo muchas alas; Dime luna; Bendita tu luz; Tú me salvaste; Combatiente; El viaje (Dub); El rey tiburón; Somos mar y arena; Relax; Labios compartidos (Versión urbana); Bendita tu luz (Versión bachata); Manda una señal (Versión acústica).\r\n\r\nEstado de los Discos: Muy bien.\r\n\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "Amar es Combatir Deluxe Limited Edition",
+          "sello": null,
+          "anio": "2007",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174356/5ba26bbe18b79397cd8aa9d4d04f1c94.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=7",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2007"
+          ]
+        },
+        {
+          "id": 1174358,
+          "lote": "8",
+          "titulo": "MANÁ: \"¿Dónde Jugarán Los Niños?\" CD Industria Argentina, Wea / Warner Music Argentina, Año 1992.",
+          "descripcion": "Contiene los siguientes temas: De pies a cabeza; Oye mi amor; Cachito; Vivir sin aire; Donde jugaran los niños?; El desierto; La chula; Como te deseo; Te lloré un rio; Como diablos; Huele a tristeza; Me vale.\r\n\r\nEstado del Disco: Muy bien.\r\n\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "¿Dónde Jugarán Los Niños?",
+          "sello": null,
+          "anio": "1992",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174358/a0ef77fabd3f79881320985a4f46e5cd.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=8",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1992"
+          ]
+        },
+        {
+          "id": 1174359,
+          "lote": "9",
+          "titulo": "MANÁ: \"Cuando los Ángeles Lloran\" CD Industria Argentina, Wea / Warner Music Argentina, Año 1995. Contiene los siguientes temas: Como un perro enloquecido; Selva negra; Hundido en un rincón; El reloj cucú; Mis ojos; Ana; Siembra el amor; Cuando los ángeles lloran; Déjame entrar; No ha parado de llover; Antifaz; El borracho.",
+          "descripcion": "Estado del Disco: Muy bien.\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "Cuando los Ángeles Lloran",
+          "sello": null,
+          "anio": "1995",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174359/848d0ce9245e79e9731542f7aa674e71.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=9",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1995"
+          ]
+        },
+        {
+          "id": 1174360,
+          "lote": "10",
+          "titulo": "MANÁ: \"Cama Incendiada\" CD Industria Argentina, Warner Music Argentina, Año 2015.",
+          "descripcion": "Contiene los siguientes temas: Adicto a tu amor; La cama incendiada; La prisión; Ironía; Peligrosa; Mi verdad; Suavecito; La telaraña; Electrizado; Somos más americanos; La telaraña (Remix).\r\n\r\nEstado del Disco: Muy bien.\r\n\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "Cama Incendiada",
+          "sello": null,
+          "anio": "2015",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174360/567302806ce433fb9601921d4ec5eebb.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=10",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2015"
+          ]
+        },
+        {
+          "id": 1174362,
+          "lote": "11",
+          "titulo": "MANÁ: \"Arde el Cielo Vivo\" CD + DVD Industria Argentina, Warner Music Argentina, Año 2008.",
+          "descripcion": "Contiene los siguientes temas: Déjame entrar; Manda una señal; Labios compartidos; Bendita tu luz; Vivir sin aire; ¿Dónde jugarán los niños?; Mariposa traicionera; El rey; No ha parado de llover; En el muelle de San Blas; Clavado en un bar; Rayando el sol; Si no te hubieras ido; Arde el cielo.\r\n\r\nEstado de los Discos: Muy bien.\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "Arde el Cielo Vivo",
+          "sello": null,
+          "anio": "2008",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174362/663732755a0717bb04df1542243d0c51.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=11",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2008"
+          ]
+        },
+        {
+          "id": 1174363,
+          "lote": "12",
+          "titulo": "MANÁ: \"En Vivo\" 2 CDs Industria Argentina, Wea / Warner Music Argentina, Año 1994.",
+          "descripcion": "Contiene los siguientes temas: De pies a cabeza; Oye mi amor; Refrigerador; Dónde jugarán los niños (Obertura); Soledad; Huele a tristeza; Te lloré un río; Estoy agotado; Perdido en un barco; Buscándola; La chula; El rey; Como diablos; Me vale; Rayando el sol; Como te deseo; Puerta azul; Vivir sin aire.\r\n\r\nEstado de los Discos: Muy bien.\r\n\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "En Vivo",
+          "sello": null,
+          "anio": "1994",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174363/1e3bdc793fbaeb56edee094b0b80870c.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=12",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1994"
+          ]
+        },
+        {
+          "id": 1174364,
+          "lote": "13",
+          "titulo": "MANÁ: \"Acceso Total Gira Mundial\" DVD Industria Argentina, Warner Music, Año 2004.",
+          "descripcion": "Contiene los siguientes temas: Ángel de amor; Oye mi amor; No ha parado de llover; Eres mi religión; Te llevaré al cielo; Mariposa traicionera; Vivir sin aire; Me vale; Corazón espinado; Rayando el sol; En el muelle de San Blas; Clavado en un bar.\r\n\r\nEstado del Disco: Muy bien.\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "Acceso Total Gira Mundial",
+          "sello": null,
+          "anio": "2004",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174364/687b8148cb47c3a98d3d81bf70d76571.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=13",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2004"
+          ]
+        },
+        {
+          "id": 1174365,
+          "lote": "14",
+          "titulo": "MANÁ: \"Drama y Luz\" CD Industria Argentina, Warner Music Argentina, Año 2011.",
+          "descripcion": "Contiene los siguientes temas: Lluvia al corazón; Amor clandestino; Mi reina del dolor; El espejo; Sor María; Vuela libre paloma; No te rindas; Latinoamérica; El dragón; El verdadero amor perdona; Envenéname; No te rindas (Versión alternativa).\r\n\r\nEstado del Disco: Muy bien.\r\n\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "Drama y Luz",
+          "sello": null,
+          "anio": "2011",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174365/002101f47b06209be1038d936397d563.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=14",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2011"
+          ]
+        },
+        {
+          "id": 1174366,
+          "lote": "15",
+          "titulo": "BUITRES: \"10 Años 2\" CD Industria Argentina, Bizarro Records, Año 2000.",
+          "descripcion": "Contiene los siguientes temas: Te llevo en el sentimiento; Hablando de vos; A veces; Ya no saben que decir; El cuidacoches; Una vez más; Canción de Navidad; Se ha perdido una mujer; La virgen; Rambla sur; Setiembre; Mire Amigo/Del cardal; Tengo Vaso; Morel; Cada vez te quiero más; Corre moño corre; Natalia; Espinas en el corazón; Sangre, babas y terror.\r\n\r\nEstado del Disco: Muy bien.\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "10 Años 2",
+          "sello": null,
+          "anio": "2000",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174366/9a4d68ddcb4e4d65caa0520d16e9b98c.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=15",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2000"
+          ]
+        },
+        {
+          "id": 1174367,
+          "lote": "16",
+          "titulo": "BUITRES: \"10 Años\" CD Industria Argentina, Bizarro Records, Año 2000.",
+          "descripcion": "Contiene los siguientes temas: Calavera; No es fácil; Ojos rojos; La plegaria del cuchillo; El baile del caballo; Todos borrachos; Azul; Condenado el corazón; Minusa la suerte; Retador; La copa; No es una pena; 70 puñales; Ojos rojos; Solo; Frío oscuro; No te puedo matar; Cambalache; Una noche; Avril; La pluma eléctrica.\r\n\r\nEstado del Disco: Muy bien.\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "10 Años",
+          "sello": null,
+          "anio": "2000",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174367/a053b935b1e7661e52cda766e94422a7.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=16",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2000"
+          ]
+        },
+        {
+          "id": 1174368,
+          "lote": "17",
+          "titulo": "MAYONESA: \"Bate Que Bate\" CD Industria Argentina, Leader Music, Año 2001.",
+          "descripcion": "Contiene los siguientes temas: Agachadita; Ella es un fantasma; Chica de TV; El baile de la bananita; Su colita; Bruja; Enamorados; Coctel de amor; Loco, loco, loco; Fingías.\r\n\r\nEstado del Disco: Muy bien.\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "Bate Que Bate",
+          "sello": null,
+          "anio": "2001",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174368/7b555aa7c37d015529963d3f631c1a3c.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=17",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2001"
+          ]
+        },
+        {
+          "id": 1174369,
+          "lote": "18",
+          "titulo": "CUMBIA NINJA: \"Cumbia Ninja\" CD Industria Argentina, Columbia / Sony Music Entertainment Argentina S.A., Año 2013.",
+          "descripcion": "Contiene los siguientes temas: Ojos en la espalda; Ceviche; Somos niebla; Luz de sombra; ¿De qué lado de la pecera estás?; Aire caliente; Pesado como pluma; Jaulita de oro; Lo mejor de lo peor; El horóscopo dice; Ni modo; Pateando culos; Idea fija; Canibal; Ojos en la espalda (Versión Ricardo y Brenda); Ceviche (Versión Ricardo y Brenda); El horóscopo dice (Versión Ricardo y Brenda).\r\n\r\nEstado del Disco: Muy bien.\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "Cumbia Ninja",
+          "sello": "Columbia",
+          "anio": "2013",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174369/aa5e047a602b985d7c378424205f9e66.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=18",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2013"
+          ]
+        },
+        {
+          "id": 1174370,
+          "lote": "19",
+          "titulo": "MALA TUYA: \"Pase lo que pase\" CD Industria Uruguaya, Montevideo Music Group, Año 2013.",
+          "descripcion": "Contiene los siguientes temas: Creo en ti; Eres para mí; Tengo tu love; A rodar mi vida; Rolling in the deep; La única voz; Te he echado de menos; Caraluna; Estoy aquí; Tan lejos; Donde están corazón; Muere con la sonrisa.\r\n\r\nEstado del Disco: Muy bien.\r\n\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "Pase lo que pase",
+          "sello": null,
+          "anio": "2013",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174370/27fd890f5b89fa890befd05bcc591357.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=19",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2013"
+          ]
+        },
+        {
+          "id": 1174371,
+          "lote": "20",
+          "titulo": "LOS FATALES: \"Revolución Fatal\" CD Industria Argentina, Edel / Sondor, Año 1999.",
+          "descripcion": "Contiene los siguientes temas: La noche del terror; Comadre compadre; Voy a conquistarte; Eres mi canción; Apagón; Las fatalidades; Mi nena; El poroto; Que pasa, que pasa; Ya no puedo estar sin ti.\r\n\r\nEstado del Disco: Muy bien.\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "Revolución Fatal",
+          "sello": "Sondor",
+          "anio": "1999",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174371/f83bef64ce3e8cbc5d5041ace4f713fa.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=20",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1999"
+          ]
+        },
+        {
+          "id": 1174372,
+          "lote": "21",
+          "titulo": "NIRVANA: \"Nevermind Deluxe Edition\" 2 CDs Industria Argentina, Geffen Records, Año 2011.",
+          "descripcion": "Contiene los siguientes temas: Smells Like Teen Spirit; In Bloom; Come As You Are; Breed; Lithium; Polly; Territorial Pissings; Drain You; Lounge Act; Stay Away; On A Plain; Something In The Way; Even In His Youth; Aneurysm; Curmudgeon; D-7 live at the BBC; Been A Son live; School live; Drain You live; Sliver live; Polly live; In Bloom; Immodium (Breed); Lithium; Polly; Pay To Play; Here She Comes Now; Dive; Sappy; Smells Like Teen Spirit; Verse Chorus Verse; Territorial Pissings; Lounge Act; Come As You Are; Old Age; Something In The Way; On A Plain; Drain You; Something In The Way.\r\n\r\nEstado de los Discos: Muy bien.\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "Nevermind Deluxe Edition",
+          "sello": null,
+          "anio": "2011",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174372/913fd3d014c3857d172e8588ba0ba942.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=21",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2011"
+          ]
+        },
+        {
+          "id": 1174373,
+          "lote": "22",
+          "titulo": "AGARRATE CATALINA: \"10 Años\" 3 CDs Industria Uruguaya, Montevideo Music Group, Año 2011.",
+          "descripcion": "Contiene los siguientes temas: Saludo 2011; Montevideo; La niebla (Recitado); La niebla; Cucarachas parte 1; Cucarachas parte 2; El sueño americano; Retirada 2006 \"Niño del fin del mundo\"; Bajada 2006; Auto-asamblea; Los viejos militantes; Canción final \"Vivir\"; Introducción \"El novio de la nieta\"; El novio de la nieta; Recitado retirada 2010; Retirada 2010 \"La ciudad\"; Bajada 2011; El diablo; Dios; Recitado retirada 2008; Retirada 2008 \"El viaje\"; Bajada 2008 \"Un camión que se va\"; Retirada 2005 \"Los sueños imposibles\"; Las maestras; Las banderas; Saludo 2005 \"Los sueños\"; La copa del mundo (Pato Sosa); Los tiempos de la crisis; Canción final 2007; La travesaña; \"Un camión que se va\" (Con la gente); El Pepe; Los jóvenes blancos; Saludo 2006 \"El fin del mundo\"; Saludo 2008; Celulosa parte 1; Celulosa parte 2; La civilización oriental (Los charrúas); Retirada 2007 \"El ser humano y la fe\"; Chávez; Saludo 2010; Civilicemos al Pepe; La canción de los sueños; Canción final 2005; Cacho Bochinche y el fútbol (La tía Nelsa y Yamandú).\r\n\r\nEstado de los Discos: Muy bien.\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "10 Años",
+          "sello": null,
+          "anio": "2011",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174373/9dcc195eb66e5d968c0a1726752bba5b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=22",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2011"
+          ]
+        },
+        {
+          "id": 1174374,
+          "lote": "23",
+          "titulo": "AGARRATE CATALINA: \"Civilización\" CD Industria Argentina, Montevideo Music Group, Año 2010.",
+          "descripcion": "Contiene los siguientes temas: Presentación; Los conquistadores; La civilización Oriental / Los charrúas; La carta; Los punks; Los conquistadores; Civilicemos al Pepe; El marciano; La guerra; La primera piedra; Recitado; Retirada La ciudad.\r\n\r\nEstado del Disco: Muy bien.\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "Civilización",
+          "sello": null,
+          "anio": "2010",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174374/9f6e1ebf2d4362e5b5debad920bf8866.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=23",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2010"
+          ]
+        },
+        {
+          "id": 1174375,
+          "lote": "24",
+          "titulo": "AGARRATE CATALINA: \"Gira Mundial Vol. 1\" CD + DVD Industria Argentina, Montevideo Music Group, Año 2015.",
+          "descripcion": "Contiene los siguientes temas: Previa en Montevideo; Atlanta / Miami; Washington / Nueva York; Fitchburg / Beijing; Beijing / Seúl; Seúl / Tokio; Tokio / Bangkok / Sidney; Sidney / Montevideo; Saludo \"Gente Común\" 2011; Vidas Comunes 2011; Alrededor del Fuego 2012; La Niebla recitado; La Niebla 2008; La Hoguera 2012; La Violencia 2011; Retirada \"Gente Común\" 2011; Saludo \"La Comunidad\" 2012; Retirada \"El Viaje\" 2008 recitado; Retirada \"El Viaje\" 2008; Bajada 2008 \"Un Camión Que Se Va\"; Retirada 2010 recitado; Retirada \"La Ciudad\" 2010; Saludo \"El Viaje\" 2008; Saludo 2010; Montevideo.\r\n\r\nEstado de los Discos: Muy bien.\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "Gira Mundial Vol. 1",
+          "sello": null,
+          "anio": "2015",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174375/1ac07dd3172e4f188bd22d0b73ba6d8f.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=24",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2015"
+          ]
+        },
+        {
+          "id": 1174376,
+          "lote": "25",
+          "titulo": "AGARRATE CATALINA: \"Gente Común\" CD Industria Argentina, Montevideo Music Group, Año 2011.",
+          "descripcion": "Contiene los siguientes temas: Presentación; Gente común (canción); Gente común (cuplé); El padre Atilio (diálogo); El padre Atilio (cuplé); Usted (diálogo); Usted (cuplé); La violencia (introducción); La violencia (cuplé); Vidas comunes (prosa); Retirada (parte 1); Retirada (parte 2).\r\n\r\nEstado del Disco: Muy bien.\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "Gente Común",
+          "sello": null,
+          "anio": "2011",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174376/fafdfab7b55e6e5e97f4485f05432013.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=25",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2011"
+          ]
+        },
+        {
+          "id": 1174377,
+          "lote": "26",
+          "titulo": "AGARRATE CATALINA: \"Gira Mundial Vol. 2\" CD + DVD Industria Argentina, Montevideo Music Group, Año 2015.",
+          "descripcion": "Contiene los siguientes temas: Montevideo / Buenos Aires / Alejandría; Alejandría / El Cairo; Berlín / Roma; Roma; Barcelona / Miramar; Moscú; Moscú; Gente común 2011; Usted 2011; El novio de la nieta 2008; Inimputabilidad 2012; Los miedos 2012; Celulosa parte 1 2006; Celulosa parte 2 2006; Civilicemos al Pepe 2010; La copa del mundo - Pato Sosa - 2006; Legalización; Globalización 2012; Los charrúas 2010; Bajada 2008 \"Un camión que se va\" con la gente; Vivir (versión 2014).\r\n\r\nEstado de los Discos: Muy bien.\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "Gira Mundial Vol. 2",
+          "sello": null,
+          "anio": "2015",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174377/850949631eb0448f12201aebcdbd522d.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=26",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2015"
+          ]
+        },
+        {
+          "id": 1174378,
+          "lote": "27",
+          "titulo": "AGARRATE CATALINA: \"La Comunidad\" CD Industria Uruguaya, Montevideo Music Group, Año 2012.",
+          "descripcion": "Contiene los siguientes temas: Presentación; Intro La hoguera; La hoguera; Introducción Punta del Diablo; Punta del Diablo; Introducción inimputabilidad; Inimputabilidad; Los miedos; Globalización; Cómo empezar; Recitado; Alrededor del fuego; Despedida; Bajada.\r\n\r\nEstado del Disco: Muy bien.\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "La Comunidad",
+          "sello": null,
+          "anio": "2012",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174378/55b3036b428cab3a62a69f1f9e7c3662.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=27",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2012"
+          ]
+        },
+        {
+          "id": 1174379,
+          "lote": "28",
+          "titulo": "MURGA A CONTRAMANO: \"¡¡Vivan los novios!!\" CD Industria Argentina, Montevideo Music Group, Año 2011.",
+          "descripcion": "Contiene los siguientes temas: Presentación 2011; Rumbo al casamiento (Intro); La lista de invitados (Salpicón); Inmobiliaria Brovetto; El chileno y el negro de Ghana; Villa Capricho; La cere - moña; Hasta que la muerte no se pare; Retirada 2011.\r\n\r\nEstado del Disco: Muy bien.\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "¡¡Vivan los novios!!",
+          "sello": null,
+          "anio": "2011",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174379/d1eb2c6f30462f13828714700b56f286.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=28",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2011"
+          ]
+        },
+        {
+          "id": 1174380,
+          "lote": "29",
+          "titulo": "MURGA LA CLAVE: \"La Clave del Infierno\" CD Industria Argentina, Montevideo Music Group, Año 2011.",
+          "descripcion": "Contiene los siguientes temas: Escapamos del infierno - presentación; Buenas noches, lo podemos ayudar; Vivir con miedo; El infierno de ser distinto; El infierno en casa; Frente amplio; Todos paran; Carnaval, te di mi vida; Dos amores - retirada; Bajada; Presentación 2010; Los que perdieron la vida; Los que perdieron el trabajo; Perder la vergüenza; Retirada 2010.\r\n\r\nEstado del Disco: Muy bien.\r\nEstado de la Caja: Muy bien.",
+          "artista": null,
+          "album": "La Clave del Infierno",
+          "sello": "Clave",
+          "anio": "2011",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174380/87e89c341ba0590ec8386958a0776da1.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=29",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2011"
+          ]
+        },
+        {
+          "id": 1174381,
+          "lote": "30",
+          "titulo": "TABARÉ CARDOZO: \"El Zoológico de Mi Cabeza\" CD Industria Argentina, Montevideo Music Group, Año 2010.",
+          "descripcion": "Contiene los siguientes temas: Buenas noches atorrantes - con Gustavo Cordera; Mitología; Tragicomedia; Ruido a ciudad - con Canario Luna; Zaguán; Centella - con Ruben Rada; Todo es relativo; Rubia rea; El zoológico de mi cabeza; Siete leguas; El flautista de Hamelín; El pedregullo; Tiempo animal - con Francis Andreu; Montevideo; Atención Francia.\r\n\r\nEstado del Disco: Muy bien.\r\nEstado de la Caja: Muy bien.",
+          "artista": "Mi Cabeza",
+          "album": "El Zoológico de Mi Cabeza",
+          "sello": null,
+          "anio": "2010",
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174381/042866bbc8f1464f8f09367a067daf42.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=30",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2010"
+          ]
+        }
+      ],
+      "datosDe": "2026-10-12T00:23:55.667Z"
     },
     {
       "id": "2757",
@@ -1366,7 +816,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/2757",
       "totalLotes": 181,
       "vinilos": [],
-      "datosDe": "2026-10-11T10:40:29.314Z"
+      "datosDe": "2026-10-12T00:23:55.667Z"
     },
     {
       "id": "8149",
@@ -1400,7 +850,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-11T10:40:29.314Z"
+      "datosDe": "2026-10-12T00:23:55.667Z"
     },
     {
       "id": "7944",
@@ -1415,7 +865,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7944",
       "totalLotes": 18,
       "vinilos": [],
-      "datosDe": "2026-10-11T10:40:29.314Z"
+      "datosDe": "2026-10-12T00:23:55.667Z"
     },
     {
       "id": "8135",
@@ -1430,7 +880,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8135",
       "totalLotes": 142,
       "vinilos": [],
-      "datosDe": "2026-10-11T10:40:29.314Z"
+      "datosDe": "2026-10-12T00:23:55.667Z"
     },
     {
       "id": "8101",
@@ -1445,7 +895,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8101",
       "totalLotes": 38,
       "vinilos": [],
-      "datosDe": "2026-10-11T10:40:29.314Z"
+      "datosDe": "2026-10-12T00:23:55.667Z"
     },
     {
       "id": "7955",
@@ -1460,7 +910,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7955",
       "totalLotes": 132,
       "vinilos": [],
-      "datosDe": "2026-10-11T10:40:29.314Z"
+      "datosDe": "2026-10-12T00:23:55.667Z"
     },
     {
       "id": "8004",
@@ -1475,7 +925,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8004",
       "totalLotes": 62,
       "vinilos": [],
-      "datosDe": "2026-10-11T10:40:29.314Z"
+      "datosDe": "2026-10-12T00:23:55.667Z"
     },
     {
       "id": "8100",
@@ -1488,7 +938,7 @@
       "timestamp": 1792332000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8100",
-      "totalLotes": 198,
+      "totalLotes": 199,
       "vinilos": [
         {
           "id": 1165677,
@@ -1527,7 +977,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-11T10:40:29.314Z"
+      "datosDe": "2026-10-12T00:23:55.667Z"
     },
     {
       "id": "8141",
@@ -1540,9 +990,9 @@
       "timestamp": 1792452600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8141",
-      "totalLotes": 107,
+      "totalLotes": 112,
       "vinilos": [],
-      "datosDe": "2026-10-11T10:40:29.314Z"
+      "datosDe": "2026-10-12T00:23:55.667Z"
     },
     {
       "id": "8075",
@@ -1557,7 +1007,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8075",
       "totalLotes": 101,
       "vinilos": [],
-      "datosDe": "2026-10-11T10:40:29.314Z"
+      "datosDe": "2026-10-12T00:23:55.667Z"
     },
     {
       "id": "8093",
@@ -1591,7 +1041,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-11T10:40:29.314Z"
+      "datosDe": "2026-10-12T00:23:55.667Z"
     },
     {
       "id": "8029",
@@ -1604,9 +1054,24 @@
       "timestamp": 1792798200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8029",
-      "totalLotes": 74,
+      "totalLotes": 76,
       "vinilos": [],
-      "datosDe": "2026-10-11T10:40:29.314Z"
+      "datosDe": "2026-10-12T00:23:55.667Z"
+    },
+    {
+      "id": "8171",
+      "nombre": "REMATE EN CASA DE FAMILIA - LIQUIDACION POR MUDANZA. REMATE UNICAMENTE PRESENCIAL - Sábado 24 de OCTUBRE hora 15.00 - URUGUAY 1788 de SALTO. EXHIBICION: JUEVES y VIERNES DE 9.30 A 12 Y 16.30 A 18.30. MUEBLES DE ESTILO, ARTICULOS EN BRONCE, CRISTALERIA, ARTICULOS DE COCINA, CALEFACTORES, VENTILADOR, CAMA, MESA DE CALIDAD EN PETIRIBI, MUSICA Y PELICULAS CD, DVD, Y MAS. EXHIBICION VIRTUAL POR REMOTES. CONSULTAS AL 099050803.",
+      "empresa": "Mariana Thevenet Kobak",
+      "departamento": "SALTO",
+      "lugar": "URUGUAY 1788 -SALTO, SALTO",
+      "fecha": "24/10/2026, 15:00",
+      "fechaISO": "2026-10-24T18:00:00.000Z",
+      "timestamp": 1792864800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8171",
+      "totalLotes": 99,
+      "vinilos": [],
+      "datosDe": "2026-10-12T00:23:55.667Z"
     },
     {
       "id": "6923",
@@ -1621,7 +1086,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/6923",
       "totalLotes": 326,
       "vinilos": [],
-      "datosDe": "2026-10-11T10:40:29.314Z"
+      "datosDe": "2026-10-12T00:23:55.667Z"
     },
     {
       "id": "8128",
@@ -1636,7 +1101,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8128",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-10-11T10:40:29.314Z"
+      "datosDe": "2026-10-12T00:23:55.667Z"
     }
   ]
 }
