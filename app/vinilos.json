@@ -1,113 +1,7 @@
 {
-  "generado": "2026-10-12T11:44:53.076Z",
+  "generado": "2026-10-13T02:29:45.549Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "8131",
-      "nombre": "Remate Multirubro. Articulos Variados Todo nuevo sin uso. Atención Revendedores. Los lotes tienen la base de la unidad pero debe de llevar todas las unidades que comprende el lote. Articulos del Hogar, decoracion, tecnología, electrodomesticos, perfumes, juguetes y muchos articulos mas. Se envia a todo el país desde la empresa que usted elija desde Tres Cruces. Se siguen subiendo lotes.",
-      "empresa": "Claudia Fabiana Rodríguez Rodríguez",
-      "departamento": "Montevideo",
-      "lugar": "Palmar 2154, Montevideo",
-      "fecha": "12/10/2026, 18:30",
-      "fechaISO": "2026-10-12T21:30:00.000Z",
-      "timestamp": 1791840600,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8131",
-      "totalLotes": 336,
-      "vinilos": [
-        {
-          "id": 1168978,
-          "lote": "21",
-          "titulo": "Discos voladores",
-          "descripcion": "La base es por la unidad pero debe de llevar todas las unidades",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 3,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1168978/adbb33fda49228404b286802647b8f32.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8131?lote=21",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1168979,
-          "lote": "21A",
-          "titulo": "Discos voladores",
-          "descripcion": "La base es por la unidad pero debe de llevar todas las unidades",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 3,
-          "oferta": 3,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1168979/adbb33fda49228404b286802647b8f32.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8131?lote=21A",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1168980,
-          "lote": "22",
-          "titulo": "Discos voladores",
-          "descripcion": "La base es por la unidad pero debe de llevar todas las unidades",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 3,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1168980/60f56ffeceb01bd1bb0493e5fcb8bf63.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8131?lote=22",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1174650,
-          "lote": "22A",
-          "titulo": "Discos voladores",
-          "descripcion": "La base es por la unidad pero debe de llevar todas las unidades",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 3,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174650/60f56ffeceb01bd1bb0493e5fcb8bf63.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8131?lote=22A",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        },
-        {
-          "id": 1174655,
-          "lote": "22B",
-          "titulo": "Discos voladores",
-          "descripcion": "La base es por la unidad pero debe de llevar todas las unidades",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 3,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174655/60f56ffeceb01bd1bb0493e5fcb8bf63.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8131?lote=22B",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        }
-      ],
-      "datosDe": "2026-10-12T11:44:53.076Z"
-    },
     {
       "id": "7883",
       "nombre": "❌LINDOS LOTES▶️ANTIGUEDADES ➡️LOSA, ➡️BANDERINES   ➡️ADORNOS Y MÁS✅ CONSULTAS :099 28 53 90 ✅",
@@ -121,7 +15,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7883",
       "totalLotes": 156,
       "vinilos": [],
-      "datosDe": "2026-10-12T11:44:53.076Z"
+      "datosDe": "2026-10-13T02:29:45.549Z"
     },
     {
       "id": "7828",
@@ -155,11 +49,11 @@
           ]
         }
       ],
-      "datosDe": "2026-10-12T11:44:53.076Z"
+      "datosDe": "2026-10-13T02:29:45.549Z"
     },
     {
       "id": "8088",
-      "nombre": "✅ Remate de Coleccionables y Antigüedades, Se destacan botellas de leche, refresco, cerveza, destapadores, aluminio, veleros, instrumentos musicales y más!! Imposible que dejes pasar la oportunidad!!!",
+      "nombre": "✅ Remate de Coleccionables y Antigüedades, Se destacan botellas de leche, refresco, cerveza, destapadores, aluminio, veleros, destapadores, sacacorchos, coleccionables de cocina, madera, adornos, instrumentos musicales y más!! Imposible que dejes pasar la oportunidad!!!",
       "empresa": "Valentina Rodríguez",
       "departamento": "Montevideo",
       "lugar": "Av. Dámaso Antonio Larrañaga 3452, Montevideo",
@@ -168,9 +62,9 @@
       "timestamp": 1792000800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8088",
-      "totalLotes": 158,
+      "totalLotes": 169,
       "vinilos": [],
-      "datosDe": "2026-10-12T11:44:53.076Z"
+      "datosDe": "2026-10-13T02:29:45.549Z"
     },
     {
       "id": "7928",
@@ -185,7 +79,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7928",
       "totalLotes": 1,
       "vinilos": [],
-      "datosDe": "2026-10-12T11:44:53.076Z"
+      "datosDe": "2026-10-13T02:29:45.549Z"
     },
     {
       "id": "8123",
@@ -200,11 +94,11 @@
       "url": "https://www.remotes.com.uy/participar/remate/8123",
       "totalLotes": 75,
       "vinilos": [],
-      "datosDe": "2026-10-12T11:44:53.076Z"
+      "datosDe": "2026-10-13T02:29:45.549Z"
     },
     {
       "id": "8137",
-      "nombre": "✅ Remate de antigüedades y coleccionables - Se destaca coleccionables de Coca-Cola, latas, whisky, medidas, articulos de policía, militaria  y más ! Seguimos subiendo lotes",
+      "nombre": "✅ Remate de antigüedades y coleccionables - Se destaca coleccionables de Coca-Cola, latas, whisky, medidas, artículos de policía, militaría  y más ! Entra ya y mira todo lo que tenemos para vos!!!",
       "empresa": "Valentina Rodríguez",
       "departamento": "Montevideo",
       "lugar": "Av. Dámaso Antonio Larrañaga 3452, Montevideo",
@@ -213,9 +107,9 @@
       "timestamp": 1792087200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8137",
-      "totalLotes": 204,
+      "totalLotes": 186,
       "vinilos": [],
-      "datosDe": "2026-10-12T11:44:53.076Z"
+      "datosDe": "2026-10-13T02:29:45.549Z"
     },
     {
       "id": "8154",
@@ -621,7 +515,7 @@
           "anio": "2011",
           "moneda": "$",
           "base": 300,
-          "oferta": null,
+          "oferta": 350,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174372/913fd3d014c3857d172e8588ba0ba942.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=21",
           "motivos": [
@@ -640,7 +534,7 @@
           "anio": "2011",
           "moneda": "$",
           "base": 300,
-          "oferta": null,
+          "oferta": 300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1174373/9dcc195eb66e5d968c0a1726752bba5b.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8154?lote=22",
           "motivos": [
@@ -801,7 +695,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-12T11:44:53.076Z"
+      "datosDe": "2026-10-13T02:29:45.549Z"
     },
     {
       "id": "2757",
@@ -814,9 +708,9 @@
       "timestamp": 1792099800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/2757",
-      "totalLotes": 181,
+      "totalLotes": 182,
       "vinilos": [],
-      "datosDe": "2026-10-12T11:44:53.076Z"
+      "datosDe": "2026-10-13T02:29:45.549Z"
     },
     {
       "id": "8149",
@@ -829,7 +723,7 @@
       "timestamp": 1792106100,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8149",
-      "totalLotes": 121,
+      "totalLotes": 131,
       "vinilos": [
         {
           "id": 1171321,
@@ -850,7 +744,22 @@
           ]
         }
       ],
-      "datosDe": "2026-10-12T11:44:53.076Z"
+      "datosDe": "2026-10-13T02:29:45.549Z"
+    },
+    {
+      "id": "8176",
+      "nombre": "✅ Remate de herramientas antiguas y coleccionables - estamos subiendo lotes!!",
+      "empresa": "Valentina Rodríguez",
+      "departamento": "Montevideo",
+      "lugar": "Av. Dámaso Antonio Larrañaga 3452, Montevideo",
+      "fecha": "16/10/2026, 15:00",
+      "fechaISO": "2026-10-16T18:00:00.000Z",
+      "timestamp": 1792173600,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8176",
+      "totalLotes": 150,
+      "vinilos": [],
+      "datosDe": "2026-10-13T02:29:45.549Z"
     },
     {
       "id": "7944",
@@ -865,7 +774,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7944",
       "totalLotes": 18,
       "vinilos": [],
-      "datosDe": "2026-10-12T11:44:53.076Z"
+      "datosDe": "2026-10-13T02:29:45.549Z"
     },
     {
       "id": "8135",
@@ -878,9 +787,9 @@
       "timestamp": 1792188000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8135",
-      "totalLotes": 142,
+      "totalLotes": 139,
       "vinilos": [],
-      "datosDe": "2026-10-12T11:44:53.076Z"
+      "datosDe": "2026-10-13T02:29:45.549Z"
     },
     {
       "id": "8101",
@@ -895,7 +804,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8101",
       "totalLotes": 38,
       "vinilos": [],
-      "datosDe": "2026-10-12T11:44:53.076Z"
+      "datosDe": "2026-10-13T02:29:45.549Z"
     },
     {
       "id": "7955",
@@ -910,7 +819,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7955",
       "totalLotes": 132,
       "vinilos": [],
-      "datosDe": "2026-10-12T11:44:53.076Z"
+      "datosDe": "2026-10-13T02:29:45.549Z"
     },
     {
       "id": "8004",
@@ -925,7 +834,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8004",
       "totalLotes": 62,
       "vinilos": [],
-      "datosDe": "2026-10-12T11:44:53.076Z"
+      "datosDe": "2026-10-13T02:29:45.549Z"
     },
     {
       "id": "8150",
@@ -940,7 +849,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8150",
       "totalLotes": 31,
       "vinilos": [],
-      "datosDe": "2026-10-12T11:44:53.076Z"
+      "datosDe": "2026-10-13T02:29:45.549Z"
     },
     {
       "id": "8100",
@@ -953,7 +862,7 @@
       "timestamp": 1792332000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8100",
-      "totalLotes": 199,
+      "totalLotes": 200,
       "vinilos": [
         {
           "id": 1165677,
@@ -992,7 +901,877 @@
           ]
         }
       ],
-      "datosDe": "2026-10-12T11:44:53.076Z"
+      "datosDe": "2026-10-13T02:29:45.549Z"
+    },
+    {
+      "id": "8183",
+      "nombre": "ATENCION NUMISMATICA URUGUAYA, LIBRO DE MONEDAS URUGAYA, JOYAS, ANILLO DE MAESTRO, BALAS DE CANON CHICO, BALAS DE PLOMO, BOLEADORAS ETC !!! CANTIDAD DE DISCOS DE VINILO PASA DISCO !!! LINDO REMATE DE COLECCION NO SE LO PIERDA ESTE LUNES 19 A LAS 19 HORAS EN COLONIA ON NUMERO 223",
+      "empresa": "Gardiol y otros",
+      "departamento": "Colonia",
+      "lugar": "Colonia, Colonia",
+      "fecha": "19/10/2026, 19:00",
+      "fechaISO": "2026-10-19T22:00:00.000Z",
+      "timestamp": 1792447200,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8183",
+      "totalLotes": 85,
+      "vinilos": [
+        {
+          "id": 1176707,
+          "lote": "40",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176707/a9d715f655ad9a60a4a7b72f2a9584d5.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=40",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176708,
+          "lote": "41",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176708/a489d8e24b7b9f6f2bff08a6a52c07c9.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=41",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176709,
+          "lote": "42",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176709/51299a4b556e4e0181b114b2362ccee2.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=42",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176710,
+          "lote": "43",
+          "titulo": "DISCO DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176710/455e853dff12d4f2cba28a9ef36371b0.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=43",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176711,
+          "lote": "44",
+          "titulo": "DISCO DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176711/94c68a9d9d5039f71f6c92bac426918b.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=44",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176712,
+          "lote": "45",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176712/bdab820785f63e5b4e2e629ef652798a.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=45",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176713,
+          "lote": "46",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176713/3cf92ab6828c7a3a484fab2b7bd430e8.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=46",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176714,
+          "lote": "47",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176714/2c2aeb0d55b23ebb5e79d366482be9a4.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=47",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176715,
+          "lote": "48",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176715/3f6c5f757384e47d22fc072603c4243e.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=48",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176716,
+          "lote": "49",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176716/18b4f47fe01aa336db65ec7ed726dde7.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=49",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176717,
+          "lote": "50",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176717/4de4779c70f81328b2ac647025899399.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=50",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176718,
+          "lote": "51",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176718/fbd7efe5ad55d97f74846818d86dca85.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=51",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176719,
+          "lote": "52",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176719/e0c5675adee092b1a60447bdf64155b1.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=52",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176720,
+          "lote": "53",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176720/38adcfc7bb4f13050b1dce42476599ba.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=53",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176721,
+          "lote": "54",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176721/c7419e377feee9e133c64b27f8080c1f.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=54",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176722,
+          "lote": "55",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176722/ee7cdb45c6a2ffb3416ac4ecb421ff74.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=55",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176723,
+          "lote": "56",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176723/3f2c9d9f2a88ea35c869dc5bcb112b5a.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=56",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176724,
+          "lote": "57",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176724/32d7d5d44619e6cc53777ffc63cfa8ff.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=57",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176725,
+          "lote": "58",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176725/4e05d3d3ac7bb99ecbc57ff82768a428.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=58",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176726,
+          "lote": "59",
+          "titulo": "DISCO DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176726/32011645489d9b671cda8e7edd9e15f3.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=59",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176727,
+          "lote": "60",
+          "titulo": "DISCO DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176727/91be627f5c16f96a998c2c0c3b1554d2.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=60",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176728,
+          "lote": "61",
+          "titulo": "DISCO DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176728/36d6d21910321483c7db153eb9077784.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=61",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176729,
+          "lote": "62",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176729/4ffe520732a59748ff68339114d14e30.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=62",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176730,
+          "lote": "63",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176730/4a05d7e15c09c49ff606f0a602777b87.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=63",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176731,
+          "lote": "64",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176731/f58e7df6185e1cc192b670ea9c138c25.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=64",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176732,
+          "lote": "65",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176732/de1267a16de8d22678f3ba837cecb3bf.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=65",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176733,
+          "lote": "66",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176733/d4757487614a2cb916388267e0cce989.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=66",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176735,
+          "lote": "68",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176735/2ae4aebd95f9bd15cbb6b6d44c348491.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=68",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176736,
+          "lote": "69",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176736/6e0a665c3f87295a7ff7d2298d222586.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=69",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176737,
+          "lote": "70",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176737/2c457acb4e8612460801bff4178f3169.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=70",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176738,
+          "lote": "71",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176738/d5ae0f0afda3d385fea3f5c0aa01505b.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=71",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176739,
+          "lote": "72",
+          "titulo": "DISCO DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176739/e2015a439efbb3a81479ccd63b7a6710.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=72",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176740,
+          "lote": "73",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176740/9701805dc6c5db56430763d9bf55d160.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=73",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176741,
+          "lote": "74",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176741/03aee75dc0134601ed2244e0e8385e14.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=74",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176742,
+          "lote": "75",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176742/07e5404b83770d19b8d80b4920ad73be.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=75",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176743,
+          "lote": "76",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176743/c547de951b7a294d25bcf385fe98359e.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=76",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176744,
+          "lote": "77",
+          "titulo": "DISCO DE VINILO CON LIBRO ETC",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176744/6d55614b626ffadb8937376566957109.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=77",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176745,
+          "lote": "78",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176745/1988d5cd65a84e96a0e79a0be8eb6083.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=78",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176746,
+          "lote": "79",
+          "titulo": "DISCOS DE VINILO CON LOIBRO E ILIUSTRACIONES",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176746/5127e2af0ea70b38f636931a33e9881b.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=79",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176747,
+          "lote": "80",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176747/b19b284062417d731a41df06b7692a07.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=80",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176748,
+          "lote": "81",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176748/57569c36283f54468e9ae823922772e9.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=81",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176749,
+          "lote": "82",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176749/a6461cf8f96077f5841156c16c48c047.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=82",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176750,
+          "lote": "83",
+          "titulo": "DISCOS DE VINILO",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 40,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176750/92657ebbd4f0756d6faaac433ac5b903.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=83",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176751,
+          "lote": "84",
+          "titulo": "DISCOS DE VINILO Y LIBROS DE MUSICA",
+          "descripcion": "USADO",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176751/fe5c278c0d612c379634a85b1145474d.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=84",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1176752,
+          "lote": "85",
+          "titulo": "PASA DISCO",
+          "descripcion": "FUNCIONA ( ESTE LOTE NO TIENE PARLANTES NI POTENCIA )",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176752/9984ef1d11ca64ddf9ac74c26bad630a.JPG",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=85",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        }
+      ],
+      "datosDe": "2026-10-13T02:29:45.549Z"
     },
     {
       "id": "8141",
@@ -1007,7 +1786,41 @@
       "url": "https://www.remotes.com.uy/participar/remate/8141",
       "totalLotes": 112,
       "vinilos": [],
-      "datosDe": "2026-10-12T11:44:53.076Z"
+      "datosDe": "2026-10-13T02:29:45.549Z"
+    },
+    {
+      "id": "8152",
+      "nombre": "LIQUIDACIÓN DE RESIDENCIA POR MUDANZA - MUEBLES - LIBROS - ELECTRODOMÉSTICOS - DECORACIÓN - HERRAMIENTAS - ANTIGÜEDADES Y MÁS!!!",
+      "empresa": "Muniz & Cía",
+      "departamento": "Montevideo",
+      "lugar": "Montevideo, Montevideo",
+      "fecha": "21/10/2026, 19:00",
+      "fechaISO": "2026-10-21T22:00:00.000Z",
+      "timestamp": 1792620000,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8152",
+      "totalLotes": 79,
+      "vinilos": [
+        {
+          "id": 1172053,
+          "lote": "57",
+          "titulo": "Gran Álbum Cronológico del Uruguay",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1172053/1bec83020d8708f8bffc514a6740fcbc.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8152?lote=57",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        }
+      ],
+      "datosDe": "2026-10-13T02:29:45.549Z"
     },
     {
       "id": "8075",
@@ -1022,7 +1835,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8075",
       "totalLotes": 101,
       "vinilos": [],
-      "datosDe": "2026-10-12T11:44:53.076Z"
+      "datosDe": "2026-10-13T02:29:45.549Z"
     },
     {
       "id": "8093",
@@ -1056,7 +1869,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-12T11:44:53.076Z"
+      "datosDe": "2026-10-13T02:29:45.549Z"
     },
     {
       "id": "8029",
@@ -1071,7 +1884,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8029",
       "totalLotes": 76,
       "vinilos": [],
-      "datosDe": "2026-10-12T11:44:53.076Z"
+      "datosDe": "2026-10-13T02:29:45.549Z"
     },
     {
       "id": "8171",
@@ -1086,7 +1899,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8171",
       "totalLotes": 99,
       "vinilos": [],
-      "datosDe": "2026-10-12T11:44:53.076Z"
+      "datosDe": "2026-10-13T02:29:45.549Z"
     },
     {
       "id": "6923",
@@ -1101,7 +1914,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/6923",
       "totalLotes": 326,
       "vinilos": [],
-      "datosDe": "2026-10-12T11:44:53.076Z"
+      "datosDe": "2026-10-13T02:29:45.549Z"
     },
     {
       "id": "8128",
@@ -1116,7 +1929,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8128",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-10-12T11:44:53.076Z"
+      "datosDe": "2026-10-13T02:29:45.549Z"
     }
   ]
 }
