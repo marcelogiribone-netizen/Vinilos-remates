@@ -1,52 +1,7 @@
 {
-  "generado": "2026-10-16T08:50:32.203Z",
+  "generado": "2026-10-16T23:24:39.448Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "8176",
-      "nombre": "✅ Remate de bastones, herramientas antiguas y coleccionables - Destacándose Cuchillos, martillos, compases, niveles, coleccionables de bicicleta, Ford, planchas, carteles y más!!!",
-      "empresa": "Valentina Rodríguez",
-      "departamento": "Montevideo",
-      "lugar": "Av. Dámaso Antonio Larrañaga 3452, Montevideo",
-      "fecha": "16/10/2026, 15:00",
-      "fechaISO": "2026-10-16T18:00:00.000Z",
-      "timestamp": 1792173600,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8176",
-      "totalLotes": 82,
-      "vinilos": [],
-      "datosDe": "2026-10-16T08:50:32.203Z"
-    },
-    {
-      "id": "8136",
-      "nombre": "REMATAZO!!! Remates Nenhof, antigüedades, coleccionismo, bazar, adornos y más.",
-      "empresa": "Nenhof",
-      "departamento": "Montevideo",
-      "lugar": "Gregorio Suárez 2772, Montevideo",
-      "fecha": "16/10/2026, 17:30",
-      "fechaISO": "2026-10-16T20:30:00.000Z",
-      "timestamp": 1792182600,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8136",
-      "totalLotes": 305,
-      "vinilos": [],
-      "datosDe": "2026-10-16T08:50:32.203Z"
-    },
-    {
-      "id": "8135",
-      "nombre": "SUCESION CASA DE FAMILIA ANTIGUEDADES ADORNOS MUEBLES Y MAS A VENDER!!!!!",
-      "empresa": "Rey Antigüedades & Subastas",
-      "departamento": "Montevideo",
-      "lugar": "Maldonado 1083 esq Paraguay, Montevideo",
-      "fecha": "16/10/2026, 19:00",
-      "fechaISO": "2026-10-16T22:00:00.000Z",
-      "timestamp": 1792188000,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8135",
-      "totalLotes": 139,
-      "vinilos": [],
-      "datosDe": "2026-10-16T08:50:32.203Z"
-    },
     {
       "id": "7955",
       "nombre": "SABADO 15:30hs Sin Base Y Al Mejor Postor: SEGUNDA PARTE RESTOPUB EL PEREGRINO Objetos Coleccionables Como Carteles Y Otros Algo De Bajilla Para Boliche Equipo De Sonidos Con Mezcladora Para Eventos Accesorios Para Micrófonos GRAN CANDIDAD DE OBJETOS NAUTICOS Muchos Cabos Y Redes De Barco Cadenas Aparejos Trasmallos Anclas Tanques De Buceo Bollas Estanterías Con Muchos Tablones De Pino Brasil – Chinchorro o Bote inflable 'Hydro-Force' Con Remos De Aluminio, ¡¡Hay Muchos Mas Se Seguirán Agregando Lotes!! ¡Imperdible!",
@@ -58,9 +13,9 @@
       "timestamp": 1792261800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7955",
-      "totalLotes": 174,
+      "totalLotes": 176,
       "vinilos": [],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "6862",
@@ -75,7 +30,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/6862",
       "totalLotes": 85,
       "vinilos": [],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "8004",
@@ -90,7 +45,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8004",
       "totalLotes": 62,
       "vinilos": [],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "8150",
@@ -105,11 +60,11 @@
       "url": "https://www.remotes.com.uy/participar/remate/8150",
       "totalLotes": 31,
       "vinilos": [],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "8100",
-      "nombre": "INTERESANTE REMATE CON ART. DE SUCESIÓN, ANTIGÜEDADES VARIAS, BAZAR, COLECCIÓN DE LAPICERAS DE JUEGOS OLÍMPICOS, RELOJES DE LA FEDERACIÓN INTERNACIONAL DE NATACIÓN, MOBILIARIO ANTIGUO DE MADERA DURA Y MÁS!!!! MUY INTERESANTE, NO DEJES DE REVISARLO, PODÉS PREOFERTAR PARA RESERVAR TU LOTE, YA ESTÁ TODO SUBIDO!!! EXHIBICIÓN POR AGENDA, IG @REMATADORPERUJO",
+      "nombre": "INTERESANTE REMATE CON ART. DE SUCESIÓN, ANTIGÜEDADES VARIAS, BAZAR, COLECCIÓN DE LAPICERAS DE JUEGOS OLÍMPICOS, RELOJES DE LA FEDERACIÓN INTERNACIONAL DE NATACIÓN, MOBILIARIO ANTIGUO DE MADERA DURA Y MÁS!!!! MUY INTERESANTE, NO DEJES DE REVISARLO, PODÉS PREOFERTAR PARA RESERVAR TU LOTE, YA ESTÁ TODO SUBIDO!!! AGREGAMOS TORNO REVOLVER!!! EXHIBICIÓN POR AGENDA, IG @REMATADORPERUJO",
       "empresa": "Jorge Perujo",
       "departamento": "Montevideo",
       "lugar": "Lima 1368/1370, Montevideo",
@@ -118,7 +73,7 @@
       "timestamp": 1792332000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8100",
-      "totalLotes": 200,
+      "totalLotes": 201,
       "vinilos": [
         {
           "id": 1165677,
@@ -157,7 +112,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "8116",
@@ -172,7 +127,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8116",
       "totalLotes": 190,
       "vinilos": [],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "8154",
@@ -758,11 +713,11 @@
           ]
         }
       ],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "8193",
-      "nombre": "Gran Subasta en Carrasco con Orden de Vender!!!.. Mueble de Roble - Electrodomesticos - Antiguedades - Adornos - Artículos Varios .... SEGUIMOS SUBIENDO LOTES - PODES IR DEJANDO TUS PRE-OFERTAS!!!!!",
+      "nombre": "Gran Subasta en Carrasco con Orden de Vender!!!..Camaras y Filmadoras Casi un Siglo de Antigüedad -Mueble de Roble - Electrodomesticos - Antiguedades - Adornos - Artículos Varios .... SEGUIMOS SUBIENDO LOTES - PODES IR DEJANDO TUS PRE-OFERTAS!!!!!",
       "empresa": "Eduardo Díaz Bazán",
       "departamento": "Montevideo",
       "lugar": "Uspallata 1515 entre Caramurú y Avda. Gral. Rivera, Montevideo",
@@ -771,7 +726,7 @@
       "timestamp": 1792443600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8193",
-      "totalLotes": 204,
+      "totalLotes": 274,
       "vinilos": [
         {
           "id": 1178781,
@@ -784,7 +739,7 @@
           "anio": null,
           "moneda": "$",
           "base": 1500,
-          "oferta": null,
+          "oferta": 1500,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1178781/2ca0fccfc43f845e4db304944725a11d.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8193?lote=116",
           "motivos": [
@@ -820,15 +775,33 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 350,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1178869/4fea3428cbc7b622e5ae051c37232d59.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8193?lote=203",
           "motivos": [
             "dice \"disco\""
           ]
+        },
+        {
+          "id": 1182132,
+          "lote": "280",
+          "titulo": "Antiguo Telefon de Disco Alpha República Democrática Alemana",
+          "descripcion": null,
+          "artista": "Disco Alpha República Democrática",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": 200,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1182132/ba927efc56fffbe05f5f5c412384b659.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8193?lote=280",
+          "motivos": [
+            "dice \"disco\""
+          ]
         }
       ],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "8183",
@@ -1044,7 +1017,7 @@
           "anio": null,
           "moneda": "$",
           "base": 40,
-          "oferta": null,
+          "oferta": 40,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176717/4de4779c70f81328b2ac647025899399.JPG",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=50",
           "motivos": [
@@ -1595,7 +1568,7 @@
           "anio": null,
           "moneda": "$",
           "base": 40,
-          "oferta": 60,
+          "oferta": 100,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1176747/b19b284062417d731a41df06b7692a07.JPG",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8183?lote=80",
           "motivos": [
@@ -1698,7 +1671,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "8126",
@@ -1713,7 +1686,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8126",
       "totalLotes": 62,
       "vinilos": [],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "8141",
@@ -1728,7 +1701,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8141",
       "totalLotes": 116,
       "vinilos": [],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "8185",
@@ -1743,7 +1716,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8185",
       "totalLotes": 57,
       "vinilos": [],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "7928",
@@ -1758,7 +1731,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7928",
       "totalLotes": 1,
       "vinilos": [],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "8152",
@@ -1792,7 +1765,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "8075",
@@ -1807,7 +1780,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8075",
       "totalLotes": 101,
       "vinilos": [],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "8101",
@@ -1822,7 +1795,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8101",
       "totalLotes": 38,
       "vinilos": [],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "7944",
@@ -1837,7 +1810,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7944",
       "totalLotes": 18,
       "vinilos": [],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "8093",
@@ -1871,7 +1844,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "8212",
@@ -1886,7 +1859,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8212",
       "totalLotes": 33,
       "vinilos": [],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "8029",
@@ -1901,7 +1874,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8029",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "8171",
@@ -1916,7 +1889,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8171",
       "totalLotes": 99,
       "vinilos": [],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "6923",
@@ -1931,7 +1904,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/6923",
       "totalLotes": 326,
       "vinilos": [],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "8102",
@@ -1983,7 +1956,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "8083",
@@ -1998,7 +1971,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8083",
       "totalLotes": 206,
       "vinilos": [],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     },
     {
       "id": "8128",
@@ -2013,7 +1986,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8128",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-10-16T08:50:32.203Z"
+      "datosDe": "2026-10-16T23:24:39.448Z"
     }
   ]
 }
