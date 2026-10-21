@@ -1,72 +1,7 @@
 {
-  "generado": "2026-10-21T09:12:29.346Z",
+  "generado": "2026-10-21T23:57:17.795Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "7928",
-      "nombre": "UN REMATE LLENO DE TESOROS!",
-      "empresa": "Maria Laura Islas",
-      "departamento": "Montevideo",
-      "lugar": "José Fernández Medina 5144, Montevideo",
-      "fecha": "21/10/2026, 16:00",
-      "fechaISO": "2026-10-21T19:00:00.000Z",
-      "timestamp": 1792609200,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7928",
-      "totalLotes": 268,
-      "vinilos": [],
-      "datosDe": "2026-10-21T09:12:29.346Z"
-    },
-    {
-      "id": "8152",
-      "nombre": "LIQUIDACIÓN DE RESIDENCIA POR MUDANZA - MUEBLES - LIBROS - ELECTRODOMÉSTICOS - DECORACIÓN - HERRAMIENTAS - ANTIGÜEDADES Y MÁS!!!",
-      "empresa": "Muniz & Cía",
-      "departamento": "Montevideo",
-      "lugar": "Montevideo, Montevideo",
-      "fecha": "21/10/2026, 19:00",
-      "fechaISO": "2026-10-21T22:00:00.000Z",
-      "timestamp": 1792620000,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8152",
-      "totalLotes": 81,
-      "vinilos": [
-        {
-          "id": 1172053,
-          "lote": "57",
-          "titulo": "Gran Álbum Cronológico del Uruguay",
-          "descripcion": "El libro histórico (Uruguay, 1938):\r\n\r\nEn la historia y bibliografía del Río de la Plata, el Gran álbum gráfico cronológico es una célebre publicación documental coordinada por Víctor A. Pastorino y fotografiada por Alberto E. Rodríguez.\r\n• Temática: Fue editado originalmente en Montevideo para conmemorar el III Congreso Eucarístico Nacional de la República Oriental del Uruguay, celebrado en noviembre de 1938.\r\n• Objetivo histórico: El volumen recopilaba de forma lineal y con profusas ilustraciones el despliegue de la Iglesia Católica frente a una sociedad uruguaya en pleno proceso de laicización, retratando la arquitectura y la enorme participación popular de la época.",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": "1938",
-          "moneda": "$",
-          "base": 300,
-          "oferta": 350,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1172053/1bec83020d8708f8bffc514a6740fcbc.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8152?lote=57",
-          "motivos": [
-            "dice \"álbum\"",
-            "año 1938"
-          ]
-        }
-      ],
-      "datosDe": "2026-10-21T09:12:29.346Z"
-    },
-    {
-      "id": "8075",
-      "nombre": "ESPECTACULAR LIQUIDACIÓN DE ANTIGÜEDADES Y COLECCIONABLES‼️",
-      "empresa": "Emilio Baptista Martínez",
-      "departamento": "Montevideo",
-      "lugar": "Domingo Aramburu 1647, Montevideo",
-      "fecha": "21/10/2026, 20:30",
-      "fechaISO": "2026-10-21T23:30:00.000Z",
-      "timestamp": 1792625400,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8075",
-      "totalLotes": 103,
-      "vinilos": [],
-      "datosDe": "2026-10-21T09:12:29.346Z"
-    },
     {
       "id": "8093",
       "nombre": "⭐️BUELA REMATA⭐️ 🚩🚩🚩NUEVO REMATE MULTIRUBRO🚩🚩🚩 ✔MERCADERÍA NUEVA ✔ENVIOS A TODO EL PAIS ✔EMBALAJE SIN COSTO",
@@ -99,7 +34,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-21T09:12:29.346Z"
+      "datosDe": "2026-10-21T23:57:17.795Z"
     },
     {
       "id": "8244",
@@ -114,7 +49,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8244",
       "totalLotes": 96,
       "vinilos": [],
-      "datosDe": "2026-10-21T09:12:29.346Z"
+      "datosDe": "2026-10-21T23:57:17.795Z"
     },
     {
       "id": "8101",
@@ -129,7 +64,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8101",
       "totalLotes": 44,
       "vinilos": [],
-      "datosDe": "2026-10-21T09:12:29.346Z"
+      "datosDe": "2026-10-21T23:57:17.795Z"
     },
     {
       "id": "8212",
@@ -144,7 +79,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8212",
       "totalLotes": 33,
       "vinilos": [],
-      "datosDe": "2026-10-21T09:12:29.346Z"
+      "datosDe": "2026-10-21T23:57:17.795Z"
     },
     {
       "id": "8029",
@@ -159,7 +94,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8029",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-10-21T09:12:29.346Z"
+      "datosDe": "2026-10-21T23:57:17.795Z"
     },
     {
       "id": "8091",
@@ -174,22 +109,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8091",
       "totalLotes": 315,
       "vinilos": [],
-      "datosDe": "2026-10-21T09:12:29.346Z"
-    },
-    {
-      "id": "8171",
-      "nombre": "REMATE EN CASA DE FAMILIA - LIQUIDACION POR MUDANZA. REMATE UNICAMENTE PRESENCIAL - Sábado 24 de OCTUBRE hora 15.00 - URUGUAY 1788 de SALTO. EXHIBICION: JUEVES y VIERNES DE 9.30 A 12 Y 16.30 A 18.30. MUEBLES DE ESTILO, ARTICULOS EN BRONCE, CRISTALERIA, ARTICULOS DE COCINA, CALEFACTORES, VENTILADOR, CAMA, MESA DE CALIDAD EN PETIRIBI, MUSICA Y PELICULAS CD, DVD, Y MAS. EXHIBICION VIRTUAL POR REMOTES. CONSULTAS AL 099050803.",
-      "empresa": "Mariana Thevenet Kobak",
-      "departamento": "SALTO",
-      "lugar": "URUGUAY 1788 -SALTO, SALTO",
-      "fecha": "24/10/2026, 15:00",
-      "fechaISO": "2026-10-24T18:00:00.000Z",
-      "timestamp": 1792864800,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8171",
-      "totalLotes": 98,
-      "vinilos": [],
-      "datosDe": "2026-10-21T09:12:29.346Z"
+      "datosDe": "2026-10-21T23:57:17.795Z"
     },
     {
       "id": "8234",
@@ -204,7 +124,22 @@
       "url": "https://www.remotes.com.uy/participar/remate/8234",
       "totalLotes": 142,
       "vinilos": [],
-      "datosDe": "2026-10-21T09:12:29.346Z"
+      "datosDe": "2026-10-21T23:57:17.795Z"
+    },
+    {
+      "id": "8171",
+      "nombre": "REMATE EN CASA DE FAMILIA - LIQUIDACION POR MUDANZA. REMATE UNICAMENTE PRESENCIAL - Sábado 24 de OCTUBRE hora 15.00 - URUGUAY 1788 de SALTO. EXHIBICION: JUEVES y VIERNES DE 9.30 A 12 Y 16.30 A 18.30. MUEBLES DE ESTILO, ARTICULOS EN BRONCE, CRISTALERIA, ARTICULOS DE COCINA, CALEFACTORES, VENTILADOR, CAMA, MESA DE CALIDAD EN PETIRIBI, MUSICA Y PELICULAS CD, DVD, Y MAS. EXHIBICION VIRTUAL POR REMOTES. CONSULTAS AL 099050803.",
+      "empresa": "Mariana Thevenet Kobak",
+      "departamento": "SALTO",
+      "lugar": "URUGUAY 1788 -SALTO, SALTO",
+      "fecha": "24/10/2026, 15:00",
+      "fechaISO": "2026-10-24T18:00:00.000Z",
+      "timestamp": 1792864800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8171",
+      "totalLotes": 105,
+      "vinilos": [],
+      "datosDe": "2026-10-21T23:57:17.795Z"
     },
     {
       "id": "6923",
@@ -219,7 +154,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/6923",
       "totalLotes": 326,
       "vinilos": [],
-      "datosDe": "2026-10-21T09:12:29.346Z"
+      "datosDe": "2026-10-21T23:57:17.795Z"
     },
     {
       "id": "8150",
@@ -234,7 +169,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8150",
       "totalLotes": 31,
       "vinilos": [],
-      "datosDe": "2026-10-21T09:12:29.346Z"
+      "datosDe": "2026-10-21T23:57:17.795Z"
     },
     {
       "id": "8169",
@@ -247,9 +182,111 @@
       "timestamp": 1792962000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8169",
-      "totalLotes": 580,
+      "totalLotes": 582,
       "vinilos": [],
-      "datosDe": "2026-10-21T09:12:29.346Z"
+      "datosDe": "2026-10-21T23:57:17.795Z"
+    },
+    {
+      "id": "8249",
+      "nombre": "Gran Remate de Campo con Coleccionables, mapas Nacionales, plateria criolla, cuchillería, cueros para tapicería, pintura Nacional, Maria Freire entre otros, mobiliario de Roble, 20 monedas plata Gaucho y mucho más! Más de 200 lotes! IMPERDIBLE!!!",
+      "empresa": "ElEjido",
+      "departamento": "MONTEVIDEO",
+      "lugar": "EJIDO 932, MONTEVIDEO",
+      "fecha": "25/10/2026, 19:00",
+      "fechaISO": "2026-10-25T22:00:00.000Z",
+      "timestamp": 1792965600,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8249",
+      "totalLotes": 237,
+      "vinilos": [
+        {
+          "id": 1186566,
+          "lote": "12",
+          "titulo": "Archivador de discos",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 1200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1186566/df702cb1406281d39d4c1bb2423e3c6b.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8249?lote=12",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1186570,
+          "lote": "16",
+          "titulo": "Victrola ortofónica modelo VV 8-35 original de finales de la década de 1920",
+          "descripcion": "Va sin los álbumes de discos.",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 2000,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1186570/bf2754e7c1c67e12508b2b24a2159a96.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8249?lote=16",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        }
+      ],
+      "datosDe": "2026-10-21T23:57:17.795Z"
+    },
+    {
+      "id": "8246",
+      "nombre": "✅ Remate de Coleccionables - Vintage - Antigüedades y Libros.",
+      "empresa": "Valentina Rodríguez",
+      "departamento": "Montevideo",
+      "lugar": "Av. Dámaso Antonio Larrañaga 3452, Montevideo",
+      "fecha": "29/10/2026, 15:00",
+      "fechaISO": "2026-10-29T18:00:00.000Z",
+      "timestamp": 1793296800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8246",
+      "totalLotes": 173,
+      "vinilos": [
+        {
+          "id": 1185972,
+          "lote": "150",
+          "titulo": "150) Libro De Nuestra Historia Reciente en Imágenes  1957 - 1973 Recopilación Fotografíca 322 Páginas",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1957",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1185972/204c81758f625481b5269b218321ca56.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8246?lote=150",
+          "motivos": [
+            "formato \"Artista - Título\" + contexto musical",
+            "año 1957"
+          ]
+        }
+      ],
+      "datosDe": "2026-10-21T23:57:17.795Z"
+    },
+    {
+      "id": "8256",
+      "nombre": "✅ Hermoso remate de antiguedades y coleccionables, destacamos botellas, cocina, aluminio, adornos, coca-cola, whisky,  medidas, militaria, tallas y cuadros de madera y mucho más!! Imposible que dejes pasar la oportunidad",
+      "empresa": "Valentina Rodríguez",
+      "departamento": "Montevideo",
+      "lugar": "Av. Dámaso Antonio Larrañaga 3452, Montevideo",
+      "fecha": "30/10/2026, 15:00",
+      "fechaISO": "2026-10-30T18:00:00.000Z",
+      "timestamp": 1793383200,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8256",
+      "totalLotes": 177,
+      "vinilos": [],
+      "datosDe": "2026-10-21T23:57:17.795Z"
     },
     {
       "id": "8102",
@@ -301,7 +338,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-21T09:12:29.346Z"
+      "datosDe": "2026-10-21T23:57:17.795Z"
     },
     {
       "id": "8083",
@@ -316,7 +353,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8083",
       "totalLotes": 238,
       "vinilos": [],
-      "datosDe": "2026-10-21T09:12:29.346Z"
+      "datosDe": "2026-10-21T23:57:17.795Z"
     },
     {
       "id": "8128",
@@ -331,7 +368,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8128",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-10-21T09:12:29.346Z"
+      "datosDe": "2026-10-21T23:57:17.795Z"
     }
   ]
 }
