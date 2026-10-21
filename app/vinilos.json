@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-20T23:44:38.738Z",
+  "generado": "2026-10-21T09:12:29.346Z",
   "fallos": 0,
   "remates": [
     {
@@ -15,7 +15,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7928",
       "totalLotes": 268,
       "vinilos": [],
-      "datosDe": "2026-10-20T23:44:38.738Z"
+      "datosDe": "2026-10-21T09:12:29.346Z"
     },
     {
       "id": "8152",
@@ -28,28 +28,29 @@
       "timestamp": 1792620000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8152",
-      "totalLotes": 79,
+      "totalLotes": 81,
       "vinilos": [
         {
           "id": 1172053,
           "lote": "57",
           "titulo": "Gran Álbum Cronológico del Uruguay",
-          "descripcion": null,
+          "descripcion": "El libro histórico (Uruguay, 1938):\r\n\r\nEn la historia y bibliografía del Río de la Plata, el Gran álbum gráfico cronológico es una célebre publicación documental coordinada por Víctor A. Pastorino y fotografiada por Alberto E. Rodríguez.\r\n• Temática: Fue editado originalmente en Montevideo para conmemorar el III Congreso Eucarístico Nacional de la República Oriental del Uruguay, celebrado en noviembre de 1938.\r\n• Objetivo histórico: El volumen recopilaba de forma lineal y con profusas ilustraciones el despliegue de la Iglesia Católica frente a una sociedad uruguaya en pleno proceso de laicización, retratando la arquitectura y la enorme participación popular de la época.",
           "artista": null,
           "album": null,
           "sello": null,
-          "anio": null,
+          "anio": "1938",
           "moneda": "$",
           "base": 300,
           "oferta": 350,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1172053/1bec83020d8708f8bffc514a6740fcbc.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8152?lote=57",
           "motivos": [
-            "dice \"álbum\""
+            "dice \"álbum\"",
+            "año 1938"
           ]
         }
       ],
-      "datosDe": "2026-10-20T23:44:38.738Z"
+      "datosDe": "2026-10-21T09:12:29.346Z"
     },
     {
       "id": "8075",
@@ -64,7 +65,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8075",
       "totalLotes": 103,
       "vinilos": [],
-      "datosDe": "2026-10-20T23:44:38.738Z"
+      "datosDe": "2026-10-21T09:12:29.346Z"
     },
     {
       "id": "8093",
@@ -98,7 +99,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-20T23:44:38.738Z"
+      "datosDe": "2026-10-21T09:12:29.346Z"
     },
     {
       "id": "8244",
@@ -113,7 +114,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8244",
       "totalLotes": 96,
       "vinilos": [],
-      "datosDe": "2026-10-20T23:44:38.738Z"
+      "datosDe": "2026-10-21T09:12:29.346Z"
     },
     {
       "id": "8101",
@@ -128,7 +129,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8101",
       "totalLotes": 44,
       "vinilos": [],
-      "datosDe": "2026-10-20T23:44:38.738Z"
+      "datosDe": "2026-10-21T09:12:29.346Z"
     },
     {
       "id": "8212",
@@ -143,7 +144,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8212",
       "totalLotes": 33,
       "vinilos": [],
-      "datosDe": "2026-10-20T23:44:38.738Z"
+      "datosDe": "2026-10-21T09:12:29.346Z"
     },
     {
       "id": "8029",
@@ -158,7 +159,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8029",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-10-20T23:44:38.738Z"
+      "datosDe": "2026-10-21T09:12:29.346Z"
     },
     {
       "id": "8091",
@@ -173,7 +174,22 @@
       "url": "https://www.remotes.com.uy/participar/remate/8091",
       "totalLotes": 315,
       "vinilos": [],
-      "datosDe": "2026-10-20T23:44:38.738Z"
+      "datosDe": "2026-10-21T09:12:29.346Z"
+    },
+    {
+      "id": "8171",
+      "nombre": "REMATE EN CASA DE FAMILIA - LIQUIDACION POR MUDANZA. REMATE UNICAMENTE PRESENCIAL - Sábado 24 de OCTUBRE hora 15.00 - URUGUAY 1788 de SALTO. EXHIBICION: JUEVES y VIERNES DE 9.30 A 12 Y 16.30 A 18.30. MUEBLES DE ESTILO, ARTICULOS EN BRONCE, CRISTALERIA, ARTICULOS DE COCINA, CALEFACTORES, VENTILADOR, CAMA, MESA DE CALIDAD EN PETIRIBI, MUSICA Y PELICULAS CD, DVD, Y MAS. EXHIBICION VIRTUAL POR REMOTES. CONSULTAS AL 099050803.",
+      "empresa": "Mariana Thevenet Kobak",
+      "departamento": "SALTO",
+      "lugar": "URUGUAY 1788 -SALTO, SALTO",
+      "fecha": "24/10/2026, 15:00",
+      "fechaISO": "2026-10-24T18:00:00.000Z",
+      "timestamp": 1792864800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8171",
+      "totalLotes": 98,
+      "vinilos": [],
+      "datosDe": "2026-10-21T09:12:29.346Z"
     },
     {
       "id": "8234",
@@ -188,22 +204,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8234",
       "totalLotes": 142,
       "vinilos": [],
-      "datosDe": "2026-10-20T23:44:38.738Z"
-    },
-    {
-      "id": "8171",
-      "nombre": "REMATE EN CASA DE FAMILIA - LIQUIDACION POR MUDANZA. REMATE UNICAMENTE PRESENCIAL - Sábado 24 de OCTUBRE hora 15.00 - URUGUAY 1788 de SALTO. EXHIBICION: JUEVES y VIERNES DE 9.30 A 12 Y 16.30 A 18.30. MUEBLES DE ESTILO, ARTICULOS EN BRONCE, CRISTALERIA, ARTICULOS DE COCINA, CALEFACTORES, VENTILADOR, CAMA, MESA DE CALIDAD EN PETIRIBI, MUSICA Y PELICULAS CD, DVD, Y MAS. EXHIBICION VIRTUAL POR REMOTES. CONSULTAS AL 099050803.",
-      "empresa": "Mariana Thevenet Kobak",
-      "departamento": "SALTO",
-      "lugar": "URUGUAY 1788 -SALTO, SALTO",
-      "fecha": "24/10/2026, 15:00",
-      "fechaISO": "2026-10-24T18:00:00.000Z",
-      "timestamp": 1792864800,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8171",
-      "totalLotes": 99,
-      "vinilos": [],
-      "datosDe": "2026-10-20T23:44:38.738Z"
+      "datosDe": "2026-10-21T09:12:29.346Z"
     },
     {
       "id": "6923",
@@ -218,7 +219,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/6923",
       "totalLotes": 326,
       "vinilos": [],
-      "datosDe": "2026-10-20T23:44:38.738Z"
+      "datosDe": "2026-10-21T09:12:29.346Z"
     },
     {
       "id": "8150",
@@ -233,7 +234,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8150",
       "totalLotes": 31,
       "vinilos": [],
-      "datosDe": "2026-10-20T23:44:38.738Z"
+      "datosDe": "2026-10-21T09:12:29.346Z"
     },
     {
       "id": "8169",
@@ -241,14 +242,14 @@
       "empresa": "Escritorio de Remates CV",
       "departamento": "Colonia",
       "lugar": "Leyenda Patria , Colonia",
-      "fecha": "25/10/2026, 18:55",
-      "fechaISO": "2026-10-25T21:55:00.000Z",
-      "timestamp": 1792965300,
+      "fecha": "25/10/2026, 18:00",
+      "fechaISO": "2026-10-25T21:00:00.000Z",
+      "timestamp": 1792962000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8169",
-      "totalLotes": 574,
+      "totalLotes": 580,
       "vinilos": [],
-      "datosDe": "2026-10-20T23:44:38.738Z"
+      "datosDe": "2026-10-21T09:12:29.346Z"
     },
     {
       "id": "8102",
@@ -300,7 +301,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-20T23:44:38.738Z"
+      "datosDe": "2026-10-21T09:12:29.346Z"
     },
     {
       "id": "8083",
@@ -315,7 +316,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8083",
       "totalLotes": 238,
       "vinilos": [],
-      "datosDe": "2026-10-20T23:44:38.738Z"
+      "datosDe": "2026-10-21T09:12:29.346Z"
     },
     {
       "id": "8128",
@@ -330,7 +331,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8128",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-10-20T23:44:38.738Z"
+      "datosDe": "2026-10-21T09:12:29.346Z"
     }
   ]
 }
