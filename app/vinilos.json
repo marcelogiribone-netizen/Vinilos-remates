@@ -1,59 +1,10 @@
 {
-  "generado": "2026-10-22T09:15:24.567Z",
+  "generado": "2026-10-22T23:56:07.780Z",
   "fallos": 0,
   "remates": [
     {
-      "id": "8093",
-      "nombre": "⭐️BUELA REMATA⭐️ 🚩🚩🚩NUEVO REMATE MULTIRUBRO🚩🚩🚩 ✔MERCADERÍA NUEVA ✔ENVIOS A TODO EL PAIS ✔EMBALAJE SIN COSTO",
-      "empresa": "Ana Paula Buela Salato",
-      "departamento": "Montevideo",
-      "lugar": "José Usera 3329, Montevideo",
-      "fecha": "22/10/2026, 19:00",
-      "fechaISO": "2026-10-22T22:00:00.000Z",
-      "timestamp": 1792706400,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8093",
-      "totalLotes": 100,
-      "vinilos": [
-        {
-          "id": 1163739,
-          "lote": "75",
-          "titulo": "Cierra Circular de madera con disco.",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 1800,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1163739/507df4aa0915b024d24e9ea392623e88.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8093?lote=75",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        }
-      ],
-      "datosDe": "2026-10-22T09:15:24.567Z"
-    },
-    {
-      "id": "8244",
-      "nombre": "¡Atención coleccionistas! Llega una subasta imperdible repleta de nostalgia y memorabilia retro. Encontrá piezas icónicas de Coca-Cola, Pepsi, Mirinda y Sprite, con vasos noventeros de Los Simpson, Las Tortugas Ninja, Bugs Bunny y Fido Dido, además de cuadros vintage, latas decorativas, jarras importadas, cubiertos temáticos y mucho más. Con bases accesibles desde $100, es la oportunidad perfecta para sumar tesoros únicos a tu colección. Dejá tu pre-oferta y no te quedes afuera!",
-      "empresa": "Flores Montaña Subastas",
-      "departamento": "SALTO",
-      "lugar": "SALTO, SALTO",
-      "fecha": "22/10/2026, 20:10",
-      "fechaISO": "2026-10-22T23:10:00.000Z",
-      "timestamp": 1792710600,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8244",
-      "totalLotes": 96,
-      "vinilos": [],
-      "datosDe": "2026-10-22T09:15:24.567Z"
-    },
-    {
       "id": "8101",
-      "nombre": "¡Remate de primavera! Lancha Casarino, bote de madera, kayaks de pesca, jaula de camión, baño portátil nuevo, aro de embolsar lana, postes, moto Yumbo gs 125cc, moto SUZUKI años 60, antigüedades, adornos, herramientas y mucho más.",
+      "nombre": "¡Remate de primavera! Lancha Casarino, bote de madera, kayaks de pesca, jaula de camión, baño portátil nuevo, maquina de hacer hielo, aro de embolsar lana, postes, moto Yumbo gs 125cc, moto SUZUKI años 60, antigüedades, adornos, herramientas y mucho más.",
       "empresa": "Agustin Villamil",
       "departamento": "Durazno",
       "lugar": "Centro de Durazno, Durazno",
@@ -62,9 +13,9 @@
       "timestamp": 1792791000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8101",
-      "totalLotes": 44,
+      "totalLotes": 50,
       "vinilos": [],
-      "datosDe": "2026-10-22T09:15:24.567Z"
+      "datosDe": "2026-10-22T23:56:07.780Z"
     },
     {
       "id": "8212",
@@ -79,11 +30,11 @@
       "url": "https://www.remotes.com.uy/participar/remate/8212",
       "totalLotes": 33,
       "vinilos": [],
-      "datosDe": "2026-10-22T09:15:24.567Z"
+      "datosDe": "2026-10-22T23:56:07.780Z"
     },
     {
       "id": "8029",
-      "nombre": "GRAN Remate de PLATOS y PLATILLOS Coleccionables, Vintage y Decó",
+      "nombre": "REPROGRAMADO para el 2i8 de Octubre",
       "empresa": "Mage Remates",
       "departamento": "Montevideo",
       "lugar": "Jaime Roldos y Pons 4541, Montevideo",
@@ -94,7 +45,185 @@
       "url": "https://www.remotes.com.uy/participar/remate/8029",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-10-22T09:15:24.567Z"
+      "datosDe": "2026-10-22T23:56:07.780Z"
+    },
+    {
+      "id": "8227",
+      "nombre": "MULTIRRUBRO seguimos subiendo lotes hasta el viernes!!! TODO PARA ENTRENAR!! barras, mancuernas, discos nuevos, pesas rusas, championes comunes,  PARA CICLISMO. TAMBIEN: MOTOS ELÉCTRICAS TRICARGOS ELECTRODOMÉSTICOS  GARRAFAS DE 13 Y 45 KILOS DE TODO!!!",
+      "empresa": "Import Remates",
+      "departamento": "Montevideo",
+      "lugar": "Angel Salvo 24, Montevideo",
+      "fecha": "24/10/2026, 13:00",
+      "fechaISO": "2026-10-24T16:00:00.000Z",
+      "timestamp": 1792857600,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8227",
+      "totalLotes": 286,
+      "vinilos": [
+        {
+          "id": 1186802,
+          "lote": "49",
+          "titulo": "barra con discos 10 K en total",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 800,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1186802/5d61e1ace62e14c278647dab5cff34d5.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8227?lote=49",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1189684,
+          "lote": "51",
+          "titulo": "Disco Bumper Olímpico 2.5 K x2",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 400,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1189684/7e7b3261666cfc9ba724ee972dae8884.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8227?lote=51",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1189685,
+          "lote": "52",
+          "titulo": "Disco Bumper Olímpico 5 kilos x2",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 600,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1189685/90ad3f6ae3bab4b0591b96fe3ac4b379.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8227?lote=52",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1189687,
+          "lote": "53",
+          "titulo": "Disco Bumper Olímpico 10 kilos x2 unidades",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 800,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1189687/883706f448ee1ac2d2d6c8663384adb2.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8227?lote=53",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1189691,
+          "lote": "54",
+          "titulo": "Disco Bumper Olímpico 15 K x2",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 3500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1189691/36722f2088a8d909b6f3aa1a3f04d0c9.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8227?lote=54",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1190003,
+          "lote": "55A",
+          "titulo": "Disco Bumper Olímpico 20 K",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 1500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1190003/052f0a2a3a5607eca1d8457981d98968.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8227?lote=55A",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1186772,
+          "lote": "107",
+          "titulo": "Bicicleta electrica Modelo X9 Litio",
+          "descripcion": "BICICLETA ELECTRICA URBANA 14 CON MOTOR DE 500W, UNA BATERÍA DE 48V, CUENTA CON UNA AUTONOMÍA APROXIMADA DE 30KM A PURO ACELERADOR Y CON PEDAL ASISTIDO TE PUEDE LLEGAR HASTA 45/50KM, DOBLE FRENOS DE DISCO CON E-ABS Y CON SUSPENSIÓN HIDRÁULICA, SOPORTA HASTA 100KG.",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 22000,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1186772/5ce9457d2543527204cb11de2dd67a30.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8227?lote=107",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1189034,
+          "lote": "107A",
+          "titulo": "Bicicleta electrica Modelo X9 Litio",
+          "descripcion": "BICICLETA ELECTRICA URBANA 14 CON MOTOR DE 500W, UNA BATERÍA DE 48V, CUENTA CON UNA AUTONOMÍA APROXIMADA DE 30KM A PURO ACELERADOR Y CON PEDAL ASISTIDO TE PUEDE LLEGAR HASTA 45/50KM, DOBLE FRENOS DE DISCO CON E-ABS Y CON SUSPENSIÓN HIDRÁULICA, SOPORTA HASTA 100KG.",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 22000,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1189034/5ce9457d2543527204cb11de2dd67a30.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8227?lote=107A",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1186872,
+          "lote": "134",
+          "titulo": "Lote de disco de pulir goma, 4 pegamentos wokin y candado 4k",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 250,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1186872/cabc51b57490f0e0764600ebe1cd578d.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8227?lote=134",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        }
+      ],
+      "datosDe": "2026-10-22T23:56:07.780Z"
     },
     {
       "id": "8091",
@@ -109,7 +238,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8091",
       "totalLotes": 315,
       "vinilos": [],
-      "datosDe": "2026-10-22T09:15:24.567Z"
+      "datosDe": "2026-10-22T23:56:07.780Z"
     },
     {
       "id": "8234",
@@ -124,7 +253,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8234",
       "totalLotes": 142,
       "vinilos": [],
-      "datosDe": "2026-10-22T09:15:24.567Z"
+      "datosDe": "2026-10-22T23:56:07.780Z"
     },
     {
       "id": "8171",
@@ -139,11 +268,11 @@
       "url": "https://www.remotes.com.uy/participar/remate/8171",
       "totalLotes": 105,
       "vinilos": [],
-      "datosDe": "2026-10-22T09:15:24.567Z"
+      "datosDe": "2026-10-22T23:56:07.780Z"
     },
     {
       "id": "6923",
-      "nombre": "SUCESION DE FINA RESIDENCIA EN LA RAMBLA DE MALVIN, +300 LOTES DESTACADOS (MUEBLES, ADORNOS, CUADROS, LIBROS, BIENES SUNTUARIOS Y MUCHO MAS)",
+      "nombre": "SUCESION DE FINA RESIDENCIA EN LA RAMBLA DE MALVIN, +300 LOTES DESTACADOS (MUEBLES, ADORNOS, CUADROS, LIBROS, BIENES SUNTUARIOS Y MUCHO MAS) - retiro domingo 25 y lunes 26 en el inmueble - leer lote 0",
       "empresa": "Rey Antigüedades & Subastas",
       "departamento": "Montevideo",
       "lugar": "Maldonado 1083 esq Paraguay, Montevideo",
@@ -154,22 +283,22 @@
       "url": "https://www.remotes.com.uy/participar/remate/6923",
       "totalLotes": 326,
       "vinilos": [],
-      "datosDe": "2026-10-22T09:15:24.567Z"
+      "datosDe": "2026-10-22T23:56:07.780Z"
     },
     {
-      "id": "8150",
-      "nombre": "Gran Remate!!! Antiguedades. Decoracion. Articulos para el Hogar. Sigo subiendo lotes..... Se envía a todo el país, el envío lo abona al recibir.",
-      "empresa": "Claudia Fabiana Rodríguez Rodríguez",
+      "id": "7892",
+      "nombre": "Remate antigüedades, art. de colección. , autos, cuadros, chapas esmaltadas,  auto de calecita.",
+      "empresa": "Remates Villar",
       "departamento": "Montevideo",
-      "lugar": "Palmar 2154, Montevideo",
-      "fecha": "25/10/2026, 10:00",
-      "fechaISO": "2026-10-25T13:00:00.000Z",
-      "timestamp": 1792933200,
+      "lugar": "magallanes 1418 of. 502, Montevideo",
+      "fecha": "24/10/2026, 18:00",
+      "fechaISO": "2026-10-24T21:00:00.000Z",
+      "timestamp": 1792875600,
       "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8150",
-      "totalLotes": 31,
+      "url": "https://www.remotes.com.uy/participar/remate/7892",
+      "totalLotes": 85,
       "vinilos": [],
-      "datosDe": "2026-10-22T09:15:24.567Z"
+      "datosDe": "2026-10-22T23:56:07.780Z"
     },
     {
       "id": "8169",
@@ -182,9 +311,9 @@
       "timestamp": 1792962000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8169",
-      "totalLotes": 582,
+      "totalLotes": 583,
       "vinilos": [],
-      "datosDe": "2026-10-22T09:15:24.567Z"
+      "datosDe": "2026-10-22T23:56:07.780Z"
     },
     {
       "id": "8249",
@@ -202,7 +331,7 @@
         {
           "id": 1186566,
           "lote": "12",
-          "titulo": "Archivador de discos",
+          "titulo": "Archivador de discos 58x39x1.12",
           "descripcion": null,
           "artista": null,
           "album": null,
@@ -210,7 +339,7 @@
           "anio": null,
           "moneda": "$",
           "base": 1200,
-          "oferta": null,
+          "oferta": 1200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1186566/df702cb1406281d39d4c1bb2423e3c6b.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8249?lote=12",
           "motivos": [
@@ -236,7 +365,22 @@
           ]
         }
       ],
-      "datosDe": "2026-10-22T09:15:24.567Z"
+      "datosDe": "2026-10-22T23:56:07.780Z"
+    },
+    {
+      "id": "8150",
+      "nombre": "Gran Remate!!! Antiguedades. Decoracion. Articulos para el Hogar Y Libros!!!! Sigo subiendo lotes..... Se envía a todo el país, el envío lo abona al recibir.",
+      "empresa": "Claudia Fabiana Rodríguez Rodríguez",
+      "departamento": "Montevideo",
+      "lugar": "Palmar 2154, Montevideo",
+      "fecha": "25/10/2026, 19:00",
+      "fechaISO": "2026-10-25T22:00:00.000Z",
+      "timestamp": 1792965600,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8150",
+      "totalLotes": 339,
+      "vinilos": [],
+      "datosDe": "2026-10-22T23:56:07.780Z"
     },
     {
       "id": "8246",
@@ -271,7 +415,59 @@
           ]
         }
       ],
-      "datosDe": "2026-10-22T09:15:24.567Z"
+      "datosDe": "2026-10-22T23:56:07.780Z"
+    },
+    {
+      "id": "8235",
+      "nombre": "R47, Impresionante Remate con cantidad de muebles de estilo, materiales de construcción, rejas, parrilleros y parrillas, discos de arado, juguetes nuevos de muy buena calidad, llaves térmicas diferente Amper y muchísimo más!!! Ya puede dejar su pre oferta, también retiramos mercadería para rematar sin costo de flete, consulte!!",
+      "empresa": "Remates El Paso",
+      "departamento": "Montevideo",
+      "lugar": "Gral Luna 1333, Montevideo",
+      "fecha": "29/10/2026, 18:20",
+      "fechaISO": "2026-10-29T21:20:00.000Z",
+      "timestamp": 1793308800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8235",
+      "totalLotes": 160,
+      "vinilos": [
+        {
+          "id": 1187937,
+          "lote": "23",
+          "titulo": "Disco 3 Patas con asas (Diámetro 44cm, alto del disco 6cm)",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 1000,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1187937/89e3b84a8d66e6a546e08a3505e7ac7b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8235?lote=23",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1187939,
+          "lote": "23A",
+          "titulo": "Disco 3 Patas con asas llano  (Diámetro 46cm, altura 36cm)",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 800,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1187939/89e3b84a8d66e6a546e08a3505e7ac7b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8235?lote=23A",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        }
+      ],
+      "datosDe": "2026-10-22T23:56:07.780Z"
     },
     {
       "id": "8256",
@@ -286,7 +482,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8256",
       "totalLotes": 177,
       "vinilos": [],
-      "datosDe": "2026-10-22T09:15:24.567Z"
+      "datosDe": "2026-10-22T23:56:07.780Z"
     },
     {
       "id": "8102",
@@ -338,7 +534,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-22T09:15:24.567Z"
+      "datosDe": "2026-10-22T23:56:07.780Z"
     },
     {
       "id": "8083",
@@ -353,7 +549,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8083",
       "totalLotes": 238,
       "vinilos": [],
-      "datosDe": "2026-10-22T09:15:24.567Z"
+      "datosDe": "2026-10-22T23:56:07.780Z"
     },
     {
       "id": "8128",
@@ -368,7 +564,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8128",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-10-22T09:15:24.567Z"
+      "datosDe": "2026-10-22T23:56:07.780Z"
     }
   ]
 }
