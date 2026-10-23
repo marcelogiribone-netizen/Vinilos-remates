@@ -1,55 +1,10 @@
 {
-  "generado": "2026-10-23T09:11:43.581Z",
+  "generado": "2026-10-23T23:48:09.587Z",
   "fallos": 0,
   "remates": [
     {
-      "id": "8101",
-      "nombre": "¡Remate de primavera! Lancha Casarino, bote de madera, kayaks de pesca, jaula de camión, baño portátil nuevo, maquina de hacer hielo, aro de embolsar lana, postes, moto Yumbo gs 125cc, moto SUZUKI años 60, antigüedades, adornos, herramientas y mucho más.",
-      "empresa": "Agustin Villamil",
-      "departamento": "Durazno",
-      "lugar": "Centro de Durazno, Durazno",
-      "fecha": "23/10/2026, 18:30",
-      "fechaISO": "2026-10-23T21:30:00.000Z",
-      "timestamp": 1792791000,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8101",
-      "totalLotes": 50,
-      "vinilos": [],
-      "datosDe": "2026-10-23T09:11:43.581Z"
-    },
-    {
-      "id": "8212",
-      "nombre": "ATENCION COLECCIONISTAS VUELTA CICLISTA DEL URUGUAY LIBROS DE LA CUARTA Y NOVENA VUELTA ADEMAS FOLLETOS, PARTES DE 13 VUELTA CICLISTA, LIBROS DE LA 14 Y 16 VUELTA MUY BIEN CONSERVADOS, PAPELERIA ADMINISTRATIVA DEL CICLISMO,PROGRAMAS DE CARRERAS, , FOTOS DE CICLISTAS MURAL FIRMADO FEDERICO MOREIRA, LIBROS DEDICADOS CON AUTOGRAFO, LIBROS DE BIANCHI Y 1928 Y LERGNANO 1947. 33 LOTES MUY LINDOS DE COLECCION ESTE VIERNES 23 A LAS 19 HORAS COLONIA ON 226",
-      "empresa": "Gardiol y otros",
-      "departamento": "Colonia",
-      "lugar": "Colonia, Colonia",
-      "fecha": "23/10/2026, 19:00",
-      "fechaISO": "2026-10-23T22:00:00.000Z",
-      "timestamp": 1792792800,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8212",
-      "totalLotes": 33,
-      "vinilos": [],
-      "datosDe": "2026-10-23T09:11:43.581Z"
-    },
-    {
-      "id": "8029",
-      "nombre": "REPROGRAMADO para el 28 de Octubre",
-      "empresa": "Mage Remates",
-      "departamento": "Montevideo",
-      "lugar": "Jaime Roldos y Pons 4541, Montevideo",
-      "fecha": "23/10/2026, 20:30",
-      "fechaISO": "2026-10-23T23:30:00.000Z",
-      "timestamp": 1792798200,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8029",
-      "totalLotes": 82,
-      "vinilos": [],
-      "datosDe": "2026-10-23T09:11:43.581Z"
-    },
-    {
       "id": "8227",
-      "nombre": "MULTIRRUBRO seguimos subiendo lotes hasta el viernes!!! TODO PARA ENTRENAR!! barras, mancuernas, discos nuevos, pesas rusas, championes comunes,  PARA CICLISMO. TAMBIEN: MOTOS ELÉCTRICAS TRICARGOS ELECTRODOMÉSTICOS  GARRAFAS DE 13 Y 45 KILOS DE TODO!!!",
+      "nombre": "MULTIRRUBRO seguimos subiendo lotes hasta el viernes!!! TODO PARA ENTRENAR!! barras, mancuernas, discos nuevos, pesas rusas, championes comunes,  PARA CICLISMO. TAMBIEN: MOTOS ELÉCTRICAS TRICARGOS ELECTRODOMÉSTICOS   DE TODO!!!",
       "empresa": "Import Remates",
       "departamento": "Montevideo",
       "lugar": "Angel Salvo 24, Montevideo",
@@ -58,7 +13,7 @@
       "timestamp": 1792857600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8227",
-      "totalLotes": 286,
+      "totalLotes": 289,
       "vinilos": [
         {
           "id": 1186802,
@@ -142,8 +97,8 @@
           "sello": null,
           "anio": null,
           "moneda": "$",
-          "base": 3500,
-          "oferta": null,
+          "base": 1000,
+          "oferta": 1000,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1189691/36722f2088a8d909b6f3aa1a3f04d0c9.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8227?lote=54",
           "motivos": [
@@ -223,7 +178,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-23T09:11:43.581Z"
+      "datosDe": "2026-10-23T23:48:09.587Z"
     },
     {
       "id": "8091",
@@ -236,9 +191,9 @@
       "timestamp": 1792859400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8091",
-      "totalLotes": 315,
+      "totalLotes": 316,
       "vinilos": [],
-      "datosDe": "2026-10-23T09:11:43.581Z"
+      "datosDe": "2026-10-23T23:48:09.587Z"
     },
     {
       "id": "8234",
@@ -253,7 +208,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8234",
       "totalLotes": 142,
       "vinilos": [],
-      "datosDe": "2026-10-23T09:11:43.581Z"
+      "datosDe": "2026-10-23T23:48:09.587Z"
     },
     {
       "id": "8171",
@@ -268,7 +223,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8171",
       "totalLotes": 105,
       "vinilos": [],
-      "datosDe": "2026-10-23T09:11:43.581Z"
+      "datosDe": "2026-10-23T23:48:09.587Z"
     },
     {
       "id": "6923",
@@ -283,7 +238,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/6923",
       "totalLotes": 326,
       "vinilos": [],
-      "datosDe": "2026-10-23T09:11:43.581Z"
+      "datosDe": "2026-10-23T23:48:09.587Z"
     },
     {
       "id": "7892",
@@ -298,7 +253,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7892",
       "totalLotes": 85,
       "vinilos": [],
-      "datosDe": "2026-10-23T09:11:43.581Z"
+      "datosDe": "2026-10-23T23:48:09.587Z"
     },
     {
       "id": "8169",
@@ -311,9 +266,9 @@
       "timestamp": 1792962000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8169",
-      "totalLotes": 584,
+      "totalLotes": 595,
       "vinilos": [],
-      "datosDe": "2026-10-23T09:11:43.581Z"
+      "datosDe": "2026-10-23T23:48:09.587Z"
     },
     {
       "id": "8249",
@@ -339,7 +294,7 @@
           "anio": null,
           "moneda": "$",
           "base": 1200,
-          "oferta": 1200,
+          "oferta": 1300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1186566/df702cb1406281d39d4c1bb2423e3c6b.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8249?lote=12",
           "motivos": [
@@ -357,7 +312,7 @@
           "anio": null,
           "moneda": "$",
           "base": 2000,
-          "oferta": null,
+          "oferta": 2000,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1186570/bf2754e7c1c67e12508b2b24a2159a96.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8249?lote=16",
           "motivos": [
@@ -365,7 +320,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-23T09:11:43.581Z"
+      "datosDe": "2026-10-23T23:48:09.587Z"
     },
     {
       "id": "8150",
@@ -380,7 +335,266 @@
       "url": "https://www.remotes.com.uy/participar/remate/8150",
       "totalLotes": 339,
       "vinilos": [],
-      "datosDe": "2026-10-23T09:11:43.581Z"
+      "datosDe": "2026-10-23T23:48:09.587Z"
+    },
+    {
+      "id": "8283",
+      "nombre": "LIQUIDACIÓN DE VARIOS COLECCIONABLES Y MUCHO MÁS !!!!",
+      "empresa": "Escritorio JOFFRÈ",
+      "departamento": "FLORIDA",
+      "lugar": "RUTA 6 JOAQUIN SUAREZ , FLORIDA",
+      "fecha": "25/10/2026, 21:00",
+      "fechaISO": "2026-10-26T00:00:00.000Z",
+      "timestamp": 1792972800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8283",
+      "totalLotes": 122,
+      "vinilos": [],
+      "datosDe": "2026-10-23T23:48:09.587Z"
+    },
+    {
+      "id": "8224",
+      "nombre": "REMATE  ANTIGUO ALMACEN:  CORTADORA DE FIAMBRE Y BALANZA BERKEL, BALANZA REDONDA IMPECABLE, ACORDEON, TROMPETA CHECOSLOVAKIA, JGO DE 49 PIEZAS ALPACA SHEFFIELD; ESTANTERIAS DE MADERA PINO BLANCO,  VARIOS TABLONES, HONDA 70 C PAPELES BEBIDAS ESÍRITUOSAS, LOZA OLMOS, MUY BUENA CRISTALERIA, HERMOSOS JUEGO DE CUBIERTOS EN ALPACA SIN USAR , CUCHILLAS, ART DE COCIN A, COLECCIONABLES, CELOSIAS ANGOSTAS Y LARGAS MUY BUENAS , MOBOILIARIO, ESPEJOS, ARTICULOS DE BROCE, PRIMUS, MECHEROS QUEROSENO, HERMOSO REMATE IMPERDIBLE ESTE MARTES 27 A LAS 19 HORAS EN COLONIA ON 229",
+      "empresa": "Gardiol y otros",
+      "departamento": "Colonia",
+      "lugar": "Colonia, Colonia",
+      "fecha": "27/10/2026, 19:00",
+      "fechaISO": "2026-10-27T22:00:00.000Z",
+      "timestamp": 1793138400,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8224",
+      "totalLotes": 133,
+      "vinilos": [],
+      "datosDe": "2026-10-23T23:48:09.587Z"
+    },
+    {
+      "id": "8279",
+      "nombre": "Multioportunidades, radios antiguas, discos de vinilo, cómics, juguetes retro, artículos en alpaca, cristalería, herramientas y piezas únicas de colección.",
+      "empresa": "Flores Montaña Subastas",
+      "departamento": "SALTO",
+      "lugar": "SALTO, SALTO",
+      "fecha": "28/10/2026, 19:15",
+      "fechaISO": "2026-10-28T22:15:00.000Z",
+      "timestamp": 1793225700,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8279",
+      "totalLotes": 124,
+      "vinilos": [
+        {
+          "id": 1190596,
+          "lote": "49",
+          "titulo": "Cuchillos pesado 21 cm hoja con vaina hoja de disco arado",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 1000,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1190596/1fae0029ed6fa2ee96f4b18bf183103f.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8279?lote=49",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1190638,
+          "lote": "91",
+          "titulo": "Lote 5 discos juan diarenzo",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1190638/93240b12a17761e76c28a12bb55755ee.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8279?lote=91",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1190639,
+          "lote": "92",
+          "titulo": "Lote 4 discos julio iglesias",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1190639/c86321119855a91751a8c81ff5bf3735.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8279?lote=92",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1190640,
+          "lote": "93",
+          "titulo": "Lote dos discos Roberto Carlos",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1190640/a06a7a0e810de1124c3e549f708a8d13.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8279?lote=93",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1190641,
+          "lote": "94",
+          "titulo": "Lote 3 discos Frank pourcel",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1190641/0ce8b0d85ebce518d3b7d285e0c83493.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8279?lote=94",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1190642,
+          "lote": "95",
+          "titulo": "Disco antiguo Gardel",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1190642/ecc8f77686d3aa7ca8ad8239e83eaa6c.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8279?lote=95",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1190643,
+          "lote": "96",
+          "titulo": "Disco antiguo Sandro",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1190643/c6200429f6219466c14576e6d400c4fa.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8279?lote=96",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1190644,
+          "lote": "97",
+          "titulo": "Dos piezas únicas cd y disco de la famosa sanramonense Tita Merello",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 400,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1190644/de801fe6afd9fb056adc15c0ad024c16.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8279?lote=97",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1190645,
+          "lote": "98",
+          "titulo": "Disco con música bee gees",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1190645/e9a760969f72d56fdacade5438c9a6d8.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8279?lote=98",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1190646,
+          "lote": "99",
+          "titulo": "Disco de sinatra basie",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1190646/72e7816710975516ae54278ef11916f1.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8279?lote=99",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1190647,
+          "lote": "100",
+          "titulo": "Disco de Frank sinatra",
+          "descripcion": null,
+          "artista": "Frank",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1190647/e989a972fc12ad4e5b4342c977658699.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8279?lote=100",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        }
+      ],
+      "datosDe": "2026-10-23T23:48:09.587Z"
+    },
+    {
+      "id": "8029",
+      "nombre": "REPROGRAMADO para el 28 de Octubre",
+      "empresa": "Mage Remates",
+      "departamento": "Montevideo",
+      "lugar": "Jaime Roldos y Pons 4541, Montevideo",
+      "fecha": "28/10/2026, 20:30",
+      "fechaISO": "2026-10-28T23:30:00.000Z",
+      "timestamp": 1793230200,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8029",
+      "totalLotes": 82,
+      "vinilos": [],
+      "datosDe": "2026-10-23T23:48:09.587Z"
     },
     {
       "id": "8246",
@@ -415,7 +629,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-23T09:11:43.581Z"
+      "datosDe": "2026-10-23T23:48:09.587Z"
     },
     {
       "id": "8235",
@@ -428,7 +642,7 @@
       "timestamp": 1793308800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8235",
-      "totalLotes": 160,
+      "totalLotes": 181,
       "vinilos": [
         {
           "id": 1187937,
@@ -467,7 +681,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-23T09:11:43.581Z"
+      "datosDe": "2026-10-23T23:48:09.587Z"
     },
     {
       "id": "8256",
@@ -482,7 +696,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8256",
       "totalLotes": 177,
       "vinilos": [],
-      "datosDe": "2026-10-23T09:11:43.581Z"
+      "datosDe": "2026-10-23T23:48:09.587Z"
     },
     {
       "id": "8102",
@@ -495,7 +709,7 @@
       "timestamp": 1793464200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8102",
-      "totalLotes": 536,
+      "totalLotes": 534,
       "vinilos": [
         {
           "id": 1175115,
@@ -534,7 +748,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-23T09:11:43.581Z"
+      "datosDe": "2026-10-23T23:48:09.587Z"
     },
     {
       "id": "8083",
@@ -549,7 +763,41 @@
       "url": "https://www.remotes.com.uy/participar/remate/8083",
       "totalLotes": 238,
       "vinilos": [],
-      "datosDe": "2026-10-23T09:11:43.581Z"
+      "datosDe": "2026-10-23T23:48:09.587Z"
+    },
+    {
+      "id": "8243",
+      "nombre": "📣 ¡8/11/26 — SUMATE A UN NUEVO REMATE DE ANTIGÜEDADES COLECCIONABLES!",
+      "empresa": "C. Ferraro",
+      "departamento": "Soriano",
+      "lugar": "Juana de Ibarbourou y lavalleja. Cardona, Soriano., Soriano",
+      "fecha": "08/11/2026, 19:00",
+      "fechaISO": "2026-11-08T22:00:00.000Z",
+      "timestamp": 1794175200,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8243",
+      "totalLotes": 86,
+      "vinilos": [
+        {
+          "id": 1190149,
+          "lote": "57",
+          "titulo": "Tacómetro portátil",
+          "descripcion": "Tacómetro portátil / indicador de velocidad en disco Jaeger, fabricado por la Jaeger Watch Co, utilizado históricamente durante la Segunda Guerra Mundial",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 1800,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1190149/db249c29ba48786cbd73dd7bec571ac7.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8243?lote=57",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        }
+      ],
+      "datosDe": "2026-10-23T23:48:09.587Z"
     },
     {
       "id": "8128",
@@ -564,7 +812,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8128",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-10-23T09:11:43.581Z"
+      "datosDe": "2026-10-23T23:48:09.587Z"
     }
   ]
 }
