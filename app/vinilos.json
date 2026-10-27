@@ -1,22 +1,7 @@
 {
-  "generado": "2026-10-26T09:53:57.598Z",
+  "generado": "2026-10-27T00:19:33.403Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "8150",
-      "nombre": "Gran Remate!!! Antiguedades. Decoracion. Articulos para el Hogar Y Libros!!!! Sigo subiendo lotes..... Se envía a todo el país, el envío lo abona al recibir.",
-      "empresa": "Claudia Fabiana Rodríguez Rodríguez",
-      "departamento": "Montevideo",
-      "lugar": "Palmar 2154, Montevideo",
-      "fecha": "26/10/2026, 19:00",
-      "fechaISO": "2026-10-26T22:00:00.000Z",
-      "timestamp": 1793052000,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8150",
-      "totalLotes": 343,
-      "vinilos": [],
-      "datosDe": "2026-10-26T09:53:57.598Z"
-    },
     {
       "id": "8278",
       "nombre": "Remate por cierre de local comercial‼️",
@@ -30,7 +15,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8278",
       "totalLotes": 105,
       "vinilos": [],
-      "datosDe": "2026-10-26T09:53:57.598Z"
+      "datosDe": "2026-10-27T00:19:33.403Z"
     },
     {
       "id": "8224",
@@ -45,7 +30,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8224",
       "totalLotes": 133,
       "vinilos": [],
-      "datosDe": "2026-10-26T09:53:57.598Z"
+      "datosDe": "2026-10-27T00:19:33.403Z"
     },
     {
       "id": "8279",
@@ -161,7 +146,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 220,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1190642/ecc8f77686d3aa7ca8ad8239e83eaa6c.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8279?lote=95",
           "motivos": [
@@ -233,7 +218,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1190646/72e7816710975516ae54278ef11916f1.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8279?lote=99",
           "motivos": [
@@ -259,7 +244,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-26T09:53:57.598Z"
+      "datosDe": "2026-10-27T00:19:33.403Z"
     },
     {
       "id": "8266",
@@ -293,7 +278,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-26T09:53:57.598Z"
+      "datosDe": "2026-10-27T00:19:33.403Z"
     },
     {
       "id": "8029",
@@ -308,7 +293,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8029",
       "totalLotes": 91,
       "vinilos": [],
-      "datosDe": "2026-10-26T09:53:57.598Z"
+      "datosDe": "2026-10-27T00:19:33.403Z"
     },
     {
       "id": "8246",
@@ -343,7 +328,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-26T09:53:57.598Z"
+      "datosDe": "2026-10-27T00:19:33.403Z"
     },
     {
       "id": "8235",
@@ -356,7 +341,7 @@
       "timestamp": 1793308800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8235",
-      "totalLotes": 202,
+      "totalLotes": 204,
       "vinilos": [
         {
           "id": 1187937,
@@ -369,7 +354,7 @@
           "anio": null,
           "moneda": "$",
           "base": 1000,
-          "oferta": null,
+          "oferta": 1000,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1187937/89e3b84a8d66e6a546e08a3505e7ac7b.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8235?lote=23",
           "motivos": [
@@ -377,8 +362,8 @@
           ]
         },
         {
-          "id": 1187939,
-          "lote": "23A",
+          "id": 1193366,
+          "lote": "23B",
           "titulo": "Disco 3 Patas con asas llano  (Diámetro 46cm, altura 36cm)",
           "descripcion": null,
           "artista": null,
@@ -387,19 +372,19 @@
           "anio": null,
           "moneda": "$",
           "base": 800,
-          "oferta": 850,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1187939/89e3b84a8d66e6a546e08a3505e7ac7b.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8235?lote=23A",
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193366/26b0dbc784acf9ffea45453c4cc23015.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8235?lote=23B",
           "motivos": [
             "dice \"disco\""
           ]
         }
       ],
-      "datosDe": "2026-10-26T09:53:57.598Z"
+      "datosDe": "2026-10-27T00:19:33.403Z"
     },
     {
       "id": "8256",
-      "nombre": "✅ Hermoso remate de antiguedades y coleccionables, destacamos botellas, cocina, aluminio, adornos, coca-cola, whisky,  medidas, militaria, tallas y cuadros de madera y mucho más!! Imposible que dejes pasar la oportunidad",
+      "nombre": "✅ Hermoso remate de antiguedades y coleccionables, destacamos botellas, cocina, aluminio, adornos, coca-cola, whisky,  medidas, militaria, tallas y cuadros de madera, antigua Punta de lanza en hierro forjado y mucho más!! Imposible que dejes pasar la oportunidad",
       "empresa": "Valentina Rodríguez",
       "departamento": "Montevideo",
       "lugar": "Av. Dámaso Antonio Larrañaga 3452, Montevideo",
@@ -408,9 +393,9 @@
       "timestamp": 1793383200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8256",
-      "totalLotes": 177,
+      "totalLotes": 179,
       "vinilos": [],
-      "datosDe": "2026-10-26T09:53:57.598Z"
+      "datosDe": "2026-10-27T00:19:33.403Z"
     },
     {
       "id": "8102",
@@ -462,7 +447,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-26T09:53:57.598Z"
+      "datosDe": "2026-10-27T00:19:33.403Z"
     },
     {
       "id": "8277",
@@ -475,9 +460,24 @@
       "timestamp": 1793570400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8277",
-      "totalLotes": 325,
+      "totalLotes": 397,
       "vinilos": [],
-      "datosDe": "2026-10-26T09:53:57.598Z"
+      "datosDe": "2026-10-27T00:19:33.403Z"
+    },
+    {
+      "id": "8150",
+      "nombre": "Gran Remate!!! Antiguedades. Decoracion. Articulos para el Hogar Y Libros!!!! Sigo subiendo lotes..... Se envía a todo el país, el envío lo abona al recibir.",
+      "empresa": "Claudia Fabiana Rodríguez Rodríguez",
+      "departamento": "Montevideo",
+      "lugar": "Palmar 2154, Montevideo",
+      "fecha": "02/11/2026, 19:00",
+      "fechaISO": "2026-11-02T22:00:00.000Z",
+      "timestamp": 1793656800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8150",
+      "totalLotes": 345,
+      "vinilos": [],
+      "datosDe": "2026-10-27T00:19:33.403Z"
     },
     {
       "id": "8083",
@@ -492,7 +492,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8083",
       "totalLotes": 238,
       "vinilos": [],
-      "datosDe": "2026-10-26T09:53:57.598Z"
+      "datosDe": "2026-10-27T00:19:33.403Z"
     },
     {
       "id": "8155",
@@ -562,7 +562,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-26T09:53:57.598Z"
+      "datosDe": "2026-10-27T00:19:33.403Z"
     },
     {
       "id": "7651",
@@ -2646,7 +2646,7 @@
           "anio": null,
           "moneda": "$",
           "base": 100,
-          "oferta": null,
+          "oferta": 100,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1165400/33b4bd57ea3fa4bd7c4836afb18cbd52.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7651?lote=242",
           "motivos": [
@@ -2741,7 +2741,7 @@
           "anio": null,
           "moneda": "$",
           "base": 100,
-          "oferta": null,
+          "oferta": 100,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1165405/203a09fc451dedccc1684d50895ae7e9.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7651?lote=247",
           "motivos": [
@@ -2760,7 +2760,7 @@
           "anio": "1975",
           "moneda": "$",
           "base": 100,
-          "oferta": null,
+          "oferta": 100,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1165406/42f2637a4c7b8c44fe966cbbb3f8e1cb.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7651?lote=248",
           "motivos": [
@@ -2951,7 +2951,7 @@
           "anio": null,
           "moneda": "$",
           "base": 100,
-          "oferta": null,
+          "oferta": 100,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1188573/d75df97c58590318b5abee6cce7f4728.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7651?lote=1211",
           "motivos": [
@@ -3483,7 +3483,7 @@
           "anio": null,
           "moneda": "$",
           "base": 100,
-          "oferta": null,
+          "oferta": 100,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1188603/35161459c2b3aeacbfcbf24f84dd5a4e.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7651?lote=1241",
           "motivos": [
@@ -3540,7 +3540,7 @@
           "anio": null,
           "moneda": "$",
           "base": 100,
-          "oferta": null,
+          "oferta": 150,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1188606/5053633166b7182224ae1c0fdc2ad0d6.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/7651?lote=1244",
           "motivos": [
@@ -3701,7 +3701,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-26T09:53:57.598Z"
+      "datosDe": "2026-10-27T00:19:33.403Z"
     },
     {
       "id": "8243",
@@ -3714,7 +3714,7 @@
       "timestamp": 1794175200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8243",
-      "totalLotes": 90,
+      "totalLotes": 105,
       "vinilos": [
         {
           "id": 1190149,
@@ -3735,7 +3735,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-26T09:53:57.598Z"
+      "datosDe": "2026-10-27T00:19:33.403Z"
     },
     {
       "id": "8128",
@@ -3750,7 +3750,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8128",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-10-26T09:53:57.598Z"
+      "datosDe": "2026-10-27T00:19:33.403Z"
     },
     {
       "id": "8271",
@@ -3765,7 +3765,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8271",
       "totalLotes": 170,
       "vinilos": [],
-      "datosDe": "2026-10-26T09:53:57.598Z"
+      "datosDe": "2026-10-27T00:19:33.403Z"
     }
   ]
 }
