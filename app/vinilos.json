@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-27T00:19:33.403Z",
+  "generado": "2026-10-27T09:40:31.424Z",
   "fallos": 0,
   "remates": [
     {
@@ -15,7 +15,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8278",
       "totalLotes": 105,
       "vinilos": [],
-      "datosDe": "2026-10-27T00:19:33.403Z"
+      "datosDe": "2026-10-27T09:40:31.424Z"
     },
     {
       "id": "8224",
@@ -30,7 +30,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8224",
       "totalLotes": 133,
       "vinilos": [],
-      "datosDe": "2026-10-27T00:19:33.403Z"
+      "datosDe": "2026-10-27T09:40:31.424Z"
     },
     {
       "id": "8279",
@@ -244,7 +244,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-27T00:19:33.403Z"
+      "datosDe": "2026-10-27T09:40:31.424Z"
     },
     {
       "id": "8266",
@@ -278,7 +278,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-27T00:19:33.403Z"
+      "datosDe": "2026-10-27T09:40:31.424Z"
     },
     {
       "id": "8029",
@@ -293,7 +293,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8029",
       "totalLotes": 91,
       "vinilos": [],
-      "datosDe": "2026-10-27T00:19:33.403Z"
+      "datosDe": "2026-10-27T09:40:31.424Z"
     },
     {
       "id": "8246",
@@ -328,7 +328,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-27T00:19:33.403Z"
+      "datosDe": "2026-10-27T09:40:31.424Z"
     },
     {
       "id": "8235",
@@ -380,7 +380,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-27T00:19:33.403Z"
+      "datosDe": "2026-10-27T09:40:31.424Z"
     },
     {
       "id": "8256",
@@ -395,7 +395,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8256",
       "totalLotes": 179,
       "vinilos": [],
-      "datosDe": "2026-10-27T00:19:33.403Z"
+      "datosDe": "2026-10-27T09:40:31.424Z"
     },
     {
       "id": "8102",
@@ -447,7 +447,575 @@
           ]
         }
       ],
-      "datosDe": "2026-10-27T00:19:33.403Z"
+      "datosDe": "2026-10-27T09:40:31.424Z"
+    },
+    {
+      "id": "8287",
+      "nombre": "Gran Remate liquidación con piezas de gran calidad, juego de vajilla inglés Johnson Bros, cristaleeía, antiguedades, diseño, vajilla para sushi, iluminación, platina sheraton, christofles,Wmf, gran colección de Musica en vinilos ( totem entre otros), cds, casettes, audio, libros modernos, piezas en plata, todo de primer nivel!!!",
+      "empresa": "ElEjido",
+      "departamento": "MONTEVIDEO",
+      "lugar": "EJIDO 932, MONTEVIDEO",
+      "fecha": "31/10/2026, 19:00",
+      "fechaISO": "2026-10-31T22:00:00.000Z",
+      "timestamp": 1793484000,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8287",
+      "totalLotes": 231,
+      "vinilos": [
+        {
+          "id": 1191950,
+          "lote": "5",
+          "titulo": "Equipo de audio Teac con pasa discos",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191950/be8a851272a873bd690543ac935dc4f6.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=5",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1191952,
+          "lote": "7",
+          "titulo": "Vinilos simples de gran calidad",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191952/8e53e8b1cc0e029b41f73397cfb185c1.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=7",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1191953,
+          "lote": "8",
+          "titulo": "4 vinilos de Rock",
+          "descripcion": null,
+          "artista": "Rock",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191953/288990ffed3683a3cff75bdbcfdc4464.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=8",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1191954,
+          "lote": "9",
+          "titulo": "2 vinilos",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191954/60a4034b8a611fc36a91120dc638d781.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=9",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1191955,
+          "lote": "10",
+          "titulo": "Vinilo de Elvis origen Sidney- Australia",
+          "descripcion": null,
+          "artista": "Elvis",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191955/9c3b73c0da04033685e2bdea467c6b65.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=10",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1191956,
+          "lote": "11",
+          "titulo": "Vinilo de Elvis origen Sidney- Australia",
+          "descripcion": null,
+          "artista": "Elvis",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191956/06e09b85f99372341308c4641073071a.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=11",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1191957,
+          "lote": "12",
+          "titulo": "Vinilo de Rod Stewart",
+          "descripcion": null,
+          "artista": "Rod Stewart",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191957/fe3ba7149a3cc4ae4ae06b60cd41c5ef.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=12",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1191958,
+          "lote": "13",
+          "titulo": "Vinilo de Bee Gees origen Australia",
+          "descripcion": null,
+          "artista": "Bee Gees",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191958/65c062b087176efb0c4ef54a98b4528c.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=13",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1191959,
+          "lote": "14",
+          "titulo": "2 vinilos de Kenny Rogers",
+          "descripcion": null,
+          "artista": "Kenny Rogers",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191959/0db296186310e48058e40613fecb4ef9.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=14",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1191960,
+          "lote": "15",
+          "titulo": "2 vinilos recopilatorios de grandes éxitos que reúnen canciones populares de diferente.s artistas de las décadas de 1970 y anteriores.",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1970",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191960/5981a1f65bb3190b715a37a7b5ade368.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=15",
+          "motivos": [
+            "dice \"vinilo\"",
+            "año 1970"
+          ]
+        },
+        {
+          "id": 1191961,
+          "lote": "16",
+          "titulo": "4 vinilos enfocados principalmente en música country clásica y baladas/pop melódico internacional de la década de 1970.",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1970",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191961/3ca934005dd810dafb86f209156620fd.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=16",
+          "motivos": [
+            "dice \"vinilo\"",
+            "año 1970"
+          ]
+        },
+        {
+          "id": 1191962,
+          "lote": "17",
+          "titulo": "4 vinilos del legendario cantautor estadounidense de pop y soft rock, Neil Diamond.",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191962/32116688df38a54e77a8ddd6e9af7617.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=17",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1191963,
+          "lote": "18",
+          "titulo": "6 vinilos de música pop romántica, balada tradicional y canciones clásicas de las décadas de 1950 a 1980. Pertenecen a tres de los cantantes masculinos más icónicos de la música melódica",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1950",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191963/e2f41e410da93d2dbe6c6ddbdc031c13.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=18",
+          "motivos": [
+            "dice \"vinilo\"",
+            "año 1950"
+          ]
+        },
+        {
+          "id": 1191964,
+          "lote": "19",
+          "titulo": "6 discos de vinilo de diferentes géneros musicales, que abarcan desde música tradicional y rumba hasta bandas sonoras de películas y pop tradicional.",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191964/cf57142d399c693e9c45fb122ebae65f.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=19",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1191965,
+          "lote": "20",
+          "titulo": "3 vinilos de ABBA",
+          "descripcion": null,
+          "artista": "ABBA",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191965/19fd10518524cc091daebeefa957b18a.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=20",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1191966,
+          "lote": "21",
+          "titulo": "6 álbumes recopilatorios de grandes éxitos musicales de finales de la década de 1970, lanzados principalmente en mercados como Australia para reunir las canciones de pop, rock, música disco y new wave más populares de ese momento.",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1970",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191966/28b843827ec915135427f365d9d138d7.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=21",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1970"
+          ]
+        },
+        {
+          "id": 1191967,
+          "lote": "22",
+          "titulo": "6 vinilos de Música Disco y Pop de la Era de Oro: Representada fuertemente por la banda sonora de la película de los Village People,",
+          "descripcion": null,
+          "artista": "Música Disco",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191967/f96d950e636b6daffdee66cec7ba6b20.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=22",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1191968,
+          "lote": "23",
+          "titulo": "6 vinilos de la música disco, el pop y los grandes éxitos de finales de la década de 1970.",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1970",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191968/189264cb9b469105d787af3885483546.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=23",
+          "motivos": [
+            "dice \"vinilo\"",
+            "año 1970"
+          ]
+        },
+        {
+          "id": 1191969,
+          "lote": "24",
+          "titulo": "6 vinilos recopilatorios de grandes éxitos de los años 70 de géneros como la música Disco, Funk, Soul y Pop.",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191969/69cc712a163c0f136ed3302e93f172e1.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=24",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1191970,
+          "lote": "25",
+          "titulo": "6 vinilos recopilatorios de grandes éxitos y música bailable de finales de la década de 1970",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1970",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191970/92b80854c1c068f6cead2f0d541809cb.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=25",
+          "motivos": [
+            "dice \"vinilo\"",
+            "año 1970"
+          ]
+        },
+        {
+          "id": 1191971,
+          "lote": "26",
+          "titulo": "6 discos de vinilo de música tropical, popular y tradicional, principalmente de origen uruguayo y brasileño.",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191971/51e2a71862ac96415ffdf6068118172d.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=26",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1191972,
+          "lote": "27",
+          "titulo": "colección clásica de vinilos titulada \"Today's Golden Hits, Tomorrow's Golden Memories\", una caja recopilatoria lanzada por la famosa editorial Reader's Digest originalmente en 1976.",
+          "descripcion": null,
+          "artista": null,
+          "album": "Today's Golden Hits, Tomorrow's Golden Memories",
+          "sello": null,
+          "anio": "1976",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191972/8d125d17e11efb2d34ab517b4131406c.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=27",
+          "motivos": [
+            "dice \"vinilo\"",
+            "año 1976"
+          ]
+        },
+        {
+          "id": 1191973,
+          "lote": "28",
+          "titulo": "Vinilo Doble Alemán de The Beatles Álbum Blanco",
+          "descripcion": null,
+          "artista": "The Beatles Álbum Blanco",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": 200,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191973/f722df4f29dc1d700b2cbbf673b0b0c1.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=28",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1191974,
+          "lote": "29",
+          "titulo": "Álbum Doble Totem Descarga en Vinilo",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191974/d9f54bc36c2aafdd64f6b7168f07f6c0.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=29",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1191975,
+          "lote": "30",
+          "titulo": "Álbum Doble The Beatles 1967-1970 con Detalle",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1967",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191975/25e10e550ffce13ee9ab66f92f6dd255.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=30",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1967"
+          ]
+        },
+        {
+          "id": 1191981,
+          "lote": "36",
+          "titulo": "Cds de álbumes de rock clásico y pop de bandas y artistas icónicos.",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191981/9adb742d7e56c53e14bb23eec8a5c031.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=36",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1191986,
+          "lote": "41",
+          "titulo": "Cds sin cajas , estuches y cajas sin discos.",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191986/212b6f0a3d4df7eed9e6cecccfc02739.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=41",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1191993,
+          "lote": "48",
+          "titulo": "segundo álbum en Vinilo de estudio de la mítica banda española de punk rock La Polla Records, lanzado originalmente en 1985.",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191993/1366e5b19e766859f1fd17f0d172d98a.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=48",
+          "motivos": [
+            "dice \"vinilo\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1191994,
+          "lote": "49",
+          "titulo": "álbumes recopilatorios en formato CD de finales de los años 80 y de la década de los 90 (como Now That's What I Call Music, éxitos de verano y recopilaciones de música dance y pop)",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1191994/db11fd5dfbb8bc6828247ec662935121.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=49",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1192004,
+          "lote": "59",
+          "titulo": "álbumes de rock, pop y ska en formato CD de reconocidos artistas argentinos, principalmente de las décadas de 1990 y 2000.",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1990",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1192004/879128e7dfa65e2fd7bb90fc98a5a4e6.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8287?lote=59",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1990"
+          ]
+        }
+      ],
+      "datosDe": "2026-10-27T09:40:31.424Z"
     },
     {
       "id": "8277",
@@ -462,7 +1030,22 @@
       "url": "https://www.remotes.com.uy/participar/remate/8277",
       "totalLotes": 397,
       "vinilos": [],
-      "datosDe": "2026-10-27T00:19:33.403Z"
+      "datosDe": "2026-10-27T09:40:31.424Z"
+    },
+    {
+      "id": "8286",
+      "nombre": "Remate de gran colección privada relacionada al arte, al coleccinismo y las antiguedades. Coleccionables  Porcelanas Lladró,  Capodimonte,  esculturas, pintura Nacional, Iturria,  Miguel de Vita, importantes pedestales, muebles....",
+      "empresa": "ElEjido",
+      "departamento": "MONTEVIDEO",
+      "lugar": "EJIDO 932, MONTEVIDEO",
+      "fecha": "01/11/2026, 19:00",
+      "fechaISO": "2026-11-01T22:00:00.000Z",
+      "timestamp": 1793570400,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8286",
+      "totalLotes": 207,
+      "vinilos": [],
+      "datosDe": "2026-10-27T09:40:31.424Z"
     },
     {
       "id": "8150",
@@ -477,7 +1060,3429 @@
       "url": "https://www.remotes.com.uy/participar/remate/8150",
       "totalLotes": 345,
       "vinilos": [],
-      "datosDe": "2026-10-27T00:19:33.403Z"
+      "datosDe": "2026-10-27T09:40:31.424Z"
+    },
+    {
+      "id": "8304",
+      "nombre": "✅ Muy lindo remate de Discos.",
+      "empresa": "Valentina Rodríguez",
+      "departamento": "Montevideo",
+      "lugar": "Av. Dámaso Antonio Larrañaga 3452, Montevideo",
+      "fecha": "03/11/2026, 15:00",
+      "fechaISO": "2026-11-03T18:00:00.000Z",
+      "timestamp": 1793728800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8304",
+      "totalLotes": 181,
+      "vinilos": [
+        {
+          "id": 1193661,
+          "lote": "1",
+          "titulo": "1) Disco Simple 7 ( The B - 52 ) Love Shack  1989 Mede in England",
+          "descripcion": null,
+          "artista": null,
+          "album": "52 ) Love Shack 1989 Mede in England",
+          "sello": null,
+          "anio": "1989",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193661/e7030caa30b9f0b5a28d6366166f4338.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=1",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1989"
+          ]
+        },
+        {
+          "id": 1193662,
+          "lote": "2",
+          "titulo": "2) Disco Simple 7  ( Reo Speedwagon  Keep The Fire Burning  1982 Made in Holanda",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193662/23a8cf27bb50269107751ca7a0005adb.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=2",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1193663,
+          "lote": "3",
+          "titulo": "3) Disco Simple 7  ( Reo Speedwagon) Here With Me 1988 Made in USA",
+          "descripcion": null,
+          "artista": "Reo Speedwagon",
+          "album": null,
+          "sello": null,
+          "anio": "1988",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193663/e7479d226189632f6231fbe6a4c0f75c.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=3",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1988"
+          ]
+        },
+        {
+          "id": 1193664,
+          "lote": "4",
+          "titulo": "4) Disco Simple 7  ( The Knack ) My Sharona  1979 Made in USA",
+          "descripcion": null,
+          "artista": "The Knack",
+          "album": null,
+          "sello": null,
+          "anio": "1979",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193664/c138dea00093dcd6476604c9edbde970.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=4",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1979"
+          ]
+        },
+        {
+          "id": 1193665,
+          "lote": "5",
+          "titulo": "5) Disco Simple 7  ( Elton John ) Nikita 1985 Made in Holanda",
+          "descripcion": null,
+          "artista": "Elton John",
+          "album": null,
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193665/0b2cdb4cccf86908522dffb9b4aa179e.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=5",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1193666,
+          "lote": "6",
+          "titulo": "6) Disco Simple 7  ( Terence Trent D'arby) Wishing Well 1987 Made in England",
+          "descripcion": null,
+          "artista": "Terence Trent D'arby",
+          "album": null,
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193666/7924c67d8127ef23e775c1c4a625fe4f.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=6",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1193667,
+          "lote": "7",
+          "titulo": "7) Disco Simple 7  ( Laura Branigan ) Self Control 1984 Made in España",
+          "descripcion": null,
+          "artista": "Laura Branigan",
+          "album": null,
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193667/b4bd76064a7905d0555910f70b797c77.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=7",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1193668,
+          "lote": "8",
+          "titulo": "8) Disco Simple 7  ( Cyndi Lauper ) Time After Time  1984 Made in England",
+          "descripcion": null,
+          "artista": "Cyndi Lauper",
+          "album": null,
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193668/78b7781ffc4eefc144c08fa9098e2ff2.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=8",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1193669,
+          "lote": "9",
+          "titulo": "9) Disco Simple 7 ( Santana) Oye Cómo Va y Black Magic Woman 1968 Made in USA",
+          "descripcion": null,
+          "artista": "Santana",
+          "album": null,
+          "sello": null,
+          "anio": "1968",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193669/dd26e74caad7099397f3be4610ac89c1.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=9",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1968"
+          ]
+        },
+        {
+          "id": 1193670,
+          "lote": "10",
+          "titulo": "10) Disco Simple 7  ( The Doobie Brothers) Listen To The Music 1972 Made in USA",
+          "descripcion": null,
+          "artista": "The Doobie Brothers",
+          "album": null,
+          "sello": null,
+          "anio": "1972",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193670/cbca23fd3968bd99f4ca26c1bdf0e124.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=10",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1972"
+          ]
+        },
+        {
+          "id": 1193671,
+          "lote": "11",
+          "titulo": "11) Disco Simple 7  ( The B.B & Q Band ) On The Beat 1981 Made in USA",
+          "descripcion": null,
+          "artista": "The B.B & Q Band",
+          "album": null,
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193671/b8b8aa06f4f7ab38df6aff51a5a1492b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=11",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1193672,
+          "lote": "12",
+          "titulo": "12) Disco Simple 7  ( Paul Simon) You Can Call Me Al 1986 Made in England",
+          "descripcion": null,
+          "artista": "Paul Simon",
+          "album": null,
+          "sello": null,
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193672/d8ec37866f89a0130dd0df97949ba331.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=12",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1193673,
+          "lote": "13",
+          "titulo": "13) Disco Simple 7  ( Electric Light Orchestra) Shine A Little Love 1979 Made in Francia",
+          "descripcion": null,
+          "artista": "Electric Light Orchestra",
+          "album": null,
+          "sello": null,
+          "anio": "1979",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193673/8d1b42e23e35787988da52be9ef22679.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=13",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1979"
+          ]
+        },
+        {
+          "id": 1193674,
+          "lote": "14",
+          "titulo": "14) Disco Simple 7  ( The Human League) Don't You Want Me 1981 Made in USA",
+          "descripcion": null,
+          "artista": "The Human League",
+          "album": null,
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193674/3bf1481825cd802742a37255e6c37f97.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=14",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1193675,
+          "lote": "15",
+          "titulo": "15) Disco Simple 7  ( Spandau Ballet ) Teue 1983 Made in Brasil",
+          "descripcion": null,
+          "artista": "Spandau Ballet",
+          "album": null,
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193675/8ca8f2142ce0c20917adbddaf0c6be0d.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=15",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1193676,
+          "lote": "16",
+          "titulo": "16) Disco Simple 7  ( Bonnie Tyler) Holding Out For A Hero. 1984 Made in USA",
+          "descripcion": null,
+          "artista": "Bonnie Tyler",
+          "album": null,
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193676/f30807d662fe8ebe8aad8a62294fe541.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=16",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1193677,
+          "lote": "17",
+          "titulo": "17) Disco Simple 7  ( Supertamp) Dreamer  1974 Made in USA",
+          "descripcion": null,
+          "artista": "Supertamp",
+          "album": null,
+          "sello": null,
+          "anio": "1974",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193677/40e1807833e90b974567a5fcd34e0c07.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=17",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1974"
+          ]
+        },
+        {
+          "id": 1193678,
+          "lote": "18",
+          "titulo": "18) Disco Simple 7  ( FOREIGNER) Waiting For A Girl Like You. 1981 Made in USA",
+          "descripcion": null,
+          "artista": "FOREIGNER",
+          "album": null,
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193678/ac839e81b4b9adfc873b5a3c5e02b0cd.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=18",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1193679,
+          "lote": "19",
+          "titulo": "19) Disco Simple 7 ( HOOTERS) All You Zombies 1985 Made in USA",
+          "descripcion": null,
+          "artista": "HOOTERS",
+          "album": null,
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193679/e307b124fdceb926ebd2c1d4ca8a2ff6.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=19",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1193680,
+          "lote": "20",
+          "titulo": "20) Disco Simple 7  ( Kurtis Blow ) The Break  1980 Made in USA",
+          "descripcion": null,
+          "artista": "Kurtis Blow",
+          "album": null,
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193680/b7bd653b092a42baaa77fe401a257391.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=20",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1193681,
+          "lote": "21",
+          "titulo": "21) Disco Simple 7  ( Al Hudson & The Partners. You Can Do It 1979 Made in USA",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1979",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193681/40d98824f7e665c5235a3e777bc6bef3.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=21",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1979"
+          ]
+        },
+        {
+          "id": 1193682,
+          "lote": "22",
+          "titulo": "22) Disco Simple 7  ( SURVIVOR) Eye Of The Tiger  1982 Made in USA",
+          "descripcion": null,
+          "artista": "SURVIVOR",
+          "album": null,
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193682/9f7a79b0d3701e90b2ba9c6bc89ebcc5.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=22",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1193683,
+          "lote": "23",
+          "titulo": "23) Disco Simple 7  ( Duran - Duran ) Hungry Like The Wolf 1982 Made in USA",
+          "descripcion": null,
+          "artista": null,
+          "album": "Duran ) Hungry Like The Wolf 1982 Made in USA",
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193683/b27df55651d7c6832a92f88898be3e0b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=23",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1193684,
+          "lote": "24",
+          "titulo": "24) Disco Simple 7  ( VISAGE ) Fade To Frey 1980 Made in USA",
+          "descripcion": null,
+          "artista": "VISAGE",
+          "album": null,
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193684/cd1fd3351066bed809665bf75232c5ae.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=24",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1193685,
+          "lote": "25",
+          "titulo": "25) Disco Simple 7  ( Garry Rafferty) Baker Street  1978 Made in Germany",
+          "descripcion": null,
+          "artista": "Garry Rafferty",
+          "album": null,
+          "sello": null,
+          "anio": "1978",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193685/3fc9eaa4c075d18e95cccd28375517e5.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=25",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1978"
+          ]
+        },
+        {
+          "id": 1193686,
+          "lote": "26",
+          "titulo": "26) Disco Simple 7  ( Michael Jackson) She's Out Of My Life 1979 Made in USA",
+          "descripcion": null,
+          "artista": "Michael Jackson",
+          "album": null,
+          "sello": null,
+          "anio": "1979",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193686/2e3fbee3d87336061222a2d5e6a82544.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=26",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1979"
+          ]
+        },
+        {
+          "id": 1193687,
+          "lote": "27",
+          "titulo": "27) Disco Simple 7  ( Michael Jackson ) Off The Wall 1979 Made in USA",
+          "descripcion": null,
+          "artista": "Michael Jackson",
+          "album": null,
+          "sello": null,
+          "anio": "1979",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193687/45f8a8d8492adc82270358d52340d20a.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=27",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1979"
+          ]
+        },
+        {
+          "id": 1193688,
+          "lote": "28",
+          "titulo": "28) Disco Simple 7 ( Joan Jett ) Crimson And Clover  1982 Made in USA",
+          "descripcion": null,
+          "artista": "Joan Jett",
+          "album": null,
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193688/a9aff3b7bc1b7415f6aacafcb3596aa8.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=28",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1193689,
+          "lote": "29",
+          "titulo": "29) Disco Simple 7  ( Matthew Wilder) Break My Stride 1983 Made in USA",
+          "descripcion": null,
+          "artista": "Matthew Wilder",
+          "album": null,
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193689/02349c00f8840ee411978e35f6788956.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=29",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1193690,
+          "lote": "30",
+          "titulo": "30) Disco Simple 7  ( Dire Straits ) So Far Away 1985 Made in USA",
+          "descripcion": null,
+          "artista": "Dire Straits",
+          "album": null,
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193690/a6491229867702c80f6ee49eb115b39d.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=30",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1193691,
+          "lote": "31",
+          "titulo": "31) Disco Simple 7  ( Nik Kershaw ) 1983 Made in England  Contiene Poster",
+          "descripcion": null,
+          "artista": "Nik Kershaw",
+          "album": null,
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193691/5178126db483325137a2ef34cea50d30.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=31",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1193692,
+          "lote": "32",
+          "titulo": "32) Dos Disco Simple 7  ( ASIA ) Heart Of The Moment  Only Time Will Tell 1982 Made in Holanda  1982 Made in USA",
+          "descripcion": null,
+          "artista": "ASIA",
+          "album": null,
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193692/a59de7633dc68658b0a81f92b09c942c.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=32",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1193693,
+          "lote": "33",
+          "titulo": "33) Disco Simple 7  ( The Steve Miller Band) ABRACADABRA  1982 Made in USA",
+          "descripcion": null,
+          "artista": "The Steve Miller Band",
+          "album": null,
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193693/d81211f1026073673fec506010fa70a7.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=33",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1193694,
+          "lote": "34",
+          "titulo": "34) Disco Simple 7  ( BLONDIE ) The Tide Is High 1980 Made in England",
+          "descripcion": null,
+          "artista": "BLONDIE",
+          "album": null,
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193694/2efee007b44b450c2472864175a17d6a.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=34",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1193695,
+          "lote": "35",
+          "titulo": "35) Disco Simple 7 ( SLADE ) My Oh My 1983 Made in England",
+          "descripcion": null,
+          "artista": "SLADE",
+          "album": null,
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193695/97e25f49f3117749e065c70ce22246a1.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=35",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1193696,
+          "lote": "36",
+          "titulo": "36) Disco Simple 7  ( Billy Idol ) Sweet Sixteen ) 1987 Made in Germany",
+          "descripcion": null,
+          "artista": "Billy Idol",
+          "album": null,
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193696/d693594b73e952566272f07958047c5d.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=36",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1193697,
+          "lote": "37",
+          "titulo": "37) Disco Simple 7  ( DOUBLE ) The Captain Of The Heart. 1985 Made in Francia",
+          "descripcion": null,
+          "artista": "DOUBLE",
+          "album": null,
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193697/95f016cd300c4bdf418310ad8a762107.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=37",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1193698,
+          "lote": "38",
+          "titulo": "38) Disco Simple 7 ( Howard Jones ) Like To Get To Know You Well 1984 Made in England",
+          "descripcion": null,
+          "artista": "Howard Jones",
+          "album": null,
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193698/b89a3392ac8aeb6066de0b3356929947.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=38",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1193699,
+          "lote": "39",
+          "titulo": "39) Disco Simple 7 ( MADONNA) Live To Tell 1986 Made in England",
+          "descripcion": null,
+          "artista": "MADONNA",
+          "album": null,
+          "sello": null,
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193699/75a60b8eec5e5f967a9b451a47ed09d0.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=39",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1193700,
+          "lote": "40",
+          "titulo": "40) Disco Simple 7 ( MADONNA ) Hanky Panky 1990 Made in England",
+          "descripcion": null,
+          "artista": "MADONNA",
+          "album": null,
+          "sello": null,
+          "anio": "1990",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193700/8f1f8fb02d19f47589eb3e04b97260ab.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=40",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1990"
+          ]
+        },
+        {
+          "id": 1193701,
+          "lote": "41",
+          "titulo": "41) Disco Simple 7  ( James Brown ) Living In America 1985 Made in England",
+          "descripcion": null,
+          "artista": "James Brown",
+          "album": null,
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193701/a7cf161971d6dd6887d46980f92a2121.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=41",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1193702,
+          "lote": "42",
+          "titulo": "42) Disco Simple 7  ( The Real Thing ) You To Me Are Everything. 1976 Made in England",
+          "descripcion": null,
+          "artista": "The Real Thing",
+          "album": null,
+          "sello": null,
+          "anio": "1976",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193702/b1dcf5ecf5fc3b928ae04e7ab635b8dc.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=42",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1976"
+          ]
+        },
+        {
+          "id": 1193703,
+          "lote": "43",
+          "titulo": "43) Disco Simple 7  ( P . H . D ) I Won't Let You Down 1981 Made in England",
+          "descripcion": null,
+          "artista": "P . H . D",
+          "album": null,
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193703/861ea0e28aee31cc395bf477462a651a.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=43",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1193704,
+          "lote": "44",
+          "titulo": "44) Disco Simple 7 ( The Pointer Sisters) AUTOMATIC  1989 Made in England",
+          "descripcion": null,
+          "artista": "The Pointer Sisters",
+          "album": null,
+          "sello": null,
+          "anio": "1989",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193704/fa25ea117a566187f960ffefd46f36cf.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=44",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1989"
+          ]
+        },
+        {
+          "id": 1193705,
+          "lote": "45",
+          "titulo": "45) Dos Discos Simples de John Lennon. Incluye Happy XMas 1971 y 1972. Made in England",
+          "descripcion": null,
+          "artista": "John Lennon. Incluye Happy",
+          "album": null,
+          "sello": null,
+          "anio": "1971",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193705/5c9912ff0f2d6a5eadc70aea737de8ba.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=45",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1971"
+          ]
+        },
+        {
+          "id": 1193706,
+          "lote": "46",
+          "titulo": "46) Disco Simple 7  ( John Lennon ) Woman 1981 Made in USA",
+          "descripcion": null,
+          "artista": "John Lennon",
+          "album": null,
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193706/e787f6cbd99f4d24325c3b421e6f912c.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=46",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1193707,
+          "lote": "47",
+          "titulo": "47) Disco Simple 7  ( Oran Juice Jones) The Rain  1986 Made in England",
+          "descripcion": null,
+          "artista": "Oran Juice Jones",
+          "album": null,
+          "sello": null,
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193707/bbe25cb6b65abd6916abfd447be25390.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=47",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1193708,
+          "lote": "48",
+          "titulo": "48) Disco Simple 7  ( Oee O. Jackson ) Automatic Lover  1978 Industria Brasilera",
+          "descripcion": null,
+          "artista": "Oee O. Jackson",
+          "album": null,
+          "sello": null,
+          "anio": "1978",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193708/31d73c6807df2b8cc97104872cd88f4f.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=48",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1978"
+          ]
+        },
+        {
+          "id": 1193709,
+          "lote": "49",
+          "titulo": "49) Disco Simple 7  ( Huey Lewis and The News) Heart And Soul  1983 Made in USA",
+          "descripcion": null,
+          "artista": "Huey Lewis and The News",
+          "album": null,
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193709/0224b08da8722a4cea76b707d0b8874f.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=49",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1193710,
+          "lote": "50",
+          "titulo": "50) Dos Discos Simples de Garry Morre ( Affter The War ) ( Friday On My Mind ) Alemania 1987 y 1988",
+          "descripcion": null,
+          "artista": "Affter The War",
+          "album": null,
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193710/5986ce24149bb3931517bc9c5da23549.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=50",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1193711,
+          "lote": "51",
+          "titulo": "51) Dos Discos Simples 7 ( TALK - TALK ) Today - It's So Serious  Talk - Talk 1982 Made in England",
+          "descripcion": null,
+          "artista": null,
+          "album": "TALK ) Today - It's So Serious Talk - Talk 1982 Made in England",
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193711/1c0d1171a2c0aecffe534489c31c94b2.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=51",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1193712,
+          "lote": "52",
+          "titulo": "52) Tres Discos Simples  ( LEO SAYER ) 1977 Holanda  1986 England  1974 Germany",
+          "descripcion": null,
+          "artista": "LEO SAYER",
+          "album": null,
+          "sello": null,
+          "anio": "1977",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193712/4ebd1b3848993527246bba67bb8b3cd5.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=52",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1977"
+          ]
+        },
+        {
+          "id": 1193713,
+          "lote": "53",
+          "titulo": "53) Dos Discos Simples 7 ( Joe Cocker ) With A Little Help From My Friend 1970 Industria Brasilera  ( Ruby Lee 1982 Made in England)",
+          "descripcion": null,
+          "artista": "Joe Cocker",
+          "album": null,
+          "sello": null,
+          "anio": "1970",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193713/a2d2a65dfad6effee1cc51ee6f1ca139.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=53",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1970"
+          ]
+        },
+        {
+          "id": 1193714,
+          "lote": "54",
+          "titulo": "54) Dos Discos Simples 7 ( The Eagles ) The Long Run  1979 Made in England  ( Funky New Year ) 1978 Made in England",
+          "descripcion": null,
+          "artista": "The Eagles",
+          "album": null,
+          "sello": null,
+          "anio": "1979",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193714/27c909168cad51776bed2164df34118a.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=54",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1979"
+          ]
+        },
+        {
+          "id": 1193715,
+          "lote": "55",
+          "titulo": "55) Dos Discos Simples 7 ( Neneh Cherry ) Manchild 1989 Made in England. ( Kisses On The Wind) 1986 Made in England",
+          "descripcion": null,
+          "artista": "Neneh Cherry",
+          "album": null,
+          "sello": null,
+          "anio": "1989",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193715/f9786e5678d7fdeb93ab2e985b6b3a93.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=55",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1989"
+          ]
+        },
+        {
+          "id": 1193716,
+          "lote": "56",
+          "titulo": "56) Tres Discos Simples 7 ( Rick Springfield 1984 ) ( Jimmy Ross 1982 ) ( Ian Dury 1978 )",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193716/cf7b522f9be272efe01fe01f0aa0116d.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=56",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1193717,
+          "lote": "57",
+          "titulo": "57) Cuatro Discos Simples 7  ( Hi - Fidelity Fama 1982 )  ( Starus Quo 1982) ( La Bionda 1978) ( George Benson 1986)",
+          "descripcion": null,
+          "artista": null,
+          "album": "Fidelity Fama 1982 ) ( Starus Quo 1982) ( La Bionda 1978) ( George Benson 1986)",
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193717/ceeda9ab8974b390f616c6d6f8e1484d.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=57",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1193718,
+          "lote": "58",
+          "titulo": "58) Cuatro Discos Simples 7  ( Chris Rea) Ampliar Fotografías  Para mirar títulos y Procedencia",
+          "descripcion": null,
+          "artista": "Chris Rea",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193718/1625a3b34d10723bae5988ab1752988f.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=58",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1193719,
+          "lote": "59",
+          "titulo": "59) Cuatro Discos Simples 7  ( Chris Rea) Ampliar Fotografías  Para mirar títulos y Procedencia",
+          "descripcion": null,
+          "artista": "Chris Rea",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193719/61d535247ad4fc1f8183c189f6b6f506.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=59",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1193720,
+          "lote": "60",
+          "titulo": "60) Cinco Discos Simples 7  ( Diferentes Artistas) Ampliar Fotografías para mirar títulos",
+          "descripcion": null,
+          "artista": "Diferentes Artistas",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193720/e88e5dd78d444fabffd9ab55f4fefd10.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=60",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1193721,
+          "lote": "61",
+          "titulo": "61) Seis Discos Simples 7  ( Diferentes Artistas) Ampliar Fotografías para mirar títulos",
+          "descripcion": null,
+          "artista": "Diferentes Artistas",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193721/f9df4947e87c5a15238669bff4ce826b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=61",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1193722,
+          "lote": "62",
+          "titulo": "62) Cinco Discos Simples 7  ( Diferentes Artistas) Ampliar Fotografías para mirar títulos",
+          "descripcion": null,
+          "artista": "Diferentes Artistas",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193722/7cbb833656322c672863fb057d527903.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=62",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1193723,
+          "lote": "63",
+          "titulo": "63) Seis Discos Simples 7  ( Diferentes Artistas) Ampliar Fotografías para mirar títulos",
+          "descripcion": null,
+          "artista": "Diferentes Artistas",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193723/8972818a313e3a4438696a382c67c4be.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=63",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1193724,
+          "lote": "64",
+          "titulo": "64) Seis Discos Simples 7  ( Diferentes Artistas) Ampliar Fotografías para mirar títulos",
+          "descripcion": null,
+          "artista": "Diferentes Artistas",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193724/24778f20ccdeba12709b394049103cab.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=64",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1193725,
+          "lote": "65",
+          "titulo": "65) Cinco Discos Simples 7  ( Diferentes Artistas) Ampliar Fotografías para mirar títulos",
+          "descripcion": null,
+          "artista": "Diferentes Artistas",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193725/446b62a7ebdef89cd2b4d90598a8e58c.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=65",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1193726,
+          "lote": "66",
+          "titulo": "66) Cinco Discos Simples 7  ( Diferentes Artistas) Ampliar Fotografías para mirar títulos",
+          "descripcion": null,
+          "artista": "Diferentes Artistas",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193726/f7f9de5f763eae69251fb5cefe85bd55.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=66",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1193727,
+          "lote": "67",
+          "titulo": "67) Siete Discos Simples 7  ( Diferentes Artistas) Soul - Funky - Disco - Dance Periodo 1970 Ampliar Fotografías para mirar títulos",
+          "descripcion": null,
+          "artista": "Diferentes Artistas",
+          "album": null,
+          "sello": null,
+          "anio": "1970",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193727/956abd99cd7d108b31ab376806b62b66.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=67",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1970"
+          ]
+        },
+        {
+          "id": 1193728,
+          "lote": "68",
+          "titulo": "68) Seis Discos Simples 7  ( Diferentes Artistas) Soul - Funky - Disco - Dance Periodo 1970 Ampliar Fotografías para mirar títulos",
+          "descripcion": null,
+          "artista": "Diferentes Artistas",
+          "album": null,
+          "sello": null,
+          "anio": "1970",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193728/34a729a05f08dc17acc55384589ddf91.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=68",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1970"
+          ]
+        },
+        {
+          "id": 1193729,
+          "lote": "69",
+          "titulo": "69) Siete Discos Simples 7  ( Diferentes Artistas) Soul - Funky - Disco - Dance Periodo 1970 Ampliar Fotografías para mirar títulos",
+          "descripcion": null,
+          "artista": "Diferentes Artistas",
+          "album": null,
+          "sello": null,
+          "anio": "1970",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193729/5762fb19f97c2ab946d3520acfcdfd01.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=69",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1970"
+          ]
+        },
+        {
+          "id": 1193730,
+          "lote": "70",
+          "titulo": "70) Siete Discos Simples 7  ( Diferentes Artistas) Soul - Funky - Disco - Dance Periodo 1970 Ampliar Fotografías para mirar títulos",
+          "descripcion": null,
+          "artista": "Diferentes Artistas",
+          "album": null,
+          "sello": null,
+          "anio": "1970",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193730/fc272ec4ab03e8f8bc456782cbd86ea3.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=70",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1970"
+          ]
+        },
+        {
+          "id": 1193731,
+          "lote": "71",
+          "titulo": "71) Siete Discos Simples 7  ( Diferentes Artistas) Soul - Funky - Disco - Dance Periodo 1970 Ampliar Fotografías para mirar títulos",
+          "descripcion": null,
+          "artista": "Diferentes Artistas",
+          "album": null,
+          "sello": null,
+          "anio": "1970",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193731/50bf482ec5e41a602755343e70338d48.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=71",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1970"
+          ]
+        },
+        {
+          "id": 1193732,
+          "lote": "72",
+          "titulo": "72) Siete Discos Simples 7  ( Diferentes Artistas) Soul - Funky - Disco - Dance Periodo 1970 Ampliar Fotografías para mirar títulos",
+          "descripcion": null,
+          "artista": "Diferentes Artistas",
+          "album": null,
+          "sello": null,
+          "anio": "1970",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193732/eb82daa5d6fdfe59493e2d2e56cb2550.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=72",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1970"
+          ]
+        },
+        {
+          "id": 1193733,
+          "lote": "73",
+          "titulo": "73) Siete Discos Simples 7  ( Diferentes Artistas) Soul - Funky - Disco - Dance Periodo 1970 Ampliar Fotografías para mirar títulos",
+          "descripcion": null,
+          "artista": "Diferentes Artistas",
+          "album": null,
+          "sello": null,
+          "anio": "1970",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193733/6c0d62e0518c4be987d0e9a097b3d8db.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=73",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1970"
+          ]
+        },
+        {
+          "id": 1193734,
+          "lote": "74",
+          "titulo": "74) Siete Discos Simples 7  ( Diferentes Artistas) Soul - Funky - Disco - Dance Periodo 1970 Ampliar Fotografías para mirar títulos",
+          "descripcion": null,
+          "artista": "Diferentes Artistas",
+          "album": null,
+          "sello": null,
+          "anio": "1970",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193734/256f05bcc168db240419729e3a318928.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=74",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1970"
+          ]
+        },
+        {
+          "id": 1193735,
+          "lote": "75",
+          "titulo": "75) Ocho Discos Simples 7  ( Diferentes Artistas) Soul - Funky - Disco - Dance Periodo 1970 Ampliar Fotografías para mirar títulos",
+          "descripcion": null,
+          "artista": "Diferentes Artistas",
+          "album": null,
+          "sello": null,
+          "anio": "1970",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193735/af4df39224d285eb3dce403b0485002c.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=75",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1970"
+          ]
+        },
+        {
+          "id": 1193736,
+          "lote": "76",
+          "titulo": "76) Disco Simple 7  ( U2 ) FIRE & J.Swalo  1981  Made in England",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193736/283b9e97a2608b1843b32e855139525e.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=76",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1193737,
+          "lote": "77",
+          "titulo": "77) Disco Simple 7  ( U2 ) A Day Without Me Things To Make And Do 1980 Made in England",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193737/d98990987b40dc1b82abde77c978493b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=77",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1193738,
+          "lote": "78",
+          "titulo": "78) Disco Simple 7  ( David Christie ) STRESS 1983 Made in England",
+          "descripcion": null,
+          "artista": "David Christie",
+          "album": null,
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193738/7247aec16dd6e09ed84e8bf0fed52e47.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=78",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1193739,
+          "lote": "79",
+          "titulo": "79) Disco Simple 7  ( R . E . M ) Losing My Religión 1991 Made in USA",
+          "descripcion": null,
+          "artista": "R . E . M",
+          "album": null,
+          "sello": null,
+          "anio": "1991",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193739/150032fc3740989a469747ceac2e33f1.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=79",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1991"
+          ]
+        },
+        {
+          "id": 1193740,
+          "lote": "80",
+          "titulo": "80) Disco Simple 7  ( Ben E King ) Stand By Me 1987 Made in Germany",
+          "descripcion": null,
+          "artista": "Ben E King",
+          "album": null,
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193740/ec48d607c832f618a16eee372921ac3a.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=80",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1193741,
+          "lote": "81",
+          "titulo": "81) Disco Simple 7  ( Dan Fogelberg) LONGER 1979 Made in USA",
+          "descripcion": null,
+          "artista": "Dan Fogelberg",
+          "album": null,
+          "sello": null,
+          "anio": "1979",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193741/b14c9498ef36952929512e5aa63310e5.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=81",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1979"
+          ]
+        },
+        {
+          "id": 1193742,
+          "lote": "82",
+          "titulo": "82) Disco Simple 7  ( Bananarama) COVER de Shocking Blue ( VENUS ) 1986 Made in England",
+          "descripcion": null,
+          "artista": "Bananarama",
+          "album": null,
+          "sello": null,
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193742/ed442b56b2012c2c44ef4cec51de6839.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=82",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1193743,
+          "lote": "83",
+          "titulo": "83) Disco Simple 7  ( Cheap Trick ) COVER de Otis Blackwell ) Popularizó Elvis Presley  ( Don't Be Cuel ) 1988 Made in England",
+          "descripcion": null,
+          "artista": "Cheap Trick",
+          "album": null,
+          "sello": null,
+          "anio": "1988",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193743/37b42361bde73e5f5874d85cacd9d2e5.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=83",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1988"
+          ]
+        },
+        {
+          "id": 1193744,
+          "lote": "84",
+          "titulo": "84) Disco Simple 7  ( Bruce Springsteen ) Tunnel Of Love 1987 Made in England",
+          "descripcion": null,
+          "artista": "Bruce Springsteen",
+          "album": null,
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193744/ae62f364f2f6180ceb4d549efd66a72a.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=84",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1193745,
+          "lote": "85",
+          "titulo": "85) Disco Simple 7  ( Billy Joel ) Leave a Tender Moment Alone  1984 Made in England",
+          "descripcion": null,
+          "artista": "Billy Joel",
+          "album": null,
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193745/60b206a57280118a4c7937808012c9d6.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=85",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1193746,
+          "lote": "86",
+          "titulo": "86) Disco Simple 7  ( Marvin Gaye ) Sexual Healing  1982 Made in Holanda",
+          "descripcion": null,
+          "artista": "Marvin Gaye",
+          "album": null,
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193746/c875e640c4ae1019bf3a373c5a3aab86.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=86",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1193747,
+          "lote": "87",
+          "titulo": "87) Dos Discos Simples 7  ( Rick James) Súper Freaks y Give It To Me Baby 1981 ( Give It To Me Baby 1981 )",
+          "descripcion": null,
+          "artista": "Rick James",
+          "album": null,
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193747/93bc8feaed0eba1d0614ba76e773c498.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=87",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1193748,
+          "lote": "88",
+          "titulo": "88) Disco Simple 7  ( COMMODORES) BRICK HOUSE 1977 Made in USA",
+          "descripcion": null,
+          "artista": "COMMODORES",
+          "album": null,
+          "sello": null,
+          "anio": "1977",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193748/44114ccb5e9382786472b702dc26e97e.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=88",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1977"
+          ]
+        },
+        {
+          "id": 1193749,
+          "lote": "89",
+          "titulo": "89) Disco Simple 7  ( Chris De Burgh ) High On Emotion 1984 Made in Holanda",
+          "descripcion": null,
+          "artista": "Chris De Burgh",
+          "album": null,
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193749/21b0d9037de6a02a0410c23e33c60cc9.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=89",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1193750,
+          "lote": "90",
+          "titulo": "90) Disco Simple 7  ( Elvis Costello) Oliver's Army 1979 Made in England",
+          "descripcion": null,
+          "artista": "Elvis Costello",
+          "album": null,
+          "sello": null,
+          "anio": "1979",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193750/11d07c4484ce78bdc83f8f1d6ae60f44.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=90",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1979"
+          ]
+        },
+        {
+          "id": 1193751,
+          "lote": "91",
+          "titulo": "91) Disco Simple 7  ( Paul Young ) Every Time You Go Away) 1985 Made in England",
+          "descripcion": null,
+          "artista": "Paul Young",
+          "album": null,
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193751/f4e7c9e64ba26b3c70c479449c007628.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=91",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1193752,
+          "lote": "92",
+          "titulo": "92) Disco Simple 7  ( Daryl Hall & John Oates ) Kiss On My Lista 1980 Made in USA",
+          "descripcion": null,
+          "artista": "Daryl Hall & John Oates",
+          "album": null,
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193752/7bd747371f516c3431ed4fbaa18cea54.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=92",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1193753,
+          "lote": "93",
+          "titulo": "93) Dos Discos Simples  ( Tina Turner ) The Best 1989 Made in USA. ( Let's Stay Together 1983 Made in USA)",
+          "descripcion": null,
+          "artista": "Tina Turner",
+          "album": null,
+          "sello": null,
+          "anio": "1989",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193753/da1c871d6cc6fdaa79f5f435c8eba2b7.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=93",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1989"
+          ]
+        },
+        {
+          "id": 1193754,
+          "lote": "94",
+          "titulo": "94) Disco Simple 7  ( Rod Stewart) The Motown Song ) 1989 Made in Germany",
+          "descripcion": null,
+          "artista": "Rod Stewart",
+          "album": null,
+          "sello": "Motown",
+          "anio": "1989",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193754/da4d5b75030eaef3387a08b83754ded9.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=94",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1989"
+          ]
+        },
+        {
+          "id": 1193755,
+          "lote": "95",
+          "titulo": "95) Disco Simple 7  ( Rod Stewart) Rhythm Of Me Heart 1991 Made in England",
+          "descripcion": null,
+          "artista": "Rod Stewart",
+          "album": null,
+          "sello": null,
+          "anio": "1991",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193755/9821960e9dc4f4c19dfc3ba035049dad.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=95",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1991"
+          ]
+        },
+        {
+          "id": 1193756,
+          "lote": "96",
+          "titulo": "96) Disco Simple 7  ( Glenn Frey ) The One You Love  1982 Made in USA",
+          "descripcion": null,
+          "artista": "Glenn Frey",
+          "album": null,
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193756/2aea8c68761a30e050a2793b4b87b994.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=96",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1193757,
+          "lote": "97",
+          "titulo": "97) Disco Simple 7 ( Kool & The Gang ) Celebration 1980 Made in USA",
+          "descripcion": null,
+          "artista": "Kool & The Gang",
+          "album": null,
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193757/a13d3835bd33b8b41806aa52de164bf2.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=97",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1193758,
+          "lote": "98",
+          "titulo": "98) Disco Simple 7 ( Yarbrough & People) Don't Stop The Music  1980 Made in USA",
+          "descripcion": null,
+          "artista": "Yarbrough & People",
+          "album": null,
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193758/fc8501e5883f8080843b7b9493a9c4de.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=98",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1193759,
+          "lote": "99",
+          "titulo": "99) Disco Simple 7  ( A Flock Of Seagulls) I Rain So Far Away  1982 Made in USA",
+          "descripcion": null,
+          "artista": "A Flock Of Seagulls",
+          "album": null,
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193759/e5f9026d981f8e52917af7dcfd5b7b13.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=99",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1193760,
+          "lote": "100",
+          "titulo": "100) Disco Simple 7  ( Communards) Don't Leave Me This Way 1986 Made in England",
+          "descripcion": null,
+          "artista": "Communards",
+          "album": null,
+          "sello": null,
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193760/1a399e8c4f5f52ef8a33fc62d942e960.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=100",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1193761,
+          "lote": "101",
+          "titulo": "101) Disco Simple 7  ( Culture Club) It's A Miracle  1984 Made in England",
+          "descripcion": null,
+          "artista": "Culture Club",
+          "album": null,
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193761/7cbe0de04b8bfbc8c2568afcfae62080.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=101",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1193762,
+          "lote": "102",
+          "titulo": "102) Disco Simple 7  ( PRINCE ) Purple Rain  1985 Made in USA",
+          "descripcion": null,
+          "artista": "PRINCE",
+          "album": null,
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193762/b2d364db5aa8281ca17c2029c043925b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=102",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1193763,
+          "lote": "103",
+          "titulo": "103) Disco Simple 7  ( Lindsey Buckingham ) Trouble 1981 Made in England",
+          "descripcion": null,
+          "artista": "Lindsey Buckingham",
+          "album": null,
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193763/e8fa1de84133c46be994329fcf33eb36.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=103",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1193764,
+          "lote": "104",
+          "titulo": "104) Disco Simple 7  ( Sergio Mendez ) Never Gonna Let You Go ) 1983 Made in England",
+          "descripcion": null,
+          "artista": "Sergio Mendez",
+          "album": null,
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193764/8ce57c0bfde85a08419a585e76966ea0.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=104",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1193766,
+          "lote": "106",
+          "titulo": "106) Disco Simple 7  ( Third World) Now That We've Found Love 1980 Made in USA",
+          "descripcion": null,
+          "artista": "Third World",
+          "album": null,
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193766/997017d8fab96f2e3915e80f2b84a1aa.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=106",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1193767,
+          "lote": "107",
+          "titulo": "107) Disco Simple 7  ( Duran - Duran ) New Moon On Monday) 1983 Made in England",
+          "descripcion": null,
+          "artista": null,
+          "album": "Duran ) New Moon On Monday) 1983 Made in England",
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193767/af805628ac79e3e2327f600d0aef77fb.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=107",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1193768,
+          "lote": "108",
+          "titulo": "108) Disco Simple 7  ( Sister Sladge) We Are Family  1979 Made in Bélgica",
+          "descripcion": null,
+          "artista": "Sister Sladge",
+          "album": null,
+          "sello": null,
+          "anio": "1979",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193768/a75e5202af893cbf596f3d8a268749b8.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=108",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1979"
+          ]
+        },
+        {
+          "id": 1193769,
+          "lote": "109",
+          "titulo": "109) Disco Simple 7  ( Bryan Adams ) Thought I'd Died And Gone To Heaven. Incluye Somebody Live. 1992 Made in England",
+          "descripcion": null,
+          "artista": "Bryan Adams",
+          "album": null,
+          "sello": null,
+          "anio": "1992",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193769/92d63acd0be6346c52a0be8bd8319c48.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=109",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1992"
+          ]
+        },
+        {
+          "id": 1193770,
+          "lote": "110",
+          "titulo": "110) Disco Simple 7  ( Chubby Chcker) Let's Twist Again  Sin Fecha y Procedencia",
+          "descripcion": null,
+          "artista": "Chubby Chcker",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193770/6ac59b3b526ba689bc31685034874f2a.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=110",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1193771,
+          "lote": "111",
+          "titulo": "111) Disco Simple 7  ( The Fixx ) Red Skies) 1983 Made in USA",
+          "descripcion": null,
+          "artista": "The Fixx",
+          "album": null,
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193771/17e517c993d48a547c990b5c55fe2b81.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=111",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1193772,
+          "lote": "112",
+          "titulo": "112) Disco Simple 7  ( Stevie Wonder ) Part - Time Love 1985 Made in USA",
+          "descripcion": null,
+          "artista": "Stevie Wonder",
+          "album": "Time Love 1985 Made in USA",
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193772/206c7337208ae9deda9ba4964abc99ee.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=112",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1193773,
+          "lote": "113",
+          "titulo": "113) Disco Simple 7  ( Ray Parker Jr) The Other Woman  1982 Made in USA",
+          "descripcion": null,
+          "artista": "Ray Parker Jr",
+          "album": null,
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193773/2da93ec2970019b2f80e84d5c42f8097.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=113",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1193774,
+          "lote": "114",
+          "titulo": "114) Disco Simple 7  ( SURVIVOR ) Burning Heart  1985 Made in USA",
+          "descripcion": null,
+          "artista": "SURVIVOR",
+          "album": null,
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193774/b87728810549016d4e1ddacc0f12640d.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=114",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1193775,
+          "lote": "115",
+          "titulo": "115) Disco Simple 7 ( Adam & The Ants) Automatic  1980 Made in Holanda",
+          "descripcion": null,
+          "artista": "Adam & The Ants",
+          "album": null,
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193775/f2b85f1ea47c65eb494cab9a03b3db11.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=115",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1193776,
+          "lote": "116",
+          "titulo": "116) Disco Simple 7  ( Carly Simon) Coming Around Again 1981 Made in USA",
+          "descripcion": null,
+          "artista": "Carly Simon",
+          "album": null,
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193776/c3f48aaf62b7e4540bfe76975c0c14c2.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=116",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1193777,
+          "lote": "117",
+          "titulo": "117) Disco Simple 7  ( Mick Jagger ) Just Another Night  1985 Made in England",
+          "descripcion": null,
+          "artista": "Mick Jagger",
+          "album": null,
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193777/35a9fd94a8ee314d93e4dde1bb5dd89f.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=117",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1193778,
+          "lote": "118",
+          "titulo": "118) Disco Simple 7  ( Fleetwood Mac ) Big Love  1987 Made in England",
+          "descripcion": null,
+          "artista": "Fleetwood Mac",
+          "album": null,
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193778/cd2dabb09e38ae8dd68fea8291943558.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=118",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1193779,
+          "lote": "119",
+          "titulo": "119) Disco Simple 7  ( STIX ) Babe 1978 Made in England",
+          "descripcion": null,
+          "artista": "STIX",
+          "album": null,
+          "sello": null,
+          "anio": "1978",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193779/1a1884ec6a787adc9c5491ed44201225.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=119",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1978"
+          ]
+        },
+        {
+          "id": 1193780,
+          "lote": "120",
+          "titulo": "120) Disco Simple 7  ( GAZEBO ) Telefon Mama 1984 Made in Italia",
+          "descripcion": null,
+          "artista": "GAZEBO",
+          "album": null,
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193780/1baa65e2d0d0e311c023a50293111cd7.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=120",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1193781,
+          "lote": "121",
+          "titulo": "121) Disco Simple 7  ( Kim Carnes) Bette David Eyes  1981 Made in USA",
+          "descripcion": null,
+          "artista": "Kim Carnes",
+          "album": null,
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193781/eb5f604d95dbf62319fe0744cfdf64a0.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=121",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1193782,
+          "lote": "122",
+          "titulo": "122) Disco Simple 7  ( Rolling Stones ) ANGIE 1973 Made in USA",
+          "descripcion": null,
+          "artista": "Rolling Stones",
+          "album": null,
+          "sello": null,
+          "anio": "1973",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193782/b14ca81e56ab8b82e53a94027431c9b2.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=122",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1973"
+          ]
+        },
+        {
+          "id": 1193783,
+          "lote": "123",
+          "titulo": "123) Disco Simple 7  ( Fun Boy Three) The Tunel Of Love 1983 Made in England",
+          "descripcion": null,
+          "artista": "Fun Boy Three",
+          "album": null,
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193783/3a24077c7f6ddc410c5f340abd9d6228.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=123",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1193784,
+          "lote": "124",
+          "titulo": "124) Disco Simple 7  ( LINDISFARNE) Run For Home 1978 Made in England",
+          "descripcion": null,
+          "artista": "LINDISFARNE",
+          "album": null,
+          "sello": null,
+          "anio": "1978",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193784/4427256ba34a6da84c33c3a5e0b04374.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=124",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1978"
+          ]
+        },
+        {
+          "id": 1193785,
+          "lote": "125",
+          "titulo": "125) Disco Simple 7  ( Saphir ) I Feel Good 1986 CEE\" (Comunidad Económica Europea)",
+          "descripcion": null,
+          "artista": "Saphir",
+          "album": null,
+          "sello": null,
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193785/6c46bda944203f30e5cf760e2f81f121.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=125",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1193786,
+          "lote": "126",
+          "titulo": "126) Disco Simple 7  ( BUCKS FIZZ ) Talking In Your Sleep 1984 Made in England",
+          "descripcion": null,
+          "artista": "BUCKS FIZZ",
+          "album": null,
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193786/b19cdaa97fa3d4dd8b48a543a00d79eb.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=126",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1193787,
+          "lote": "127",
+          "titulo": "127) Disco Simple 7  ( Peter Framptom) I Can't Stand It No More 1979 Made in Italia",
+          "descripcion": null,
+          "artista": "Peter Framptom",
+          "album": null,
+          "sello": null,
+          "anio": "1979",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193787/0416e08c532b0ce5beb88f794242f9ab.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=127",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1979"
+          ]
+        },
+        {
+          "id": 1193788,
+          "lote": "128",
+          "titulo": "128) Tres LP  Clásicas Ensaladas Para DJ ( PATO C )",
+          "descripcion": null,
+          "artista": "PATO C",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193788/3aba6ab3eaa3ba603065407291f22ede.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=128",
+          "motivos": [
+            "dice \"LP\""
+          ]
+        },
+        {
+          "id": 1193789,
+          "lote": "129",
+          "titulo": "129) Disco LP Doblé  ( Bee Gees ) Saturday Night Fever Industria Uruguaya 1977 Más Simple 7  Too Much Heaven 1978",
+          "descripcion": null,
+          "artista": "Bee Gees",
+          "album": null,
+          "sello": null,
+          "anio": "1977",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193789/4a8093afc3ffad328efea064dc382af1.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=129",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1977"
+          ]
+        },
+        {
+          "id": 1193790,
+          "lote": "130",
+          "titulo": "130) Disco LP ( Lionel Richie ) Dancing On The Ceiling Incluye ( Say You Say Me )  Contiene Insert Pequeño Detalles en Cubierta. Más Simple 7 ( Truly )",
+          "descripcion": null,
+          "artista": "Lionel Richie",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193790/0413de4b04108ed6094b2baa13c868ec.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=130",
+          "motivos": [
+            "dice \"LP\""
+          ]
+        },
+        {
+          "id": 1193791,
+          "lote": "131",
+          "titulo": "131) Disco LP ( Kenny Rogers ) They Don't Make Them Like They Used To 1986 Industria Uruguaya  Más Simple 7  ( I Don't Need You 1981 USA )",
+          "descripcion": null,
+          "artista": "Kenny Rogers",
+          "album": null,
+          "sello": null,
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193791/0b5d84e24bfadad33b789071c6007faf.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=131",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1193792,
+          "lote": "132",
+          "titulo": "132) Disco LP ( Kenny Rogers ) Greatest Hits  1980 Made in USA  Más Insert y Folleto Publicitario de Indumentaria Country",
+          "descripcion": null,
+          "artista": "Kenny Rogers",
+          "album": null,
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193792/7419df42b225b6df32b86696cc630b0c.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=132",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1193793,
+          "lote": "133",
+          "titulo": "133) Disco LP ( Kenny Rogers ) Love Will Turn You Around  1982 Industria Brasilera. Más Simple 7 ( Lady )",
+          "descripcion": null,
+          "artista": "Kenny Rogers",
+          "album": null,
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193793/c88389c76848074a09abca81f1a3c6cb.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=133",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1193794,
+          "lote": "134",
+          "titulo": "134) Disco LP ( Christopher Cross) Back Of My Mind  1988 Industria Argentina. Más Simple 7  ( A Chance For Heaven )",
+          "descripcion": null,
+          "artista": "Christopher Cross",
+          "album": null,
+          "sello": null,
+          "anio": "1988",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193794/938cbd639e3719cfd3fcad3c9635f945.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=134",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1988"
+          ]
+        },
+        {
+          "id": 1193795,
+          "lote": "135",
+          "titulo": "135) Disco Maxi 12  ( COMMODORES) Animal Instintc 1985 Made in USA  Más Tres Simple 7  Incluye Brick House 1977 USA",
+          "descripcion": null,
+          "artista": "COMMODORES",
+          "album": null,
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193795/416febca6b5349d5dcef633b56178bb9.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=135",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1193796,
+          "lote": "136",
+          "titulo": "136) Disco LP ( Heart - Wind - Fire ) 1979 Industria Uruguaya  Pequeños detalles en Cubierta. Más Dos Simples 7  Incluye ( Let's Groove)",
+          "descripcion": null,
+          "artista": "Let's Groove",
+          "album": "Wind - Fire ) 1979 Industria Uruguaya Pequeños detalles en Cubierta",
+          "sello": null,
+          "anio": "1979",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193796/c1b8f720e496f077b913814cdf65c5c5.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=136",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1979"
+          ]
+        },
+        {
+          "id": 1193797,
+          "lote": "137",
+          "titulo": "137) Disco LP ( Diana Ross Live ) 1977 Industria Uruguaya  Más Tres Simples 7  De la misma Artista  Made in USA",
+          "descripcion": null,
+          "artista": "Diana Ross Live",
+          "album": null,
+          "sello": null,
+          "anio": "1977",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193797/8c77578cad7d3a00e24b2229be204fb4.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=137",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1977"
+          ]
+        },
+        {
+          "id": 1193798,
+          "lote": "138",
+          "titulo": "138) Disco LP ( Simon & Garfunkel) Sounds Of Silence  1965 Made in USA",
+          "descripcion": null,
+          "artista": "Simon & Garfunkel",
+          "album": null,
+          "sello": null,
+          "anio": "1965",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193798/587886df4f320ce84c08407142c96b5c.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=138",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1965"
+          ]
+        },
+        {
+          "id": 1193799,
+          "lote": "139",
+          "titulo": "139) Disco LP ( Simon & Garfunkel) Greatest Hits  1977 Industria Uruguaya",
+          "descripcion": null,
+          "artista": "Simon & Garfunkel",
+          "album": null,
+          "sello": null,
+          "anio": "1977",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193799/aa6dd194ab7c11691f368b248aedec70.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=139",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1977"
+          ]
+        },
+        {
+          "id": 1193800,
+          "lote": "140",
+          "titulo": "140) Disco LP ( Ensalada Pop de la Revista Rock y Pop ) 1987 Industria Argentina",
+          "descripcion": null,
+          "artista": "Ensalada Pop de la Revista Rock y Pop",
+          "album": null,
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193800/ef6e5737920aa7720e016136681554e6.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=140",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1193801,
+          "lote": "141",
+          "titulo": "141) Disco LP ( The Eagles ) One Of The Night  1975 Industria Uruguaya",
+          "descripcion": null,
+          "artista": "The Eagles",
+          "album": null,
+          "sello": null,
+          "anio": "1975",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193801/7d130038dee572077425610d52fda181.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=141",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1975"
+          ]
+        },
+        {
+          "id": 1193802,
+          "lote": "142",
+          "titulo": "142) Disco LP  ( Boney M ) Oceans Of Fantasy  1979 Industria Uruguaya  Pequeño detalle en cubierta",
+          "descripcion": null,
+          "artista": "Boney M",
+          "album": null,
+          "sello": null,
+          "anio": "1979",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193802/5e2b806e957051c2bc57c6b94b0a3306.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=142",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1979"
+          ]
+        },
+        {
+          "id": 1193803,
+          "lote": "143",
+          "titulo": "143) Disco LP ( Boney M ) Golden Hits 1980 Industria Uruguaya  Incluye - Ma Baker River Of Babylon - Rasputín - Daddy Cool",
+          "descripcion": null,
+          "artista": "Boney M",
+          "album": null,
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193803/0cb8a95e0ec0480d725bc8eef94261e8.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=143",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1193804,
+          "lote": "144",
+          "titulo": "144) Disco LP ( CHICAGO 19) 1988 Industria Uruguaya",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1988",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193804/d585c34ea39bf417d6539afe9553c041.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=144",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1988"
+          ]
+        },
+        {
+          "id": 1193805,
+          "lote": "145",
+          "titulo": "145) Disco LP  ( TOTO ) 1979 Industria Uruguaya  Incluye ( Hold The Line)",
+          "descripcion": null,
+          "artista": "TOTO",
+          "album": null,
+          "sello": null,
+          "anio": "1979",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193805/58750742036db58338713c3e6bd558ba.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=145",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1979"
+          ]
+        },
+        {
+          "id": 1193806,
+          "lote": "146",
+          "titulo": "146) Disco LP ( INXS ) THE SWING  1984 Made in USA  ( Aclaración, Detalles en Cubierta y Pequeñas marcas de Uso )",
+          "descripcion": null,
+          "artista": "INXS",
+          "album": null,
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193806/b23b0d63efe4677f0aecec77290a7f92.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=146",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1193807,
+          "lote": "147",
+          "titulo": "147) Disco LP ( Paul Simon) GRACELAND 1986 Industria Brasilera  Incluye ( You Can Call Me Al )",
+          "descripcion": null,
+          "artista": "Paul Simon",
+          "album": null,
+          "sello": null,
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193807/95e9994ef395da19dc430ff13f2a293c.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=147",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1193808,
+          "lote": "148",
+          "titulo": "148) Disco LP  ( Ensalada Para DJ ) 1990 Industria Argentina  Incluye ( Get Up TECHNOTRONIC)",
+          "descripcion": null,
+          "artista": "Ensalada Para DJ",
+          "album": null,
+          "sello": null,
+          "anio": "1990",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193808/865fd990ff18714a4a224fe554e769f8.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=148",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1990"
+          ]
+        },
+        {
+          "id": 1193809,
+          "lote": "149",
+          "titulo": "149) Disco LP ( PRETENDERS) Greatest Hits ( The Singles) 1987 Made in España. Aclaración ( Pequeño Detalles en Cubierta y Marquitas de Uso)",
+          "descripcion": null,
+          "artista": "PRETENDERS",
+          "album": null,
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193809/ec7fc5eaad07d2b13ae7bc91a8260314.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=149",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1193810,
+          "lote": "150",
+          "titulo": "150) Disco LP ( KISS ) Music From The Elder edición gatefold 1981 Edición Brasileña",
+          "descripcion": null,
+          "artista": "KISS",
+          "album": null,
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193810/b4e1dc6870004c8c607bb9f3cafd4880.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=150",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1193811,
+          "lote": "151",
+          "titulo": "151) Disco LP  ( The Police) Ghost In The Machine  1987 Industria Brasilera",
+          "descripcion": null,
+          "artista": "The Police",
+          "album": null,
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": 200,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193811/33fae71614c3ddf1337791dcfc983c04.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=151",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1193812,
+          "lote": "152",
+          "titulo": "152) Disco LP  ( Culture Club) Color By Numbers  Con Insert 1983 Made in England. Incluye ( Karma Chameleon)",
+          "descripcion": null,
+          "artista": "Culture Club",
+          "album": null,
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193812/2930eb59450e9465d441b8115f272c42.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=152",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1193813,
+          "lote": "153",
+          "titulo": "153) Disco LP  ( SUPERTAMP) 88 Live 1988 Industria Uruguaya",
+          "descripcion": null,
+          "artista": "SUPERTAMP",
+          "album": null,
+          "sello": null,
+          "anio": "1988",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193813/ea28f96974bb964443a751fea7377242.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=153",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1988"
+          ]
+        },
+        {
+          "id": 1193814,
+          "lote": "154",
+          "titulo": "154) Disco LP ( SUPERTAMP) Famus Last Words Contiene Insert  1982 Industria Brasilera",
+          "descripcion": null,
+          "artista": "SUPERTAMP",
+          "album": null,
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 0,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193814/f31be299041fb1816fc3e9b86777dacf.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=154",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1193815,
+          "lote": "155",
+          "titulo": "155) Disco LP ( SUPERTAMP) Free As A Bird ) 1987 Industria Uruguaya",
+          "descripcion": null,
+          "artista": "SUPERTAMP",
+          "album": null,
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193815/093e3256fd9563a7451b0d4b58ef5799.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=155",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1193816,
+          "lote": "156",
+          "titulo": "156) Disco LP  ( SUPERTAMP) Crimen del Siglo 1974 Industria Uruguaya",
+          "descripcion": null,
+          "artista": "SUPERTAMP",
+          "album": null,
+          "sello": null,
+          "anio": "1974",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193816/60075ec5b7e8b845fc6fb41acff21e46.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=156",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1974"
+          ]
+        },
+        {
+          "id": 1193817,
+          "lote": "157",
+          "titulo": "157) Disco LP  ( Smokie) Bright Lights & Back Alleys  Incluye Needles And Pins  Más Simple 7  1978 Industria Uruguaya",
+          "descripcion": null,
+          "artista": "Smokie",
+          "album": null,
+          "sello": null,
+          "anio": "1978",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193817/992c34eec25d388169f9c2f67e1ee73d.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=157",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1978"
+          ]
+        },
+        {
+          "id": 1193818,
+          "lote": "158",
+          "titulo": "158) Disco LP  ( Robert Plant) Conmovido y Exitado  1985 Industria Uruguaya",
+          "descripcion": null,
+          "artista": "Robert Plant",
+          "album": null,
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193818/06e606c2ad9a66b39bbf36c433ea4599.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=158",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1193819,
+          "lote": "159",
+          "titulo": "159) Disco LP ( DEEP PURPLE ) Greatest Hits  1980 Industria Uruguaya",
+          "descripcion": null,
+          "artista": "DEEP PURPLE",
+          "album": null,
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193819/3ce9de19f8784c01f3511b6e492ef3fa.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=159",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1193820,
+          "lote": "160",
+          "titulo": "160) Disco Lp ( Dire Straits ) Comfort And Hoy 1986 Industria Argentina",
+          "descripcion": null,
+          "artista": "Dire Straits",
+          "album": null,
+          "sello": null,
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193820/d6a6290479395cd274031e58a2ca89b7.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=160",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1193821,
+          "lote": "161",
+          "titulo": "161) Disco LP  ( Phil Collins ) But Seriously  1990 Industria Brasilera  Contiene Insert",
+          "descripcion": null,
+          "artista": "Phil Collins",
+          "album": null,
+          "sello": null,
+          "anio": "1990",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193821/7145d23afa2adf6ad047d8f29d28ddb6.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=161",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1990"
+          ]
+        },
+        {
+          "id": 1193822,
+          "lote": "162",
+          "titulo": "162) Disco LP  ( Simple Minds ) Real Life 1991 Made in England Contiene Insert  ( Aclaración) Detalles en Cubierta y Marcas de Uso",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1991",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193822/45352e4e110927bad26053b980f3daa6.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=162",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1991"
+          ]
+        },
+        {
+          "id": 1193823,
+          "lote": "163",
+          "titulo": "163) Disco LP ( James Taylor) Live En Río 1986 Industria Brasilera",
+          "descripcion": null,
+          "artista": "James Taylor",
+          "album": null,
+          "sello": null,
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193823/93b30a4f79daf215bc1f321ab7eb3018.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=163",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1193824,
+          "lote": "164",
+          "titulo": "164) Disco LP  ( Tears For Fear ) The Seend Of Love 1984 Industria Uruguaya. Contiene Insert",
+          "descripcion": null,
+          "artista": "Tears For Fear",
+          "album": null,
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193824/04a325e6f55861dab16c69637ecd21ed.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=164",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1193825,
+          "lote": "165",
+          "titulo": "165) Disco Simple 7  ( Little Richard) Good Golly Miss Molly ( Rip It Up ) By The Light Of The Silvery Moon 1977 Made in England",
+          "descripcion": null,
+          "artista": "Little Richard",
+          "album": null,
+          "sello": null,
+          "anio": "1977",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193825/f8469cf2472fc1231a4360dafbe77297.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=165",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1977"
+          ]
+        },
+        {
+          "id": 1193826,
+          "lote": "166",
+          "titulo": "166) Disco Simple 7  ( NENA) 99 Red Balloons  1983 Made in England",
+          "descripcion": null,
+          "artista": "NENA",
+          "album": null,
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193826/7769ef85cd53ad56cf56d328f3aeade2.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=166",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1193827,
+          "lote": "167",
+          "titulo": "167) Disco Simple 7  ( BLONDIE) CALL ME  1980 Made in USA",
+          "descripcion": null,
+          "artista": "BLONDIE",
+          "album": null,
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193827/2fc88f83b9896ef8f02dc7f523db27ad.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=167",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1193828,
+          "lote": "168",
+          "titulo": "168) Disco Simple 7  ( Cock Robin) The Promise You Made 1986 Made in England",
+          "descripcion": null,
+          "artista": "Cock Robin",
+          "album": null,
+          "sello": null,
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193828/3cb933d3804be59a48ea2fa8f4133f20.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=168",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1193829,
+          "lote": "169",
+          "titulo": "169) Disco Simple 7  ( Bryan Adams) SOMEBODY  1984 Made in USA",
+          "descripcion": null,
+          "artista": "Bryan Adams",
+          "album": null,
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193829/6a48ae98b49cd55b157e2743393e9d0b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=169",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1193830,
+          "lote": "170",
+          "titulo": "170) Disco Simple 7  ( Gap Band ) Oops Upside Your Head 87 Mix  1987 Made in USA",
+          "descripcion": null,
+          "artista": "Gap Band",
+          "album": null,
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193830/4c40bd7588e1e89c42ad22da9275513b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=170",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1193831,
+          "lote": "171",
+          "titulo": "171) Disco Simple 7  Mix Techno de Don Pablo's Animal. Del Clásico Venus de Shocking Blue Sin Fecha: Made in England",
+          "descripcion": null,
+          "artista": "Don Pablo",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193831/1aa1e706886dafe2a54725aaf1c91330.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=171",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1193832,
+          "lote": "172",
+          "titulo": "172) Disco Simple 7  Clásico Techno de Black Box  \"Ride on time\" 1989 Made in England",
+          "descripcion": null,
+          "artista": "Black Box",
+          "album": "Ride on time",
+          "sello": null,
+          "anio": "1989",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193832/7b18b3c04f4349fd253fdd8aa7baf3c7.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=172",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1989"
+          ]
+        },
+        {
+          "id": 1193833,
+          "lote": "173",
+          "titulo": "173) Disco Maxi 12  ( QUEEN ) ONE VISION 1985 Industria Uruguaya",
+          "descripcion": null,
+          "artista": "QUEEN",
+          "album": null,
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193833/3462b032b6b37d0289eee579f2fd9d91.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=173",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1193834,
+          "lote": "174",
+          "titulo": "174) Disco LP  ( Frank Zappa) Apostrophe  Detalles en Cubierta. 1974 Industria Uruguaya",
+          "descripcion": null,
+          "artista": "Frank Zappa",
+          "album": null,
+          "sello": null,
+          "anio": "1974",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193834/49ef96d28b51bfcd47cd4e0ecac3f3d5.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=174",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1974"
+          ]
+        },
+        {
+          "id": 1193835,
+          "lote": "175",
+          "titulo": "175) Disco LP  ( Van Halen ) Justa Advertencia  1981 Industria Argentina",
+          "descripcion": null,
+          "artista": "Van Halen",
+          "album": null,
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193835/6c4d01087266a408402c18bdb5ec48ed.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=175",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1193836,
+          "lote": "176",
+          "titulo": "176) Disco LP  ( THE KINKS ) Think Visual 1987 Industria Argentina. Contiene Insert",
+          "descripcion": null,
+          "artista": "THE KINKS",
+          "album": null,
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193836/87816ceaeb869e7eadee1a0bad4f562b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=176",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1193837,
+          "lote": "177",
+          "titulo": "177) Disco LP ( VISAGE) Made in Francia",
+          "descripcion": null,
+          "artista": "VISAGE",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193837/8581db4663ce8a7ee07c87f15fc0ffb8.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=177",
+          "motivos": [
+            "dice \"LP\""
+          ]
+        },
+        {
+          "id": 1193838,
+          "lote": "178",
+          "titulo": "178) Disco LP  ( Bruce Springsteen) Born In The USA  1984 Industria Brasilera  Tiene Pegado el Platico a la Tapa",
+          "descripcion": null,
+          "artista": "Bruce Springsteen",
+          "album": null,
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193838/fb71822d1c83da743358bced2ed5f2b0.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=178",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1193839,
+          "lote": "179",
+          "titulo": "179) Discos LP ( Álbum Doblé) All The Hits de Gloria Gaynor  Incluye Remix Maxi 2004 Made in Italia",
+          "descripcion": null,
+          "artista": "Álbum Doblé",
+          "album": null,
+          "sello": null,
+          "anio": "2004",
+          "moneda": "$",
+          "base": 200,
+          "oferta": 200,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193839/38777f6466dec113e9fbaa7882092d6e.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=179",
+          "motivos": [
+            "dice \"LP\"",
+            "año 2004"
+          ]
+        },
+        {
+          "id": 1193840,
+          "lote": "180",
+          "titulo": "180) Disco Maxi 12  ( Timmy Thomas) Vinilo Color Transparente. ( Why Can't We Live Together) 2024 Made in Holanda",
+          "descripcion": null,
+          "artista": "Timmy Thomas",
+          "album": null,
+          "sello": null,
+          "anio": "2024",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193840/74f526643b3e91afc32c963d409d708e.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=180",
+          "motivos": [
+            "dice \"vinilo\"",
+            "año 2024"
+          ]
+        },
+        {
+          "id": 1193841,
+          "lote": "181",
+          "titulo": "181) Disco Maxi 12 ( GALA ) Vinilo Color Amarillo  ( Versión Extendida) Freed From Desire  2024 Made in England",
+          "descripcion": null,
+          "artista": "GALA",
+          "album": null,
+          "sello": null,
+          "anio": "2024",
+          "moneda": "$",
+          "base": 200,
+          "oferta": 200,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1193841/4776c491c6300a5bd265502c00aff61c.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8304?lote=181",
+          "motivos": [
+            "dice \"vinilo\"",
+            "año 2024"
+          ]
+        }
+      ],
+      "datosDe": "2026-10-27T09:40:31.424Z"
     },
     {
       "id": "8083",
@@ -492,7 +4497,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8083",
       "totalLotes": 238,
       "vinilos": [],
-      "datosDe": "2026-10-27T00:19:33.403Z"
+      "datosDe": "2026-10-27T09:40:31.424Z"
     },
     {
       "id": "8155",
@@ -562,7 +4567,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-27T00:19:33.403Z"
+      "datosDe": "2026-10-27T09:40:31.424Z"
     },
     {
       "id": "7651",
@@ -3701,7 +7706,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-27T00:19:33.403Z"
+      "datosDe": "2026-10-27T09:40:31.424Z"
     },
     {
       "id": "8243",
@@ -3714,7 +7719,7 @@
       "timestamp": 1794175200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8243",
-      "totalLotes": 105,
+      "totalLotes": 110,
       "vinilos": [
         {
           "id": 1190149,
@@ -3735,7 +7740,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-27T00:19:33.403Z"
+      "datosDe": "2026-10-27T09:40:31.424Z"
     },
     {
       "id": "8128",
@@ -3750,7 +7755,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8128",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-10-27T00:19:33.403Z"
+      "datosDe": "2026-10-27T09:40:31.424Z"
     },
     {
       "id": "8271",
@@ -3765,7 +7770,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8271",
       "totalLotes": 170,
       "vinilos": [],
-      "datosDe": "2026-10-27T00:19:33.403Z"
+      "datosDe": "2026-10-27T09:40:31.424Z"
     }
   ]
 }
