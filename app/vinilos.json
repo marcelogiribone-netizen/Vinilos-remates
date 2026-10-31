@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-31T00:36:17.225Z",
+  "generado": "2026-10-31T10:14:50.502Z",
   "fallos": 0,
   "remates": [
     {
@@ -15,7 +15,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8252",
       "totalLotes": 115,
       "vinilos": [],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "8315",
@@ -67,7 +67,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "8102",
@@ -119,7 +119,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "8287",
@@ -687,7 +687,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "8277",
@@ -700,9 +700,9 @@
       "timestamp": 1793570400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8277",
-      "totalLotes": 419,
+      "totalLotes": 429,
       "vinilos": [],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "8286",
@@ -717,7 +717,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8286",
       "totalLotes": 208,
       "vinilos": [],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "8274",
@@ -732,7 +732,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8274",
       "totalLotes": 34,
       "vinilos": [],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "8336",
@@ -785,7 +785,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "8150",
@@ -800,7 +800,79 @@
       "url": "https://www.remotes.com.uy/participar/remate/8150",
       "totalLotes": 325,
       "vinilos": [],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
+    },
+    {
+      "id": "8341",
+      "nombre": "Excepcional remate de coleccionables multi rubro, artículos de futbol de Peñarol, Nacional, La selección uruguaya y otros: banderines, posters, libros, diarios, revistas, albums de figuritas: Mask, Thundercat, Ghostbusters y mucho mas.(SIGO CARGANDO FOTOS)",
+      "empresa": "Fernando Nalerio",
+      "departamento": "Montevideo",
+      "lugar": "Juan Benito Blanco 736/304, Montevideo",
+      "fecha": "02/11/2026, 19:30",
+      "fechaISO": "2026-11-02T22:30:00.000Z",
+      "timestamp": 1793658600,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8341",
+      "totalLotes": 186,
+      "vinilos": [
+        {
+          "id": 1200282,
+          "lote": "70",
+          "titulo": "Album de los Ghostbusters completo",
+          "descripcion": null,
+          "artista": "Ghostbusters",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1200282/79be03803fdca53e29898de23c5d5fd4.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8341?lote=70",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1200291,
+          "lote": "79",
+          "titulo": "album de las estrellas de america año 1995 solo le falta una figurita",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1995",
+          "moneda": "$",
+          "base": 300,
+          "oferta": 300,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1200291/ca7c834cb7998e386d872b0740080f3e.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8341?lote=79",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1995"
+          ]
+        },
+        {
+          "id": 1200293,
+          "lote": "81",
+          "titulo": "Album del primer campeonato mundial de 1930 replica numerada del año 2001 de corbo en excelente estado",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1930",
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1200293/53ed1989329e65ef8cb30517fe00a5b0.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8341?lote=81",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1930"
+          ]
+        }
+      ],
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "8304",
@@ -4222,7 +4294,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "8083",
@@ -4237,7 +4309,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8083",
       "totalLotes": 238,
       "vinilos": [],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "8323",
@@ -4252,7 +4324,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8323",
       "totalLotes": 127,
       "vinilos": [],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "8303",
@@ -4267,7 +4339,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8303",
       "totalLotes": 103,
       "vinilos": [],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "8182",
@@ -4302,7 +4374,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "8284",
@@ -4340,7 +4412,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "6988",
@@ -4374,7 +4446,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "8155",
@@ -4444,7 +4516,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "8324",
@@ -4459,7 +4531,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8324",
       "totalLotes": 107,
       "vinilos": [],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "8261",
@@ -4493,7 +4565,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "7651",
@@ -7632,7 +7704,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "8331",
@@ -7647,7 +7719,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8331",
       "totalLotes": 96,
       "vinilos": [],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "8243",
@@ -7660,7 +7732,7 @@
       "timestamp": 1794175200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8243",
-      "totalLotes": 122,
+      "totalLotes": 124,
       "vinilos": [
         {
           "id": 1190149,
@@ -7681,7 +7753,41 @@
           ]
         }
       ],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
+    },
+    {
+      "id": "8343",
+      "nombre": "¡Gran oportunidad de subasta! 🔨✨ Salen a remate más de 100 lotes imperdibles con bases desde $200: vas a encontrar artículos de cocina como cubiertos, cuchillas y jarras; antigüedades en bronce, latas y rastras; tecnología retro con radios, caseteros y walkmans; además de numismática, sellos postales, cuadros, figuras de porcelana, juguetes y revistas o historietas clásicas Condorito y mas",
+      "empresa": "Flores Montaña Subastas",
+      "departamento": "SALTO",
+      "lugar": "SALTO, SALTO",
+      "fecha": "08/11/2026, 19:30",
+      "fechaISO": "2026-11-08T22:30:00.000Z",
+      "timestamp": 1794177000,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8343",
+      "totalLotes": 107,
+      "vinilos": [
+        {
+          "id": 1200452,
+          "lote": "17",
+          "titulo": "Álbum fotos con su tapa con foto y firmas del famoso grupo menudo",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1200452/b1537943205acd82c9ba460c71a9621b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8343?lote=17",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        }
+      ],
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "8301",
@@ -7715,7 +7821,7 @@
           ]
         }
       ],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "8128",
@@ -7730,7 +7836,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8128",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
     },
     {
       "id": "8271",
@@ -7745,7 +7851,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8271",
       "totalLotes": 177,
       "vinilos": [],
-      "datosDe": "2026-10-31T00:36:17.225Z"
+      "datosDe": "2026-10-31T10:14:50.502Z"
     }
   ]
 }
