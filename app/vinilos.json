@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-04T01:10:29.076Z",
+  "generado": "2026-11-04T11:55:23.631Z",
   "fallos": 0,
   "remates": [
     {
@@ -8,14 +8,14 @@
       "empresa": "Emilio Baptista Martínez",
       "departamento": "Montevideo",
       "lugar": "Domingo Aramburu 1647, Montevideo",
-      "fecha": "04/11/2026, 16:00",
-      "fechaISO": "2026-11-04T19:00:00.000Z",
-      "timestamp": 1793818800,
+      "fecha": "04/11/2026, 20:30",
+      "fechaISO": "2026-11-04T23:30:00.000Z",
+      "timestamp": 1793835000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8303",
       "totalLotes": 105,
       "vinilos": [],
-      "datosDe": "2026-11-04T01:10:29.076Z"
+      "datosDe": "2026-11-04T11:55:23.631Z"
     },
     {
       "id": "8324",
@@ -30,7 +30,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8324",
       "totalLotes": 110,
       "vinilos": [],
-      "datosDe": "2026-11-04T01:10:29.076Z"
+      "datosDe": "2026-11-04T11:55:23.631Z"
     },
     {
       "id": "8182",
@@ -43,7 +43,7 @@
       "timestamp": 1793908800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8182",
-      "totalLotes": 147,
+      "totalLotes": 148,
       "vinilos": [
         {
           "id": 1198568,
@@ -101,7 +101,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-04T01:10:29.076Z"
+      "datosDe": "2026-11-04T11:55:23.631Z"
     },
     {
       "id": "8284",
@@ -139,7 +139,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-04T01:10:29.076Z"
+      "datosDe": "2026-11-04T11:55:23.631Z"
     },
     {
       "id": "6988",
@@ -173,7 +173,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-04T01:10:29.076Z"
+      "datosDe": "2026-11-04T11:55:23.631Z"
     },
     {
       "id": "8155",
@@ -243,7 +243,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-04T01:10:29.076Z"
+      "datosDe": "2026-11-04T11:55:23.631Z"
     },
     {
       "id": "8261",
@@ -277,7 +277,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-04T01:10:29.076Z"
+      "datosDe": "2026-11-04T11:55:23.631Z"
     },
     {
       "id": "8331",
@@ -292,7 +292,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8331",
       "totalLotes": 96,
       "vinilos": [],
-      "datosDe": "2026-11-04T01:10:29.076Z"
+      "datosDe": "2026-11-04T11:55:23.631Z"
     },
     {
       "id": "8274",
@@ -307,7 +307,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8274",
       "totalLotes": 12,
       "vinilos": [],
-      "datosDe": "2026-11-04T01:10:29.076Z"
+      "datosDe": "2026-11-04T11:55:23.631Z"
     },
     {
       "id": "8243",
@@ -341,7 +341,95 @@
           ]
         }
       ],
-      "datosDe": "2026-11-04T01:10:29.076Z"
+      "datosDe": "2026-11-04T11:55:23.631Z"
+    },
+    {
+      "id": "8346",
+      "nombre": "Liquidamos todo tipo de mercadería,  coleccionables, antiguedades,  mobiliario, pintura Nacional de grandes Artistas, audio, Platería Criolla,....... Remate muy cargado de mercadería!",
+      "empresa": "ElEjido",
+      "departamento": "MONTEVIDEO",
+      "lugar": "EJIDO 932, MONTEVIDEO",
+      "fecha": "08/11/2026, 19:00",
+      "fechaISO": "2026-11-08T22:00:00.000Z",
+      "timestamp": 1794175200,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8346",
+      "totalLotes": 244,
+      "vinilos": [
+        {
+          "id": 1201391,
+          "lote": "95",
+          "titulo": "Gran lote de vinilos simples",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1201391/28a75a88393d383a1f0a7932100d8c74.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8346?lote=95",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1201392,
+          "lote": "96",
+          "titulo": "7 vinilos de música variada",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1201392/ed4123805b2aa616689c644794e19ca7.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8346?lote=96",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1201393,
+          "lote": "97",
+          "titulo": "Lote de vinilos música variada",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1201393/c7932cc0449620f25fc50fc1bacde640.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8346?lote=97",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        },
+        {
+          "id": 1201395,
+          "lote": "99",
+          "titulo": "Lote de vinilos música variada",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1201395/a7d60c652f74c1429357db6da9f33bc2.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8346?lote=99",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        }
+      ],
+      "datosDe": "2026-11-04T11:55:23.631Z"
     },
     {
       "id": "8332",
@@ -3807,7 +3895,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-04T01:10:29.076Z"
+      "datosDe": "2026-11-04T11:55:23.631Z"
     },
     {
       "id": "8343",
@@ -3841,7 +3929,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-04T01:10:29.076Z"
+      "datosDe": "2026-11-04T11:55:23.631Z"
     },
     {
       "id": "8301",
@@ -3875,7 +3963,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-04T01:10:29.076Z"
+      "datosDe": "2026-11-04T11:55:23.631Z"
     },
     {
       "id": "8271",
@@ -3890,7 +3978,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8271",
       "totalLotes": 177,
       "vinilos": [],
-      "datosDe": "2026-11-04T01:10:29.076Z"
+      "datosDe": "2026-11-04T11:55:23.631Z"
     },
     {
       "id": "8128",
@@ -3905,7 +3993,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8128",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-11-04T01:10:29.076Z"
+      "datosDe": "2026-11-04T11:55:23.631Z"
     },
     {
       "id": "8338",
@@ -3976,7 +4064,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-04T01:10:29.076Z"
+      "datosDe": "2026-11-04T11:55:23.631Z"
     },
     {
       "id": "7798",
@@ -3991,7 +4079,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7798",
       "totalLotes": 101,
       "vinilos": [],
-      "datosDe": "2026-11-04T01:10:29.076Z"
+      "datosDe": "2026-11-04T11:55:23.631Z"
     },
     {
       "id": "7651",
@@ -7130,7 +7218,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-04T01:10:29.076Z"
+      "datosDe": "2026-11-04T11:55:23.631Z"
     }
   ]
 }
