@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-12T02:11:00.610Z",
+  "generado": "2026-11-12T12:20:36.360Z",
   "fallos": 0,
   "remates": [
     {
@@ -52,7 +52,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-12T02:11:00.610Z"
+      "datosDe": "2026-11-12T12:20:36.360Z"
     },
     {
       "id": "8389",
@@ -67,7 +67,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8389",
       "totalLotes": 70,
       "vinilos": [],
-      "datosDe": "2026-11-12T02:11:00.610Z"
+      "datosDe": "2026-11-12T12:20:36.360Z"
     },
     {
       "id": "8399",
@@ -80,24 +80,9 @@
       "timestamp": 1794601800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8399",
-      "totalLotes": 192,
+      "totalLotes": 208,
       "vinilos": [],
-      "datosDe": "2026-11-12T02:11:00.610Z"
-    },
-    {
-      "id": "7798",
-      "nombre": "Antigüedades y Coleccionables vintage",
-      "empresa": "Mage Remates",
-      "departamento": "Montevideo",
-      "lugar": "Jaime Roldos y Pons 4541, Montevideo",
-      "fecha": "13/11/2026, 19:30",
-      "fechaISO": "2026-11-13T22:30:00.000Z",
-      "timestamp": 1794609000,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7798",
-      "totalLotes": 101,
-      "vinilos": [],
-      "datosDe": "2026-11-12T02:11:00.610Z"
+      "datosDe": "2026-11-12T12:20:36.360Z"
     },
     {
       "id": "8263",
@@ -131,7 +116,111 @@
           ]
         }
       ],
-      "datosDe": "2026-11-12T02:11:00.610Z"
+      "datosDe": "2026-11-12T12:20:36.360Z"
+    },
+    {
+      "id": "8373",
+      "nombre": "SABADO 15:30hs ¡ESPECTACULAR REMATE! Sin base al mejor postor: Gran cantidad de objetos rústicos balanzas antiguas tarro de leche botellas coleccionables guitarras durmientes de ferrocarril tirantes pikes madera dura BAROMETRO ALEMAN Juguetes Antiguos muebles rústicos y de estilo Gran juego de comedor y aparador Sheraton Antigua Pileta De Cocina Materiales De Demolición Cosas Antiguas Lotes Grandes De Adornos ¡Y Mucho Mas Imperdible!",
+      "empresa": "Remate G. Federico",
+      "departamento": "Montevideo",
+      "lugar": "Arenal Grande 1818 esq La Paz de lu a vi 9:30 a 18hs sa de 9:30 a 13hs, Montevideo",
+      "fecha": "14/11/2026, 15:30",
+      "fechaISO": "2026-11-14T18:30:00.000Z",
+      "timestamp": 1794681000,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8373",
+      "totalLotes": 169,
+      "vinilos": [
+        {
+          "id": 1212251,
+          "lote": "27",
+          "titulo": "L 305 C11 - 9 Piezas - Lote de discos de vinilo con títulos variados",
+          "descripcion": "Medidas: lote 9 Discos.",
+          "artista": null,
+          "album": "9 Piezas - Lote de discos de vinilo con títulos variados",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1212251/9281ee05cfa1b57df06d043d95bcace0.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8373?lote=27",
+          "motivos": [
+            "dice \"vinilo\"",
+            "\"disco de vinilo\""
+          ]
+        },
+        {
+          "id": 1212252,
+          "lote": "29",
+          "titulo": "L 306 C0 - Reproductor de DVD Fair Mate de tono plateado (El DVD funciona pero tiene problemas en la bandeja del disco a la hora de entrar y salir / El GoldStar no prende)",
+          "descripcion": "Medidas: El DVD funciona pero tiene problemas en la bandeja del disco a la hora de entrar y salir. ) ( El Goldstar no prende.",
+          "artista": "DVD Fair Mate",
+          "album": "Reproductor de DVD Fair Mate de tono plateado (El DVD funciona pero tiene proble",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1212252/8147ece73355212c6b61433e89a5280f.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8373?lote=29",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1182388,
+          "lote": "69",
+          "titulo": "L 901 - Balanza de plataforma marca Robin de tono oxidado con discos de 10 kg y 25 kg (33x62x altura 62 cm / Con oxidación visible)",
+          "descripcion": "Medidas: 33x62x altura 62) Con discos de 10kg y 25 kg.",
+          "artista": null,
+          "album": "Balanza de plataforma marca Robin de tono oxidado con discos de 10 kg y 25 kg (3",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1182388/49bc1280aad789065303ada10f5626e2.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8373?lote=69",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1182382,
+          "lote": "70",
+          "titulo": "L 900 - Balanza de plataforma marca Robin con discos de 10 kg y 50 kg, de tono oxidado (33x62x60 cm / Con discos de 10 kg y 50 kg)",
+          "descripcion": "Medidas: 33x62x altura 60 ) con disco de 10 kg y 50 kg.",
+          "artista": null,
+          "album": "Balanza de plataforma marca Robin con discos de 10 kg y 50 kg, de tono oxidado (",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1182382/6f1dd5a096a7d4eb89777da0ef561c16.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8373?lote=70",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        }
+      ],
+      "datosDe": "2026-11-12T12:20:36.360Z"
+    },
+    {
+      "id": "8445",
+      "nombre": "REMATE LIQUIDACIÓN; DE 2 PROPIEDADES, GRAN VARIEDAD DE MERCADERÍA MUEBLES, ARTESANÍAS, ANTIGÜEDADES,ART. JARDIN, GARRAFAS DE 13 KG, ENCUADERNADORA, LOSA, VAJILLA, CRISTALERÍA, ELECTRODOMÉSTICOS, HERRAMIENTAS Y MUCHO MÁS",
+      "empresa": "Remate Ferreira",
+      "departamento": "Canelones",
+      "lugar": "Av.30 Mts ENTRE D y E, Las Toscas, Canelones",
+      "fecha": "14/11/2026, 17:00",
+      "fechaISO": "2026-11-14T20:00:00.000Z",
+      "timestamp": 1794686400,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8445",
+      "totalLotes": 150,
+      "vinilos": [],
+      "datosDe": "2026-11-12T12:20:36.360Z"
     },
     {
       "id": "8357",
@@ -146,7 +235,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8357",
       "totalLotes": 97,
       "vinilos": [],
-      "datosDe": "2026-11-12T02:11:00.610Z"
+      "datosDe": "2026-11-12T12:20:36.360Z"
     },
     {
       "id": "8406",
@@ -161,7 +250,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8406",
       "totalLotes": 69,
       "vinilos": [],
-      "datosDe": "2026-11-12T02:11:00.610Z"
+      "datosDe": "2026-11-12T12:20:36.360Z"
     },
     {
       "id": "8348",
@@ -195,7 +284,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-12T02:11:00.610Z"
+      "datosDe": "2026-11-12T12:20:36.360Z"
     },
     {
       "id": "8382",
@@ -208,9 +297,24 @@
       "timestamp": 1794780000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8382",
-      "totalLotes": 264,
+      "totalLotes": 296,
       "vinilos": [],
-      "datosDe": "2026-11-12T02:11:00.610Z"
+      "datosDe": "2026-11-12T12:20:36.360Z"
+    },
+    {
+      "id": "7798",
+      "nombre": "Antigüedades y Coleccionables vintage",
+      "empresa": "Mage Remates",
+      "departamento": "Montevideo",
+      "lugar": "Jaime Roldos y Pons 4541, Montevideo",
+      "fecha": "15/11/2026, 20:15",
+      "fechaISO": "2026-11-15T23:15:00.000Z",
+      "timestamp": 1794784500,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/7798",
+      "totalLotes": 101,
+      "vinilos": [],
+      "datosDe": "2026-11-12T12:20:36.360Z"
     },
     {
       "id": "8121",
@@ -223,9 +327,9 @@
       "timestamp": 1794866400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8121",
-      "totalLotes": 77,
+      "totalLotes": 78,
       "vinilos": [],
-      "datosDe": "2026-11-12T02:11:00.610Z"
+      "datosDe": "2026-11-12T12:20:36.360Z"
     },
     {
       "id": "8338",
@@ -296,7 +400,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-12T02:11:00.610Z"
+      "datosDe": "2026-11-12T12:20:36.360Z"
     },
     {
       "id": "6988",
@@ -330,7 +434,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-12T02:11:00.610Z"
+      "datosDe": "2026-11-12T12:20:36.360Z"
     },
     {
       "id": "8231",
@@ -345,7 +449,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8231",
       "totalLotes": 278,
       "vinilos": [],
-      "datosDe": "2026-11-12T02:11:00.610Z"
+      "datosDe": "2026-11-12T12:20:36.360Z"
     },
     {
       "id": "8411",
@@ -360,7 +464,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8411",
       "totalLotes": 151,
       "vinilos": [],
-      "datosDe": "2026-11-12T02:11:00.610Z"
+      "datosDe": "2026-11-12T12:20:36.360Z"
     },
     {
       "id": "8271",
@@ -375,7 +479,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8271",
       "totalLotes": 184,
       "vinilos": [],
-      "datosDe": "2026-11-12T02:11:00.610Z"
+      "datosDe": "2026-11-12T12:20:36.360Z"
     },
     {
       "id": "8285",
@@ -390,7 +494,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8285",
       "totalLotes": 99,
       "vinilos": [],
-      "datosDe": "2026-11-12T02:11:00.610Z"
+      "datosDe": "2026-11-12T12:20:36.360Z"
     },
     {
       "id": "8436",
@@ -405,7 +509,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8436",
       "totalLotes": 72,
       "vinilos": [],
-      "datosDe": "2026-11-12T02:11:00.610Z"
+      "datosDe": "2026-11-12T12:20:36.360Z"
     },
     {
       "id": "8449",
@@ -420,7 +524,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8449",
       "totalLotes": 60,
       "vinilos": [],
-      "datosDe": "2026-11-12T02:11:00.610Z"
+      "datosDe": "2026-11-12T12:20:36.360Z"
     },
     {
       "id": "7651",
@@ -3559,7 +3663,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-12T02:11:00.610Z"
+      "datosDe": "2026-11-12T12:20:36.360Z"
     },
     {
       "id": "8229",
@@ -3574,7 +3678,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8229",
       "totalLotes": 140,
       "vinilos": [],
-      "datosDe": "2026-11-12T02:11:00.610Z"
+      "datosDe": "2026-11-12T12:20:36.360Z"
     },
     {
       "id": "8128",
@@ -3589,7 +3693,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8128",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-11-12T02:11:00.610Z"
+      "datosDe": "2026-11-12T12:20:36.360Z"
     }
   ]
 }
