@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-14T01:22:14.383Z",
+  "generado": "2026-11-14T11:16:17.908Z",
   "fallos": 0,
   "remates": [
     {
@@ -34,7 +34,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
     },
     {
       "id": "8260",
@@ -49,7 +49,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8260",
       "totalLotes": 307,
       "vinilos": [],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
     },
     {
       "id": "8405",
@@ -83,7 +83,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
     },
     {
       "id": "8373",
@@ -109,7 +109,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1212251/9281ee05cfa1b57df06d043d95bcace0.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8373?lote=27",
           "motivos": [
@@ -172,7 +172,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
     },
     {
       "id": "8445",
@@ -185,9 +185,9 @@
       "timestamp": 1794686400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8445",
-      "totalLotes": 150,
+      "totalLotes": 151,
       "vinilos": [],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
     },
     {
       "id": "8357",
@@ -202,22 +202,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8357",
       "totalLotes": 97,
       "vinilos": [],
-      "datosDe": "2026-11-14T01:22:14.383Z"
-    },
-    {
-      "id": "8406",
-      "nombre": "DESTACADA COLECCIÓN DE CUADROS, FIRMAS IMPORTANTES \"LUIS MELLO\" \"R. MOLINARI\" \"J.P. PAZ\" \"VIEYTES\" - ADEMÁS: MARCOS Y AFINES, CON ORDEN DE VENDER \"SIN BASE\" NI RESERVA - COLECCIONADOS EN EL CORRER DE SU PROFICUA VIDA POR \"RECONOCIDO PROFESIONAL SALTEÑO\", LOS HAY CON FIRMAS EUROPEAS DEL AÑO 1888 (lote 52) HASTA CONTEMPORANEOS, REUNIDOS Y CONFORMANDO UNA SOBRESALIENTE SUBASTA.",
-      "empresa": "Alfredo Berretta",
-      "departamento": "SALTO",
-      "lugar": "ARTIGAS 1230, SALTO",
-      "fecha": "14/11/2026, 19:00",
-      "fechaISO": "2026-11-14T22:00:00.000Z",
-      "timestamp": 1794693600,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8406",
-      "totalLotes": 69,
-      "vinilos": [],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
     },
     {
       "id": "8348",
@@ -243,7 +228,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1201879/0772c58fdb5d461f489b0ca1818cd2ca.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8348?lote=143",
           "motivos": [
@@ -251,7 +236,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
     },
     {
       "id": "8382",
@@ -264,9 +249,9 @@
       "timestamp": 1794780000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8382",
-      "totalLotes": 416,
+      "totalLotes": 420,
       "vinilos": [],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
     },
     {
       "id": "8267",
@@ -281,7 +266,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8267",
       "totalLotes": 199,
       "vinilos": [],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
     },
     {
       "id": "7798",
@@ -296,7 +281,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7798",
       "totalLotes": 101,
       "vinilos": [],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
     },
     {
       "id": "8121",
@@ -311,7 +296,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8121",
       "totalLotes": 84,
       "vinilos": [],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
     },
     {
       "id": "8338",
@@ -382,7 +367,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
     },
     {
       "id": "6988",
@@ -416,7 +401,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
     },
     {
       "id": "8231",
@@ -431,7 +416,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8231",
       "totalLotes": 279,
       "vinilos": [],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
     },
     {
       "id": "7367",
@@ -446,7 +431,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7367",
       "totalLotes": 159,
       "vinilos": [],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
     },
     {
       "id": "8411",
@@ -461,7 +446,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8411",
       "totalLotes": 151,
       "vinilos": [],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
     },
     {
       "id": "8271",
@@ -476,7 +461,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8271",
       "totalLotes": 184,
       "vinilos": [],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
     },
     {
       "id": "8285",
@@ -491,7 +476,22 @@
       "url": "https://www.remotes.com.uy/participar/remate/8285",
       "totalLotes": 102,
       "vinilos": [],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
+    },
+    {
+      "id": "8406",
+      "nombre": "\"EN SALTO\" - ATENCIÓN!!! ORDEN DE VENDER: EN PESOS URUGUAYOS Y SIN BASE - NI RESERVA - SE POSPONE POR MOTIVOS DE FUERZA MAYOR - DESTACADA COLECCIÓN DE CUADROS, FIRMAS IMPORTANTES \"LUIS MELLO\" \"R. MOLINARI\" \"J.P. PAZ\" \"VIEYTES\" - ADEMÁS: MARCOS Y AFINES - COLECCIONADOS EN EL CORRER DE SU PROFICUA VIDA POR \"RECONOCIDO PROFESIONAL SALTEÑO\", LOS HAY CON FIRMAS EUROPEAS DEL AÑO 1888 (lote 52) HASTA CONTEMPORANEOS.",
+      "empresa": "Alfredo Berretta",
+      "departamento": "SALTO",
+      "lugar": "ARTIGAS 1230, SALTO",
+      "fecha": "21/11/2026, 18:00",
+      "fechaISO": "2026-11-21T21:00:00.000Z",
+      "timestamp": 1795294800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8406",
+      "totalLotes": 69,
+      "vinilos": [],
+      "datosDe": "2026-11-14T11:16:17.908Z"
     },
     {
       "id": "8436",
@@ -504,9 +504,9 @@
       "timestamp": 1795356000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8436",
-      "totalLotes": 72,
+      "totalLotes": 103,
       "vinilos": [],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
     },
     {
       "id": "8449",
@@ -521,7 +521,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8449",
       "totalLotes": 60,
       "vinilos": [],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
     },
     {
       "id": "7651",
@@ -3660,7 +3660,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
     },
     {
       "id": "8281",
@@ -4019,7 +4019,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
     },
     {
       "id": "8229",
@@ -4032,9 +4032,39 @@
       "timestamp": 1796250600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8229",
-      "totalLotes": 184,
+      "totalLotes": 196,
       "vinilos": [],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
+    },
+    {
+      "id": "8439",
+      "nombre": "Remate de fin de año! Variada oferta por  liquidación. Embarcadero portátil, motos antiguas, charré, sulky, chapas, maderas, piques de madera dura, postes, moledora de granos, cocina económica, auto fusca en desuso, herramientas, antigüedades y mucho mas....",
+      "empresa": "Agustin Villamil",
+      "departamento": "Durazno",
+      "lugar": "Centro de Durazno, Durazno",
+      "fecha": "05/12/2026, 15:00",
+      "fechaISO": "2026-12-05T18:00:00.000Z",
+      "timestamp": 1796493600,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8439",
+      "totalLotes": 1,
+      "vinilos": [],
+      "datosDe": "2026-11-14T11:16:17.908Z"
+    },
+    {
+      "id": "8440",
+      "nombre": "4to remate de cuchilleria,  platería criolla,  antigüedades,  militaría, documentos y numística.",
+      "empresa": "Agustin Villamil",
+      "departamento": "Durazno",
+      "lugar": "Centro de Durazno, Durazno",
+      "fecha": "05/12/2026, 19:00",
+      "fechaISO": "2026-12-05T22:00:00.000Z",
+      "timestamp": 1796508000,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8440",
+      "totalLotes": 1,
+      "vinilos": [],
+      "datosDe": "2026-11-14T11:16:17.908Z"
     },
     {
       "id": "8128",
@@ -4049,7 +4079,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8128",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-11-14T01:22:14.383Z"
+      "datosDe": "2026-11-14T11:16:17.908Z"
     }
   ]
 }
