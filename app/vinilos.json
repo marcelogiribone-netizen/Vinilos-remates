@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-15T00:56:02.603Z",
+  "generado": "2026-11-15T11:48:42.356Z",
   "fallos": 0,
   "remates": [
     {
@@ -26,7 +26,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 220,
+          "oferta": 320,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1201879/0772c58fdb5d461f489b0ca1818cd2ca.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8348?lote=143",
           "motivos": [
@@ -34,7 +34,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-15T00:56:02.603Z"
+      "datosDe": "2026-11-15T11:48:42.356Z"
     },
     {
       "id": "8382",
@@ -47,9 +47,9 @@
       "timestamp": 1794780000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8382",
-      "totalLotes": 512,
+      "totalLotes": 532,
       "vinilos": [],
-      "datosDe": "2026-11-15T00:56:02.603Z"
+      "datosDe": "2026-11-15T11:48:42.356Z"
     },
     {
       "id": "8267",
@@ -64,7 +64,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8267",
       "totalLotes": 209,
       "vinilos": [],
-      "datosDe": "2026-11-15T00:56:02.603Z"
+      "datosDe": "2026-11-15T11:48:42.356Z"
     },
     {
       "id": "7798",
@@ -79,7 +79,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7798",
       "totalLotes": 101,
       "vinilos": [],
-      "datosDe": "2026-11-15T00:56:02.603Z"
+      "datosDe": "2026-11-15T11:48:42.356Z"
     },
     {
       "id": "8121",
@@ -94,7 +94,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8121",
       "totalLotes": 84,
       "vinilos": [],
-      "datosDe": "2026-11-15T00:56:02.603Z"
+      "datosDe": "2026-11-15T11:48:42.356Z"
     },
     {
       "id": "8338",
@@ -165,7 +165,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-15T00:56:02.603Z"
+      "datosDe": "2026-11-15T11:48:42.356Z"
     },
     {
       "id": "6988",
@@ -199,7 +199,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-15T00:56:02.603Z"
+      "datosDe": "2026-11-15T11:48:42.356Z"
     },
     {
       "id": "8231",
@@ -214,7 +214,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8231",
       "totalLotes": 279,
       "vinilos": [],
-      "datosDe": "2026-11-15T00:56:02.603Z"
+      "datosDe": "2026-11-15T11:48:42.356Z"
     },
     {
       "id": "8472",
@@ -229,7 +229,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8472",
       "totalLotes": 11,
       "vinilos": [],
-      "datosDe": "2026-11-15T00:56:02.603Z"
+      "datosDe": "2026-11-15T11:48:42.356Z"
     },
     {
       "id": "7367",
@@ -242,9 +242,9 @@
       "timestamp": 1795041000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7367",
-      "totalLotes": 159,
+      "totalLotes": 178,
       "vinilos": [],
-      "datosDe": "2026-11-15T00:56:02.603Z"
+      "datosDe": "2026-11-15T11:48:42.356Z"
     },
     {
       "id": "8262",
@@ -278,7 +278,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-15T00:56:02.603Z"
+      "datosDe": "2026-11-15T11:48:42.356Z"
     },
     {
       "id": "8411",
@@ -293,7 +293,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8411",
       "totalLotes": 151,
       "vinilos": [],
-      "datosDe": "2026-11-15T00:56:02.603Z"
+      "datosDe": "2026-11-15T11:48:42.356Z"
     },
     {
       "id": "8271",
@@ -308,7 +308,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8271",
       "totalLotes": 184,
       "vinilos": [],
-      "datosDe": "2026-11-15T00:56:02.603Z"
+      "datosDe": "2026-11-15T11:48:42.356Z"
     },
     {
       "id": "8285",
@@ -323,7 +323,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8285",
       "totalLotes": 108,
       "vinilos": [],
-      "datosDe": "2026-11-15T00:56:02.603Z"
+      "datosDe": "2026-11-15T11:48:42.356Z"
     },
     {
       "id": "8406",
@@ -338,7 +338,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8406",
       "totalLotes": 69,
       "vinilos": [],
-      "datosDe": "2026-11-15T00:56:02.603Z"
+      "datosDe": "2026-11-15T11:48:42.356Z"
     },
     {
       "id": "8436",
@@ -353,7 +353,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8436",
       "totalLotes": 103,
       "vinilos": [],
-      "datosDe": "2026-11-15T00:56:02.603Z"
+      "datosDe": "2026-11-15T11:48:42.356Z"
     },
     {
       "id": "8449",
@@ -368,7 +368,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8449",
       "totalLotes": 60,
       "vinilos": [],
-      "datosDe": "2026-11-15T00:56:02.603Z"
+      "datosDe": "2026-11-15T11:48:42.356Z"
     },
     {
       "id": "7651",
@@ -3507,7 +3507,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-15T00:56:02.603Z"
+      "datosDe": "2026-11-15T11:48:42.356Z"
     },
     {
       "id": "8281",
@@ -3866,7 +3866,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-15T00:56:02.603Z"
+      "datosDe": "2026-11-15T11:48:42.356Z"
     },
     {
       "id": "8229",
@@ -3881,7 +3881,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8229",
       "totalLotes": 211,
       "vinilos": [],
-      "datosDe": "2026-11-15T00:56:02.603Z"
+      "datosDe": "2026-11-15T11:48:42.356Z"
     },
     {
       "id": "8439",
@@ -3896,7 +3896,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8439",
       "totalLotes": 1,
       "vinilos": [],
-      "datosDe": "2026-11-15T00:56:02.603Z"
+      "datosDe": "2026-11-15T11:48:42.356Z"
     },
     {
       "id": "8440",
@@ -3911,7 +3911,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8440",
       "totalLotes": 1,
       "vinilos": [],
-      "datosDe": "2026-11-15T00:56:02.603Z"
+      "datosDe": "2026-11-15T11:48:42.356Z"
     },
     {
       "id": "8128",
@@ -3926,7 +3926,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8128",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-11-15T00:56:02.603Z"
+      "datosDe": "2026-11-15T11:48:42.356Z"
     }
   ]
 }
