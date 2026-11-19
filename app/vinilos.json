@@ -1,90 +1,7 @@
 {
-  "generado": "2026-11-18T12:45:25.546Z",
+  "generado": "2026-11-19T02:27:11.862Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "8472",
-      "nombre": "100% a Beneficio. Sin Base, sin comisión. Rematamos una Colección de camisetas y guantes de fútbol, donaciones de futbolistas de diferentes clubes para ayudar con el tratamiento de Giovanni un niño uruguayo de 4 años diagnosticado con WAGR una enfermedad rara único caso en nuestro país. Desde ya gracias por participar, colaborar y compartir. Lo adquirido en el remate se envía a todo el país por DAC y El Correo Uruguayo. Los pagos son en plazo 48% a la Cuenta de la rematadora BBVA quien tranferirá a la cuenta de la familia de Gio lo resultante del remate.",
-      "empresa": "Uruguay Remates",
-      "departamento": "Montevideo",
-      "lugar": "A confirmar , Montevideo",
-      "fecha": "18/11/2026, 19:00",
-      "fechaISO": "2026-11-18T22:00:00.000Z",
-      "timestamp": 1795039200,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8472",
-      "totalLotes": 11,
-      "vinilos": [],
-      "datosDe": "2026-11-18T12:45:25.546Z"
-    },
-    {
-      "id": "6988",
-      "nombre": "GRAN REMATE IMPORTANTE COLECCIÓN - EL GRÁFICO",
-      "empresa": "Remates Squadroni",
-      "departamento": "Montevideo",
-      "lugar": "Tristan Narvaja 1724 ( Montevideo), Montevideo",
-      "fecha": "18/11/2026, 19:00",
-      "fechaISO": "2026-11-18T22:00:00.000Z",
-      "timestamp": 1795039200,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/6988",
-      "totalLotes": 100,
-      "vinilos": [
-        {
-          "id": 998856,
-          "lote": "56",
-          "titulo": "El Gráfico, destacando en su portada una famosa fotografía de Diego Armando Maradona en slip, acompañada por el titular principal \"Este álbum merecía ser tapa\" y la promoción de un coleccionable de fotografías del siglo",
-          "descripcion": null,
-          "artista": "Diego Armando Maradona",
-          "album": "Este álbum merecía ser tapa",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 100,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/998856/f0d2e520b7547f9b31d2e5442a2a1bcd.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/6988?lote=56",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        }
-      ],
-      "datosDe": "2026-11-18T12:45:25.546Z"
-    },
-    {
-      "id": "8262",
-      "nombre": "🔷Antiguedades Y Coleccionables 🔷",
-      "empresa": "Verónica Aristegui Díaz",
-      "departamento": "San José",
-      "lugar": "Parada 8 manzana 3 solar 16 calle colocolo, Playa pascual, San José, San José",
-      "fecha": "18/11/2026, 19:29",
-      "fechaISO": "2026-11-18T22:29:00.000Z",
-      "timestamp": 1795040940,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8262",
-      "totalLotes": 107,
-      "vinilos": [
-        {
-          "id": 1220095,
-          "lote": "29",
-          "titulo": "Cuchillo muy buen filo espiga corrida  hoja   de disco 11 cm y lomo 5 mm largo total 21 cm",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 490,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1220095/6e6e22ca29e2ee5071d8b65b5e7d186a.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8262?lote=29",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        }
-      ],
-      "datosDe": "2026-11-18T12:45:25.546Z"
-    },
     {
       "id": "8411",
       "nombre": "Jueves 19 ~ 19:00 🔪🔪🔪 EL REMATE DE CUCHILLERIA, NAVAJAS 🪒 Y PLATERIA CRIOLLA MAS IMPORTANTE DEL AÑO 🔪🔪🔪 ***150 LOTES***",
@@ -98,7 +15,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8411",
       "totalLotes": 151,
       "vinilos": [],
-      "datosDe": "2026-11-18T12:45:25.546Z"
+      "datosDe": "2026-11-19T02:27:11.862Z"
     },
     {
       "id": "8271",
@@ -111,9 +28,9 @@
       "timestamp": 1795125600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8271",
-      "totalLotes": 184,
+      "totalLotes": 194,
       "vinilos": [],
-      "datosDe": "2026-11-18T12:45:25.546Z"
+      "datosDe": "2026-11-19T02:27:11.862Z"
     },
     {
       "id": "8404",
@@ -126,13 +43,13 @@
       "timestamp": 1795210200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8404",
-      "totalLotes": 205,
+      "totalLotes": 211,
       "vinilos": [],
-      "datosDe": "2026-11-18T12:45:25.546Z"
+      "datosDe": "2026-11-19T02:27:11.862Z"
     },
     {
       "id": "7367",
-      "nombre": "Subasta de Antigüedades y Coleccionables. Se destaca: lotes de botellas (algunas muy raras de encontrar), Plato de colección del Hotel Argentino de Piriapolis, Jarra y palangana, Artículos Art Nouveau, matrículas y más. ENVIOS A TODO EL PAÍS.",
+      "nombre": "Subasta de Antigüedades y Coleccionables. Se destaca: lotes de botellas (algunas muy raras de encontrar), Plato de colección del Hotel Argentino de Piriapolis, Jarra y palangana, Artículos Art Nouveau, matrículas y más. ENVíOS A TODO EL PAÍS.",
       "empresa": "Luciana Pesce",
       "departamento": "San José",
       "lugar": "Km 29. Ruta 1, San José",
@@ -143,7 +60,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7367",
       "totalLotes": 178,
       "vinilos": [],
-      "datosDe": "2026-11-18T12:45:25.546Z"
+      "datosDe": "2026-11-19T02:27:11.862Z"
     },
     {
       "id": "7448",
@@ -158,7 +75,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7448",
       "totalLotes": 262,
       "vinilos": [],
-      "datosDe": "2026-11-18T12:45:25.546Z"
+      "datosDe": "2026-11-19T02:27:11.862Z"
     },
     {
       "id": "8285",
@@ -173,7 +90,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8285",
       "totalLotes": 110,
       "vinilos": [],
-      "datosDe": "2026-11-18T12:45:25.546Z"
+      "datosDe": "2026-11-19T02:27:11.862Z"
     },
     {
       "id": "8406",
@@ -188,7 +105,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8406",
       "totalLotes": 69,
       "vinilos": [],
-      "datosDe": "2026-11-18T12:45:25.546Z"
+      "datosDe": "2026-11-19T02:27:11.862Z"
     },
     {
       "id": "8436",
@@ -203,7 +120,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8436",
       "totalLotes": 221,
       "vinilos": [],
-      "datosDe": "2026-11-18T12:45:25.546Z"
+      "datosDe": "2026-11-19T02:27:11.862Z"
     },
     {
       "id": "8449",
@@ -292,7 +209,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-18T12:45:25.546Z"
+      "datosDe": "2026-11-19T02:27:11.862Z"
     },
     {
       "id": "8274",
@@ -305,9 +222,9 @@
       "timestamp": 1795474800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8274",
-      "totalLotes": 454,
+      "totalLotes": 518,
       "vinilos": [],
-      "datosDe": "2026-11-18T12:45:25.546Z"
+      "datosDe": "2026-11-19T02:27:11.862Z"
     },
     {
       "id": "8281",
@@ -666,7 +583,1175 @@
           ]
         }
       ],
-      "datosDe": "2026-11-18T12:45:25.546Z"
+      "datosDe": "2026-11-19T02:27:11.862Z"
+    },
+    {
+      "id": "8492",
+      "nombre": "Vinilos, segunda parte.",
+      "empresa": "Flores Montaña Subastas",
+      "departamento": "SALTO",
+      "lugar": "SALTO, SALTO",
+      "fecha": "24/11/2026, 20:00",
+      "fechaISO": "2026-11-24T23:00:00.000Z",
+      "timestamp": 1795561200,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8492",
+      "totalLotes": 64,
+      "vinilos": [
+        {
+          "id": 1224211,
+          "lote": "1",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224211/c07d073c744cf0d99f4aae781b71fd89.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=1",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224212,
+          "lote": "2",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224212/7f4f9e43a63b21df6fa4f31a19204cf1.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=2",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224213,
+          "lote": "3",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224213/2154b4026914854afc7110f6e19e4b8b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=3",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224214,
+          "lote": "4",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224214/caa95afea43d4ed06f6a2fa3d1b94f34.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=4",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224215,
+          "lote": "5",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224215/2ef1361f6d1380b47af39a5abbc51c75.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=5",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224216,
+          "lote": "6",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224216/c19345ab1bafb438626e1ee607da9a94.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=6",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224217,
+          "lote": "7",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224217/5f5a73735156d0457159d8fe12a28e1f.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=7",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224218,
+          "lote": "8",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224218/a30ec7f15f326184422dc3d895b6c802.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=8",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224219,
+          "lote": "9",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224219/059fad442aa84c97781dcef1c5443921.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=9",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224220,
+          "lote": "10",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224220/c1ed25de8ca1f179ca209f31f296dedb.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=10",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224221,
+          "lote": "11",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224221/21360aaffc7c438bc6796bcd4c876fb9.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=11",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224222,
+          "lote": "12",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224222/be4f72da0fafeccbdd1794635bb2ec58.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=12",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224223,
+          "lote": "13",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224223/da2d6c0f2768546b6cf671bc159d44bc.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=13",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224224,
+          "lote": "14",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224224/bc407d3a1a795730f7283aa1cca4be39.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=14",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224225,
+          "lote": "15",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224225/e1e0a6aa8d76ce5ce24db2e6daa35a9a.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=15",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224226,
+          "lote": "16",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224226/3a49251870ad32ae3f490235e6c746d7.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=16",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224227,
+          "lote": "17",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224227/10bab0d75ed52a221211d2fabc59ec28.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=17",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224228,
+          "lote": "18",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224228/23619864cdf081dd3f3cca4102032c90.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=18",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224229,
+          "lote": "19",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224229/fe715b4b96148ad8aaee794b5ae8455c.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=19",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224230,
+          "lote": "20",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224230/656c49b5a29685afc8d90ba08ce6efdd.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=20",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224231,
+          "lote": "21",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224231/20e05cfb29e3e7527191688cd512404a.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=21",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224232,
+          "lote": "22",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224232/23c763933acee937f7407d3b07471e38.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=22",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224233,
+          "lote": "23",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224233/557ceb079fc885c9113c7fa122b25980.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=23",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224234,
+          "lote": "24",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224234/b25b9f38e238ff8dfa98aa4c55226e90.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=24",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224235,
+          "lote": "25",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224235/8773a8a78679b128a99926ed3e72bd4d.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=25",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224236,
+          "lote": "26",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224236/4a907ed623a9d13308cb85257ab1688e.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=26",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224237,
+          "lote": "27",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224237/21f4defab1a2d7fd94bcd38a47a53918.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=27",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224238,
+          "lote": "28",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224238/b2e3ea68c92bb09ffd19ad24734f54f0.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=28",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224239,
+          "lote": "29",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224239/9505fbaf87469d737e25310a07e7cc95.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=29",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224240,
+          "lote": "30",
+          "titulo": "2 Discos antiguos descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224240/5b3ef163e270050ae0cd4957bd0ed922.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=30",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224241,
+          "lote": "31",
+          "titulo": "3 Discos antiguos descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224241/9b5aa312c1ffeaea19652c80d901c894.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=31",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224242,
+          "lote": "32",
+          "titulo": "4 Discos antiguos descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224242/ba8ead5b1380789e9142b606a7be5b4f.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=32",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224243,
+          "lote": "33",
+          "titulo": "5 Discos antiguos descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224243/c0683a32515fc32a42c65e4326866026.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=33",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224244,
+          "lote": "34",
+          "titulo": "6 Discos antiguos descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224244/5d5d6d415fbf363c80f252ab7319ca56.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=34",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224245,
+          "lote": "35",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224245/712fc99dd44c3f002b9adf9f6999f2d2.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=35",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224246,
+          "lote": "36",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224246/06476d11d60c7ad6657b494d3c5599af.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=36",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224247,
+          "lote": "37",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224247/59f9dfbb3b32b3a938c9847c4f5aa005.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=37",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224248,
+          "lote": "38",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224248/24055b352285995a9add81e70776c117.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=38",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224249,
+          "lote": "39",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224249/7a92dbed5c01680f2f54a33feb98bedd.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=39",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224250,
+          "lote": "40",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224250/dcbf492433d22f390fc622e88d2d8fc0.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=40",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224251,
+          "lote": "41",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224251/99ae069e77dbbaa22e53f1e04a340066.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=41",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224252,
+          "lote": "42",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224252/09a20fc42c461d0e61cf647f333cf56c.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=42",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224253,
+          "lote": "43",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224253/739045b9db5089b8c04155a6f87b3b64.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=43",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224254,
+          "lote": "44",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224254/d97067d8e689e65f4de88b7f127f830a.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=44",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224255,
+          "lote": "45",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224255/c13d8dea6b32d4eb77c9e38e7d9d448d.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=45",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224256,
+          "lote": "46",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224256/8e64ef3082a174fcde4764397aea4b38.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=46",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224257,
+          "lote": "47",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224257/84e5c2e0a2b70511db371597673286f9.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=47",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224258,
+          "lote": "48",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224258/4f8914b341ff7da42e740c7f372a51c7.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=48",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224259,
+          "lote": "49",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224259/ab72c9c94a33d2ca8d8d6e90459d400f.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=49",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224260,
+          "lote": "50",
+          "titulo": "Disco antiguo descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 50,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224260/bc2cde0021b36766637479b33000030d.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=50",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224261,
+          "lote": "51",
+          "titulo": "2 Discos antiguos descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224261/3966a97416853e29d00192890d527a24.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=51",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224262,
+          "lote": "52",
+          "titulo": "3 Discos antiguos descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224262/df4c2889f120174e08a4f915fb5aac1d.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=52",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224263,
+          "lote": "53",
+          "titulo": "4 Discos antiguos descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224263/3ec4a4a5d234cc8da85552d498bb4bd4.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=53",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224264,
+          "lote": "54",
+          "titulo": "5 Discos antiguos descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224264/cacab28b55325001c3271d738f7ab11e.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=54",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224265,
+          "lote": "55",
+          "titulo": "6 Discos antiguos descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224265/6f0a6538d9216d24fcf6517afd69ac33.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=55",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224266,
+          "lote": "56",
+          "titulo": "7 Discos antiguos descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224266/1f716905c72ad9db060989d6bb3b0d15.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=56",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224267,
+          "lote": "57",
+          "titulo": "8 Discos antiguos descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224267/451d45fa7f2ded36f91cd27b122fef08.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=57",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224268,
+          "lote": "58",
+          "titulo": "9 Discos antiguos descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224268/7f39b4dc804cf9d9064aef6a2cd19afe.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=58",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224269,
+          "lote": "59",
+          "titulo": "10 Discos antiguos descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224269/3a9c2bb978d6ea1b758d0d688041031b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=59",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224270,
+          "lote": "60",
+          "titulo": "11 Discos antiguos descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224270/d40aaf22ab35333c38075e5153802882.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=60",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224271,
+          "lote": "61",
+          "titulo": "12 Discos antiguos descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224271/a4c6d04eeb649f53e3759881661659fd.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=61",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224272,
+          "lote": "62",
+          "titulo": "13 Discos antiguos descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224272/a5a085d93f6ec6517374b406a1686aca.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=62",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224273,
+          "lote": "63",
+          "titulo": "14 Discos antiguos descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224273/7ae4222a431110865fd33b99da594377.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=63",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1224274,
+          "lote": "64",
+          "titulo": "15 Discos antiguos descripción en la última foto",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224274/1769a0c45dc862660a1d47d66386bafc.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=64",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        }
+      ],
+      "datosDe": "2026-11-19T02:27:11.862Z"
     },
     {
       "id": "8451",
@@ -681,11 +1766,11 @@
       "url": "https://www.remotes.com.uy/participar/remate/8451",
       "totalLotes": 108,
       "vinilos": [],
-      "datosDe": "2026-11-18T12:45:25.546Z"
+      "datosDe": "2026-11-19T02:27:11.862Z"
     },
     {
       "id": "8458",
-      "nombre": "Cargando lotes... LIQUIDACIÓN MULTIRUBRO: MESAS PARA JUEGO. MUEBLES. AHUMADORES Y PLANCHAS PARA CARNE. EQUIPAMIENTO PARA GASTRONOMÍA Y EVENTOS. PUERTAS PARA CÁMARA FRIGORIFICA. TANQUES IBC CON JAULA DE 1000L. VARIEDAD DE MATERIALES PARA LA CONSTRUCCIÓN: ESCALERA COLIZA DE 36 ESCALONES. ESCALERA CARACOL. FAROLES DE GRAN PORTE PARA EXTERIOR. MÁRMOLES y GRANITOS. PUERTAS y VENTANAS. VISITE NUESTRA EXHIBICIÓN PERMANENTE Y EVACÚE SUS DUDAS ANTES DE OFERTAR. Realizamos envíos ágiles a todo el país!!!",
+      "nombre": "Cargando lotes... LIQUIDACIÓN MULTIRUBRO: MESAS PARA JUEGO. MUEBLES. AHUMADORES Y PLANCHAS PARA CARNE. EQUIPAMIENTO PARA GASTRONOMÍA Y EVENTOS. PUERTAS PARA CÁMARA FRIGORIFICA. TANQUES IBC CON JAULA DE 1000L. VARIEDAD DE MATERIALES PARA LA CONSTRUCCIÓN: ESCALERA COLIZA DE 36 ESCALONES. ESCALERA CARACOL. FAROLES DE GRAN PORTE PARA EXTERIOR. MÁRMOLES y GRANITOS. PUERTAS y VENTANAS DE ALUMINIO. VISITE NUESTRA EXHIBICIÓN PERMANENTE Y EVACÚE SUS DUDAS ANTES DE OFERTAR. Realizamos envíos ágiles a todo el país!!!",
       "empresa": "Mario Santiago Carranza",
       "departamento": "MALDONADO",
       "lugar": "Salsipuedes e/Cacique Brown y Tacuabé, MALDONADO",
@@ -694,9 +1779,9 @@
       "timestamp": 1795645800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8458",
-      "totalLotes": 109,
+      "totalLotes": 133,
       "vinilos": [],
-      "datosDe": "2026-11-18T12:45:25.546Z"
+      "datosDe": "2026-11-19T02:27:11.862Z"
     },
     {
       "id": "8480",
@@ -709,9 +1794,1640 @@
       "timestamp": 1795647600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8480",
-      "totalLotes": 1,
+      "totalLotes": 2,
       "vinilos": [],
-      "datosDe": "2026-11-18T12:45:25.546Z"
+      "datosDe": "2026-11-19T02:27:11.862Z"
+    },
+    {
+      "id": "8444",
+      "nombre": "Importante colección privada de obras de artistas extranjeros. Destacamos fotografía original de Walt Disney en Montevideo, Gravados con timbre de Museo Louvre, acuarela de Gavarni con certificado de autenticidad. Escultura de Marjan Grum, y más imperdibles. Retiro en Belvedere o Paso Carrasco y envíos a todo el país por DAC.",
+      "empresa": "Uruguay Remates",
+      "departamento": "Mdeo-Canelones",
+      "lugar": "Belvedere y Paso Carrsaco , Mdeo-Canelones",
+      "fecha": "25/11/2026, 20:30",
+      "fechaISO": "2026-11-25T23:30:00.000Z",
+      "timestamp": 1795649400,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8444",
+      "totalLotes": 51,
+      "vinilos": [
+        {
+          "id": 1225256,
+          "lote": "48",
+          "titulo": "Cuatro vinilos de Liza Minnelli",
+          "descripcion": null,
+          "artista": "Liza Minnelli",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "U$S",
+          "base": 30,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1225256/a6bb7afe4709c9344e6f00d2d8219e98.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8444?lote=48",
+          "motivos": [
+            "dice \"vinilo\""
+          ]
+        }
+      ],
+      "datosDe": "2026-11-19T02:27:11.862Z"
+    },
+    {
+      "id": "8483",
+      "nombre": "✅ Espectacular Remate de Coleccionables,Vintage y Discos.",
+      "empresa": "Valentina Rodríguez",
+      "departamento": "Montevideo",
+      "lugar": "Saint Bois 4623 esq. Cam. Corrales, Montevideo",
+      "fecha": "26/11/2026, 15:00",
+      "fechaISO": "2026-11-26T18:00:00.000Z",
+      "timestamp": 1795716000,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8483",
+      "totalLotes": 179,
+      "vinilos": [
+        {
+          "id": 1222685,
+          "lote": "96",
+          "titulo": "96) Disco Simple 7  ( El Sindikato)",
+          "descripcion": null,
+          "artista": "El Sindikato",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222685/d549089edc522c1d531b01462d226b52.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=96",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1222686,
+          "lote": "97",
+          "titulo": "97) Disco de Rock Uruguayo  ( Q R X )  No Rompas 1987 Sondor",
+          "descripcion": null,
+          "artista": "Q R X",
+          "album": null,
+          "sello": "Sondor",
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222686/1aaafd7c39ec31313231d997e6eebfca.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=97",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1222687,
+          "lote": "98",
+          "titulo": "98) Disco LP ( Kenny Rogers ) Share You Love Contiene Insert  1981 Made in USA",
+          "descripcion": null,
+          "artista": "Kenny Rogers",
+          "album": null,
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222687/9fc6827a2a757108aeb039471770adef.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=98",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1222688,
+          "lote": "99",
+          "titulo": "99) Disco LP ( Kenny Rogers) Greatest Hits  Made in USA",
+          "descripcion": null,
+          "artista": "Kenny Rogers",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222688/8ae05a0e2cef9b43f3c4516e6a26282c.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=99",
+          "motivos": [
+            "dice \"LP\""
+          ]
+        },
+        {
+          "id": 1222689,
+          "lote": "100",
+          "titulo": "100) Disco LP ( Ray Parker Jr) Radio 1980 Made in USA",
+          "descripcion": null,
+          "artista": "Ray Parker Jr",
+          "album": null,
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222689/e92b3fae41eeeead969cac05117694f2.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=100",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1222692,
+          "lote": "103",
+          "titulo": "103) Tres Discos LP Ensaladas ( 25 Jahre Hitparade International) Alemania en el año 1976  Edición Tríptico  Se despliega en tres tapas",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1976",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222692/023b2735f402243d55b6f9a4641fd704.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=103",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1976"
+          ]
+        },
+        {
+          "id": 1222693,
+          "lote": "104",
+          "titulo": "104) Dos Discos ensaladas cladicas  De Rock & Pop Ampliar foto para mirar títulos",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222693/694919d4d952cba74e9e19647dd7b366.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=104",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1222694,
+          "lote": "105",
+          "titulo": "105) Dos Disco LP ( Ensaladas de Pop y Rock ) Ampliar Fotografías para mirar títulos",
+          "descripcion": null,
+          "artista": "Ensaladas de Pop y Rock",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222694/ff6f48800599e4d1929c1c0a7c325bdc.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=105",
+          "motivos": [
+            "dice \"LP\""
+          ]
+        },
+        {
+          "id": 1222695,
+          "lote": "106",
+          "titulo": "106) Disco LP Ensalada Super Sonic  1975 England. Ampliar Fotografías para mirar títulos",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1975",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222695/67e63bc2b303ea5e8e6244a798d36cca.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=106",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1975"
+          ]
+        },
+        {
+          "id": 1222696,
+          "lote": "107",
+          "titulo": "107) Disco LP Ensalada  ( Italo Disco ) Alemania 1987 Ampliar Fotografías para mirar títulos",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222696/e4a3670f38dac728523a671dbe89e3b3.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=107",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1222697,
+          "lote": "108",
+          "titulo": "108) Disco LP Ensalada  ( Hit Machine) Exitos de la TV y Radio  Edición Alemania,sin fecha",
+          "descripcion": null,
+          "artista": "Hit Machine",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222697/5bedd8e87bf5cf12506a25d819752efc.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=108",
+          "motivos": [
+            "dice \"LP\""
+          ]
+        },
+        {
+          "id": 1222698,
+          "lote": "109",
+          "titulo": "109) Dos discos LP ( John Denver's ) Incluye el Greatest Hits  Ediciónes Uruguayas",
+          "descripcion": null,
+          "artista": "John Denver's",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222698/22a7468ade901eea48ddab72c6e2779b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=109",
+          "motivos": [
+            "dice \"LP\""
+          ]
+        },
+        {
+          "id": 1222699,
+          "lote": "110",
+          "titulo": "110) Dos Discos LP ( The Bee Gees ) Ediciónes Uruguaya  1973 - 1977",
+          "descripcion": null,
+          "artista": "The Bee Gees",
+          "album": null,
+          "sello": null,
+          "anio": "1973",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222699/5aa96eb06414016f4633b284f56bb9f8.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=110",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1973"
+          ]
+        },
+        {
+          "id": 1222700,
+          "lote": "111",
+          "titulo": "111) Dos Discos LP ( The Bee Gees ) Ediciónes Uruguaya 1977 - 1979",
+          "descripcion": null,
+          "artista": "The Bee Gees",
+          "album": null,
+          "sello": null,
+          "anio": "1977",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222700/b833969869b5b307814cfd3ec8fee125.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=111",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1977"
+          ]
+        },
+        {
+          "id": 1222701,
+          "lote": "112",
+          "titulo": "112) Discos Álbum Doble  ( Ensaladas CBS & WEA ) Tiene marquitas de uso. Ampliar Fotografías para mirar títulos",
+          "descripcion": null,
+          "artista": "Ensaladas CBS & WEA",
+          "album": null,
+          "sello": "CBS",
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222701/d33a333ea6757a8ada4fa2e15327af53.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=112",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1222702,
+          "lote": "113",
+          "titulo": "113) Discos Álbum Doble  ( Bee Gees) Greatest Hits  1979 Made in USA  Ampliar fotografías para mirar títulos. Pequeño desgaste en Cubierta",
+          "descripcion": null,
+          "artista": "Bee Gees",
+          "album": null,
+          "sello": null,
+          "anio": "1979",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222702/3539def0a17fd5751baf0ebc96ee6325.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=113",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1979"
+          ]
+        },
+        {
+          "id": 1222703,
+          "lote": "114",
+          "titulo": "114) Discos Álbum Doble  ( Bee Gees) ( ODESA ) 1969 Made in España Pequeño desgaste en Cubierta",
+          "descripcion": null,
+          "artista": "Bee Gees",
+          "album": null,
+          "sello": null,
+          "anio": "1969",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222703/f84a9af4ae52337e564e84f36d9ef863.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=114",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1969"
+          ]
+        },
+        {
+          "id": 1222704,
+          "lote": "115",
+          "titulo": "115) Discos Álbum Doble  ( Bee Gees) Greatest Hits  Industria Argentina  Sin fecha",
+          "descripcion": null,
+          "artista": "Bee Gees",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222704/2877eefcef51cfb2b2e5fb0b405e42d0.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=115",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1222705,
+          "lote": "116",
+          "titulo": "116) Disco Maxi 12  ( Love Drops ) 1991 Made in USA",
+          "descripcion": null,
+          "artista": "Love Drops",
+          "album": null,
+          "sello": null,
+          "anio": "1991",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222705/822426f16d733f6df3ef6d3ca76cfe60.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=116",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1991"
+          ]
+        },
+        {
+          "id": 1222706,
+          "lote": "117",
+          "titulo": "117) Disco Maxi 12  ( ZOE ) Sun Shine On A Rainy Day 1990 Made in England",
+          "descripcion": null,
+          "artista": "ZOE",
+          "album": null,
+          "sello": null,
+          "anio": "1990",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222706/2bc543336391a3258336671a15e04815.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=117",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1990"
+          ]
+        },
+        {
+          "id": 1222707,
+          "lote": "118",
+          "titulo": "118) Disco Maxi 12  ( DOMINOE) HERE I AM  1987 Made in Germany",
+          "descripcion": null,
+          "artista": "DOMINOE",
+          "album": null,
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222707/d69da5516b85edfd3ecb4b576a7cdb59.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=118",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1222708,
+          "lote": "119",
+          "titulo": "119) Disco Maxi 12  ( Talking Head) Con Tapa Génerica  Ampliar Fotografías  1984 Made in England",
+          "descripcion": null,
+          "artista": "Talking Head",
+          "album": null,
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222708/d0fde3f2893b949e9521084a6f2b322b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=119",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1222709,
+          "lote": "120",
+          "titulo": "120) Disco Maxi 12 ( Figures On Beach ) Accidentally 4Th Street. 1989 Made in USA",
+          "descripcion": null,
+          "artista": "Figures On Beach",
+          "album": null,
+          "sello": null,
+          "anio": "1989",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222709/1eee9d2a5688aa7bb29c76e9bd78f136.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=120",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1989"
+          ]
+        },
+        {
+          "id": 1222710,
+          "lote": "121",
+          "titulo": "121) Disco Picture Maxi ( Valerie Dore ) The Night  2023 Made in Germany",
+          "descripcion": null,
+          "artista": "Valerie Dore",
+          "album": null,
+          "sello": null,
+          "anio": "2023",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222710/6c4e2141c3b9dd90de172bec093e22ae.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=121",
+          "motivos": [
+            "dice \"disco\"",
+            "año 2023"
+          ]
+        },
+        {
+          "id": 1222711,
+          "lote": "122",
+          "titulo": "122) Disco Ensalada  ( Love Night) Lentos y Románticos Ampliar Fotografías para mirar títulos  1991 Made in Brasil",
+          "descripcion": null,
+          "artista": "Love Night",
+          "album": null,
+          "sello": null,
+          "anio": "1991",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222711/b22510dffaa6e7497d073c42c0146d71.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=122",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1991"
+          ]
+        },
+        {
+          "id": 1222712,
+          "lote": "123",
+          "titulo": "123) Disco LP Ensalada Para DJ 1987 Industria Uruguaya  Ampliar Fotografías para mirar títulos",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222712/57eb09681ba5c789a108ae09e7f3cc8b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=123",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1222713,
+          "lote": "124",
+          "titulo": "124) Disco LP Ensalada para DJ  Incluye Chiki Chika Ampliar Fotografías para mirar títulos  Seguramente Pirata. No tiene fecha y país de origen",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222713/e345ebb3b54301ef713f9101b3f19b26.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=124",
+          "motivos": [
+            "dice \"LP\""
+          ]
+        },
+        {
+          "id": 1222714,
+          "lote": "125",
+          "titulo": "125) Disco LP. ( Leo Sayer) Thunder In My Heart  Pequeño desgaste en Cubierta. 1977 Industria Uruguaya",
+          "descripcion": null,
+          "artista": "Leo Sayer",
+          "album": null,
+          "sello": null,
+          "anio": "1977",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222714/14203174e13c9be7cd857fac04eaca36.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=125",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1977"
+          ]
+        },
+        {
+          "id": 1222715,
+          "lote": "126",
+          "titulo": "126) Disco LP ( People's Choice ) Boogie Down USA  Incluye ( Do It Any Way You Wanna ) 1975 Industria Argentina",
+          "descripcion": null,
+          "artista": "People's Choice",
+          "album": null,
+          "sello": null,
+          "anio": "1975",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222715/3eb632b9666fb7abff158d0a0f47287e.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=126",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1975"
+          ]
+        },
+        {
+          "id": 1222716,
+          "lote": "127",
+          "titulo": "127) Disco LP ( Génesis) A Tuck Of The Tail 1977 Industria Uruguaya",
+          "descripcion": null,
+          "artista": "Génesis",
+          "album": null,
+          "sello": null,
+          "anio": "1977",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222716/dfeffe2a8f9c0048794a4f3c0b0c2036.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=127",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1977"
+          ]
+        },
+        {
+          "id": 1222717,
+          "lote": "128",
+          "titulo": "128) Disco LP ( U2 ) Aclaración  La tapa no coincide  El Disco es ( The Joshua Tree 1984",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222717/d05a358c27726fce84e951488c40190d.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=128",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1222718,
+          "lote": "129",
+          "titulo": "129) Disco LP con Inset  ( Neil Diamond ) September Morn ) 1979 Made in USA",
+          "descripcion": null,
+          "artista": "Neil Diamond",
+          "album": null,
+          "sello": null,
+          "anio": "1979",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222718/03cee04309d4ab1d56ef3b29628e455b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=129",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1979"
+          ]
+        },
+        {
+          "id": 1222719,
+          "lote": "130",
+          "titulo": "130) Disco LP con Inset  ( Jefferson Star Ship ) Nuclear Forniture  1984 Made in USA",
+          "descripcion": null,
+          "artista": "Jefferson Star Ship",
+          "album": null,
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222719/7490ebbe2b93b0770384979e02465507.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=130",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1222720,
+          "lote": "131",
+          "titulo": "131) Disco LP  ( Jefferson Star Ship ) Freedom At Point Zero 1984 Made in USA Edición Gatefold 1980 Industria Brasilera",
+          "descripcion": null,
+          "artista": "Jefferson Star Ship",
+          "album": null,
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222720/a6bd9e94d217e3d8c9bb796bc499a912.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=131",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1222721,
+          "lote": "132",
+          "titulo": "132) Disco LP ( James Taylor) In The Pocket  Incluye ( Shower The People) 1976 Industria Uruguaya  Contiene Insert",
+          "descripcion": null,
+          "artista": "James Taylor",
+          "album": null,
+          "sello": null,
+          "anio": "1976",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222721/112c6433b5f7ca3eb874a338030fa007.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=132",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1976"
+          ]
+        },
+        {
+          "id": 1222722,
+          "lote": "133",
+          "titulo": "133) Disco LP ( James Taylor) 1977 Industria Brasilera",
+          "descripcion": null,
+          "artista": "James Taylor",
+          "album": null,
+          "sello": null,
+          "anio": "1977",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222722/ccf6ce96679f5605862628787523b1a3.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=133",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1977"
+          ]
+        },
+        {
+          "id": 1222723,
+          "lote": "134",
+          "titulo": "134) Disco LP ( BREAD) The Best Of 1974 Made in USA",
+          "descripcion": null,
+          "artista": "BREAD",
+          "album": null,
+          "sello": null,
+          "anio": "1974",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222723/59e920552e3d085985770713bdca54c6.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=134",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1974"
+          ]
+        },
+        {
+          "id": 1222724,
+          "lote": "135",
+          "titulo": "135) Disco LP ( Manfred Man ) ( Watch ) Contiene Insert 1977 Made in Germany",
+          "descripcion": null,
+          "artista": "Manfred Man",
+          "album": null,
+          "sello": null,
+          "anio": "1977",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222724/1a46d64997f61c2d01ffe8e3f9e3c648.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=135",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1977"
+          ]
+        },
+        {
+          "id": 1222725,
+          "lote": "136",
+          "titulo": "136) Disco LP ( Dr Hook ) Greatest Hits  1980 Made in England  Ampliar Fotografías para mirar títulos",
+          "descripcion": null,
+          "artista": "Dr Hook",
+          "album": null,
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222725/5325a7a10998d4a683e8a02a99fea145.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=136",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1222726,
+          "lote": "137",
+          "titulo": "137) Disco LP ( América) Homecoming  1972 Edición Uruguaya",
+          "descripcion": null,
+          "artista": "América",
+          "album": null,
+          "sello": null,
+          "anio": "1972",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222726/a22c066ee0bf5856c3071ae320c28c49.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=137",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1972"
+          ]
+        },
+        {
+          "id": 1222727,
+          "lote": "138",
+          "titulo": "138) Disco LP ( Elton John) 21AT33 Contiene Sobre y Insert  1980 Comunidad Económica Europa. Mantiene pequeño desgaste en Cubierta",
+          "descripcion": null,
+          "artista": "Elton John",
+          "album": null,
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222727/95ed11af577ff0af6b4892ceb0c8eafe.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=138",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1222728,
+          "lote": "139",
+          "titulo": "139) Disco LP ( Love And Money) Stranger Kind Of Love Contiene Inser  1988 Made in Holanda",
+          "descripcion": null,
+          "artista": "Love And Money",
+          "album": null,
+          "sello": null,
+          "anio": "1988",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222728/ede8aefc8d5224ab5e83df7b74e04530.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=139",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1988"
+          ]
+        },
+        {
+          "id": 1222729,
+          "lote": "140",
+          "titulo": "140) Disco LP ( Kool & The Gang) Celebration  Industria Uruguaya",
+          "descripcion": null,
+          "artista": "Kool & The Gang",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222729/0c609a7d49625630f816af4fc46ea739.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=140",
+          "motivos": [
+            "dice \"LP\""
+          ]
+        },
+        {
+          "id": 1222730,
+          "lote": "141",
+          "titulo": "141) Disco LP ( Chicago ) Hot Street  1979 Industria Uruguaya",
+          "descripcion": null,
+          "artista": "Chicago",
+          "album": null,
+          "sello": null,
+          "anio": "1979",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222730/7e1f27aa996eb630d2bbe6b87d31352f.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=141",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1979"
+          ]
+        },
+        {
+          "id": 1222731,
+          "lote": "142",
+          "titulo": "142) Disco LP ( Electric Light Orchestra) Xanadu  1980 Industria Uruguaya",
+          "descripcion": null,
+          "artista": "Electric Light Orchestra",
+          "album": null,
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222731/cfaa15ec702c1407e3b7d62568c4dbbe.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=142",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1222732,
+          "lote": "143",
+          "titulo": "143) Disco Lp. ( Creedence Clewater Revival) Willy And The Poor Boy De Industria Uruguaya 1980  Con portada de mala calidad.",
+          "descripcion": null,
+          "artista": "Creedence Clewater Revival",
+          "album": null,
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222732/85d809bfcbc3f3bfc2cb77bdd6e515d4.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=143",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1222733,
+          "lote": "144",
+          "titulo": "144) Disco Maxi 12  ( Al Hudson & The Soul Partners) You Can Do It  1979 Made in Germany",
+          "descripcion": null,
+          "artista": "Al Hudson & The Soul Partners",
+          "album": null,
+          "sello": null,
+          "anio": "1979",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222733/c40a27ba74afbcedc143f158c152e0cb.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=144",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1979"
+          ]
+        },
+        {
+          "id": 1222734,
+          "lote": "145",
+          "titulo": "145) Disco Maxi 12  ( Geraldine Hunt ) Can't Fake The Feeling) 1980 Made in Germany",
+          "descripcion": null,
+          "artista": "Geraldine Hunt",
+          "album": null,
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222734/c405e7e274443da001bf46722ec55f70.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=145",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1222735,
+          "lote": "146",
+          "titulo": "146) Disco LP ( Kool & The Gang) In The Heart  Contiene Joana entre otros  1983 Industria Argentina",
+          "descripcion": null,
+          "artista": "Kool & The Gang",
+          "album": null,
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222735/caa24739b4f617f405ebfa75bed7d9cd.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=146",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1222736,
+          "lote": "147",
+          "titulo": "147) Disco LP ( Cat Stevens) Mona Bone Jakon  Made in Germany",
+          "descripcion": null,
+          "artista": "Cat Stevens",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222736/abc0930da2200b9ebab55c7495a7aefa.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=147",
+          "motivos": [
+            "dice \"LP\""
+          ]
+        },
+        {
+          "id": 1222737,
+          "lote": "148",
+          "titulo": "148) Disco LP ( Billy Joel) Piano Man  Desgaste en Cubierta  1973 Made in USA",
+          "descripcion": null,
+          "artista": "Billy Joel",
+          "album": null,
+          "sello": null,
+          "anio": "1973",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222737/fe5ca072d30ff98d35194f6b0065655b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=148",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1973"
+          ]
+        },
+        {
+          "id": 1222738,
+          "lote": "149",
+          "titulo": "149) Disco Triple y Tríptico  Maxi 12  ( Aretha Franklin ) A Deeper Love  Mirar fotografías. Mantiene algo de Desgaste en cubierta  1993 Made in USA",
+          "descripcion": null,
+          "artista": "Aretha Franklin",
+          "album": null,
+          "sello": null,
+          "anio": "1993",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222738/58b46f330df54f3065d0f0da610ccf3e.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=149",
+          "motivos": [
+            "dice \"disco\"",
+            "año 1993"
+          ]
+        },
+        {
+          "id": 1222739,
+          "lote": "150",
+          "titulo": "150) Disco Álbum Doble  ( Earth Wind & Fire ) Gratitude 1975 Made in USA",
+          "descripcion": null,
+          "artista": "Earth Wind & Fire",
+          "album": null,
+          "sello": null,
+          "anio": "1975",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222739/461074465d96b4a280c32f891193ae2f.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=150",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1975"
+          ]
+        },
+        {
+          "id": 1222740,
+          "lote": "151",
+          "titulo": "151) Disco LP ( John Cougar Mellencamp ) Scare Crew Pequeño faltante de la cubierta trasera  1985 Industria Uruguaya",
+          "descripcion": null,
+          "artista": "John Cougar Mellencamp",
+          "album": null,
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222740/f2c43ec4cd88e952f7736b81224a38ce.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=151",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1222741,
+          "lote": "152",
+          "titulo": "152) Disco Album Doble y Tríptico  ( Steve Wonder's ) The Secret Life Of  Plants. 1979 Made in USA. Alguna mancha de Humedad como muestran las fotografías",
+          "descripcion": null,
+          "artista": "Steve Wonder's",
+          "album": null,
+          "sello": null,
+          "anio": "1979",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222741/d711b1843641285a7d7f94a29a447f40.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=152",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1979"
+          ]
+        },
+        {
+          "id": 1222742,
+          "lote": "153",
+          "titulo": "153) Disco Album Doble  ( Steve Wonder's) The Original Musiquarium. Incluye Master Blaster  Suspertition entre Otros 1972 Industria Argentina",
+          "descripcion": null,
+          "artista": "Steve Wonder's",
+          "album": null,
+          "sello": null,
+          "anio": "1972",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222742/1cc6d7d384e35251e33f0aa061a9e862.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=153",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1972"
+          ]
+        },
+        {
+          "id": 1222743,
+          "lote": "154",
+          "titulo": "154) Disco LP ( Rod Stewart ) Blondes Have More Fun Incluye ( Da Ya Think Sexy) 1978 Industria Argentina",
+          "descripcion": null,
+          "artista": "Rod Stewart",
+          "album": null,
+          "sello": null,
+          "anio": "1978",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222743/355526200f5944964cd24aeca7fb73a0.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=154",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1978"
+          ]
+        },
+        {
+          "id": 1222744,
+          "lote": "155",
+          "titulo": "155) Disco LP ( Rod Stewart ) Maggie May  1980 Industria Brasilera",
+          "descripcion": null,
+          "artista": "Rod Stewart",
+          "album": null,
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222744/8dcb2bf53cae9eebcaa61bafefcc2de6.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=155",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1222745,
+          "lote": "156",
+          "titulo": "156) Disco LP ( Duran - Duran ) Notorius 1986 Industria Brasilera",
+          "descripcion": null,
+          "artista": null,
+          "album": "Duran ) Notorius 1986 Industria Brasilera",
+          "sello": null,
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222745/6c56f0b93febddc0b10fa055bd650139.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=156",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1222746,
+          "lote": "157",
+          "titulo": "157) Disco LP ( Phil Collins ) No Jacket Required  Contiene Insertar. 1985 Made in USA",
+          "descripcion": null,
+          "artista": "Phil Collins",
+          "album": null,
+          "sello": null,
+          "anio": "1985",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222746/e237c63ab7b9922c06efb1b2db89f1ce.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=157",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1985"
+          ]
+        },
+        {
+          "id": 1222747,
+          "lote": "158",
+          "titulo": "158) Discos Álbum Doble  ( Sting) Nothing Like The Sun Contiene Insert 1987 Industria Uruguaya",
+          "descripcion": null,
+          "artista": "Sting",
+          "album": null,
+          "sello": null,
+          "anio": "1987",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222747/335cd4af5b0fc4e1f376d329883fb4ed.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=158",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1987"
+          ]
+        },
+        {
+          "id": 1222748,
+          "lote": "159",
+          "titulo": "159) Disco LP ( Mecano ) Entre el Cielo y el Suelo Contiene ( Cruz de Navajas - Me Cuesta Tanto Olvidarte - Hijo de la Luna. Contiene Insert  1986 Made in España",
+          "descripcion": null,
+          "artista": "Mecano",
+          "album": null,
+          "sello": null,
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222748/8016eba41f9e4a28c373736811ac6fbe.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=159",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1222749,
+          "lote": "160",
+          "titulo": "160) Disco LP ( Os Paralamas Do Sucesso) Selvagem Con Sobre Generico  Contiene Alagados entre Otros 1986 Made in Brasil",
+          "descripcion": null,
+          "artista": "Os Paralamas Do Sucesso",
+          "album": null,
+          "sello": null,
+          "anio": "1986",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222749/779db9638ca3fa128acc6d7b065d31e9.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=160",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1986"
+          ]
+        },
+        {
+          "id": 1222750,
+          "lote": "161",
+          "titulo": "161) Disco LP ( Deep Purple Live In London ) 1982 Industria Argentina",
+          "descripcion": null,
+          "artista": "Deep Purple Live In London",
+          "album": null,
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222750/d348587f52eb667dc1e7d4ade6a0e6c1.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=161",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1222751,
+          "lote": "162",
+          "titulo": "162) Disco LP ( Deep Purple ) TRAETORMENTAS  1976 Industria Uruguaya",
+          "descripcion": null,
+          "artista": "Deep Purple",
+          "album": null,
+          "sello": null,
+          "anio": "1976",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222751/eaa77c2559771a895a0cb7a3135fe9ea.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=162",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1976"
+          ]
+        },
+        {
+          "id": 1222752,
+          "lote": "163",
+          "titulo": "163) Disco LP ( Bruce Springsteen ) Born In The USA  Dancing In The Darck. Glory Day 1984 Industria Brasilera",
+          "descripcion": null,
+          "artista": "Bruce Springsteen",
+          "album": null,
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222752/c61d7966c3b1ac1725658ce619bb2025.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=163",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1222753,
+          "lote": "164",
+          "titulo": "164) Disco LP ( Led Zeppelin ) Contiene Black Dog. Stairway To Heaven  1972 Industria Uruguaya",
+          "descripcion": null,
+          "artista": "Led Zeppelin",
+          "album": null,
+          "sello": null,
+          "anio": "1972",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222753/9d358023c1c7524739d1485d39827828.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=164",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1972"
+          ]
+        },
+        {
+          "id": 1222754,
+          "lote": "165",
+          "titulo": "165) Disco LP ( Led Zeppelin II ) 1974 Industria Argentina. ( Aclaración) Cubierta con desgaste y para pegar",
+          "descripcion": null,
+          "artista": "Led Zeppelin II",
+          "album": null,
+          "sello": null,
+          "anio": "1974",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222754/f882c125b5b54734187bbb0c2131f8e5.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=165",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1974"
+          ]
+        },
+        {
+          "id": 1222755,
+          "lote": "166",
+          "titulo": "166) Disco LP ( John Lennon ) The Colection  1982 Industria Uruguaya",
+          "descripcion": null,
+          "artista": "John Lennon",
+          "album": null,
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222755/54390ee87bc6a5021904d56c3fd9c1b3.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=166",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1222756,
+          "lote": "167",
+          "titulo": "167) Disco LP ( Eric Clapton ) Slowhand 1978 Industria Uruguaya  Y con notables faltas de Ortografía",
+          "descripcion": null,
+          "artista": "Eric Clapton",
+          "album": null,
+          "sello": null,
+          "anio": "1978",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222756/f3b9f2689d4a28f79dec8bdfd5141ce9.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=167",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1978"
+          ]
+        },
+        {
+          "id": 1222757,
+          "lote": "168",
+          "titulo": "168) Disco LP ( Eric Clapton ) The Best 1982 Industria Brasilera",
+          "descripcion": null,
+          "artista": "Eric Clapton",
+          "album": null,
+          "sello": null,
+          "anio": "1982",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222757/14a787bd3da897973cf26eee9b401dad.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=168",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1982"
+          ]
+        },
+        {
+          "id": 1222758,
+          "lote": "169",
+          "titulo": "169) Disco LP ( Eric Clapton) No Reason to Cry Con Importante tapa de Emergencia  1978 Industria Uruguaya",
+          "descripcion": null,
+          "artista": "Eric Clapton",
+          "album": null,
+          "sello": null,
+          "anio": "1978",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222758/b21bf4097c0750e18a188e906d6f4a7b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=169",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1978"
+          ]
+        },
+        {
+          "id": 1222759,
+          "lote": "170",
+          "titulo": "170) Disco LP ( Roger Hodgson ) Primer Álbum Como Solista. Por Fuera de Supertamp  1984 Industria Argentina",
+          "descripcion": null,
+          "artista": "Roger Hodgson",
+          "album": null,
+          "sello": null,
+          "anio": "1984",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222759/2379dc566d2dde114e50a0cdf83b2bff.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=170",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1984"
+          ]
+        },
+        {
+          "id": 1222760,
+          "lote": "171",
+          "titulo": "171) Disco LP ( Eric Clapton) There's One In Every Crowd) 1976 Industria Uruguaya",
+          "descripcion": null,
+          "artista": "Eric Clapton",
+          "album": null,
+          "sello": null,
+          "anio": "1976",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222760/0a4162c99c6d81a17e61191546473199.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=171",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1976"
+          ]
+        },
+        {
+          "id": 1222761,
+          "lote": "172",
+          "titulo": "172) Discos Álbum Doble  ( Supertamp Live ) 1980 Made in USA",
+          "descripcion": null,
+          "artista": "Supertamp Live",
+          "album": null,
+          "sello": null,
+          "anio": "1980",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222761/977968befb93eb1e8742c855fe67585d.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=172",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1980"
+          ]
+        },
+        {
+          "id": 1222762,
+          "lote": "173",
+          "titulo": "173) Discos Álbum Doble  ( Supertamp Paris ) Desgaste en Cubierta  Industria Brasilera",
+          "descripcion": null,
+          "artista": "Supertamp Paris",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222762/a9adc105b181a69f4e33e6ec077eb2e6.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=173",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1222763,
+          "lote": "174",
+          "titulo": "174) Disco LP ( Fleetwood Mac ) 1975 Industria Uruguaya",
+          "descripcion": null,
+          "artista": "Fleetwood Mac",
+          "album": null,
+          "sello": null,
+          "anio": "1975",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222763/5097c555af6444cdefd3950532b366f7.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=174",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1975"
+          ]
+        },
+        {
+          "id": 1222764,
+          "lote": "175",
+          "titulo": "175) Disco LP ( Pink Floyd ) Con Tapa Génerica  El Lado Oscuro de la Luna. 1973 Industria Argentina",
+          "descripcion": null,
+          "artista": "Pink Floyd",
+          "album": null,
+          "sello": null,
+          "anio": "1973",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222764/c02ad7c3245ee1a92e72200b1c9b804f.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=175",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1973"
+          ]
+        },
+        {
+          "id": 1222765,
+          "lote": "176",
+          "titulo": "176) Disco LP ( Pink Floyd) Obscured By Clouds  1972 Industria Argentina  Detalles en Cubierta",
+          "descripcion": null,
+          "artista": "Pink Floyd",
+          "album": null,
+          "sello": null,
+          "anio": "1972",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222765/6f25213c84f66098a0fb8aa144fe3124.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=176",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1972"
+          ]
+        },
+        {
+          "id": 1222766,
+          "lote": "177",
+          "titulo": "177) Disco LP ( Pink Floyd) The Final Culto 1983 Industria Italiana  Tiene detalles en Cubierta",
+          "descripcion": null,
+          "artista": "Pink Floyd",
+          "album": null,
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222766/2b4efcee0f76c781eebefd46c8ff62f6.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=177",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1983"
+          ]
+        },
+        {
+          "id": 1222767,
+          "lote": "178",
+          "titulo": "178) Disco LP ( Pink Floyd) A Collection Of Great Dance Song. Incluye: MONEY. Wish You Were Here. Another Brick In The Wall entre Otros  Tapa con desgaste  Contiene Insert. 1981 Industria Italiana",
+          "descripcion": null,
+          "artista": "Pink Floyd",
+          "album": null,
+          "sello": null,
+          "anio": "1981",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222767/fc0e4e8092b554a07159bb5d5d2774ec.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=178",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1981"
+          ]
+        },
+        {
+          "id": 1222768,
+          "lote": "179",
+          "titulo": "179) Disco LP ( QUEEN) News Of The World. Contiene - We Will Rock You. We Are The Champions. Con Insert. 1977 Industria Brasilera",
+          "descripcion": null,
+          "artista": "QUEEN",
+          "album": null,
+          "sello": null,
+          "anio": "1977",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222768/25baa8b2dc1ae4f642d7c8bee9b731e6.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=179",
+          "motivos": [
+            "dice \"LP\"",
+            "año 1977"
+          ]
+        }
+      ],
+      "datosDe": "2026-11-19T02:27:11.862Z"
+    },
+    {
+      "id": "8484",
+      "nombre": "✅Uno de los mejores Remates de Discos Simples 7",
+      "empresa": "Valentina Rodríguez",
+      "departamento": "Montevideo",
+      "lugar": "Saint Bois 4623 esq. Cam. Corrales, Montevideo",
+      "fecha": "27/11/2026, 15:00",
+      "fechaISO": "2026-11-27T18:00:00.000Z",
+      "timestamp": 1795802400,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8484",
+      "totalLotes": 187,
+      "vinilos": [
+        {
+          "id": 1222840,
+          "lote": "70",
+          "titulo": "70) Disco Álbum Doble Simples 7  ( Elton John ) \" Kiss The Bride 1983 Made in England  Mirar Segunda Fotografía Para Las Pistas",
+          "descripcion": null,
+          "artista": "Elton John",
+          "album": null,
+          "sello": null,
+          "anio": "1983",
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222840/e34c7b9337031f3ad97e6fab7504f41a.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8484?lote=70",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1983"
+          ]
+        }
+      ],
+      "datosDe": "2026-11-19T02:27:11.862Z"
     },
     {
       "id": "8229",
@@ -724,13 +3440,13 @@
       "timestamp": 1796250600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8229",
-      "totalLotes": 234,
+      "totalLotes": 260,
       "vinilos": [],
-      "datosDe": "2026-11-18T12:45:25.546Z"
+      "datosDe": "2026-11-19T02:27:11.862Z"
     },
     {
       "id": "8439",
-      "nombre": "Remate de fin de año! Variada oferta por  liquidación. Embarcadero portátil, motos antiguas, charré, sulky, chapas, maderas, piques de madera dura, postes, moledora de granos, cocina económica, auto fusca en desuso, herramientas, antigüedades y mucho mas....",
+      "nombre": "¡¡¡FALTA SUBIR 60 LOTES!!! ¡Remate de fin de año! Variada oferta por liquidación. Embarcadero portátil, motos antiguas, charré, sulky, chapas, maderas, piques de madera dura, postes, moledora de granos, cocina económica, auto fusca en desuso, herramientas, antigüedades y mucho mas....",
       "empresa": "Agustin Villamil",
       "departamento": "Durazno",
       "lugar": "Centro de Durazno, Durazno",
@@ -741,22 +3457,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8439",
       "totalLotes": 25,
       "vinilos": [],
-      "datosDe": "2026-11-18T12:45:25.546Z"
-    },
-    {
-      "id": "8440",
-      "nombre": "4to remate de cuchilleria,  platería criolla,  antigüedades,  militaría, documentos y numística.",
-      "empresa": "Agustin Villamil",
-      "departamento": "Durazno",
-      "lugar": "Centro de Durazno, Durazno",
-      "fecha": "05/12/2026, 19:00",
-      "fechaISO": "2026-12-05T22:00:00.000Z",
-      "timestamp": 1796508000,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8440",
-      "totalLotes": 52,
-      "vinilos": [],
-      "datosDe": "2026-11-18T12:45:25.546Z"
+      "datosDe": "2026-11-19T02:27:11.862Z"
     },
     {
       "id": "7651",
@@ -3895,7 +6596,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-18T12:45:25.546Z"
+      "datosDe": "2026-11-19T02:27:11.862Z"
     },
     {
       "id": "8128",
@@ -3910,7 +6611,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8128",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-11-18T12:45:25.546Z"
+      "datosDe": "2026-11-19T02:27:11.862Z"
     }
   ]
 }
