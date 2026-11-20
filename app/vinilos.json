@@ -1,37 +1,7 @@
 {
-  "generado": "2026-11-19T12:36:45.726Z",
+  "generado": "2026-11-20T02:11:42.950Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "8411",
-      "nombre": "Jueves 19 ~ 19:00 🔪🔪🔪 EL REMATE DE CUCHILLERIA, NAVAJAS 🪒 Y PLATERIA CRIOLLA MAS IMPORTANTE DEL AÑO 🔪🔪🔪 ***150 LOTES***",
-      "empresa": "Rey Antigüedades & Subastas",
-      "departamento": "Montevideo",
-      "lugar": "Maldonado 1083 esq Paraguay, Montevideo",
-      "fecha": "19/11/2026, 18:59",
-      "fechaISO": "2026-11-19T21:59:00.000Z",
-      "timestamp": 1795125540,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8411",
-      "totalLotes": 151,
-      "vinilos": [],
-      "datosDe": "2026-11-19T12:36:45.726Z"
-    },
-    {
-      "id": "8271",
-      "nombre": "¡Gran remate de Caja industrial para vehículos de carga o remolque, Escalera extensible coliza repuestos, herramientas y equipos industriales! discos de freno, radiadores, tableros, manómetros, compactadores, apiladores, carteles viales, lockers y mucho más. ¡No te lo podés perder!",
-      "empresa": "Pablo Barrientos",
-      "departamento": "Montevideo",
-      "lugar": "CAMINO DE LOS MOLINOS 5407 ESQUINA CAMINO MENDOZA, Montevideo",
-      "fecha": "19/11/2026, 19:00",
-      "fechaISO": "2026-11-19T22:00:00.000Z",
-      "timestamp": 1795125600,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8271",
-      "totalLotes": 203,
-      "vinilos": [],
-      "datosDe": "2026-11-19T12:36:45.726Z"
-    },
     {
       "id": "8404",
       "nombre": "✅ATENCIÓN ✅ REMATAZO POR VENTA PROPIEDAD✅MUEBLES DE ESTILOS✅VARIEDAD LOZAS✅PLATINAS✅ARTÍCULOS COLECCIONABLES ✅JUEGO PATIO✅RECADO✅ Y MUCHOS LOTES IMPERDIBLES ✅ REALIZAMOS ENVÍOS A TODO EL PAÍS ✅ NO DUDE EN CONSULTAR , POR MÁS INFORMACIÓN 091 296 984 RICHARD BORGES / 091 758 771 JUAN FLORES ✅",
@@ -43,9 +13,43 @@
       "timestamp": 1795210200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8404",
-      "totalLotes": 211,
+      "totalLotes": 217,
       "vinilos": [],
-      "datosDe": "2026-11-19T12:36:45.726Z"
+      "datosDe": "2026-11-20T02:11:42.950Z"
+    },
+    {
+      "id": "8516",
+      "nombre": "⭐️BUELA REMATA⭐️ 🚩🚩🚩NUEVO REMATE MULTIRUBRO🚩🚩🚩 ✔MERCADERÍA NUEVA ✔ENVIOS A TODO EL PAIS ✔EMBALAJE SIN COSTO",
+      "empresa": "Ana Paula Buela Salato",
+      "departamento": "Montevideo",
+      "lugar": "José Usera 3329, Montevideo",
+      "fecha": "20/11/2026, 19:00",
+      "fechaISO": "2026-11-20T22:00:00.000Z",
+      "timestamp": 1795212000,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8516",
+      "totalLotes": 103,
+      "vinilos": [
+        {
+          "id": 1227703,
+          "lote": "75",
+          "titulo": "Cierra Circular de madera con disco.",
+          "descripcion": null,
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 1800,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1227703/507df4aa0915b024d24e9ea392623e88.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8516?lote=75",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        }
+      ],
+      "datosDe": "2026-11-20T02:11:42.950Z"
     },
     {
       "id": "7367",
@@ -58,9 +62,9 @@
       "timestamp": 1795213800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/7367",
-      "totalLotes": 178,
+      "totalLotes": 177,
       "vinilos": [],
-      "datosDe": "2026-11-19T12:36:45.726Z"
+      "datosDe": "2026-11-20T02:11:42.950Z"
     },
     {
       "id": "7448",
@@ -75,7 +79,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7448",
       "totalLotes": 262,
       "vinilos": [],
-      "datosDe": "2026-11-19T12:36:45.726Z"
+      "datosDe": "2026-11-20T02:11:42.950Z"
     },
     {
       "id": "8285",
@@ -88,9 +92,9 @@
       "timestamp": 1795287600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8285",
-      "totalLotes": 110,
+      "totalLotes": 112,
       "vinilos": [],
-      "datosDe": "2026-11-19T12:36:45.726Z"
+      "datosDe": "2026-11-20T02:11:42.950Z"
     },
     {
       "id": "8406",
@@ -105,7 +109,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8406",
       "totalLotes": 70,
       "vinilos": [],
-      "datosDe": "2026-11-19T12:36:45.726Z"
+      "datosDe": "2026-11-20T02:11:42.950Z"
     },
     {
       "id": "8436",
@@ -120,7 +124,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8436",
       "totalLotes": 237,
       "vinilos": [],
-      "datosDe": "2026-11-19T12:36:45.726Z"
+      "datosDe": "2026-11-20T02:11:42.950Z"
     },
     {
       "id": "8449",
@@ -136,64 +140,103 @@
       "totalLotes": 117,
       "vinilos": [
         {
-          "id": 1223738,
-          "lote": "94",
-          "titulo": "4 álbumes de fútbol sin figuritas diferentes",
-          "descripcion": null,
+          "id": 1215622,
+          "lote": "55",
+          "titulo": "4 CD de juegos en sus estuches",
+          "descripcion": "Cuatro discos de videojuegos para PC/Windows en sus estuches negros con carátulas: STCC The Game, Grand Theft Auto: San Andreas (\"En Español\"), Spider-Man: The Movie Game y Bionicle. Conservan desgaste, rayones, marcas de uso y roce en estuches, carátulas y discos propios de su antigüedad y almacenamiento (sin probar en funcionamiento), ideales para retro gaming o coleccionismo.",
           "artista": null,
           "album": null,
           "sello": null,
           "anio": null,
+          "moneda": "$",
+          "base": 300,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1215622/b5770b7bd721b19399d410882d01bc31.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8449?lote=55",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1223706,
+          "lote": "62",
+          "titulo": "3 piezas antiguas a la vista",
+          "descripcion": "Tres piezas antiguas de hierro/metal: una pala de punta metálica con restos de pintura verde, una pala ancha/cuchara metálica y una herramienta o dispositivo de hierro con vástago, rueda/disco y alojamiento inferior con restos de pintura amarilla. Conservan óxido, desgaste, pintura saltada y marcas propias del uso y el tiempo, ideales para coleccionismo de herramientas antiguas, decoración rústica, quincho o campo.",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 200,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1223706/b9f92c67e0c56b8e1f1d88653f83f8e5.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8449?lote=62",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        },
+        {
+          "id": 1223738,
+          "lote": "94",
+          "titulo": "4 álbumes de fútbol diferentes (sin figuritas)",
+          "descripcion": "Lote de 4 álbumes de fútbol diferentes sin figuritas: \"Road to 2014 FIFA World Cup Brazil\" (Panini), \"FIFA World Cup Brasil 2014\" (Panini), \"Copa América Centenario\" (Panini) y \"FIFA World Cup Russia 2018\" (Panini). Conservan desgaste leve, marcas de manipulación o almacenamiento y señales propias del tiempo, ideales para coleccionismo futbolero.",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "2014",
           "moneda": "$",
           "base": 300,
           "oferta": null,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1223738/35d61956409c215417f5f9a7ed422075.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8449?lote=94",
           "motivos": [
-            "dice \"álbum\""
+            "dice \"álbum\"",
+            "año 2014"
           ]
         },
         {
           "id": 1223739,
           "lote": "95",
-          "titulo": "4 álbumes de fútbol tres sin figuritas uno con algunas",
-          "descripcion": null,
+          "titulo": "4 álbumes de fútbol (tres sin figuritas, uno con algunas)",
+          "descripcion": "Lote de 4 álbumes de fútbol de Panini (tres sin figuritas y uno con algunas figuritas): \"FIFA World Cup Qatar 2022\", \"UEFA Euro 2012 Poland-Ukraine\", \"Copa América Centenario\" y un álbum de torneo de selecciones en tapa naranja/roja. Conservan desgaste leve, marcas de manipulación o almacenamiento y señales propias del tiempo, ideales para coleccionismo futbolero.",
           "artista": null,
           "album": null,
           "sello": null,
-          "anio": null,
+          "anio": "2022",
           "moneda": "$",
           "base": 300,
           "oferta": null,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1223739/96f612ad6ff9df6ab3741dfde1d73aff.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8449?lote=95",
           "motivos": [
-            "dice \"álbum\""
+            "dice \"álbum\"",
+            "año 2022"
           ]
         },
         {
           "id": 1223740,
           "lote": "96",
-          "titulo": "4 álbumes de fútbol diferentes con bastantes figuritas incompletos",
-          "descripcion": null,
+          "titulo": "4 álbumes de fútbol diferentes incompletos (con bastantes figuritas)",
+          "descripcion": "Lote de 4 álbumes de fútbol diferentes incompletos, con bastantes figuritas pegadas: \"Road to 2018 FIFA World Cup Russia\" (Panini), \"South Africa 2010 FIFA World Cup\" (Panini), \"FIFA World Cup Russia 2018\" (Panini) y un álbum de UEFA Champions League (Panini). Conservan desgaste, marcas de manipulación o almacenamiento y señales propias del tiempo, ideales para coleccionismo futbolero.",
           "artista": null,
           "album": null,
           "sello": null,
-          "anio": null,
+          "anio": "2018",
           "moneda": "$",
           "base": 500,
           "oferta": null,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1223740/d96a306b5d6291c5de8c10bd132b6f02.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8449?lote=96",
           "motivos": [
-            "dice \"álbum\""
+            "dice \"álbum\"",
+            "año 2018"
           ]
         },
         {
           "id": 1223743,
           "lote": "99",
           "titulo": "Una reliquia álbum del escolar del bicentenario año 2011 casi completo faltan 10 figuritas",
-          "descripcion": null,
+          "descripcion": "Álbum coleccionable \"Álbum del Bicentenario\" (Uruguay 1811–2011, año 2011) editado por El Escolar, casi completo (según referencia, faltan 10 figuritas). Conserva desgaste leve, marcas de manipulación o almacenamiento y señales propias del tiempo, ideal para coleccionismo histórico o de figuritas.",
           "artista": null,
           "album": null,
           "sello": null,
@@ -209,7 +252,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-19T12:36:45.726Z"
+      "datosDe": "2026-11-20T02:11:42.950Z"
     },
     {
       "id": "8274",
@@ -222,9 +265,9 @@
       "timestamp": 1795474800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8274",
-      "totalLotes": 564,
+      "totalLotes": 572,
       "vinilos": [],
-      "datosDe": "2026-11-19T12:36:45.726Z"
+      "datosDe": "2026-11-20T02:11:42.950Z"
     },
     {
       "id": "8281",
@@ -583,7 +626,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-19T12:36:45.726Z"
+      "datosDe": "2026-11-20T02:11:42.950Z"
     },
     {
       "id": "8492",
@@ -1751,7 +1794,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-19T12:36:45.726Z"
+      "datosDe": "2026-11-20T02:11:42.950Z"
     },
     {
       "id": "8451",
@@ -1766,7 +1809,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8451",
       "totalLotes": 108,
       "vinilos": [],
-      "datosDe": "2026-11-19T12:36:45.726Z"
+      "datosDe": "2026-11-20T02:11:42.950Z"
     },
     {
       "id": "8458",
@@ -1779,9 +1822,9 @@
       "timestamp": 1795645800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8458",
-      "totalLotes": 133,
+      "totalLotes": 156,
       "vinilos": [],
-      "datosDe": "2026-11-19T12:36:45.726Z"
+      "datosDe": "2026-11-20T02:11:42.950Z"
     },
     {
       "id": "8480",
@@ -1794,9 +1837,9 @@
       "timestamp": 1795647600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8480",
-      "totalLotes": 2,
+      "totalLotes": 5,
       "vinilos": [],
-      "datosDe": "2026-11-19T12:36:45.726Z"
+      "datosDe": "2026-11-20T02:11:42.950Z"
     },
     {
       "id": "8444",
@@ -1830,7 +1873,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-19T12:36:45.726Z"
+      "datosDe": "2026-11-20T02:11:42.950Z"
     },
     {
       "id": "8483",
@@ -1856,7 +1899,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222685/d549089edc522c1d531b01462d226b52.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=96",
           "motivos": [
@@ -2682,7 +2725,7 @@
           "anio": "1980",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222731/cfaa15ec702c1407e3b7d62568c4dbbe.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=142",
           "motivos": [
@@ -3080,7 +3123,7 @@
           "anio": "1984",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222752/c61d7966c3b1ac1725658ce619bb2025.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=163",
           "motivos": [
@@ -3099,7 +3142,7 @@
           "anio": "1972",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222753/9d358023c1c7524739d1485d39827828.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=164",
           "motivos": [
@@ -3137,7 +3180,7 @@
           "anio": "1982",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222755/54390ee87bc6a5021904d56c3fd9c1b3.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=166",
           "motivos": [
@@ -3288,7 +3331,7 @@
           "anio": "1975",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222763/5097c555af6444cdefd3950532b366f7.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=174",
           "motivos": [
@@ -3326,7 +3369,7 @@
           "anio": "1972",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222765/6f25213c84f66098a0fb8aa144fe3124.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=176",
           "motivos": [
@@ -3392,7 +3435,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-19T12:36:45.726Z"
+      "datosDe": "2026-11-20T02:11:42.950Z"
     },
     {
       "id": "8484",
@@ -3541,7 +3584,22 @@
           ]
         }
       ],
-      "datosDe": "2026-11-19T12:36:45.726Z"
+      "datosDe": "2026-11-20T02:11:42.950Z"
+    },
+    {
+      "id": "8501",
+      "nombre": "Liquidación DE REMATES. RECOPIMAMOS  UNA GRAN VARIEDAD DE ARTÍCULOS DE REMATES ANTERIORES, BAZAR, ARTÍCULOS PARA EL HOGAR, BICICLETA, HERRAMIENTAS ELECTRODOMÉSTICOS Y UNA GRAN COLECCIÓN DE LÁMINAS Y ARTÍCULOS DE COLECCIÓN Y ANTIGÜEDADES.",
+      "empresa": "Gonzalo Maqueira Sanchez",
+      "departamento": "Rocha",
+      "lugar": "Ruta 15 km 18, Rocha",
+      "fecha": "27/11/2026, 19:30",
+      "fechaISO": "2026-11-27T22:30:00.000Z",
+      "timestamp": 1795818600,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8501",
+      "totalLotes": 153,
+      "vinilos": [],
+      "datosDe": "2026-11-20T02:11:42.950Z"
     },
     {
       "id": "8229",
@@ -3556,7 +3614,22 @@
       "url": "https://www.remotes.com.uy/participar/remate/8229",
       "totalLotes": 263,
       "vinilos": [],
-      "datosDe": "2026-11-19T12:36:45.726Z"
+      "datosDe": "2026-11-20T02:11:42.950Z"
+    },
+    {
+      "id": "8200",
+      "nombre": "Gran Remate de Autos-Motos y  Partes Antiguas y de Colección.",
+      "empresa": "Roberto Vizoso Diaz",
+      "departamento": "MONTEVIDEO",
+      "lugar": "Ruta 5 y Camino La Redencion , MONTEVIDEO",
+      "fecha": "05/12/2026, 11:00",
+      "fechaISO": "2026-12-05T14:00:00.000Z",
+      "timestamp": 1796479200,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8200",
+      "totalLotes": 28,
+      "vinilos": [],
+      "datosDe": "2026-11-20T02:11:42.950Z"
     },
     {
       "id": "8439",
@@ -3569,9 +3642,9 @@
       "timestamp": 1796493600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8439",
-      "totalLotes": 25,
+      "totalLotes": 30,
       "vinilos": [],
-      "datosDe": "2026-11-19T12:36:45.726Z"
+      "datosDe": "2026-11-20T02:11:42.950Z"
     },
     {
       "id": "7651",
@@ -6710,7 +6783,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-19T12:36:45.726Z"
+      "datosDe": "2026-11-20T02:11:42.950Z"
     },
     {
       "id": "8128",
@@ -6725,7 +6798,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8128",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-11-19T12:36:45.726Z"
+      "datosDe": "2026-11-20T02:11:42.950Z"
     }
   ]
 }
