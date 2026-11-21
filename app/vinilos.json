@@ -1,86 +1,7 @@
 {
-  "generado": "2026-11-20T12:36:45.072Z",
+  "generado": "2026-11-21T02:03:28.194Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "8404",
-      "nombre": "✅ATENCIÓN ✅ HOY👨🏽‍⚖️REMATAZO POR VENTA PROPIEDAD✅MUEBLES DE ESTILOS✅VARIEDAD LOZAS✅PLATINAS✅ARTÍCULOS COLECCIONABLES ✅JUEGO PATIO✅RECADO✅ Y MUCHOS LOTES IMPERDIBLES ✅ REALIZAMOS ENVÍOS A TODO EL PAÍS ✅ NO DUDE EN CONSULTAR , POR MÁS INFORMACIÓN 091 296 984 RICHARD BORGES / 091 758 771 JUAN FLORES ✅",
-      "empresa": "Richard Borges",
-      "departamento": "SALTO",
-      "lugar": "ZORRILLA 675, SALTO",
-      "fecha": "20/11/2026, 18:30",
-      "fechaISO": "2026-11-20T21:30:00.000Z",
-      "timestamp": 1795210200,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8404",
-      "totalLotes": 217,
-      "vinilos": [],
-      "datosDe": "2026-11-20T12:36:45.072Z"
-    },
-    {
-      "id": "8516",
-      "nombre": "⭐️BUELA REMATA⭐️ 🚩🚩🚩NUEVO REMATE MULTIRUBRO🚩🚩🚩 ✔MERCADERÍA NUEVA ✔ENVIOS A TODO EL PAIS ✔EMBALAJE SIN COSTO",
-      "empresa": "Ana Paula Buela Salato",
-      "departamento": "Montevideo",
-      "lugar": "José Usera 3329, Montevideo",
-      "fecha": "20/11/2026, 19:00",
-      "fechaISO": "2026-11-20T22:00:00.000Z",
-      "timestamp": 1795212000,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8516",
-      "totalLotes": 103,
-      "vinilos": [
-        {
-          "id": 1227703,
-          "lote": "75",
-          "titulo": "Cierra Circular de madera con disco.",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 1800,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1227703/507df4aa0915b024d24e9ea392623e88.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8516?lote=75",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        }
-      ],
-      "datosDe": "2026-11-20T12:36:45.072Z"
-    },
-    {
-      "id": "7367",
-      "nombre": "Subasta de Antigüedades y Coleccionables. Se destaca: lotes de botellas (algunas muy raras de encontrar), Plato de colección del Hotel Argentino de Piriapolis, Jarra y palangana, Artículos Art Nouveau, matrículas y más. ENVíOS A TODO EL PAÍS.",
-      "empresa": "Luciana Pesce",
-      "departamento": "San José",
-      "lugar": "Km 29. Ruta 1, San José",
-      "fecha": "20/11/2026, 19:30",
-      "fechaISO": "2026-11-20T22:30:00.000Z",
-      "timestamp": 1795213800,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7367",
-      "totalLotes": 177,
-      "vinilos": [],
-      "datosDe": "2026-11-20T12:36:45.072Z"
-    },
-    {
-      "id": "7448",
-      "nombre": "SALDRAN A REMATE LOTES PRE-OFERTADOS - SIN BASE LA COLECCION DE STICKERS LOTE 250 EN DELANTE - MUEBLES, ROPA USADA SELECCIONADA, PELUCHES, LIBROS, APROX. 100 STICKERS LENTICULARES, LIBROS DE TODO TIPO, TEMATICA INFANTIL, INGLÉS, GEOGRAFIA, ETC. PIEDRAS SEMIPRECIOSAS DE ARTIGAS - GRAN ÁRBOL DE LA VIDA. STICKERS LENTICULARES CON EFECTO VISUAL 3D O CAMBIO DE IMAGEN SEGÚN EL ÁNGULO DE VISIÓN. RIVERA – ENVÍOS A TODO EL PAÍS. ¿TENÉS ARTÍCULOS, MERCADERÍA O STOCK SIN VENDER? ¡NOSOTROS LOS VENDEMOS POR VOS! OFRECEMOS SERVICIO INTEGRAL DE REMATES ONLINE PARA PARTICULARES Y COMERCIOS. CONVERTÍ EN DINERO AQUELLO QUE YA NO USÁS O TENÉS INMOVILIZADO. NOS ENCARGAMOS DE LA PUBLICACIÓN, PROMOCIÓN Y GESTIÓN DEL REMATE. SERVICIO DISCRETO Y PERSONALIZADO. CONSULTANOS SIN COMPROMISO Y TRANSFORMÁ TUS ARTÍCULOS EN DINERO. WHATSAPP 092 222 266",
-      "empresa": "Vip Subastas",
-      "departamento": "Rivera",
-      "lugar": "Ver cada Lote - Envío a todo el país , Rivera",
-      "fecha": "20/11/2026, 21:00",
-      "fechaISO": "2026-11-21T00:00:00.000Z",
-      "timestamp": 1795219200,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7448",
-      "totalLotes": 262,
-      "vinilos": [],
-      "datosDe": "2026-11-20T12:36:45.072Z"
-    },
     {
       "id": "8285",
       "nombre": "SÁBADO 21 DE NOVIEMBRE - DECIMO CUARTO REMATE DE CHINOPIN MUEBLES Y ANTIGÜEDADES.  POR PLATAFORMA Y PRESENCIAL EN IGNACIO ORIBE 148 - CIUDAD DE DURAZNO. DESTACAMOS: MUEBLES RÚSTICOS, MUEBLES DE CAMPO, ANTIGÜEDADES Y PIEZAS EXCLUSIVAS DE DECORACIÓN!! EXPOSICIÓN: PERMANENTE HASTA EL DÍA DEL REMATE.⚠️ CATALOGO LISTO. PUEDE DEJAR OFERTA AUTOMÁTICA POR EL LOTE DE SU INTERÉS  ⚠️",
@@ -94,7 +15,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8285",
       "totalLotes": 112,
       "vinilos": [],
-      "datosDe": "2026-11-20T12:36:45.072Z"
+      "datosDe": "2026-11-21T02:03:28.194Z"
     },
     {
       "id": "8406",
@@ -109,7 +30,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8406",
       "totalLotes": 70,
       "vinilos": [],
-      "datosDe": "2026-11-20T12:36:45.072Z"
+      "datosDe": "2026-11-21T02:03:28.194Z"
     },
     {
       "id": "8436",
@@ -124,7 +45,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8436",
       "totalLotes": 237,
       "vinilos": [],
-      "datosDe": "2026-11-20T12:36:45.072Z"
+      "datosDe": "2026-11-21T02:03:28.194Z"
     },
     {
       "id": "8449",
@@ -252,7 +173,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-20T12:36:45.072Z"
+      "datosDe": "2026-11-21T02:03:28.194Z"
     },
     {
       "id": "8274",
@@ -265,9 +186,9 @@
       "timestamp": 1795474800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8274",
-      "totalLotes": 568,
+      "totalLotes": 567,
       "vinilos": [],
-      "datosDe": "2026-11-20T12:36:45.072Z"
+      "datosDe": "2026-11-21T02:03:28.194Z"
     },
     {
       "id": "8281",
@@ -312,7 +233,7 @@
           "anio": null,
           "moneda": "$",
           "base": 250,
-          "oferta": null,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1218500/10054367ecf7a5c7265f48c26092b749.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8281?lote=0068",
           "motivos": [
@@ -626,7 +547,22 @@
           ]
         }
       ],
-      "datosDe": "2026-11-20T12:36:45.072Z"
+      "datosDe": "2026-11-21T02:03:28.194Z"
+    },
+    {
+      "id": "8460",
+      "nombre": "Liquidamos lo mejor de 2 apartamentos ubicados en pocitos y terminamos con los bienes de gran casa en carrasco! familia relacionada con JUAN MANUEL BLANES con importantes antiguedades! NO TE LO PIERDAS",
+      "empresa": "ElEjido",
+      "departamento": "MONTEVIDEO",
+      "lugar": "EJIDO 932, MONTEVIDEO",
+      "fecha": "24/11/2026, 19:00",
+      "fechaISO": "2026-11-24T22:00:00.000Z",
+      "timestamp": 1795557600,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8460",
+      "totalLotes": 201,
+      "vinilos": [],
+      "datosDe": "2026-11-21T02:03:28.194Z"
     },
     {
       "id": "8492",
@@ -644,11 +580,11 @@
         {
           "id": 1224211,
           "lote": "1",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
+          "titulo": "Vinilo LP Vincent Morocco - El Romántico (Polydor 20386)",
+          "descripcion": "Disco de vinilo LP El Romántico de Vincent Morocco y su orquesta, editado por el sello Polydor (catálogo 20386, 33 RPM). Edición rioplatense de género melódico e instrumental que reúne clásicos románticos y temas internacionales como \"Michelle\", \"La Playa\", \"Viva María\" y \"Esta noche bajo tu...\", conservando su carátula original ilustrada y etiqueta naranja característica del sello.",
+          "artista": "Vinilo LP Vincent Morocco",
+          "album": "El Romántico (Polydor 20386)",
+          "sello": "Polydor",
           "anio": null,
           "moneda": "$",
           "base": 50,
@@ -656,439 +592,515 @@
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224211/c07d073c744cf0d99f4aae781b71fd89.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=1",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "menciona RPM",
+            "\"disco de vinilo\""
           ]
         },
         {
           "id": 1224212,
           "lote": "2",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
+          "titulo": "Vinilo LP Andre Kostelanetz y su Orquesta - Música de Chopin (Columbia Masterworks 4.053)",
+          "descripcion": "Disco de vinilo LP Música de Chopin interpretado por Andre Kostelanetz y su Orquesta, en edición uruguaya fabricada por el sello Sondor Ltda. bajo licencia de Columbia Masterworks (catálogo 4.053, 33 1/3 RPM). Prensaje de época correspondiente a la década de 1950 (grabación original de 1949) que reúne célebres piezas del compositor como valses, polonesas, nocturnos y preludios en arreglos sinfónicos, conservando su carátula original en verde oliva y etiqueta azul clásica.",
+          "artista": "Vinilo LP Andre Kostelanetz y su Orquesta",
+          "album": "Música de Chopin (Columbia Masterworks 4",
+          "sello": "Columbia",
+          "anio": "1950",
           "moneda": "$",
           "base": 50,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224212/7f4f9e43a63b21df6fa4f31a19204cf1.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224212/308445481dde2f52fea50b8ff2cd27d8.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=2",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\"",
+            "año 1950"
           ]
         },
         {
           "id": 1224213,
           "lote": "3",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
+          "titulo": "Vinilo LP Rafael Rossi y su Conjunto - El Vals de las Parejas (1974)",
+          "descripcion": "Disco de vinilo LP \"El Vals de las Parejas\" de Rafael Rossi y su conjunto, publicado en el año 1974 (edición registrada en Argentina según la ficha adjunta). Incluye repertorio de valses y música popular bailable, conservando su carátula original ilustrada con pareja bailando y contratapa con listado de temas.",
+          "artista": "Vinilo LP Rafael Rossi y su Conjunto",
+          "album": "El Vals de las Parejas (1974)",
           "sello": null,
-          "anio": null,
+          "anio": "1974",
           "moneda": "$",
           "base": 50,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224213/2154b4026914854afc7110f6e19e4b8b.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224213/bd57e24b939c4774f0f583aca002d3ef.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=3",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\"",
+            "año 1974"
           ]
         },
         {
           "id": 1224214,
           "lote": "4",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
+          "titulo": "Vinilo LP Caravelli - Alguien Cantó (CBS 9896 Estéreo)",
+          "descripcion": "Disco de vinilo LP Alguien Cantó del director de orquesta francés Caravelli, publicado originalmente en 1968. Corresponde al prensaje argentino del sello CBS en versión estéreo (catálogo 9896), conservando su carátula original ilustrada, contratapa con el detalle de pistas y etiqueta naranja clásica del sello.",
+          "artista": "Vinilo LP Caravelli",
+          "album": "Alguien Cantó (CBS 9896 Estéreo)",
+          "sello": "CBS",
+          "anio": "1968",
           "moneda": "$",
           "base": 50,
           "oferta": null,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224214/caa95afea43d4ed06f6a2fa3d1b94f34.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=4",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\"",
+            "año 1968"
           ]
         },
         {
           "id": 1224215,
           "lote": "5",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
+          "titulo": "Vinilo LP Arturo Toscanini - Oberturas de Rossini (RCA Victor Sello Rojo LM-2040, 1956)",
+          "descripcion": "Disco de vinilo LP Oberturas de Rossini (Rossini Overtures), dirigido por Arturo Toscanini junto a la Orquesta Sinfónica de la NBC, editado por RCA Victor Sello Rojo (Red Seal) bajo el catálogo LM-2040 en 1956. Prensaje de época en español para el mercado rioplatense (Argentina y Uruguay) que incluye piezas clásicas como El Barbero de Sevilla, La Cenerentola y Semiramide, conservando su carátula original ilustrada y etiqueta roja característica del sello.",
+          "artista": "Vinilo LP Arturo Toscanini",
+          "album": "Oberturas de Rossini (RCA Victor Sello Rojo LM-2040, 1956)",
+          "sello": "RCA",
+          "anio": "1956",
           "moneda": "$",
           "base": 50,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224215/2ef1361f6d1380b47af39a5abbc51c75.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224215/f8a8c64d02abe108efee3212ae95b814.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=5",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\"",
+            "año 1956"
           ]
         },
         {
           "id": 1224216,
           "lote": "6",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
+          "titulo": "Vinilo LP Julio Iglesias - Por Una Mujer (Alhambra 1972)",
+          "descripcion": "Disco de vinilo LP Por Una Mujer, tercer álbum de estudio de Julio Iglesias publicado originalmente en 1972. Incluye su carátula original con fotografía del artista, contratapa con listado de temas y etiqueta azul del sello Alhambra.",
+          "artista": "Vinilo LP Julio Iglesias",
+          "album": "Por Una Mujer (Alhambra 1972)",
           "sello": null,
-          "anio": null,
+          "anio": "1972",
           "moneda": "$",
           "base": 50,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224216/c19345ab1bafb438626e1ee607da9a94.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224216/1429c4989cd18a36dfabf6716e8f7596.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=6",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\"",
+            "año 1972"
           ]
         },
         {
           "id": 1224217,
           "lote": "7",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
+          "titulo": "Vinilo LP Roberto Carlos - Los Más Grandes Éxitos Vol. 2 En Castellano (CBS, 1973)",
+          "descripcion": "Disco de vinilo LP recopilatorio Los Más Grandes Éxitos de Roberto Carlos Vol. 2 - En Castellano, lanzado originalmente en 1973 por el sello CBS (versión estéreo, etiqueta naranja). Conserva su etiqueta central y contratapa con listado de temas, presentando desgaste visible y rotura horizontal en la carátula frontal tal como se aprecia en las fotos.",
+          "artista": "Vinilo LP Roberto Carlos",
+          "album": "Los Más Grandes Éxitos Vol",
+          "sello": "CBS",
+          "anio": "1973",
           "moneda": "$",
           "base": 50,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224217/5f5a73735156d0457159d8fe12a28e1f.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224217/7ccd7d8cfffcfa5acdf1bcf229e48929.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=7",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\"",
+            "año 1973"
           ]
         },
         {
           "id": 1224218,
           "lote": "8",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
+          "titulo": "Vinilo LP Roberto Carlos - Ilegal, Inmoral o Engorda En Castellano (CBS, 1977)",
+          "descripcion": "Disco de vinilo LP Ilegal, Inmoral o Engorda de Roberto Carlos, en su edición en castellano lanzada originalmente en 1977 por el sello CBS (versión estéreo, etiqueta naranja). Conserva su carátula original ilustrada con fotografía del artista, contratapa con listado de temas y desgaste propio del paso del tiempo.",
+          "artista": "Vinilo LP Roberto Carlos",
+          "album": "Ilegal, Inmoral o Engorda En Castellano (CBS, 1977)",
+          "sello": "CBS",
+          "anio": "1977",
           "moneda": "$",
           "base": 50,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224218/a30ec7f15f326184422dc3d895b6c802.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224218/e31b7e30d26c98afdc28a706c1b4a159.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=8",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\"",
+            "año 1977"
           ]
         },
         {
           "id": 1224219,
           "lote": "9",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
+          "titulo": "Vinilo LP Franck Pourcel - Páginas Célebres Nº 2 (Odeon, 1959-1960)",
+          "descripcion": "Disco de vinilo LP Pages Célèbres N° 2 (Páginas Célebres Nº 2) del director de orquesta francés Franck Pourcel et son Grand Orchestre, grabado originalmente en 1959 y publicado comercialmente entre 1959 y 1960 bajo el sello Odeon en formato Stereo Gravure Universelle. Conserva su carátula original ilustrada, contratapa con listado de temas y etiqueta celeste clásica del sello.",
+          "artista": "Vinilo LP Franck Pourcel",
+          "album": "Páginas Célebres Nº 2 (Odeon, 1959-1960)",
+          "sello": "Odeon",
+          "anio": "1959",
           "moneda": "$",
           "base": 50,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224219/059fad442aa84c97781dcef1c5443921.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224219/8f8a1568ad3e594fb4195037cd87a819.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=9",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\"",
+            "año 1959"
           ]
         },
         {
           "id": 1224220,
           "lote": "10",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
+          "titulo": "Vinilo LP Franck Pourcel - Páginas Célebres Vol. 7 (Odeon, 1966)",
+          "descripcion": "Disco de vinilo LP Pages Célèbres Vol. 7 (Páginas Célebres) de Franck Pourcel et son Grand Orchestre, lanzado originalmente en 1966 en Francia y editado bajo el sello Odeon. Conserva su carátula original ilustrada con flores, contratapa con detalle de temas y etiqueta celeste característica del sello.",
+          "artista": "Vinilo LP Franck Pourcel",
+          "album": "Páginas Célebres Vol",
+          "sello": "Odeon",
+          "anio": "1966",
           "moneda": "$",
           "base": 50,
           "oferta": null,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224220/c1ed25de8ca1f179ca209f31f296dedb.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=10",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\"",
+            "año 1966"
           ]
         },
         {
           "id": 1224221,
           "lote": "11",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
-          "artista": null,
+          "titulo": "Vinilo LP Eugene Ormandy y la Orquesta de Filadelfia - Festival de Éxitos de Johann Strauss (CBS 5.536 Estéreo, 1969)",
+          "descripcion": "Disco de vinilo LP recopilatorio Festival de Éxitos de Johann Strauss (Johann Strauss' Greatest Hits), interpretado por la Orquesta de Filadelfia bajo la dirección de Eugene Ormandy y publicado en 1969 por el sello CBS (catálogo 5.536, versión estéreo, etiqueta verde). Conserva su carátula original ilustrada (con desgaste y rotura en el borde inferior izquierdo visible en fotos) y contratapa con notas y detalle de obras.",
+          "artista": "Filadelfia",
           "album": null,
-          "sello": null,
-          "anio": null,
+          "sello": "CBS",
+          "anio": "1969",
           "moneda": "$",
           "base": 50,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224221/21360aaffc7c438bc6796bcd4c876fb9.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224221/e4de9c9c02b95a72ae2bc9f372f0c7ae.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=11",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\"",
+            "año 1969"
           ]
         },
         {
           "id": 1224222,
           "lote": "12",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
+          "titulo": "Vinilo LP Brasiliana: Raízes e Desenvolvimento (1973)",
+          "descripcion": "Disco de vinilo LP recopilatorio Brasiliana: Raízes e Desenvolvimento, publicado originalmente en 1973 (catálogo visible en etiqueta 1005-027-B). Conserva su carátula original ilustrada en tonos amarillos/dorados, contratapa y etiqueta central, presentando señales de uso y desgaste visible en los bordes y contratapa tal como se aprecia en las imágenes.",
           "artista": null,
           "album": null,
           "sello": null,
-          "anio": null,
+          "anio": "1973",
           "moneda": "$",
           "base": 50,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224222/be4f72da0fafeccbdd1794635bb2ec58.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224222/f0a1fb306018664450f5de1b67a6ef48.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=12",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\"",
+            "año 1973"
           ]
         },
         {
           "id": 1224223,
           "lote": "13",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
+          "titulo": "Vinilo LP The Vienna Radio Orchestra - Strauss Waltzes (Remington, 1953)",
+          "descripcion": "Disco de vinilo LP Strauss Waltzes, interpretado por The Vienna Radio Orchestra y lanzado originalmente en el año 1953 bajo el sello Remington (High Fidelity Long Playing, 33 1/3 RPM). Conserva su carátula original ilustrada con desgaste visible en los bordes y superior, contratapa con notas y etiqueta amarilla clásica del sello.",
+          "artista": "Vinilo LP The Vienna Radio Orchestra",
+          "album": "Strauss Waltzes (Remington, 1953)",
           "sello": null,
-          "anio": null,
+          "anio": "1953",
           "moneda": "$",
           "base": 50,
           "oferta": null,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224223/da2d6c0f2768546b6cf671bc159d44bc.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=13",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\"",
+            "año 1953"
           ]
         },
         {
           "id": 1224224,
           "lote": "14",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
+          "titulo": "Vinilo LP Rimsky-Korsakov / Sir Eugene Goossens - Scheherazade (Everest, 1959)",
+          "descripcion": "Disco de vinilo LP Scheherazade, Op. 35, compuesta por Nikolai Rimsky-Korsakov e interpretada por la Orquesta Sinfónica de Londres bajo la dirección de Sir Eugene Goossens, publicada originalmente en 1959 bajo el sello Everest Records. Conserva su carátula ilustrada, contratapa con notas de programa y etiqueta naranja en el disco tal como se aprecia en las imágenes.",
           "artista": null,
           "album": null,
           "sello": null,
-          "anio": null,
+          "anio": "1959",
           "moneda": "$",
           "base": 50,
           "oferta": null,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224224/bc407d3a1a795730f7283aa1cca4be39.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=14",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\"",
+            "año 1959"
           ]
         },
         {
           "id": 1224225,
           "lote": "15",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
-          "artista": null,
+          "titulo": "Vinilo LP Orquesta y Coro de la Ópera Folk de Viena - Strauss en Viena (c. 1975)",
+          "descripcion": "Disco de vinilo LP Strauss en Viena, interpretado por la Orquesta y Coro de la Ópera Folk de Viena (Wiener Volksoper), en una edición de música clásica editada en Argentina alrededor de 1975. Conserva su carátula original ilustrada y contratapa con el detalle de temas y notas de época.",
+          "artista": "Ópera Folk",
           "album": null,
           "sello": null,
-          "anio": null,
+          "anio": "1975",
           "moneda": "$",
           "base": 50,
           "oferta": null,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224225/e1e0a6aa8d76ce5ce24db2e6daa35a9a.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=15",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\"",
+            "año 1975"
           ]
         },
         {
           "id": 1224226,
           "lote": "16",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
+          "titulo": "Vinilo LP Varios Intérpretes - Tesoro de Famosas Melodías (Telefunken 6.463 Estéreo, c. 1970)",
+          "descripcion": "Disco de vinilo LP recopilatorio Tesoro de Famosas Melodías (Schatzkästlein berühmter Melodien 1), editado en Argentina por el sello Telefunken alrededor de 1970 (catálogo 6.463, versión estéreo, etiqueta celeste). Reúne reconocidas piezas clásicas y orquestales, conservando su carátula original ilustrada de la serie Musik für alle y contratapa con el detalle de obras.",
+          "artista": "Vinilo LP Varios Intérpretes",
+          "album": "Tesoro de Famosas Melodías (Telefunken 6",
           "sello": null,
-          "anio": null,
+          "anio": "1970",
           "moneda": "$",
           "base": 50,
           "oferta": null,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224226/3a49251870ad32ae3f490235e6c746d7.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=16",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\"",
+            "año 1970"
           ]
         },
         {
           "id": 1224227,
           "lote": "17",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
+          "titulo": "Vinilo LP José María Rosa por él mismo - El Revisionismo (AMB Discográfica 123-24, 1968)",
+          "descripcion": "Disco de vinilo LP de palabra hablada José María Rosa por él mismo: El Revisionismo, publicado originalmente en 1968 y editado en Argentina por AMB Discográfica dentro de la colección Documentos (catálogo 123-24, 33 RPM). Conserva su carátula original en rojo y blanco con desgaste visible en los bordes, contratapa con notas y etiqueta naranja característica del sello.",
+          "artista": "Vinilo LP José María Rosa por él mismo",
+          "album": "El Revisionismo (AMB Discográfica 123-24, 1968)",
           "sello": null,
-          "anio": null,
+          "anio": "1968",
           "moneda": "$",
           "base": 50,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224227/10bab0d75ed52a221211d2fabc59ec28.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224227/ed29fe70e6414a0d2f9d2de223124708.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=17",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "menciona RPM",
+            "\"disco de vinilo\"",
+            "año 1968"
           ]
         },
         {
           "id": 1224228,
           "lote": "18",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
+          "titulo": "Vinilo LP Bob Fleming - Interpreta Boleros (High Fidelity, 1960–1961)",
+          "descripcion": "Disco de vinilo LP Bob Fleming Interpreta Boleros, lanzado originalmente entre 1960 y 1961 (edición High Fidelity). Conserva su carátula original ilustrada con saxofonista, contratapa con el detalle de temas y etiqueta en el disco tal como se aprecia en las imágenes.",
+          "artista": "Vinilo LP Bob Fleming",
+          "album": "Interpreta Boleros (High Fidelity, 1960–1961)",
           "sello": null,
-          "anio": null,
+          "anio": "1960",
           "moneda": "$",
           "base": 50,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224228/23619864cdf081dd3f3cca4102032c90.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224228/147abf3dd962251923284c08899c3980.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=18",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\"",
+            "año 1960"
           ]
         },
         {
           "id": 1224229,
           "lote": "19",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
+          "titulo": "Vinilo LP Zino Francescatti / Eugene Ormandy - Beethoven Concierto en Re Mayor Op. 61 (Columbia Masterworks, 1951)",
+          "descripcion": "Disco de vinilo LP correspondiente a la grabación histórica de 1950 (publicada originalmente en 1951) del Concierto para violín y orquesta en Re mayor, Op. 61 de Ludwig van Beethoven, interpretada por el violinista francés Zino Francescatti junto a la Orquesta de Filadelfia bajo la dirección de Eugene Ormandy. Conserva su carátula original con fotografía del solista, contratapa con notas de programa y etiqueta azul característica del sello Columbia Masterworks.",
+          "artista": "Vinilo LP Zino Francescatti / Eugene Ormandy",
+          "album": "Beethoven Concierto en Re Mayor Op",
+          "sello": "Columbia",
+          "anio": "1951",
           "moneda": "$",
           "base": 50,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224229/fe715b4b96148ad8aaee794b5ae8455c.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224229/ea7da60dbbbd9069861a94616ccff8ed.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=19",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\"",
+            "año 1951"
           ]
         },
         {
           "id": 1224230,
           "lote": "20",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
+          "titulo": "Vinilo LP Ludwig van Beethoven / Kurt Masur - Sinfonía Nº 6 Pastoral Op. 68 (Philips, 1981)",
+          "descripcion": "Disco de vinilo LP correspondiente a la Sinfonía n.º 6 en fa mayor, Op. 68 «Pastoral» de Ludwig van Beethoven, perteneciente al volumen n.º 2 de la colección Enciclopédia Salvat dos Grandes Compositores, editada originalmente en 1981 bajo el sello discográfico Philips. Conserva su carátula original ilustrada, contratapa con notas y etiqueta central del sello.",
+          "artista": "Vinilo LP Ludwig van Beethoven / Kurt Masur",
+          "album": "Sinfonía Nº 6 Pastoral Op",
+          "sello": "Philips",
+          "anio": "1981",
           "moneda": "$",
           "base": 50,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224230/656c49b5a29685afc8d90ba08ce6efdd.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224230/88f6b4ba570fcefb2abfa621e1197037.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=20",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\"",
+            "menciona \"sello discográfico\"",
+            "año 1981"
           ]
         },
         {
           "id": 1224231,
           "lote": "21",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
+          "titulo": "Vinilo LP Frank Chacksfield and His Orchestra - Chacksfield Plays Bacharach (London Phase 4 Stereo, 1970)",
+          "descripcion": "Disco de vinilo LP Chacksfield Plays Bacharach de Frank Chacksfield and His Orchestra, lanzado originalmente en 1970 bajo el sello London en su serie Phase 4 Stereo (etiqueta naranja y blanca). Conserva su carátula original en tonos amarillos, contratapa con fotografía y listado de temas, con leves signos de uso en los bordes visibles en las fotos.",
+          "artista": "Vinilo LP Frank Chacksfield and His Orchestra",
+          "album": "Chacksfield Plays Bacharach (London Phase 4 Stereo, 1970)",
           "sello": null,
-          "anio": null,
+          "anio": "1970",
           "moneda": "$",
           "base": 50,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224231/20e05cfb29e3e7527191688cd512404a.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224231/af0ee4b1a6edb20f1ad72cbce2903d40.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=21",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\"",
+            "año 1970"
           ]
         },
         {
           "id": 1224232,
           "lote": "22",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
+          "titulo": "Vinilo LP Mario Lanza - El Gran Caruso (RCA Victor / Victrola, 1951 / reedición 1958)",
+          "descripcion": "Disco de vinilo LP correspondiente a una edición en español de El Gran Caruso (The Great Caruso), interpretado por el tenor Mario Lanza, cuya publicación original fue en 1951 y esta reedición en vinilo de RCA Victor Sello Rojo (catálogo LM-1127) data de 1958 (etiqueta rosa RCA Victrola visible en el disco). Conserva su carátula original ilustrada, contratapa con notas y desgaste visible en los bordes tal como se aprecia en las fotos.",
+          "artista": "Vinilo LP Mario Lanza",
+          "album": "El Gran Caruso (RCA Victor / Victrola, 1951 / reedición 1958)",
+          "sello": "RCA",
+          "anio": "1951",
           "moneda": "$",
           "base": 50,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224232/23c763933acee937f7407d3b07471e38.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224232/99d07652a5182b1a237d09ed46871a9c.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=22",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\"",
+            "año 1951"
           ]
         },
         {
           "id": 1224233,
           "lote": "23",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
+          "titulo": "Vinilo LP Franck Pourcel - De París a Varsovia (Odeon, 1971)",
+          "descripcion": "Disco de vinilo LP De París a Varsovia (De Paris à Varsovie) de Franck Pourcel et son Grand Orchestre, publicado originalmente en 1971 bajo el sello Odeon (etiqueta naranja visible en el disco). Conserva su carátula original ilustrada y contratapa con el listado de temas, protegidas en funda plástica tal como se aprecia en las imágenes.",
+          "artista": "Vinilo LP Franck Pourcel",
+          "album": "De París a Varsovia (Odeon, 1971)",
+          "sello": "Odeon",
+          "anio": "1971",
           "moneda": "$",
           "base": 50,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224233/557ceb079fc885c9113c7fa122b25980.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224233/3c7b126f559171276c991da9f947576e.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=23",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\"",
+            "año 1971"
           ]
         },
         {
           "id": 1224234,
           "lote": "24",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
+          "titulo": "Vinilo LP Boots Randolph - Con Amor (Monument SLP-18111 Estéreo, 1969)",
+          "descripcion": "Disco de vinilo LP ...With Love: The Seductive Sax of Boots Randolph (Con Amor, Boots Randolph), interpretado por el saxofonista estadounidense Boots Randolph y lanzado originalmente en 1969 bajo el sello Monument (catálogo SLP-18111, versión estéreo, etiqueta amarilla). Conserva su carátula original ilustrada y contratapa con el detalle de temas, protegidas en funda plástica tal como se aprecia en las imágenes.",
+          "artista": "Vinilo LP Boots Randolph",
+          "album": "Con Amor (Monument SLP-18111 Estéreo, 1969)",
           "sello": null,
-          "anio": null,
+          "anio": "1969",
           "moneda": "$",
           "base": 50,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224234/b25b9f38e238ff8dfa98aa4c55226e90.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224234/200fbe84ba26ba76b20d3e990c2972d3.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=24",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\"",
+            "año 1969"
           ]
         },
         {
           "id": 1224235,
           "lote": "25",
-          "titulo": "Disco antiguo descripción en la última foto",
-          "descripcion": null,
-          "artista": null,
-          "album": null,
+          "titulo": "Vinilo LP Gustav Mahler / Zubin Mehta - Sinfonía Nº 5 (London)",
+          "descripcion": "Disco de vinilo LP correspondiente a la Sinfonía n.º 5 de Gustav Mahler, interpretada por la Orquesta Filarmónica de Los Ángeles bajo la dirección de Zubin Mehta, editado bajo el sello London. Conserva su carátula original ilustrada, contratapa con detalle de movimientos e ilustraciones y etiqueta central del sello, protegidas en funda plástica tal como se aprecia en las imágenes.",
+          "artista": "Vinilo LP Gustav Mahler / Zubin Mehta",
+          "album": "Sinfonía Nº 5 (London)",
           "sello": null,
           "anio": null,
           "moneda": "$",
           "base": 50,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224235/8773a8a78679b128a99926ed3e72bd4d.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224235/421a77fb57a527850f7b037b8379b1cb.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=25",
           "motivos": [
-            "dice \"disco\""
+            "dice \"vinilo\"",
+            "dice \"LP\"",
+            "\"disco de vinilo\""
           ]
         },
         {
@@ -1265,7 +1277,7 @@
           "moneda": "$",
           "base": 50,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224245/712fc99dd44c3f002b9adf9f6999f2d2.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224245/164a4ba1c60ecb71091f37baf862e6a4.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=35",
           "motivos": [
             "dice \"disco\""
@@ -1427,7 +1439,7 @@
           "moneda": "$",
           "base": 50,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224254/d97067d8e689e65f4de88b7f127f830a.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224254/9e571c4cc92e39d01f25bea2fefd1af2.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=44",
           "motivos": [
             "dice \"disco\""
@@ -1535,7 +1547,7 @@
           "moneda": "$",
           "base": 50,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224260/bc2cde0021b36766637479b33000030d.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224260/1af20aa21c20eaafe1cd6cb87f6389dc.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=50",
           "motivos": [
             "dice \"disco\""
@@ -1553,7 +1565,7 @@
           "moneda": "$",
           "base": 100,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224261/3966a97416853e29d00192890d527a24.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224261/1cc12e81c7b3783ef4a9c9d82df1ae16.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=51",
           "motivos": [
             "dice \"disco\""
@@ -1571,7 +1583,7 @@
           "moneda": "$",
           "base": 100,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224262/df4c2889f120174e08a4f915fb5aac1d.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224262/70344518b9d0b46551d557c2defb108f.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=52",
           "motivos": [
             "dice \"disco\""
@@ -1580,7 +1592,7 @@
         {
           "id": 1224263,
           "lote": "53",
-          "titulo": "4 Discos antiguos descripción en la última foto",
+          "titulo": "2 Discos antiguos descripción en la última foto",
           "descripcion": null,
           "artista": null,
           "album": null,
@@ -1589,7 +1601,7 @@
           "moneda": "$",
           "base": 100,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224263/3ec4a4a5d234cc8da85552d498bb4bd4.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224263/9170d45e458e9c1014594e1c5a15c88e.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=53",
           "motivos": [
             "dice \"disco\""
@@ -1598,7 +1610,7 @@
         {
           "id": 1224264,
           "lote": "54",
-          "titulo": "5 Discos antiguos descripción en la última foto",
+          "titulo": "2 Discos antiguos descripción en la última foto",
           "descripcion": null,
           "artista": null,
           "album": null,
@@ -1616,7 +1628,7 @@
         {
           "id": 1224265,
           "lote": "55",
-          "titulo": "6 Discos antiguos descripción en la última foto",
+          "titulo": "2 Discos antiguos descripción en la última foto",
           "descripcion": null,
           "artista": null,
           "album": null,
@@ -1634,7 +1646,7 @@
         {
           "id": 1224266,
           "lote": "56",
-          "titulo": "7 Discos antiguos descripción en la última foto",
+          "titulo": "2 Discos antiguos descripción en la última foto",
           "descripcion": null,
           "artista": null,
           "album": null,
@@ -1643,7 +1655,7 @@
           "moneda": "$",
           "base": 200,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224266/1f716905c72ad9db060989d6bb3b0d15.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224266/815c5d2c71597bbc713cc26b4ed7d320.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=56",
           "motivos": [
             "dice \"disco\""
@@ -1652,7 +1664,7 @@
         {
           "id": 1224267,
           "lote": "57",
-          "titulo": "8 Discos antiguos descripción en la última foto",
+          "titulo": "2 Discos antiguos descripción en la última foto",
           "descripcion": null,
           "artista": null,
           "album": null,
@@ -1661,7 +1673,7 @@
           "moneda": "$",
           "base": 100,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224267/451d45fa7f2ded36f91cd27b122fef08.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224267/870b5372b1a025a79229069b19438edd.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=57",
           "motivos": [
             "dice \"disco\""
@@ -1670,7 +1682,7 @@
         {
           "id": 1224268,
           "lote": "58",
-          "titulo": "9 Discos antiguos descripción en la última foto",
+          "titulo": "2 Discos antiguos descripción en la última foto",
           "descripcion": null,
           "artista": null,
           "album": null,
@@ -1679,7 +1691,7 @@
           "moneda": "$",
           "base": 100,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224268/7f39b4dc804cf9d9064aef6a2cd19afe.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224268/8b0070b8f2e5d5cf7c4ea32e2bc27553.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=58",
           "motivos": [
             "dice \"disco\""
@@ -1688,7 +1700,7 @@
         {
           "id": 1224269,
           "lote": "59",
-          "titulo": "10 Discos antiguos descripción en la última foto",
+          "titulo": "2 Discos antiguos descripción en la última foto",
           "descripcion": null,
           "artista": null,
           "album": null,
@@ -1706,7 +1718,7 @@
         {
           "id": 1224270,
           "lote": "60",
-          "titulo": "11 Discos antiguos descripción en la última foto",
+          "titulo": "2 Discos antiguos descripción en la última foto",
           "descripcion": null,
           "artista": null,
           "album": null,
@@ -1715,7 +1727,7 @@
           "moneda": "$",
           "base": 100,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224270/d40aaf22ab35333c38075e5153802882.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224270/47c7fc1a431af563b7b9b895d66cb1cf.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=60",
           "motivos": [
             "dice \"disco\""
@@ -1724,7 +1736,7 @@
         {
           "id": 1224271,
           "lote": "61",
-          "titulo": "12 Discos antiguos descripción en la última foto",
+          "titulo": "2 Discos antiguos descripción en la última foto",
           "descripcion": null,
           "artista": null,
           "album": null,
@@ -1742,7 +1754,7 @@
         {
           "id": 1224272,
           "lote": "62",
-          "titulo": "13 Discos antiguos descripción en la última foto",
+          "titulo": "2 Discos antiguos descripción en la última foto",
           "descripcion": null,
           "artista": null,
           "album": null,
@@ -1760,7 +1772,7 @@
         {
           "id": 1224273,
           "lote": "63",
-          "titulo": "14 Discos antiguos descripción en la última foto",
+          "titulo": "2 Discos antiguos descripción en la última foto",
           "descripcion": null,
           "artista": null,
           "album": null,
@@ -1769,7 +1781,7 @@
           "moneda": "$",
           "base": 100,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224273/7ae4222a431110865fd33b99da594377.jpeg",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224273/1f7772ec0bb2030b92c97fcd390b9dce.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=63",
           "motivos": [
             "dice \"disco\""
@@ -1778,7 +1790,7 @@
         {
           "id": 1224274,
           "lote": "64",
-          "titulo": "15 Discos antiguos descripción en la última foto",
+          "titulo": "2 Discos antiguos descripción en la última foto",
           "descripcion": null,
           "artista": null,
           "album": null,
@@ -1794,7 +1806,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-20T12:36:45.072Z"
+      "datosDe": "2026-11-21T02:03:28.194Z"
     },
     {
       "id": "8451",
@@ -1807,9 +1819,9 @@
       "timestamp": 1795633200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8451",
-      "totalLotes": 108,
+      "totalLotes": 107,
       "vinilos": [],
-      "datosDe": "2026-11-20T12:36:45.072Z"
+      "datosDe": "2026-11-21T02:03:28.194Z"
     },
     {
       "id": "8458",
@@ -1817,14 +1829,14 @@
       "empresa": "Mario Santiago Carranza",
       "departamento": "MALDONADO",
       "lugar": "Salsipuedes e/Cacique Brown y Tacuabé, MALDONADO",
-      "fecha": "25/11/2026, 19:30",
-      "fechaISO": "2026-11-25T22:30:00.000Z",
-      "timestamp": 1795645800,
+      "fecha": "25/11/2026, 19:00",
+      "fechaISO": "2026-11-25T22:00:00.000Z",
+      "timestamp": 1795644000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8458",
-      "totalLotes": 156,
+      "totalLotes": 182,
       "vinilos": [],
-      "datosDe": "2026-11-20T12:36:45.072Z"
+      "datosDe": "2026-11-21T02:03:28.194Z"
     },
     {
       "id": "8480",
@@ -1837,9 +1849,9 @@
       "timestamp": 1795647600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8480",
-      "totalLotes": 5,
+      "totalLotes": 18,
       "vinilos": [],
-      "datosDe": "2026-11-20T12:36:45.072Z"
+      "datosDe": "2026-11-21T02:03:28.194Z"
     },
     {
       "id": "8444",
@@ -1873,7 +1885,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-20T12:36:45.072Z"
+      "datosDe": "2026-11-21T02:03:28.194Z"
     },
     {
       "id": "8483",
@@ -1917,7 +1929,7 @@
           "anio": "1987",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222686/1aaafd7c39ec31313231d997e6eebfca.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=97",
           "motivos": [
@@ -1936,7 +1948,7 @@
           "anio": "1981",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222687/9fc6827a2a757108aeb039471770adef.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=98",
           "motivos": [
@@ -2011,7 +2023,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222693/694919d4d952cba74e9e19647dd7b366.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=104",
           "motivos": [
@@ -2029,7 +2041,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222694/ff6f48800599e4d1929c1c0a7c325bdc.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=105",
           "motivos": [
@@ -2688,7 +2700,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222729/0c609a7d49625630f816af4fc46ea739.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=140",
           "motivos": [
@@ -2876,7 +2888,7 @@
           "anio": "1975",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222739/461074465d96b4a280c32f891193ae2f.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=150",
           "motivos": [
@@ -2990,7 +3002,7 @@
           "anio": "1986",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222745/6c56f0b93febddc0b10fa055bd650139.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=156",
           "motivos": [
@@ -3028,7 +3040,7 @@
           "anio": "1987",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222747/335cd4af5b0fc4e1f376d329883fb4ed.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=158",
           "motivos": [
@@ -3047,7 +3059,7 @@
           "anio": "1986",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222748/8016eba41f9e4a28c373736811ac6fbe.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=159",
           "motivos": [
@@ -3085,7 +3097,7 @@
           "anio": "1982",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222750/d348587f52eb667dc1e7d4ade6a0e6c1.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=161",
           "motivos": [
@@ -3142,7 +3154,7 @@
           "anio": "1972",
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222753/9d358023c1c7524739d1485d39827828.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=164",
           "motivos": [
@@ -3161,7 +3173,7 @@
           "anio": "1974",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222754/f882c125b5b54734187bbb0c2131f8e5.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=165",
           "motivos": [
@@ -3218,7 +3230,7 @@
           "anio": "1982",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222757/14a787bd3da897973cf26eee9b401dad.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=168",
           "motivos": [
@@ -3275,7 +3287,7 @@
           "anio": "1976",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222760/0a4162c99c6d81a17e61191546473199.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=171",
           "motivos": [
@@ -3294,7 +3306,7 @@
           "anio": "1980",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 500,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222761/977968befb93eb1e8742c855fe67585d.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=172",
           "motivos": [
@@ -3331,7 +3343,7 @@
           "anio": "1975",
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222763/5097c555af6444cdefd3950532b366f7.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=174",
           "motivos": [
@@ -3350,7 +3362,7 @@
           "anio": "1973",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222764/c02ad7c3245ee1a92e72200b1c9b804f.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=175",
           "motivos": [
@@ -3369,7 +3381,7 @@
           "anio": "1972",
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222765/6f25213c84f66098a0fb8aa144fe3124.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=176",
           "motivos": [
@@ -3388,7 +3400,7 @@
           "anio": "1983",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222766/2b4efcee0f76c781eebefd46c8ff62f6.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=177",
           "motivos": [
@@ -3407,7 +3419,7 @@
           "anio": "1981",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 400,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222767/fc0e4e8092b554a07159bb5d5d2774ec.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=178",
           "motivos": [
@@ -3426,7 +3438,7 @@
           "anio": "1977",
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222768/25baa8b2dc1ae4f642d7c8bee9b731e6.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=179",
           "motivos": [
@@ -3435,7 +3447,22 @@
           ]
         }
       ],
-      "datosDe": "2026-11-20T12:36:45.072Z"
+      "datosDe": "2026-11-21T02:03:28.194Z"
+    },
+    {
+      "id": "8501",
+      "nombre": "Liquidación DE REMATES. RECOPIMAMOS  UNA GRAN VARIEDAD DE ARTÍCULOS DE REMATES ANTERIORES, BAZAR, ARTÍCULOS PARA EL HOGAR, BICICLETA, HERRAMIENTAS ELECTRODOMÉSTICOS Y UNA GRAN COLECCIÓN DE LÁMINAS Y ARTÍCULOS DE COLECCIÓN Y ANTIGÜEDADES.",
+      "empresa": "Gonzalo Maqueira Sanchez",
+      "departamento": "Rocha",
+      "lugar": "Ruta 15 km 18, Rocha",
+      "fecha": "26/11/2026, 19:30",
+      "fechaISO": "2026-11-26T22:30:00.000Z",
+      "timestamp": 1795732200,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8501",
+      "totalLotes": 153,
+      "vinilos": [],
+      "datosDe": "2026-11-21T02:03:28.194Z"
     },
     {
       "id": "8484",
@@ -3584,22 +3611,22 @@
           ]
         }
       ],
-      "datosDe": "2026-11-20T12:36:45.072Z"
+      "datosDe": "2026-11-21T02:03:28.194Z"
     },
     {
-      "id": "8501",
-      "nombre": "Liquidación DE REMATES. RECOPIMAMOS  UNA GRAN VARIEDAD DE ARTÍCULOS DE REMATES ANTERIORES, BAZAR, ARTÍCULOS PARA EL HOGAR, BICICLETA, HERRAMIENTAS ELECTRODOMÉSTICOS Y UNA GRAN COLECCIÓN DE LÁMINAS Y ARTÍCULOS DE COLECCIÓN Y ANTIGÜEDADES.",
-      "empresa": "Gonzalo Maqueira Sanchez",
-      "departamento": "Rocha",
-      "lugar": "Ruta 15 km 18, Rocha",
-      "fecha": "27/11/2026, 19:30",
-      "fechaISO": "2026-11-27T22:30:00.000Z",
-      "timestamp": 1795818600,
+      "id": "7448",
+      "nombre": "SALDRAN A REMATE LOTES PRE-OFERTADOS - SIN BASE LA COLECCION DE STICKERS LOTE 250 EN DELANTE - MUEBLES, ROPA USADA SELECCIONADA, PELUCHES, LIBROS, APROX. 100 STICKERS LENTICULARES, LIBROS DE TODO TIPO, TEMATICA INFANTIL, INGLÉS, GEOGRAFIA, ETC. PIEDRAS SEMIPRECIOSAS DE ARTIGAS - GRAN ÁRBOL DE LA VIDA. STICKERS LENTICULARES CON EFECTO VISUAL 3D O CAMBIO DE IMAGEN SEGÚN EL ÁNGULO DE VISIÓN. RIVERA – ENVÍOS A TODO EL PAÍS. ¿TENÉS ARTÍCULOS, MERCADERÍA O STOCK SIN VENDER? ¡NOSOTROS LOS VENDEMOS POR VOS! OFRECEMOS SERVICIO INTEGRAL DE REMATES ONLINE PARA PARTICULARES Y COMERCIOS. CONVERTÍ EN DINERO AQUELLO QUE YA NO USÁS O TENÉS INMOVILIZADO. NOS ENCARGAMOS DE LA PUBLICACIÓN, PROMOCIÓN Y GESTIÓN DEL REMATE. SERVICIO DISCRETO Y PERSONALIZADO. CONSULTANOS SIN COMPROMISO Y TRANSFORMÁ TUS ARTÍCULOS EN DINERO. WHATSAPP 092 222 266",
+      "empresa": "Vip Subastas",
+      "departamento": "Rivera",
+      "lugar": "Ver cada Lote - Envío a todo el país , Rivera",
+      "fecha": "27/11/2026, 21:00",
+      "fechaISO": "2026-11-28T00:00:00.000Z",
+      "timestamp": 1795824000,
       "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8501",
-      "totalLotes": 153,
+      "url": "https://www.remotes.com.uy/participar/remate/7448",
+      "totalLotes": 262,
       "vinilos": [],
-      "datosDe": "2026-11-20T12:36:45.072Z"
+      "datosDe": "2026-11-21T02:03:28.194Z"
     },
     {
       "id": "8229",
@@ -3614,7 +3641,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8229",
       "totalLotes": 263,
       "vinilos": [],
-      "datosDe": "2026-11-20T12:36:45.072Z"
+      "datosDe": "2026-11-21T02:03:28.194Z"
     },
     {
       "id": "8200",
@@ -3629,7 +3656,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8200",
       "totalLotes": 28,
       "vinilos": [],
-      "datosDe": "2026-11-20T12:36:45.072Z"
+      "datosDe": "2026-11-21T02:03:28.194Z"
     },
     {
       "id": "8439",
@@ -3644,7 +3671,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8439",
       "totalLotes": 32,
       "vinilos": [],
-      "datosDe": "2026-11-20T12:36:45.072Z"
+      "datosDe": "2026-11-21T02:03:28.194Z"
     },
     {
       "id": "7651",
@@ -6783,7 +6810,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-20T12:36:45.072Z"
+      "datosDe": "2026-11-21T02:03:28.194Z"
     },
     {
       "id": "8128",
@@ -6798,7 +6825,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8128",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-11-20T12:36:45.072Z"
+      "datosDe": "2026-11-21T02:03:28.194Z"
     }
   ]
 }
