@@ -1,10 +1,10 @@
 {
-  "generado": "2026-11-25T04:03:05.211Z",
+  "generado": "2026-11-25T13:59:29.010Z",
   "fallos": 0,
   "remates": [
     {
       "id": "8458",
-      "nombre": "LIQUIDACIÓN MULTIRUBRO: MESAS PARA JUEGO. MUEBLES. AHUMADORES Y PLANCHAS PARA CARNE. EQUIPAMIENTO PARA GASTRONOMÍA Y EVENTOS. PUERTAS PARA CÁMARA FRIGORIFICA. TANQUES IBC CON JAULA DE 1000L. VARIEDAD DE MATERIALES PARA LA CONSTRUCCIÓN: ESCALERA COLIZA DE 36 ESCALONES. ESCALERA CARACOL. FAROLES DE GRAN PORTE PARA EXTERIOR. MÁRMOLES y GRANITOS. PUERTAS y VENTANAS DE ALUMINIO. VISITE NUESTRA EXHIBICIÓN PERMANENTE Y EVACÚE SUS DUDAS ANTES DE OFERTAR. Realizamos envíos ágiles a todo el país!!!",
+      "nombre": "HOY! LIQUIDACIÓN MULTIRUBRO: MESAS PARA JUEGO. MUEBLES. AHUMADORES Y PLANCHAS PARA CARNE. EQUIPAMIENTO PARA GASTRONOMÍA Y EVENTOS. PUERTAS PARA CÁMARA FRIGORIFICA. TANQUES IBC CON JAULA DE 1000L. VARIEDAD DE MATERIALES PARA LA CONSTRUCCIÓN: ESCALERA COLIZA DE 36 ESCALONES. ESCALERA CARACOL. FAROLES DE GRAN PORTE PARA EXTERIOR. MÁRMOLES y GRANITOS. PUERTAS y VENTANAS DE ALUMINIO. VISITE NUESTRA EXHIBICIÓN PERMANENTE Y EVACÚE SUS DUDAS ANTES DE OFERTAR. Realizamos envíos ágiles a todo el país!!!",
       "empresa": "Mario Santiago Carranza",
       "departamento": "MALDONADO",
       "lugar": "Salsipuedes e/Cacique Brown y Tacuabé, MALDONADO",
@@ -26,7 +26,7 @@
           "anio": "2000",
           "moneda": "$",
           "base": 2000,
-          "oferta": null,
+          "oferta": 2000,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1228633/c554622ee9cd0b64e4e360d9bf157556.jpg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8458?lote=114",
           "motivos": [
@@ -35,41 +35,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-25T04:03:05.211Z"
-    },
-    {
-      "id": "8480",
-      "nombre": "Gran Liquidacion!!! Artesanias, antiguedades y Coleccionables!!!",
-      "empresa": "Mauricio Rosa",
-      "departamento": "Canelones",
-      "lugar": "Ruta 7 Km 90, Canelones",
-      "fecha": "25/11/2026, 20:00",
-      "fechaISO": "2026-11-25T23:00:00.000Z",
-      "timestamp": 1795647600,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8480",
-      "totalLotes": 59,
-      "vinilos": [
-        {
-          "id": 1231859,
-          "lote": "34",
-          "titulo": "Vitrola antigüa con álbum de discos",
-          "descripcion": "Funcionando \r\nDe 1903 hecha en suiza , marca Marque o Deposse",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 8500,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1231859/82a871f6f6da1717bc410f41e0983fd4.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8480?lote=34",
-          "motivos": [
-            "dice \"álbum\""
-          ]
-        }
-      ],
-      "datosDe": "2026-11-25T04:03:05.211Z"
+      "datosDe": "2026-11-25T13:59:29.010Z"
     },
     {
       "id": "8492",
@@ -1424,7 +1390,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-25T04:03:05.211Z"
+      "datosDe": "2026-11-25T13:59:29.010Z"
     },
     {
       "id": "8444",
@@ -1458,7 +1424,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-25T04:03:05.211Z"
+      "datosDe": "2026-11-25T13:59:29.010Z"
     },
     {
       "id": "8451",
@@ -1473,7 +1439,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8451",
       "totalLotes": 108,
       "vinilos": [],
-      "datosDe": "2026-11-25T04:03:05.211Z"
+      "datosDe": "2026-11-25T13:59:29.010Z"
     },
     {
       "id": "8375",
@@ -1488,7 +1454,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8375",
       "totalLotes": 172,
       "vinilos": [],
-      "datosDe": "2026-11-25T04:03:05.211Z"
+      "datosDe": "2026-11-25T13:59:29.010Z"
     },
     {
       "id": "8501",
@@ -1503,7 +1469,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8501",
       "totalLotes": 160,
       "vinilos": [],
-      "datosDe": "2026-11-25T04:03:05.211Z"
+      "datosDe": "2026-11-25T13:59:29.010Z"
     },
     {
       "id": "8507",
@@ -1516,7 +1482,7 @@
       "timestamp": 1795806000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8507",
-      "totalLotes": 96,
+      "totalLotes": 98,
       "vinilos": [
         {
           "id": 1230323,
@@ -1537,7 +1503,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-25T04:03:05.211Z"
+      "datosDe": "2026-11-25T13:59:29.010Z"
     },
     {
       "id": "7448",
@@ -1552,7 +1518,22 @@
       "url": "https://www.remotes.com.uy/participar/remate/7448",
       "totalLotes": 262,
       "vinilos": [],
-      "datosDe": "2026-11-25T04:03:05.211Z"
+      "datosDe": "2026-11-25T13:59:29.010Z"
+    },
+    {
+      "id": "8553",
+      "nombre": "BLACK FRIDAY DE REMATE!!! Multirubro. Articulos Variados Todo nuevo sin uso. Atención Revendedores. Mercaderia a la Vista y sin reclamo. Los lotes tienen la base de la unidad pero debe de llevar todas las unidades que comprende el lote. Articulos del Hogar, BARRAS, decoracion, tecnología, electrodomesticos, perfumes, juguetes y muchos articulos mas. Sigo subiendo lotes hasta último momento. Se envía a todo el país. El envío lo abona al recibir.",
+      "empresa": "Claudia Fabiana Rodríguez Rodríguez",
+      "departamento": "Montevideo",
+      "lugar": "Palmar 2154, Montevideo",
+      "fecha": "28/11/2026, 10:00",
+      "fechaISO": "2026-11-28T13:00:00.000Z",
+      "timestamp": 1795870800,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8553",
+      "totalLotes": 340,
+      "vinilos": [],
+      "datosDe": "2026-11-25T13:59:29.010Z"
     },
     {
       "id": "8522",
@@ -1567,7 +1548,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8522",
       "totalLotes": 225,
       "vinilos": [],
-      "datosDe": "2026-11-25T04:03:05.211Z"
+      "datosDe": "2026-11-25T13:59:29.010Z"
     },
     {
       "id": "8475",
@@ -1619,7 +1600,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-25T04:03:05.211Z"
+      "datosDe": "2026-11-25T13:59:29.010Z"
     },
     {
       "id": "8546",
@@ -1653,7 +1634,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-25T04:03:05.211Z"
+      "datosDe": "2026-11-25T13:59:29.010Z"
     },
     {
       "id": "8410",
@@ -1668,7 +1649,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8410",
       "totalLotes": 192,
       "vinilos": [],
-      "datosDe": "2026-11-25T04:03:05.211Z"
+      "datosDe": "2026-11-25T13:59:29.010Z"
     },
     {
       "id": "8229",
@@ -1683,7 +1664,41 @@
       "url": "https://www.remotes.com.uy/participar/remate/8229",
       "totalLotes": 264,
       "vinilos": [],
-      "datosDe": "2026-11-25T04:03:05.211Z"
+      "datosDe": "2026-11-25T13:59:29.010Z"
+    },
+    {
+      "id": "8480",
+      "nombre": "Gran Liquidacion!!! Artesanias, antiguedades y Coleccionables!!!",
+      "empresa": "Mauricio Rosa",
+      "departamento": "Canelones",
+      "lugar": "Ruta 7 Km 90, Canelones",
+      "fecha": "02/12/2026, 20:00",
+      "fechaISO": "2026-12-02T23:00:00.000Z",
+      "timestamp": 1796252400,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8480",
+      "totalLotes": 59,
+      "vinilos": [
+        {
+          "id": 1231859,
+          "lote": "34",
+          "titulo": "Vitrola antigüa con álbum de discos",
+          "descripcion": "Funcionando \r\nDe 1903 hecha en suiza , marca Marque o Deposse",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 8500,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1231859/82a871f6f6da1717bc410f41e0983fd4.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8480?lote=34",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        }
+      ],
+      "datosDe": "2026-11-25T13:59:29.010Z"
     },
     {
       "id": "8483",
@@ -3245,7 +3260,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-25T04:03:05.211Z"
+      "datosDe": "2026-11-25T13:59:29.010Z"
     },
     {
       "id": "8200",
@@ -3260,11 +3275,11 @@
       "url": "https://www.remotes.com.uy/participar/remate/8200",
       "totalLotes": 28,
       "vinilos": [],
-      "datosDe": "2026-11-25T04:03:05.211Z"
+      "datosDe": "2026-11-25T13:59:29.010Z"
     },
     {
       "id": "8439",
-      "nombre": "¡¡¡FALTA SUBIR 60 LOTES!!! ¡Remate de fin de año! Variada oferta por liquidación. Embarcadero portátil, motos antiguas, charré, sulky, chapas, maderas, piques de madera dura, postes, moledora de granos, cocina económica, auto fusca en desuso, herramientas, antigüedades y mucho mas....",
+      "nombre": "¡¡¡FALTA SUBIR 20 LOTES!!! ¡Remate de fin de año! Variada oferta por liquidación. Embarcadero portátil, motos antiguas, charré, sulky, chapas, maderas, piques de madera dura, postes, moledora de granos, cocina económica, auto fusca en desuso, herramientas, antigüedades y mucho mas....",
       "empresa": "Agustin Villamil",
       "departamento": "Durazno",
       "lugar": "Centro de Durazno, Durazno",
@@ -3273,9 +3288,9 @@
       "timestamp": 1796493600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8439",
-      "totalLotes": 37,
+      "totalLotes": 43,
       "vinilos": [],
-      "datosDe": "2026-11-25T04:03:05.211Z"
+      "datosDe": "2026-11-25T13:59:29.010Z"
     },
     {
       "id": "8467",
@@ -3537,7 +3552,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-25T04:03:05.211Z"
+      "datosDe": "2026-11-25T13:59:29.010Z"
     },
     {
       "id": "8484",
@@ -3686,7 +3701,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-25T04:03:05.211Z"
+      "datosDe": "2026-11-25T13:59:29.010Z"
     },
     {
       "id": "8513",
@@ -3738,7 +3753,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-25T04:03:05.211Z"
+      "datosDe": "2026-11-25T13:59:29.010Z"
     },
     {
       "id": "7651",
@@ -6877,7 +6892,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-25T04:03:05.211Z"
+      "datosDe": "2026-11-25T13:59:29.010Z"
     },
     {
       "id": "8128",
@@ -6892,7 +6907,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8128",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-11-25T04:03:05.211Z"
+      "datosDe": "2026-11-25T13:59:29.010Z"
     }
   ]
 }
