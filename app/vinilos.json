@@ -1,1445 +1,21 @@
 {
-  "generado": "2026-11-25T13:59:29.010Z",
+  "generado": "2026-11-26T03:27:11.509Z",
   "fallos": 0,
   "remates": [
     {
-      "id": "8458",
-      "nombre": "HOY! LIQUIDACIÓN MULTIRUBRO: MESAS PARA JUEGO. MUEBLES. AHUMADORES Y PLANCHAS PARA CARNE. EQUIPAMIENTO PARA GASTRONOMÍA Y EVENTOS. PUERTAS PARA CÁMARA FRIGORIFICA. TANQUES IBC CON JAULA DE 1000L. VARIEDAD DE MATERIALES PARA LA CONSTRUCCIÓN: ESCALERA COLIZA DE 36 ESCALONES. ESCALERA CARACOL. FAROLES DE GRAN PORTE PARA EXTERIOR. MÁRMOLES y GRANITOS. PUERTAS y VENTANAS DE ALUMINIO. VISITE NUESTRA EXHIBICIÓN PERMANENTE Y EVACÚE SUS DUDAS ANTES DE OFERTAR. Realizamos envíos ágiles a todo el país!!!",
-      "empresa": "Mario Santiago Carranza",
-      "departamento": "MALDONADO",
-      "lugar": "Salsipuedes e/Cacique Brown y Tacuabé, MALDONADO",
-      "fecha": "25/11/2026, 19:00",
-      "fechaISO": "2026-11-25T22:00:00.000Z",
-      "timestamp": 1795644000,
+      "id": "8501",
+      "nombre": "Liquidación DE REMATES. RECOPIMAMOS  UNA GRAN VARIEDAD DE ARTÍCULOS DE REMATES ANTERIORES, BAZAR, ARTÍCULOS PARA EL HOGAR, BICICLETA, HERRAMIENTAS ELECTRODOMÉSTICOS Y UNA GRAN COLECCIÓN DE LÁMINAS Y ARTÍCULOS DE COLECCIÓN Y ANTIGÜEDADES.",
+      "empresa": "Gonzalo Maqueira Sanchez",
+      "departamento": "Rocha",
+      "lugar": "Ruta 15 km 18, Rocha",
+      "fecha": "26/11/2026, 19:00",
+      "fechaISO": "2026-11-26T22:00:00.000Z",
+      "timestamp": 1795730400,
       "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8458",
-      "totalLotes": 247,
-      "vinilos": [
-        {
-          "id": 1228633,
-          "lote": "114",
-          "titulo": "LAVADORA Y SECADORA PARA PISOS INDUSTRIAL MARCA ALFAMATIC 2000",
-          "descripcion": "DESARROLLADA PARA EL MANTENIMIENTO DE PISOS EN GRANDES SUPERFICIES Y USO INTENSIVO.\r\nAPTA PARA PISOS DE:\r\nMÁRMOL, GRANITO, BALDOSAS, VINILOS Y SUP. DURAS EN GENERAL.\r\nORIGEN BRASIL.\r\nNO SE PROBÓ SU FUNCIONAMIENTO POR NO CONTAR CON ADAPTADOR. \r\nSE VENDE A LA VISTA.",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": "2000",
-          "moneda": "$",
-          "base": 2000,
-          "oferta": 2000,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1228633/c554622ee9cd0b64e4e360d9bf157556.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8458?lote=114",
-          "motivos": [
-            "dice \"vinilo\"",
-            "año 2000"
-          ]
-        }
-      ],
-      "datosDe": "2026-11-25T13:59:29.010Z"
-    },
-    {
-      "id": "8492",
-      "nombre": "Gran Subasta de Vinilos LP, Simples y Discos de Pasta (78 RPM): Tango, Música de Época y Colección.",
-      "empresa": "Flores Montaña Subastas",
-      "departamento": "SALTO",
-      "lugar": "SALTO, SALTO",
-      "fecha": "25/11/2026, 20:00",
-      "fechaISO": "2026-11-25T23:00:00.000Z",
-      "timestamp": 1795647600,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8492",
-      "totalLotes": 64,
-      "vinilos": [
-        {
-          "id": 1224211,
-          "lote": "1",
-          "titulo": "Vinilo LP Vincent Morocco - El Romántico (Polydor 20386)",
-          "descripcion": "Disco de vinilo LP El Romántico de Vincent Morocco y su orquesta, editado por el sello Polydor (catálogo 20386, 33 RPM). Edición rioplatense de género melódico e instrumental que reúne clásicos románticos y temas internacionales como \"Michelle\", \"La Playa\", \"Viva María\" y \"Esta noche bajo tu...\", conservando su carátula original ilustrada y etiqueta naranja característica del sello.",
-          "artista": "Vinilo LP Vincent Morocco",
-          "album": "El Romántico (Polydor 20386)",
-          "sello": "Polydor",
-          "anio": null,
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224211/c07d073c744cf0d99f4aae781b71fd89.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=1",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "menciona RPM",
-            "\"disco de vinilo\""
-          ]
-        },
-        {
-          "id": 1224212,
-          "lote": "2",
-          "titulo": "Vinilo LP Andre Kostelanetz y su Orquesta - Música de Chopin (Columbia Masterworks 4.053)",
-          "descripcion": "Disco de vinilo LP Música de Chopin interpretado por Andre Kostelanetz y su Orquesta, en edición uruguaya fabricada por el sello Sondor Ltda. bajo licencia de Columbia Masterworks (catálogo 4.053, 33 1/3 RPM). Prensaje de época correspondiente a la década de 1950 (grabación original de 1949) que reúne célebres piezas del compositor como valses, polonesas, nocturnos y preludios en arreglos sinfónicos, conservando su carátula original en verde oliva y etiqueta azul clásica.",
-          "artista": "Vinilo LP Andre Kostelanetz y su Orquesta",
-          "album": "Música de Chopin (Columbia Masterworks 4",
-          "sello": "Columbia",
-          "anio": "1950",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224212/308445481dde2f52fea50b8ff2cd27d8.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=2",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1950"
-          ]
-        },
-        {
-          "id": 1224213,
-          "lote": "3",
-          "titulo": "Vinilo LP Rafael Rossi y su Conjunto - El Vals de las Parejas (1974)",
-          "descripcion": "Disco de vinilo LP \"El Vals de las Parejas\" de Rafael Rossi y su conjunto, publicado en el año 1974 (edición registrada en Argentina según la ficha adjunta). Incluye repertorio de valses y música popular bailable, conservando su carátula original ilustrada con pareja bailando y contratapa con listado de temas.",
-          "artista": "Vinilo LP Rafael Rossi y su Conjunto",
-          "album": "El Vals de las Parejas (1974)",
-          "sello": null,
-          "anio": "1974",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224213/bd57e24b939c4774f0f583aca002d3ef.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=3",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1974"
-          ]
-        },
-        {
-          "id": 1224214,
-          "lote": "4",
-          "titulo": "Vinilo LP Caravelli - Alguien Cantó (CBS 9896 Estéreo)",
-          "descripcion": "Disco de vinilo LP Alguien Cantó del director de orquesta francés Caravelli, publicado originalmente en 1968. Corresponde al prensaje argentino del sello CBS en versión estéreo (catálogo 9896), conservando su carátula original ilustrada, contratapa con el detalle de pistas y etiqueta naranja clásica del sello.",
-          "artista": "Vinilo LP Caravelli",
-          "album": "Alguien Cantó (CBS 9896 Estéreo)",
-          "sello": "CBS",
-          "anio": "1968",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224214/caa95afea43d4ed06f6a2fa3d1b94f34.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=4",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1968"
-          ]
-        },
-        {
-          "id": 1224215,
-          "lote": "5",
-          "titulo": "Vinilo LP Arturo Toscanini - Oberturas de Rossini (RCA Victor Sello Rojo LM-2040, 1956)",
-          "descripcion": "Disco de vinilo LP Oberturas de Rossini (Rossini Overtures), dirigido por Arturo Toscanini junto a la Orquesta Sinfónica de la NBC, editado por RCA Victor Sello Rojo (Red Seal) bajo el catálogo LM-2040 en 1956. Prensaje de época en español para el mercado rioplatense (Argentina y Uruguay) que incluye piezas clásicas como El Barbero de Sevilla, La Cenerentola y Semiramide, conservando su carátula original ilustrada y etiqueta roja característica del sello.",
-          "artista": "Vinilo LP Arturo Toscanini",
-          "album": "Oberturas de Rossini (RCA Victor Sello Rojo LM-2040, 1956)",
-          "sello": "RCA",
-          "anio": "1956",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224215/f8a8c64d02abe108efee3212ae95b814.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=5",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1956"
-          ]
-        },
-        {
-          "id": 1224216,
-          "lote": "6",
-          "titulo": "Vinilo LP Julio Iglesias - Por Una Mujer (Alhambra 1972)",
-          "descripcion": "Disco de vinilo LP Por Una Mujer, tercer álbum de estudio de Julio Iglesias publicado originalmente en 1972. Incluye su carátula original con fotografía del artista, contratapa con listado de temas y etiqueta azul del sello Alhambra.",
-          "artista": "Vinilo LP Julio Iglesias",
-          "album": "Por Una Mujer (Alhambra 1972)",
-          "sello": null,
-          "anio": "1972",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224216/1429c4989cd18a36dfabf6716e8f7596.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=6",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1972"
-          ]
-        },
-        {
-          "id": 1224217,
-          "lote": "7",
-          "titulo": "Vinilo LP Roberto Carlos - Los Más Grandes Éxitos Vol. 2 En Castellano (CBS, 1973)",
-          "descripcion": "Disco de vinilo LP recopilatorio Los Más Grandes Éxitos de Roberto Carlos Vol. 2 - En Castellano, lanzado originalmente en 1973 por el sello CBS (versión estéreo, etiqueta naranja). Conserva su etiqueta central y contratapa con listado de temas, presentando desgaste visible y rotura horizontal en la carátula frontal tal como se aprecia en las fotos.",
-          "artista": "Vinilo LP Roberto Carlos",
-          "album": "Los Más Grandes Éxitos Vol",
-          "sello": "CBS",
-          "anio": "1973",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224217/7ccd7d8cfffcfa5acdf1bcf229e48929.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=7",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1973"
-          ]
-        },
-        {
-          "id": 1224218,
-          "lote": "8",
-          "titulo": "Vinilo LP Roberto Carlos - Ilegal, Inmoral o Engorda En Castellano (CBS, 1977)",
-          "descripcion": "Disco de vinilo LP Ilegal, Inmoral o Engorda de Roberto Carlos, en su edición en castellano lanzada originalmente en 1977 por el sello CBS (versión estéreo, etiqueta naranja). Conserva su carátula original ilustrada con fotografía del artista, contratapa con listado de temas y desgaste propio del paso del tiempo.",
-          "artista": "Vinilo LP Roberto Carlos",
-          "album": "Ilegal, Inmoral o Engorda En Castellano (CBS, 1977)",
-          "sello": "CBS",
-          "anio": "1977",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224218/e31b7e30d26c98afdc28a706c1b4a159.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=8",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1977"
-          ]
-        },
-        {
-          "id": 1224219,
-          "lote": "9",
-          "titulo": "Vinilo LP Franck Pourcel - Páginas Célebres Nº 2 (Odeon, 1959-1960)",
-          "descripcion": "Disco de vinilo LP Pages Célèbres N° 2 (Páginas Célebres Nº 2) del director de orquesta francés Franck Pourcel et son Grand Orchestre, grabado originalmente en 1959 y publicado comercialmente entre 1959 y 1960 bajo el sello Odeon en formato Stereo Gravure Universelle. Conserva su carátula original ilustrada, contratapa con listado de temas y etiqueta celeste clásica del sello.",
-          "artista": "Vinilo LP Franck Pourcel",
-          "album": "Páginas Célebres Nº 2 (Odeon, 1959-1960)",
-          "sello": "Odeon",
-          "anio": "1959",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224219/8f8a1568ad3e594fb4195037cd87a819.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=9",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1959"
-          ]
-        },
-        {
-          "id": 1224220,
-          "lote": "10",
-          "titulo": "Vinilo LP Franck Pourcel - Páginas Célebres Vol. 7 (Odeon, 1966)",
-          "descripcion": "Disco de vinilo LP Pages Célèbres Vol. 7 (Páginas Célebres) de Franck Pourcel et son Grand Orchestre, lanzado originalmente en 1966 en Francia y editado bajo el sello Odeon. Conserva su carátula original ilustrada con flores, contratapa con detalle de temas y etiqueta celeste característica del sello.",
-          "artista": "Vinilo LP Franck Pourcel",
-          "album": "Páginas Célebres Vol",
-          "sello": "Odeon",
-          "anio": "1966",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224220/c1ed25de8ca1f179ca209f31f296dedb.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=10",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1966"
-          ]
-        },
-        {
-          "id": 1224221,
-          "lote": "11",
-          "titulo": "Vinilo LP Eugene Ormandy y la Orquesta de Filadelfia - Festival de Éxitos de Johann Strauss (CBS 5.536 Estéreo, 1969)",
-          "descripcion": "Disco de vinilo LP recopilatorio Festival de Éxitos de Johann Strauss (Johann Strauss' Greatest Hits), interpretado por la Orquesta de Filadelfia bajo la dirección de Eugene Ormandy y publicado en 1969 por el sello CBS (catálogo 5.536, versión estéreo, etiqueta verde). Conserva su carátula original ilustrada (con desgaste y rotura en el borde inferior izquierdo visible en fotos) y contratapa con notas y detalle de obras.",
-          "artista": "Filadelfia",
-          "album": null,
-          "sello": "CBS",
-          "anio": "1969",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224221/e4de9c9c02b95a72ae2bc9f372f0c7ae.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=11",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1969"
-          ]
-        },
-        {
-          "id": 1224222,
-          "lote": "12",
-          "titulo": "Vinilo LP Brasiliana: Raízes e Desenvolvimento (1973)",
-          "descripcion": "Disco de vinilo LP recopilatorio Brasiliana: Raízes e Desenvolvimento, publicado originalmente en 1973 (catálogo visible en etiqueta 1005-027-B). Conserva su carátula original ilustrada en tonos amarillos/dorados, contratapa y etiqueta central, presentando señales de uso y desgaste visible en los bordes y contratapa tal como se aprecia en las imágenes.",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": "1973",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224222/f0a1fb306018664450f5de1b67a6ef48.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=12",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1973"
-          ]
-        },
-        {
-          "id": 1224223,
-          "lote": "13",
-          "titulo": "Vinilo LP The Vienna Radio Orchestra - Strauss Waltzes (Remington, 1953)",
-          "descripcion": "Disco de vinilo LP Strauss Waltzes, interpretado por The Vienna Radio Orchestra y lanzado originalmente en el año 1953 bajo el sello Remington (High Fidelity Long Playing, 33 1/3 RPM). Conserva su carátula original ilustrada con desgaste visible en los bordes y superior, contratapa con notas y etiqueta amarilla clásica del sello.",
-          "artista": "Vinilo LP The Vienna Radio Orchestra",
-          "album": "Strauss Waltzes (Remington, 1953)",
-          "sello": null,
-          "anio": "1953",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224223/da2d6c0f2768546b6cf671bc159d44bc.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=13",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1953"
-          ]
-        },
-        {
-          "id": 1224224,
-          "lote": "14",
-          "titulo": "Vinilo LP Rimsky-Korsakov / Sir Eugene Goossens - Scheherazade (Everest, 1959)",
-          "descripcion": "Disco de vinilo LP Scheherazade, Op. 35, compuesta por Nikolai Rimsky-Korsakov e interpretada por la Orquesta Sinfónica de Londres bajo la dirección de Sir Eugene Goossens, publicada originalmente en 1959 bajo el sello Everest Records. Conserva su carátula ilustrada, contratapa con notas de programa y etiqueta naranja en el disco tal como se aprecia en las imágenes.",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": "1959",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224224/bc407d3a1a795730f7283aa1cca4be39.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=14",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1959"
-          ]
-        },
-        {
-          "id": 1224225,
-          "lote": "15",
-          "titulo": "Vinilo LP Orquesta y Coro de la Ópera Folk de Viena - Strauss en Viena (c. 1975)",
-          "descripcion": "Disco de vinilo LP Strauss en Viena, interpretado por la Orquesta y Coro de la Ópera Folk de Viena (Wiener Volksoper), en una edición de música clásica editada en Argentina alrededor de 1975. Conserva su carátula original ilustrada y contratapa con el detalle de temas y notas de época.",
-          "artista": "Ópera Folk",
-          "album": null,
-          "sello": null,
-          "anio": "1975",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224225/e1e0a6aa8d76ce5ce24db2e6daa35a9a.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=15",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1975"
-          ]
-        },
-        {
-          "id": 1224226,
-          "lote": "16",
-          "titulo": "Vinilo LP Varios Intérpretes - Tesoro de Famosas Melodías (Telefunken 6.463 Estéreo, c. 1970)",
-          "descripcion": "Disco de vinilo LP recopilatorio Tesoro de Famosas Melodías (Schatzkästlein berühmter Melodien 1), editado en Argentina por el sello Telefunken alrededor de 1970 (catálogo 6.463, versión estéreo, etiqueta celeste). Reúne reconocidas piezas clásicas y orquestales, conservando su carátula original ilustrada de la serie Musik für alle y contratapa con el detalle de obras.",
-          "artista": "Vinilo LP Varios Intérpretes",
-          "album": "Tesoro de Famosas Melodías (Telefunken 6",
-          "sello": null,
-          "anio": "1970",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224226/3a49251870ad32ae3f490235e6c746d7.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=16",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1970"
-          ]
-        },
-        {
-          "id": 1224227,
-          "lote": "17",
-          "titulo": "Vinilo LP José María Rosa por él mismo - El Revisionismo (AMB Discográfica 123-24, 1968)",
-          "descripcion": "Disco de vinilo LP de palabra hablada José María Rosa por él mismo: El Revisionismo, publicado originalmente en 1968 y editado en Argentina por AMB Discográfica dentro de la colección Documentos (catálogo 123-24, 33 RPM). Conserva su carátula original en rojo y blanco con desgaste visible en los bordes, contratapa con notas y etiqueta naranja característica del sello.",
-          "artista": "Vinilo LP José María Rosa por él mismo",
-          "album": "El Revisionismo (AMB Discográfica 123-24, 1968)",
-          "sello": null,
-          "anio": "1968",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224227/ed29fe70e6414a0d2f9d2de223124708.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=17",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "menciona RPM",
-            "\"disco de vinilo\"",
-            "año 1968"
-          ]
-        },
-        {
-          "id": 1224228,
-          "lote": "18",
-          "titulo": "Vinilo LP Bob Fleming - Interpreta Boleros (High Fidelity, 1960–1961)",
-          "descripcion": "Disco de vinilo LP Bob Fleming Interpreta Boleros, lanzado originalmente entre 1960 y 1961 (edición High Fidelity). Conserva su carátula original ilustrada con saxofonista, contratapa con el detalle de temas y etiqueta en el disco tal como se aprecia en las imágenes.",
-          "artista": "Vinilo LP Bob Fleming",
-          "album": "Interpreta Boleros (High Fidelity, 1960–1961)",
-          "sello": null,
-          "anio": "1960",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224228/147abf3dd962251923284c08899c3980.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=18",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1960"
-          ]
-        },
-        {
-          "id": 1224229,
-          "lote": "19",
-          "titulo": "Vinilo LP Zino Francescatti / Eugene Ormandy - Beethoven Concierto en Re Mayor Op. 61 (Columbia Masterworks, 1951)",
-          "descripcion": "Disco de vinilo LP correspondiente a la grabación histórica de 1950 (publicada originalmente en 1951) del Concierto para violín y orquesta en Re mayor, Op. 61 de Ludwig van Beethoven, interpretada por el violinista francés Zino Francescatti junto a la Orquesta de Filadelfia bajo la dirección de Eugene Ormandy. Conserva su carátula original con fotografía del solista, contratapa con notas de programa y etiqueta azul característica del sello Columbia Masterworks.",
-          "artista": "Vinilo LP Zino Francescatti / Eugene Ormandy",
-          "album": "Beethoven Concierto en Re Mayor Op",
-          "sello": "Columbia",
-          "anio": "1951",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224229/ea7da60dbbbd9069861a94616ccff8ed.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=19",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1951"
-          ]
-        },
-        {
-          "id": 1224230,
-          "lote": "20",
-          "titulo": "Vinilo LP Ludwig van Beethoven / Kurt Masur - Sinfonía Nº 6 Pastoral Op. 68 (Philips, 1981)",
-          "descripcion": "Disco de vinilo LP correspondiente a la Sinfonía n.º 6 en fa mayor, Op. 68 «Pastoral» de Ludwig van Beethoven, perteneciente al volumen n.º 2 de la colección Enciclopédia Salvat dos Grandes Compositores, editada originalmente en 1981 bajo el sello discográfico Philips. Conserva su carátula original ilustrada, contratapa con notas y etiqueta central del sello.",
-          "artista": "Vinilo LP Ludwig van Beethoven / Kurt Masur",
-          "album": "Sinfonía Nº 6 Pastoral Op",
-          "sello": "Philips",
-          "anio": "1981",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224230/88f6b4ba570fcefb2abfa621e1197037.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=20",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "menciona \"sello discográfico\"",
-            "año 1981"
-          ]
-        },
-        {
-          "id": 1224231,
-          "lote": "21",
-          "titulo": "Vinilo LP Frank Chacksfield and His Orchestra - Chacksfield Plays Bacharach (London Phase 4 Stereo, 1970)",
-          "descripcion": "Disco de vinilo LP Chacksfield Plays Bacharach de Frank Chacksfield and His Orchestra, lanzado originalmente en 1970 bajo el sello London en su serie Phase 4 Stereo (etiqueta naranja y blanca). Conserva su carátula original en tonos amarillos, contratapa con fotografía y listado de temas, con leves signos de uso en los bordes visibles en las fotos.",
-          "artista": "Vinilo LP Frank Chacksfield and His Orchestra",
-          "album": "Chacksfield Plays Bacharach (London Phase 4 Stereo, 1970)",
-          "sello": null,
-          "anio": "1970",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224231/af0ee4b1a6edb20f1ad72cbce2903d40.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=21",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1970"
-          ]
-        },
-        {
-          "id": 1224232,
-          "lote": "22",
-          "titulo": "Vinilo LP Mario Lanza - El Gran Caruso (RCA Victor / Victrola, 1951 / reedición 1958)",
-          "descripcion": "Disco de vinilo LP correspondiente a una edición en español de El Gran Caruso (The Great Caruso), interpretado por el tenor Mario Lanza, cuya publicación original fue en 1951 y esta reedición en vinilo de RCA Victor Sello Rojo (catálogo LM-1127) data de 1958 (etiqueta rosa RCA Victrola visible en el disco). Conserva su carátula original ilustrada, contratapa con notas y desgaste visible en los bordes tal como se aprecia en las fotos.",
-          "artista": "Vinilo LP Mario Lanza",
-          "album": "El Gran Caruso (RCA Victor / Victrola, 1951 / reedición 1958)",
-          "sello": "RCA",
-          "anio": "1951",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224232/99d07652a5182b1a237d09ed46871a9c.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=22",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1951"
-          ]
-        },
-        {
-          "id": 1224233,
-          "lote": "23",
-          "titulo": "Vinilo LP Franck Pourcel - De París a Varsovia (Odeon, 1971)",
-          "descripcion": "Disco de vinilo LP De París a Varsovia (De Paris à Varsovie) de Franck Pourcel et son Grand Orchestre, publicado originalmente en 1971 bajo el sello Odeon (etiqueta naranja visible en el disco). Conserva su carátula original ilustrada y contratapa con el listado de temas, protegidas en funda plástica tal como se aprecia en las imágenes.",
-          "artista": "Vinilo LP Franck Pourcel",
-          "album": "De París a Varsovia (Odeon, 1971)",
-          "sello": "Odeon",
-          "anio": "1971",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224233/3c7b126f559171276c991da9f947576e.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=23",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1971"
-          ]
-        },
-        {
-          "id": 1224234,
-          "lote": "24",
-          "titulo": "Vinilo LP Boots Randolph - Con Amor (Monument SLP-18111 Estéreo, 1969)",
-          "descripcion": "Disco de vinilo LP ...With Love: The Seductive Sax of Boots Randolph (Con Amor, Boots Randolph), interpretado por el saxofonista estadounidense Boots Randolph y lanzado originalmente en 1969 bajo el sello Monument (catálogo SLP-18111, versión estéreo, etiqueta amarilla). Conserva su carátula original ilustrada y contratapa con el detalle de temas, protegidas en funda plástica tal como se aprecia en las imágenes.",
-          "artista": "Vinilo LP Boots Randolph",
-          "album": "Con Amor (Monument SLP-18111 Estéreo, 1969)",
-          "sello": null,
-          "anio": "1969",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224234/200fbe84ba26ba76b20d3e990c2972d3.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=24",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1969"
-          ]
-        },
-        {
-          "id": 1224235,
-          "lote": "25",
-          "titulo": "Vinilo LP Gustav Mahler / Zubin Mehta - Sinfonía Nº 5 (London)",
-          "descripcion": "Disco de vinilo LP correspondiente a la Sinfonía n.º 5 de Gustav Mahler, interpretada por la Orquesta Filarmónica de Los Ángeles bajo la dirección de Zubin Mehta, editado bajo el sello London. Conserva su carátula original ilustrada, contratapa con detalle de movimientos e ilustraciones y etiqueta central del sello, protegidas en funda plástica tal como se aprecia en las imágenes.",
-          "artista": "Vinilo LP Gustav Mahler / Zubin Mehta",
-          "album": "Sinfonía Nº 5 (London)",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224235/421a77fb57a527850f7b037b8379b1cb.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=25",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\""
-          ]
-        },
-        {
-          "id": 1224236,
-          "lote": "26",
-          "titulo": "Vinilo LP Henry Mancini - Muñequita de Lujo / Breakfast at Tiffany's (RCA Victor, 1961)",
-          "descripcion": "Disco de vinilo LP correspondiente a la banda sonora de la película Muñequita de Lujo (Breakfast at Tiffany's), compuesta y dirigida por Henry Mancini, en edición sudamericana de 1961 bajo el sello RCA Victor (etiqueta negra clásica del sello). Conserva su carátula original con fotografía de Audrey Hepburn, contratapa con notas y listado de temas.",
-          "artista": "Vinilo LP Henry Mancini",
-          "album": "Muñequita de Lujo / Breakfast at Tiffany's (RCA Victor, 1961)",
-          "sello": "RCA",
-          "anio": "1961",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224236/cb60f6a34764f39e3ae7dbd642c80e52.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=26",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1961"
-          ]
-        },
-        {
-          "id": 1224237,
-          "lote": "27",
-          "titulo": "Vinilo LP J.S. Bach / Concentus Musicus Wien / Nikolaus Harnoncourt - Bauern-Kantate & Kaffee-Kantate (Telefunken, grab. 1968 / ed. 1972)",
-          "descripcion": "Disco de vinilo LP del sello Telefunken (serie Das Alte Werk) con las cantatas profanas Bauern-Kantate (BWV 212) y Kaffee-Kantate (BWV 211) de Johann Sebastian Bach, interpretadas por el Concentus Musicus Wien bajo la dirección de Nikolaus Harnoncourt (grabación original de 1968; esta edición con portada ilustrada data de 1972). Conserva su carátula original ilustrada, contratapa y etiqueta celeste estéreo en el disco",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": "1968",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224237/21f4defab1a2d7fd94bcd38a47a53918.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=27",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1968"
-          ]
-        },
-        {
-          "id": 1224238,
-          "lote": "28",
-          "titulo": "Vinilo LP Giovanni Gabrieli - Música Procesional y Ceremonial (Vanguard / Antar, grab. 1958)",
-          "descripcion": "Disco de vinilo LP Música Procesional y Ceremonial del compositor italiano Giovanni Gabrieli, grabado originalmente en 1958 bajo el sello Vanguard y presentado en esta edición sudamericana con catálogo 14022 o 14023 de la Serie D.M. Difusión Musical (etiqueta naranja y blanca Antar en el disco). Conserva su carátula original ilustrada en blanco y negro con banda superior roja",
-          "artista": "Vinilo LP Giovanni Gabrieli",
-          "album": "Música Procesional y Ceremonial (Vanguard / Antar, grab",
-          "sello": null,
-          "anio": "1958",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224238/3c3598a6f1599c02ab34342808240383.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=28",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1958"
-          ]
-        },
-        {
-          "id": 1224239,
-          "lote": "29",
-          "titulo": "Vinilo Simple 7\" Conjunto Papel Picado (CBS, Uruguay 1978) y Rubén Mattos - Quiero comerte a besos esta noche (RCA Victor, 1971)",
-          "descripcion": "Conjunto de dos discos simples de vinilo de 7 pulgadas visibles en las imágenes: por un lado, el sencillo del Conjunto Papel Picado con el tema \"Una lágrima y un recuerdo\", editado en Uruguay en 1978 bajo el sello CBS (etiqueta naranja y funda azul); por otro lado, el sencillo de Rubén Mattos con \"Quiero comerte a besos esta noche\", lanzado originalmente en 1971 bajo el sello RCA Victor (etiqueta amarilla y funda marrón a rayas).",
-          "artista": null,
-          "album": null,
-          "sello": "RCA",
-          "anio": "1978",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224239/9505fbaf87469d737e25310a07e7cc95.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=29",
-          "motivos": [
-            "dice \"vinilo\"",
-            "año 1978"
-          ]
-        },
-        {
-          "id": 1224240,
-          "lote": "30",
-          "titulo": "Vinilo Simple 7\" Julio Iglesias - Corazón, corazón (Alhambra / Sondor, Uruguay c. 1975–1976) y Daniel Magal - Cara de Gitana (CBS, Uruguay 1978)",
-          "descripcion": "Par de discos simples de vinilo de 7 pulgadas visibles en las imágenes: por un lado, el sencillo \"Corazón, corazón\" de Julio Iglesias, en edición uruguaya publicada alrededor de 1975 o 1976 bajo el sello Alhambra y fabricada por Sondor S.A. (etiqueta azul); por otro lado, el sencillo \"Cara de Gitana\" del cantante argentino Daniel Magal, editado en Uruguay en 1978 bajo el sello CBS (etiqueta naranja).",
-          "artista": "Gitana",
-          "album": "Corazón, corazón (Alhambra / Sondor, Uruguay c",
-          "sello": "CBS",
-          "anio": "1975",
-          "moneda": "$",
-          "base": 100,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224240/5b3ef163e270050ae0cd4957bd0ed922.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=30",
-          "motivos": [
-            "dice \"vinilo\"",
-            "año 1975"
-          ]
-        },
-        {
-          "id": 1224241,
-          "lote": "31",
-          "titulo": "Vinilo Simple 7\" Tony Orlando and Dawn (Uruguay, 1975) y Marcelo Dupré - Nuestra esquina de amor (MH, Uruguay 1976)",
-          "descripcion": "Par de discos simples de vinilo de 7 pulgadas visibles en las imágenes: por un lado, el sencillo del grupo estadounidense Tony Orlando and Dawn, fabricado en Uruguay en 1975; por otro lado, el sencillo \"Nuestra esquina de amor\" del cantante y compositor argentino Marcelo Dupré, editado en Uruguay en 1976 bajo el sello MH (etiqueta rosada). Ambos se presentan con fundas genéricas negras estampadas con logos de sellos",
-          "artista": null,
-          "album": null,
-          "sello": null,
-          "anio": "1975",
-          "moneda": "$",
-          "base": 100,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224241/9b5aa312c1ffeaea19652c80d901c894.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=31",
-          "motivos": [
-            "dice \"vinilo\"",
-            "año 1975"
-          ]
-        },
-        {
-          "id": 1224242,
-          "lote": "32",
-          "titulo": "Vinilo Simple 7\" Julio Iglesias - Quiero (CBS, Uruguay 1975) y 33 Años (CBS / Sondor, Uruguay 1978)",
-          "descripcion": "Par de discos simples de vinilo de 7 pulgadas de Julio Iglesias visibles en las imágenes: por un lado, el sencillo «Quiero», en edición uruguaya publicada bajo el sello CBS en 1975 (etiqueta naranja y funda genérica negra estampada con logos de sellos); por otro lado, el sencillo «33 Años», en edición uruguaya de 1978 fabricada por Sondor S.A. bajo el sello CBS (etiqueta naranja y funda roja/blanca RCA con desgaste y rotura en el borde).",
-          "artista": null,
-          "album": "Quiero (CBS, Uruguay 1975) y 33 Años (CBS / Sondor, Uruguay 1978)",
-          "sello": "RCA",
-          "anio": "1975",
-          "moneda": "$",
-          "base": 100,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224242/ba8ead5b1380789e9142b606a7be5b4f.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=32",
-          "motivos": [
-            "dice \"vinilo\"",
-            "año 1975"
-          ]
-        },
-        {
-          "id": 1224243,
-          "lote": "33",
-          "titulo": "Vinilo Simple 7\" Los Brios - Yo te Amo, Yo te Extraño (1976) y Sello Eco (Uruguay c. 1965–1969)",
-          "descripcion": "Par de discos simples de vinilo de 7 pulgadas visibles en las imágenes: por un lado, el sencillo de 1976 de la banda argentina Los Brios con la canción «Yo te Amo, Yo te Extraño», editado en Uruguay (etiqueta roja y amarilla visible en la foto); por otro lado, un disco de vinilo uruguayo editado en la década de 1960 (probablemente entre 1965 y 1969) bajo el sello discográfico Eco (etiqueta roja).",
-          "artista": null,
-          "album": "Yo te Amo, Yo te Extraño (1976) y Sello Eco (Uruguay c",
-          "sello": null,
-          "anio": "1976",
-          "moneda": "$",
-          "base": 100,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224243/c0683a32515fc32a42c65e4326866026.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=33",
-          "motivos": [
-            "dice \"vinilo\"",
-            "\"disco de vinilo\"",
-            "menciona \"sello discográfico\"",
-            "año 1976"
-          ]
-        },
-        {
-          "id": 1224244,
-          "lote": "34",
-          "titulo": "Vinilo LP Cuarteto Imperial - ¡Felicidades! (CBS, 1976)",
-          "descripcion": "Disco de vinilo LP ¡Felicidades! del Cuarteto Imperial, lanzado originalmente en 1976 bajo el sello CBS (etiqueta naranja/amarilla estéreo visible en el disco). Conserva su carátula original ilustrada con el listado de temas al frente y contratapa con repertorio",
-          "artista": "Vinilo LP Cuarteto Imperial",
-          "album": "¡Felicidades! (CBS, 1976)",
-          "sello": "CBS",
-          "anio": "1976",
-          "moneda": "$",
-          "base": 100,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224244/5d5d6d415fbf363c80f252ab7319ca56.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=34",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1976"
-          ]
-        },
-        {
-          "id": 1224245,
-          "lote": "35",
-          "titulo": "Vinilo LP Sandro - Temas de su película Muchacho (CBS, 1970)",
-          "descripcion": "Disco de vinilo LP correspondiente al álbum Temas de su película Muchacho, lanzado por el cantante argentino Sandro en 1970 bajo el sello CBS (etiqueta naranja visible en el disco). Conserva su carátula original con fotografía a color al frente, contratapa en blanco y negro con listado de temas",
-          "artista": "Vinilo LP Sandro",
-          "album": "Temas de su película Muchacho (CBS, 1970)",
-          "sello": "CBS",
-          "anio": "1970",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224245/164a4ba1c60ecb71091f37baf862e6a4.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=35",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1970"
-          ]
-        },
-        {
-          "id": 1224246,
-          "lote": "36",
-          "titulo": "Vinilo LP Banda Sonora Melody - Bee Gees / Crosby, Stills, Nash & Young (Polydor 2383043, Río de la Plata 1971/1973)",
-          "descripcion": "Disco de vinilo LP correspondiente a la banda sonora original de la película británica Melody (también conocida como S.W.A.L.K.), lanzada originalmente en 1971 con música de The Bee Gees y Crosby, Stills, Nash & Young. Esta edición en español (catálogo Polydor 2383043) fue prensada en el Río de la Plata (Argentina en 1971 y Uruguay en 1973) bajo el sello Polydor (etiqueta naranja visible en el disco). Conserva su carátula original con fotografía a color, contratapa con listado de temas",
-          "artista": "Vinilo LP Banda Sonora Melody",
-          "album": "Bee Gees / Crosby, Stills, Nash & Young (Polydor 2383043, Río de la Plata 1971/1",
-          "sello": "Polydor",
-          "anio": "1971",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224246/262d28057bb152c4c52c8997f2f322eb.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=36",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1971"
-          ]
-        },
-        {
-          "id": 1224247,
-          "lote": "37",
-          "titulo": "Vinilo LP Lafayette - La Balanga: Super éxitos por Lafayette vol. 4 (CBS, 1975)",
-          "descripcion": "Disco de vinilo LP La Balanga: Super éxitos por Lafayette vol. 4, publicado en 1975 bajo el sello CBS (etiqueta naranja estéreo visible en el disco). Conserva su carátula original ilustrada con listado de temas al frente",
-          "artista": "Vinilo LP Lafayette",
-          "album": "La Balanga: Super éxitos por Lafayette vol",
-          "sello": "CBS",
-          "anio": "1975",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224247/59f9dfbb3b32b3a938c9847c4f5aa005.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=37",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1975"
-          ]
-        },
-        {
-          "id": 1224248,
-          "lote": "38",
-          "titulo": "Vinilo LP Varios - Re-Que-Te Voltops (CBS, Uruguay 1978)",
-          "descripcion": "Disco de vinilo LP compilatorio Re-Que-Te Voltops, editado en Uruguay en 1978 bajo el sello CBS (etiqueta naranja estéreo visible en el disco). Conserva su carátula original ilustrada al frente, contratapa con listado de temas",
-          "artista": "Vinilo LP Varios",
-          "album": "Re-Que-Te Voltops (CBS, Uruguay 1978)",
-          "sello": "CBS",
-          "anio": "1978",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224248/84826bc4bcdcdaf38590db5b4b7a38f5.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=38",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1978"
-          ]
-        },
-        {
-          "id": 1224249,
-          "lote": "39",
-          "titulo": "Vinilo LP Varios - Música Poderosa Vol. 9 (EMI, 1977)",
-          "descripcion": "Disco de vinilo LP compilatorio Música Poderosa Vol. 9, publicado originalmente en 1977 bajo el sello EMI (etiqueta naranja y amarilla visible en el disco). Conserva su carátula original ilustrada al frente con listado de temas, contratapa con el repertorio y funda plástica protectora.",
-          "artista": "Vinilo LP Varios",
-          "album": "Música Poderosa Vol",
-          "sello": "EMI",
-          "anio": "1977",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224249/b3d7343d3d149a3445fdfd6f13bdb512.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=39",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1977"
-          ]
-        },
-        {
-          "id": 1224250,
-          "lote": "40",
-          "titulo": "Vinilo LP Varios - Música Joven '78 (RCA Victor, 1978)",
-          "descripcion": "Disco de vinilo LP compilatorio Música Joven '78, publicado en 1978 bajo el sello RCA Victor (etiqueta gris/plateada estéreo con el logo de RCA Victor visible en el disco). Conserva su carátula original ilustrada con estrellas y listado de temas al frente, protegida en funda plástica",
-          "artista": "Vinilo LP Varios",
-          "album": "Música Joven '78 (RCA Victor, 1978)",
-          "sello": "RCA",
-          "anio": "1978",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224250/7dd258328cbf9a622d90660a0b569633.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=40",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1978"
-          ]
-        },
-        {
-          "id": 1224251,
-          "lote": "41",
-          "titulo": "Vinilo LP Varios - Macondo Al Ritmo de Caribeña (Macondo GAM 614, Uruguay 1976)",
-          "descripcion": "Disco de vinilo LP compilatorio Macondo Al Ritmo de Caribeña, editado en Uruguay en 1976 bajo el sello discográfico Macondo (referencia GAM 614, etiqueta crema con el logotipo de la paloma visible en el disco). Conserva su carátula original ilustrada al frente, contratapa con listado de temas, fotografía y notas.",
-          "artista": "Vinilo LP Varios",
-          "album": "Macondo Al Ritmo de Caribeña (Macondo GAM 614, Uruguay 1976)",
-          "sello": null,
-          "anio": "1976",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224251/85cd0067a71abf532d864b083f08c451.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=41",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "menciona \"sello discográfico\"",
-            "año 1976"
-          ]
-        },
-        {
-          "id": 1224252,
-          "lote": "42",
-          "titulo": "Vinilo LP Varios - Música Para Bailar en Jeans Vol. 4 (EMI SLPE 500.554, Uruguay 1975)",
-          "descripcion": "Disco de vinilo LP compilatorio Música Para Bailar en Jeans Vol. 4, editado en Uruguay en 1975 bajo el sello EMI (número de catálogo SLPE 500.554; etiqueta naranja y amarilla estéreo visible en el disco). Conserva su carátula original ilustrada al frente, contratapa con listado de temas y funda plástica protectora",
-          "artista": "Vinilo LP Varios",
-          "album": "Música Para Bailar en Jeans Vol",
-          "sello": "EMI",
-          "anio": "1975",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224252/3d58e532713efeaba422d4d0d5fa5be1.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=42",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1975"
-          ]
-        },
-        {
-          "id": 1224253,
-          "lote": "43",
-          "titulo": "Vinilo LP Hair - Banda Original en Castellano / Teatro Argentino (RCA Victor, 1971)",
-          "descripcion": "Disco de vinilo LP correspondiente a la banda original en castellano de la obra musical Hair (Teatro Argentino), editado bajo el sello RCA Victor (etiqueta naranja/amarilla mono visible en el disco). Conserva su carátula original ilustrada al frente, contratapa en blanco y negro con fotografías del elenco y listado de temas.",
-          "artista": "Vinilo LP Hair",
-          "album": "Banda Original en Castellano / Teatro Argentino (RCA Victor, 1971)",
-          "sello": "RCA",
-          "anio": "1971",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224253/c457f6ae91602732760c880a41776a7d.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=43",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1971"
-          ]
-        },
-        {
-          "id": 1224254,
-          "lote": "44",
-          "titulo": "Vinilo LP Alain Debray y su Orquesta de Champs' Elysees (RCA Victor, 1970)",
-          "descripcion": "Disco de vinilo LP homónimo de Alain Debray y su Orquesta de Champs' Elysees, publicado originalmente en 1970 bajo el sello RCA Victor (etiqueta naranja/amarilla mono visible en el disco). Conserva su carátula original ilustrada con listado de temas al frente, contratapa en blanco y negro con vista de los Campos Elíseos y repertorio, además de funda plástica protectora.",
-          "artista": "Champs",
-          "album": null,
-          "sello": "RCA",
-          "anio": "1970",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224254/9e571c4cc92e39d01f25bea2fefd1af2.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=44",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1970"
-          ]
-        },
-        {
-          "id": 1224255,
-          "lote": "45",
-          "titulo": "Vinilo LP Varios - Ruido en el Boliche (RCA Victor, 1973)",
-          "descripcion": "Disco de vinilo LP compilatorio Ruido en el Boliche, editado en 1973 bajo el sello RCA Victor (etiqueta amarilla/naranja estéreo visible en el disco). Conserva su carátula original ilustrada al frente, contratapa con listado de temas y funda plástica protectora.",
-          "artista": "Vinilo LP Varios",
-          "album": "Ruido en el Boliche (RCA Victor, 1973)",
-          "sello": "RCA",
-          "anio": "1973",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224255/c13d8dea6b32d4eb77c9e38e7d9d448d.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=45",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1973"
-          ]
-        },
-        {
-          "id": 1224256,
-          "lote": "46",
-          "titulo": "Vinilo LP Multicolor Varios - Primavera Con Alta Tensión (RCA Vik, 1971)",
-          "descripcion": "Disco de vinilo LP compilatorio multicolor «Primavera Con Alta Tensión», editado en 1971 bajo el sello RCA Vik (vinilo multicolor con franjas rojas, amarillas, azules y verdes, y etiqueta amarilla visible en la imagen). Conserva su carátula original ilustrada al frente, contratapa con listado de temas y fotografías del programa.",
-          "artista": "Vinilo LP Multicolor Varios",
-          "album": "Primavera Con Alta Tensión (RCA Vik, 1971)",
-          "sello": "RCA",
-          "anio": "1971",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224256/8e64ef3082a174fcde4764397aea4b38.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=46",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1971"
-          ]
-        },
-        {
-          "id": 1224257,
-          "lote": "47",
-          "titulo": "Vinilo LP Varios - Superéxitos (RCA Victor LPUS-052, Uruguay 1977)",
-          "descripcion": "Disco de vinilo LP compilatorio Superéxitos, editado en Uruguay en 1977 bajo el sello RCA Victor (catálogo LPUS-052; etiqueta gris/plateada estéreo con el logotipo de RCA Victor visible en el disco). Conserva su carátula original ilustrada con estrellas, círculos con el listado de temas y funda plástica protectora.",
-          "artista": "Vinilo LP Varios",
-          "album": "Superéxitos (RCA Victor LPUS-052, Uruguay 1977)",
-          "sello": "RCA",
-          "anio": "1977",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224257/30f896731f85ddf5f341495682996088.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=47",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1977"
-          ]
-        },
-        {
-          "id": 1224258,
-          "lote": "48",
-          "titulo": "Vinilo LP Varios - Ensalada Musical (Columbia, Argentina 1961)",
-          "descripcion": "Disco de vinilo LP compilatorio Ensalada Musical, lanzado en 1961 por el sello Columbia en Argentina (etiqueta amarilla visible en el disco). Conserva su carátula original ilustrada al frente con listado de temas, además de funda plástica protectora",
-          "artista": "Vinilo LP Varios",
-          "album": "Ensalada Musical (Columbia, Argentina 1961)",
-          "sello": "Columbia",
-          "anio": "1961",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224258/5e89e61d13ab9c4b8a6e147edbf273df.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=48",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1961"
-          ]
-        },
-        {
-          "id": 1224259,
-          "lote": "49",
-          "titulo": "Vinilo LP Enrico Caruso - The Young Caruso (1902–1904) (Angel Records COLH 119, 1961)",
-          "descripcion": "Disco de vinilo LP compilatorio The Young Caruso (1902–1904) del tenor italiano Enrico Caruso, publicado originalmente en 1961 dentro de la serie Great Recordings of the Century bajo el sello Angel Records (catálogo COLH 119; etiqueta clara con el logotipo del ángel visible en el disco). Conserva su carátula original roja con recuadro, contratapa con listado de temas y funda plástica protectora.",
-          "artista": "Vinilo LP Enrico Caruso",
-          "album": "The Young Caruso (1902–1904) (Angel Records COLH 119, 1961)",
-          "sello": null,
-          "anio": "1961",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224259/78f238683a0a1c521ad9148c63669c15.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=49",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1961"
-          ]
-        },
-        {
-          "id": 1224260,
-          "lote": "50",
-          "titulo": "Vinilo LP Roberto Barry - El Mundo Gira en el Sexo Vol. 2 (1976)",
-          "descripcion": "Disco de vinilo LP El Mundo Gira en el Sexo Vol. 2 del humorista uruguayo Roberto Barry, publicado en 1976 (etiqueta naranja visible en el disco). Conserva su carátula original ilustrada al frente, contratapa con notas y fotografías de otros trabajos del artista",
-          "artista": "Vinilo LP Roberto Barry",
-          "album": "El Mundo Gira en el Sexo Vol",
-          "sello": null,
-          "anio": "1976",
-          "moneda": "$",
-          "base": 50,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224260/1af20aa21c20eaafe1cd6cb87f6389dc.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=50",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1976"
-          ]
-        },
-        {
-          "id": 1224261,
-          "lote": "51",
-          "titulo": "Vinilo LP Aldo Monges - Canciones de Amor (Microfón, Uruguay 1977)",
-          "descripcion": "Disco de vinilo LP Canciones de Amor del cantautor argentino Aldo Monges, en su edición prensada en Uruguay en 1977 bajo el sello Microfón (etiqueta amarilla/naranja estéreo con el logotipo de Microfón visible en el disco). Se presenta con funda con diseño ondulado en tonos turquesa y blanco y protector plástico",
-          "artista": "Vinilo LP Aldo Monges",
-          "album": "Canciones de Amor (Microfón, Uruguay 1977)",
-          "sello": "Microfon",
-          "anio": "1977",
-          "moneda": "$",
-          "base": 100,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224261/1cc12e81c7b3783ef4a9c9d82df1ae16.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=51",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1977"
-          ]
-        },
-        {
-          "id": 1224262,
-          "lote": "52",
-          "titulo": "Vinilo LP Varios - Para Bailar en Jeans - Vol. 6 (EMI SLPE 500 595, Uruguay 1976)",
-          "descripcion": "Disco de vinilo LP compilatorio Para Bailar en Jeans - Vol. 6, editado en Uruguay en 1976 bajo el sello EMI (catálogo SLPE 500 595; etiqueta naranja y amarilla estéreo visible en el disco). Conserva su carátula original ilustrada al frente con listado de temas, contratapa con el repertorio y funda plástica protectora",
-          "artista": "Vinilo LP Varios",
-          "album": "Para Bailar en Jeans - Vol",
-          "sello": "EMI",
-          "anio": "1976",
-          "moneda": "$",
-          "base": 100,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224262/70344518b9d0b46551d557c2defb108f.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=52",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1976"
-          ]
-        },
-        {
-          "id": 1224263,
-          "lote": "53",
-          "titulo": "Lote de 2 Discos de Pasta (78 RPM) Tango - Quinteto Típico Nicolás Agapios (Sondor) y Juan D'Arienzo (RCA Victor)",
-          "descripcion": "Lote compuesto por dos discos de pasta (goma laca, 78 RPM) de tango rioplatense presentados con funda plástica protectora: por un lado, el tango interpretado por el Quinteto Típico Nicolás Agapios bajo el sello uruguayo Sondor (edición estimada hacia 1953–1954, con etiqueta azul/blanca y escrituras visibles en la galleta); y por otro, el tango «Unión Cívica» interpretado por Juan D'Arienzo y su Orquesta Típica (grabación original de 1938 con reedición posterior en catálogo RCA Victor, etiqueta verde clara visible en el disco).",
-          "artista": "Sondor",
-          "album": "Quinteto Típico Nicolás Agapios (Sondor) y Juan D'Arienzo (RCA Victor)",
-          "sello": "RCA",
-          "anio": "1953",
-          "moneda": "$",
-          "base": 100,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224263/9170d45e458e9c1014594e1c5a15c88e.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=53",
-          "motivos": [
-            "menciona RPM",
-            "\"discos de pasta\" (78 RPM)",
-            "año 1953"
-          ]
-        },
-        {
-          "id": 1224264,
-          "lote": "54",
-          "titulo": "Disco de Pasta (78 RPM) Mariano Mores / Francisco Canaro - Odeón UR 843 (Uruguay, c. 1954–1956",
-          "descripcion": "Disco de pasta (goma laca, 78 RPM) editado en Uruguay alrededor de 1954–1956 bajo el sello Odeón (catálogo UR 843, con etiqueta verde en una cara y etiqueta clásica de Odeón en la otra, protegido en funda plástica). En las capturas de referencia se asocian grabaciones de este catálogo y época con interpretaciones de Mariano Mores y su Orquesta Típica («Balada» visible en la galleta) y Francisco Canaro y su Orquesta Típica con Francisco Amor («Bajo el cielo azul», grabación de 1941)",
-          "artista": null,
-          "album": null,
-          "sello": "Odeon",
-          "anio": "1954",
-          "moneda": "$",
-          "base": 100,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224264/cacab28b55325001c3271d738f7ab11e.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=54",
-          "motivos": [
-            "menciona RPM",
-            "\"discos de pasta\" (78 RPM)",
-            "año 1954"
-          ]
-        },
-        {
-          "id": 1224265,
-          "lote": "55",
-          "titulo": "Vinilo LP Juan D'Arienzo - De Ayer y de Hoy (1968) + Disco de Pasta (78 RPM) Quinteto Pirincho (Odeón)",
-          "descripcion": "Conjunto de tango integrado por el disco de vinilo LP De Ayer y de Hoy, interpretado por Juan D'Arienzo y su Orquesta Típica y publicado originalmente en 1968 (se observa la carátula ilustrada con número manuscrito en la esquina superior izquierda y el disco en funda plástica detrás), junto con un disco de pasta (78 RPM) del tango instrumental «9 Puntos» interpretado por el Quinteto «Pirincho» bajo la dirección de Francisco Canaro (etiqueta Odeón azul/blanca en funda plástica).",
-          "artista": "Vinilo LP Juan D'Arienzo",
-          "album": "De Ayer y de Hoy (1968) + Disco de Pasta (78 RPM) Quinteto Pirincho (Odeón)",
-          "sello": "Odeon",
-          "anio": "1968",
-          "moneda": "$",
-          "base": 100,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224265/6f0a6538d9216d24fcf6517afd69ac33.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=55",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "menciona RPM",
-            "\"disco de vinilo\"",
-            "\"discos de pasta\" (78 RPM)",
-            "año 1968"
-          ]
-        },
-        {
-          "id": 1224266,
-          "lote": "56",
-          "titulo": "Lote de 2 Vinilos Tango Juan D'Arienzo - LP \"Academia del Lunfardo\" (1964) + Simple 7\" (RCA Victor 31A-0292)",
-          "descripcion": "Lote de tango de Juan D'Arienzo y su Orquesta Típica compuesto por dos ediciones del sello RCA Victor: el álbum LP recopilatorio \"Academia del Lunfardo\" junto a la voz de Alberto Echagüe, publicado originalmente en 1964 (con su carátula original ilustrada y funda plástica protectora), y un disco simple de vinilo de 7 pulgadas (33 RPM, catálogo 31A-0292, editado entre 1963 y 1964) con su sobre ilustrado original.",
-          "artista": null,
-          "album": "LP \"Academia del Lunfardo\" (1964) + Simple 7\" (RCA Victor 31A-0292)",
-          "sello": "RCA",
-          "anio": "1964",
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224266/815c5d2c71597bbc713cc26b4ed7d320.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=56",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "menciona RPM",
-            "año 1964"
-          ]
-        },
-        {
-          "id": 1224267,
-          "lote": "57",
-          "titulo": "Vinilo LP Juan D'Arienzo - \"Barrio Reo\" (RCA Victor, 1969) + Disco de Pasta (78 RPM) \"La Puñalada\" (RCA Victor, Uruguay)",
-          "descripcion": "Lote de tango de Juan D'Arienzo y su Orquesta Típica integrado por dos piezas del sello RCA Victor: el álbum LP \"Barrio Reo\" publicado originalmente en 1969 (con su carátula original ilustrada y listado de temas al frente), junto con un disco de pasta (78 RPM) de la milonga «La Puñalada», grabada el 12 de septiembre de 1951 en edición fabricada bajo licencia en Uruguay por RCA Victor (etiqueta negra/oscura acompañada de un sobre de época de Odeón / Industrias Fonográficas R. y R. Gioscia).",
-          "artista": "Vinilo LP Juan D'Arienzo",
-          "album": "\"Barrio Reo\" (RCA Victor, 1969) + Disco de Pasta (78 RPM) \"La Puñalada\" (RCA Vic",
-          "sello": "RCA",
-          "anio": "1969",
-          "moneda": "$",
-          "base": 100,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224267/870b5372b1a025a79229069b19438edd.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=57",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "menciona RPM",
-            "\"discos de pasta\" (78 RPM)",
-            "año 1969"
-          ]
-        },
-        {
-          "id": 1224268,
-          "lote": "58",
-          "titulo": "Lote de 2 Vinilos LP Tango Roberto Goyeneche - \"Tango con los Modernos\" (c. 1973) + \"Melodía de Arrabal\" Trío Baffa-Berlingieri (1968)",
-          "descripcion": "Lote de tango con la voz de Roberto Goyeneche integrado por dos discos de vinilo LP: por un lado, \"Tango con los Modernos\", interpretado por el trío Los Modernos junto a Roberto Goyeneche (con grabaciones realizadas en 1961 y esta edición ilustrada publicada alrededor de 1973); y por otro, el álbum \"Melodía de Arrabal\", grabado por Roberto Goyeneche junto al Trío Baffa-Berlingieri y publicado originalmente en 1968 (incluyendo grabaciones realizadas en 1967).",
-          "artista": "Arrabal",
-          "album": "\"Tango con los Modernos\" (c",
-          "sello": null,
-          "anio": "1973",
-          "moneda": "$",
-          "base": 100,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224268/8b0070b8f2e5d5cf7c4ea32e2bc27553.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=58",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1973"
-          ]
-        },
-        {
-          "id": 1224269,
-          "lote": "59",
-          "titulo": "Lote de 2 Vinilos LP Tango - Astor Piazzolla \"Piazzolla... o no? Bailable y Apiazolado\" (1961) + Héctor Mauré \"El tango no tiene contra\" (CBS ALM 4774, Uruguay c. 1979)",
-          "descripcion": "Lote de discos de vinilo LP de tango compuesto por dos ejemplares: por un lado, el álbum «Piazzolla... o no? Bailable y Apiazolado», grabado por Astor Piazzolla y su Quinteto y publicado originalmente en 1961 (con su carátula original fotográfica y funda plástica protectora); y por otro, el álbum El tango no tiene contra, interpretado por el cantor de tango argentino Héctor Mauré y editado en Uruguay bajo el sello CBS (catálogo ALM 4774) hacia finales de la década de 1970 (alrededor de 1979, con su carátula ilustrada en rojo y negro).",
-          "artista": null,
-          "album": "Astor Piazzolla \"Piazzolla",
-          "sello": "CBS",
-          "anio": "1961",
-          "moneda": "$",
-          "base": 100,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224269/a772dcbdc53ead276b54b55933d0eb83.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=59",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1961"
-          ]
-        },
-        {
-          "id": 1224270,
-          "lote": "60",
-          "titulo": "Vinilo LP Héctor Mauré - Los Más Grandes Éxitos (CBS, 1974) + Zarzuela \"Luisa Fernanda\" Dir. Ataúlfo Argenta (Ed. Uruguaya, 1955–1962)",
-          "descripcion": "Conjunto integrado por el álbum compilatorio en vinilo LP Los Más Grandes Éxitos de Héctor Mauré, lanzado en 1974 bajo el sello CBS (se observa su carátula con guitarra ilustrada y el listado de temas al frente), junto con una edición uruguaya de la zarzuela Luisa Fernanda dirigida por el maestro Ataúlfo Argenta y editada entre 1955 y 1962 (etiqueta celeste/turquesa de Columbia visible en el disco, catálogo 4.390-B).",
-          "artista": "Vinilo LP Héctor Mauré",
-          "album": "Los Más Grandes Éxitos (CBS, 1974) + Zarzuela \"Luisa Fernanda\" Dir",
-          "sello": "CBS",
-          "anio": "1974",
-          "moneda": "$",
-          "base": 100,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224270/47c7fc1a431af563b7b9b895d66cb1cf.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=60",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "año 1974"
-          ]
-        },
-        {
-          "id": 1224271,
-          "lote": "61",
-          "titulo": "Lote de 2 Vinilos LP - Los Querubines \"Jardín de Infantes\" (Polydor, 1972) + Varios Tango \"Una Cita Con El Tango\" (Odeón DMO-55571, Argentina 1969)",
-          "descripcion": "Lote compuesto por dos discos de vinilo LP con sus carátulas originales ilustradas: por un lado, el álbum infantil Jardín de Infantes del grupo Los Querubines, publicado originalmente en 1972 bajo el sello Polydor; y por otro, el álbum compilatorio de tango Una Cita Con El Tango, publicado originalmente en Argentina en 1969 bajo el sello Odeón (catálogo DMO-55571, con ilustraciones de calle empedrada y listado de intérpretes y temas en la portada).",
-          "artista": "Infantes",
-          "album": "Los Querubines \"Jardín de Infantes\" (Polydor, 1972) + Varios Tango \"Una Cita Con",
-          "sello": "Odeon",
-          "anio": "1972",
-          "moneda": "$",
-          "base": 100,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224271/a4c6d04eeb649f53e3759881661659fd.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=61",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1972"
-          ]
-        },
-        {
-          "id": 1224272,
-          "lote": "62",
-          "titulo": "Lote de 2 Vinilos LP Tango - Walter Méndez \"Serpentinas\" (Clave, Uruguay 1970s) + Héctor Mauré \"Vol. 10\" (Music Hall, 1973)",
-          "descripcion": "Lote compuesto por dos discos de vinilo LP de tango con sus carátulas originales ilustradas: por un lado, el álbum Serpentinas del músico uruguayo Walter Méndez y su Orquesta Típica, editado en Uruguay durante la década de 1970 por el sello Clave (I.E.M.S.A.) dentro de la serie económica Selección Brillante; y por otro, el álbum Héctor Mauré Vol. 10, publicado en 1973 bajo el sello discográfico argentino Music Hall.",
-          "artista": null,
-          "album": "Walter Méndez \"Serpentinas\" (Clave, Uruguay 1970s) + Héctor Mauré \"Vol",
-          "sello": "Music Hall",
-          "anio": "1973",
-          "moneda": "$",
-          "base": 100,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224272/91c063be6ed25f8766f8444756356b64.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=62",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "menciona \"sello discográfico\"",
-            "año 1973"
-          ]
-        },
-        {
-          "id": 1224273,
-          "lote": "63",
-          "titulo": "Lote de 2 Vinilos LP - Trío Los Panchos \"Caminemos\" (CBS 8514, 1965) + Roberto Vicario \"Ternura\" (Odeón, Uruguay 1970)",
-          "descripcion": "Lote compuesto por dos discos de vinilo LP: por un lado, el álbum \"Caminemos\" del Trío Los Panchos, publicado en 1965 bajo el sello CBS (catálogo 8514; se aprecia su carátula original ilustrada en tonos celestes/azulados con fotografía del trío); y por otro, el álbum \"Ternura\" del recitador argentino Roberto Vicario, publicado en 1970 en edición prensada en Uruguay por el sello Odeón (R. y R. Gioscia S.A.; etiqueta roja/naranja estéreo visible en el disco).",
-          "artista": null,
-          "album": "Trío Los Panchos \"Caminemos\" (CBS 8514, 1965) + Roberto Vicario \"Ternura\" (Odeón",
-          "sello": "Odeon",
-          "anio": "1965",
-          "moneda": "$",
-          "base": 100,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224273/1f7772ec0bb2030b92c97fcd390b9dce.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=63",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1965"
-          ]
-        },
-        {
-          "id": 1224274,
-          "lote": "64",
-          "titulo": "Lote de 2 Vinilos LP - Miguel Villasboas \"De mis tiempos\" (1965) + Roberto Carlos \"Los Más Grandes Éxitos en Mau Mau\" (CBS, 1972)",
-          "descripcion": "Lote compuesto por dos discos de vinilo LP con sus carátulas originales ilustradas: por un lado, el álbum «De mis tiempos», grabado por la agrupación uruguaya Miguel Villasboas y su Nuevo Quinteto y lanzado originalmente en 1965 (con ilustración de farol en azul y tipografía en rojo sobre fondo claro); y por otro, el álbum recopilatorio Los Más Grandes Éxitos de Roberto Carlos en Mau Mau, publicado originalmente en 1972 bajo el sello CBS (con fotografía en escena y listado de temas en la parte inferior de la portada).",
-          "artista": null,
-          "album": "Miguel Villasboas \"De mis tiempos\" (1965) + Roberto Carlos \"Los Más Grandes Éxit",
-          "sello": "CBS",
-          "anio": "1965",
-          "moneda": "$",
-          "base": 100,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1224274/1769a0c45dc862660a1d47d66386bafc.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8492?lote=64",
-          "motivos": [
-            "dice \"vinilo\"",
-            "dice \"LP\"",
-            "\"disco de vinilo\"",
-            "año 1965"
-          ]
-        }
-      ],
-      "datosDe": "2026-11-25T13:59:29.010Z"
-    },
-    {
-      "id": "8444",
-      "nombre": "Importante colección privada de obras de artistas extranjeros. Destacamos fotografía original de Walt Disney en Montevideo, Grabados con timbre de Museo Louvre, acuarela de Gavarni con certificado de autenticidad. Escultura de Marjan Grum, y más imperdibles. Retiro en Belvedere o Paso Carrasco y envíos a todo el país por DAC.",
-      "empresa": "Uruguay Remates",
-      "departamento": "Mdeo-Canelones",
-      "lugar": "Belvedere y Paso Carrsaco , Mdeo-Canelones",
-      "fecha": "25/11/2026, 20:30",
-      "fechaISO": "2026-11-25T23:30:00.000Z",
-      "timestamp": 1795649400,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8444",
-      "totalLotes": 51,
-      "vinilos": [
-        {
-          "id": 1225256,
-          "lote": "48",
-          "titulo": "Cuatro vinilos de Liza Minnelli",
-          "descripcion": null,
-          "artista": "Liza Minnelli",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "U$S",
-          "base": 30,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1225256/a6bb7afe4709c9344e6f00d2d8219e98.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8444?lote=48",
-          "motivos": [
-            "dice \"vinilo\""
-          ]
-        }
-      ],
-      "datosDe": "2026-11-25T13:59:29.010Z"
-    },
-    {
-      "id": "8451",
-      "nombre": "VUELVE EL ESPECIAL DE COLECCIONABLES, ANTIGÜEDADES Y ADORNOS❗️",
-      "empresa": "Emilio Baptista Martínez",
-      "departamento": "Montevideo",
-      "lugar": "Domingo Aramburu 1647, Montevideo",
-      "fecha": "25/11/2026, 21:00",
-      "fechaISO": "2026-11-26T00:00:00.000Z",
-      "timestamp": 1795651200,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8451",
-      "totalLotes": 108,
+      "url": "https://www.remotes.com.uy/participar/remate/8501",
+      "totalLotes": 160,
       "vinilos": [],
-      "datosDe": "2026-11-25T13:59:29.010Z"
+      "datosDe": "2026-11-26T03:27:11.509Z"
     },
     {
       "id": "8375",
@@ -1454,22 +30,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8375",
       "totalLotes": 172,
       "vinilos": [],
-      "datosDe": "2026-11-25T13:59:29.010Z"
-    },
-    {
-      "id": "8501",
-      "nombre": "Liquidación DE REMATES. RECOPIMAMOS  UNA GRAN VARIEDAD DE ARTÍCULOS DE REMATES ANTERIORES, BAZAR, ARTÍCULOS PARA EL HOGAR, BICICLETA, HERRAMIENTAS ELECTRODOMÉSTICOS Y UNA GRAN COLECCIÓN DE LÁMINAS Y ARTÍCULOS DE COLECCIÓN Y ANTIGÜEDADES.",
-      "empresa": "Gonzalo Maqueira Sanchez",
-      "departamento": "Rocha",
-      "lugar": "Ruta 15 km 18, Rocha",
-      "fecha": "26/11/2026, 19:30",
-      "fechaISO": "2026-11-26T22:30:00.000Z",
-      "timestamp": 1795732200,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8501",
-      "totalLotes": 160,
-      "vinilos": [],
-      "datosDe": "2026-11-25T13:59:29.010Z"
+      "datosDe": "2026-11-26T03:27:11.509Z"
     },
     {
       "id": "8507",
@@ -1482,7 +43,7 @@
       "timestamp": 1795806000,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8507",
-      "totalLotes": 98,
+      "totalLotes": 100,
       "vinilos": [
         {
           "id": 1230323,
@@ -1503,7 +64,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-25T13:59:29.010Z"
+      "datosDe": "2026-11-26T03:27:11.509Z"
     },
     {
       "id": "7448",
@@ -1518,7 +79,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7448",
       "totalLotes": 262,
       "vinilos": [],
-      "datosDe": "2026-11-25T13:59:29.010Z"
+      "datosDe": "2026-11-26T03:27:11.509Z"
     },
     {
       "id": "8553",
@@ -1531,9 +92,9 @@
       "timestamp": 1795870800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8553",
-      "totalLotes": 340,
+      "totalLotes": 467,
       "vinilos": [],
-      "datosDe": "2026-11-25T13:59:29.010Z"
+      "datosDe": "2026-11-26T03:27:11.509Z"
     },
     {
       "id": "8522",
@@ -1548,7 +109,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8522",
       "totalLotes": 225,
       "vinilos": [],
-      "datosDe": "2026-11-25T13:59:29.010Z"
+      "datosDe": "2026-11-26T03:27:11.509Z"
     },
     {
       "id": "8475",
@@ -1561,7 +122,7 @@
       "timestamp": 1795985700,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8475",
-      "totalLotes": 644,
+      "totalLotes": 684,
       "vinilos": [
         {
           "id": 1233816,
@@ -1600,7 +161,22 @@
           ]
         }
       ],
-      "datosDe": "2026-11-25T13:59:29.010Z"
+      "datosDe": "2026-11-26T03:27:11.509Z"
+    },
+    {
+      "id": "8532",
+      "nombre": "📢Liquidación por venta de 2 importantes  propiedades con mobiliario rústico y de estilo,  antiguedades,  pintura,  iluminación,  gran variedad de vajilla, cristalería,  platina, objetos coleccionables, Roble, pinotéa, muebles franceses,  sillones de cuero.,......",
+      "empresa": "ElEjido",
+      "departamento": "MONTEVIDEO",
+      "lugar": "EJIDO 932, MONTEVIDEO",
+      "fecha": "29/11/2026, 19:30",
+      "fechaISO": "2026-11-29T22:30:00.000Z",
+      "timestamp": 1795991400,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8532",
+      "totalLotes": 188,
+      "vinilos": [],
+      "datosDe": "2026-11-26T03:27:11.509Z"
     },
     {
       "id": "8546",
@@ -1634,7 +210,93 @@
           ]
         }
       ],
-      "datosDe": "2026-11-25T13:59:29.010Z"
+      "datosDe": "2026-11-26T03:27:11.509Z"
+    },
+    {
+      "id": "8535",
+      "nombre": "GRAN REMATE ANTIGUEDADES Y COLECCIONABLES",
+      "empresa": "De Araujo Subastas",
+      "departamento": "Montevideo",
+      "lugar": "Libres 1671 Esquina Terra, Montevideo",
+      "fecha": "30/11/2026, 18:15",
+      "fechaISO": "2026-11-30T21:15:00.000Z",
+      "timestamp": 1796073300,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8535",
+      "totalLotes": 150,
+      "vinilos": [
+        {
+          "id": 1231979,
+          "lote": "130",
+          "titulo": "Disco LP \"Quiero a la sombra de un ala\", Los Olimareños",
+          "descripcion": null,
+          "artista": null,
+          "album": "Quiero a la sombra de un ala",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1231979/e0a51a6010f94b6e1701453fdefea925.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8535?lote=130",
+          "motivos": [
+            "dice \"LP\""
+          ]
+        },
+        {
+          "id": 1231980,
+          "lote": "131",
+          "titulo": "Disco LP \"Canto popular\", José Carbajal \"El Sabalero\"",
+          "descripcion": null,
+          "artista": null,
+          "album": "Canto popular",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1231980/0ba9718e0d252e197169f646de621a8e.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8535?lote=131",
+          "motivos": [
+            "dice \"LP\""
+          ]
+        },
+        {
+          "id": 1232060,
+          "lote": "286",
+          "titulo": "Álbum conmemorativo Montevideo 1830-1930",
+          "descripcion": "Álbum conmemorativo editado con motivo del primer centenario de Montevideo, bajo el auspicio de Whisky Caballo Blanco (casa establecida en 1742), con tapa de símil cuero repujado en tono oscuro y el título \"MONTEVIDEO 1830-1930\" estampado en dorado. La portada interior presenta el Escudo Nacional de la República Oriental del Uruguay enmarcado en una orla de laureles, bajo la leyenda \"1830 MONTEVIDEO 1930\". Faltan algunas paginas.",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": "1930",
+          "moneda": "$",
+          "base": 2000,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1232060/981386d8daee710071ef72044a7a0274.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8535?lote=286",
+          "motivos": [
+            "dice \"álbum\"",
+            "año 1930"
+          ]
+        }
+      ],
+      "datosDe": "2026-11-26T03:27:11.509Z"
+    },
+    {
+      "id": "8506",
+      "nombre": "LIQUIDACION TOTAL POR VENTA DE CASA TODAS SUS EXISTENCIAS : DORMITORIOS COMPLETOS DE 2 Y UNA PLAZA, COMEDOR, LIVING, MUEBLES DE COCINA, HELADERA, FREEZER, TRES GARRAFAS DE 13 KG, COCINA, OLLA ESSEN GRANDE, ELECTRODOMESTICOS, TV, RADIO, AIRES ACONDICIONADOS, TERMOFON, COLECCION DE ELEFANTES, ARTICULOS DE COCINA, ANTIGUEDADES, 25 METROS DE REPISA DE VIDRIO, REPISAS, JUEGO DE PATIO EN HIERRO, CUNA ANTIGUA, HERRAMIENTAS VARIAS, MACETAS , PARRILLA, ETCC ETC NO S ELO PIERDA ESTE 30 DE NOVIEMBRE A LAS 19 HORAS ON LINE 240 COLONIA",
+      "empresa": "Gardiol y otros",
+      "departamento": "Colonia",
+      "lugar": "Colonia, Colonia",
+      "fecha": "30/11/2026, 19:00",
+      "fechaISO": "2026-11-30T22:00:00.000Z",
+      "timestamp": 1796076000,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8506",
+      "totalLotes": 171,
+      "vinilos": [],
+      "datosDe": "2026-11-26T03:27:11.509Z"
     },
     {
       "id": "8410",
@@ -1649,7 +311,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8410",
       "totalLotes": 192,
       "vinilos": [],
-      "datosDe": "2026-11-25T13:59:29.010Z"
+      "datosDe": "2026-11-26T03:27:11.509Z"
     },
     {
       "id": "8229",
@@ -1664,7 +326,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8229",
       "totalLotes": 264,
       "vinilos": [],
-      "datosDe": "2026-11-25T13:59:29.010Z"
+      "datosDe": "2026-11-26T03:27:11.509Z"
     },
     {
       "id": "8480",
@@ -1698,7 +360,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-25T13:59:29.010Z"
+      "datosDe": "2026-11-26T03:27:11.509Z"
     },
     {
       "id": "8483",
@@ -2569,7 +1231,7 @@
           "anio": "1980",
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222732/85d809bfcbc3f3bfc2cb77bdd6e515d4.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=143",
           "motivos": [
@@ -2910,7 +1572,7 @@
           "anio": "1982",
           "moneda": "$",
           "base": 200,
-          "oferta": 450,
+          "oferta": 500,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222750/d348587f52eb667dc1e7d4ade6a0e6c1.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=161",
           "motivos": [
@@ -2948,7 +1610,7 @@
           "anio": "1984",
           "moneda": "$",
           "base": 200,
-          "oferta": 300,
+          "oferta": 500,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222752/c61d7966c3b1ac1725658ce619bb2025.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=163",
           "motivos": [
@@ -3260,7 +1922,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-25T13:59:29.010Z"
+      "datosDe": "2026-11-26T03:27:11.509Z"
     },
     {
       "id": "8200",
@@ -3275,7 +1937,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8200",
       "totalLotes": 28,
       "vinilos": [],
-      "datosDe": "2026-11-25T13:59:29.010Z"
+      "datosDe": "2026-11-26T03:27:11.509Z"
     },
     {
       "id": "8439",
@@ -3290,7 +1952,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8439",
       "totalLotes": 43,
       "vinilos": [],
-      "datosDe": "2026-11-25T13:59:29.010Z"
+      "datosDe": "2026-11-26T03:27:11.509Z"
     },
     {
       "id": "8467",
@@ -3552,7 +2214,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-25T13:59:29.010Z"
+      "datosDe": "2026-11-26T03:27:11.509Z"
     },
     {
       "id": "8484",
@@ -3701,11 +2363,11 @@
           ]
         }
       ],
-      "datosDe": "2026-11-25T13:59:29.010Z"
+      "datosDe": "2026-11-26T03:27:11.509Z"
     },
     {
-      "id": "8513",
-      "nombre": "✅ Remate de antigüedades y coleccionables, Destacamos antiguos juegos de caja, libros, piezas de barro esmaltado, compases, escuadras y mucho más!!! Estamos cargando lotes",
+      "id": "8562",
+      "nombre": "✅ Otro Interesante remate de Discos Simples y Libros",
       "empresa": "Valentina Rodríguez",
       "departamento": "Montevideo",
       "lugar": "Saint Bois 4623 esq. Cam. Corrales, Montevideo",
@@ -3713,47 +2375,29 @@
       "fechaISO": "2026-12-09T18:00:00.000Z",
       "timestamp": 1796839200,
       "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8513",
-      "totalLotes": 151,
+      "url": "https://www.remotes.com.uy/participar/remate/8562",
+      "totalLotes": 174,
       "vinilos": [
         {
-          "id": 1227336,
-          "lote": "19",
-          "titulo": "album de tierra de Artigas",
+          "id": 1238091,
+          "lote": "160",
+          "titulo": "160) Documento Recopilatorio. ( Leyes - Ordenanzas y Resoluciones ) Abasto,Tabladas y Mercados 1917 Montevideo  197 Páginas",
           "descripcion": null,
-          "artista": "Artigas",
-          "album": null,
+          "artista": null,
+          "album": "Ordenanzas y Resoluciones ) Abasto,Tabladas y Mercados 1917 Montevideo 197 Pági",
           "sello": null,
           "anio": null,
           "moneda": "$",
-          "base": 100,
+          "base": 200,
           "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1227336/00b6055d34cfe8f4dd9ff614a4f962f3.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8513?lote=19",
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1238091/2a027a12df722422f48baa7ec5aa446b.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8562?lote=160",
           "motivos": [
-            "dice \"álbum\""
-          ]
-        },
-        {
-          "id": 1227338,
-          "lote": "21",
-          "titulo": "album de los aniversarios - hombres celebres del mundo completo de 79 paginas",
-          "descripcion": null,
-          "artista": "album de los aniversarios",
-          "album": "hombres celebres del mundo completo de 79 paginas",
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 100,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1227338/bd8ade2fd56f1be1f7a537948773ecba.jpg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8513?lote=21",
-          "motivos": [
-            "dice \"álbum\""
+            "formato \"Artista - Título\" + contexto musical"
           ]
         }
       ],
-      "datosDe": "2026-11-25T13:59:29.010Z"
+      "datosDe": "2026-11-26T03:27:11.509Z"
     },
     {
       "id": "7651",
@@ -6892,7 +5536,59 @@
           ]
         }
       ],
-      "datosDe": "2026-11-25T13:59:29.010Z"
+      "datosDe": "2026-11-26T03:27:11.509Z"
+    },
+    {
+      "id": "8513",
+      "nombre": "✅ Remate de antigüedades y coleccionables, Destacamos antiguos juegos de caja, libros, piezas de barro esmaltado, compases, escuadras, instrumentos de laboratorios, relojes y mucho más!!! Estamos cargando lotes",
+      "empresa": "Valentina Rodríguez",
+      "departamento": "Montevideo",
+      "lugar": "Saint Bois 4623 esq. Cam. Corrales, Montevideo",
+      "fecha": "10/12/2026, 15:00",
+      "fechaISO": "2026-12-10T18:00:00.000Z",
+      "timestamp": 1796925600,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8513",
+      "totalLotes": 151,
+      "vinilos": [
+        {
+          "id": 1227336,
+          "lote": "19",
+          "titulo": "album de tierra de Artigas",
+          "descripcion": null,
+          "artista": "Artigas",
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1227336/00b6055d34cfe8f4dd9ff614a4f962f3.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8513?lote=19",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        },
+        {
+          "id": 1227338,
+          "lote": "21",
+          "titulo": "album de los aniversarios - hombres celebres del mundo completo de 79 paginas",
+          "descripcion": null,
+          "artista": "album de los aniversarios",
+          "album": "hombres celebres del mundo completo de 79 paginas",
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 100,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1227338/bd8ade2fd56f1be1f7a537948773ecba.jpg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8513?lote=21",
+          "motivos": [
+            "dice \"álbum\""
+          ]
+        }
+      ],
+      "datosDe": "2026-11-26T03:27:11.509Z"
     },
     {
       "id": "8128",
@@ -6907,7 +5603,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8128",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-11-25T13:59:29.010Z"
+      "datosDe": "2026-11-26T03:27:11.509Z"
     }
   ]
 }
