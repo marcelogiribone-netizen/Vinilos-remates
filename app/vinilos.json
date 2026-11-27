@@ -1,46 +1,16 @@
 {
-  "generado": "2026-11-26T13:38:50.931Z",
+  "generado": "2026-11-27T03:34:25.442Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "8501",
-      "nombre": "Liquidación DE REMATES. RECOPIMAMOS  UNA GRAN VARIEDAD DE ARTÍCULOS DE REMATES ANTERIORES, BAZAR, ARTÍCULOS PARA EL HOGAR, BICICLETA, HERRAMIENTAS ELECTRODOMÉSTICOS Y UNA GRAN COLECCIÓN DE LÁMINAS Y ARTÍCULOS DE COLECCIÓN Y ANTIGÜEDADES.",
-      "empresa": "Gonzalo Maqueira Sanchez",
-      "departamento": "Rocha",
-      "lugar": "Ruta 15 km 18, Rocha",
-      "fecha": "26/11/2026, 19:00",
-      "fechaISO": "2026-11-26T22:00:00.000Z",
-      "timestamp": 1795730400,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8501",
-      "totalLotes": 160,
-      "vinilos": [],
-      "datosDe": "2026-11-26T13:38:50.931Z"
-    },
-    {
-      "id": "8375",
-      "nombre": "JUEVES 19:30HS Sin Base Y Al Mejor Postor Exente Remate Vajilla Cristalería Loza y Porcelana Artículos De Cocina de Buena Calidad Mucha Ropa De Cama Sabanas Fundas Cortinas Manteles Electrodomésticos Con Informe De Funcionamiento Muebles Vintage Y Nuevos En Liquidación Equipo De Sonido Antigüedades Y Mucho Mas!",
-      "empresa": "Remate G. Federico",
-      "departamento": "Montevideo",
-      "lugar": "Arenal Grande 1818 esq La Paz de lu a vi 9:30 a 18hs sa de 9:30 a 13hs, Montevideo",
-      "fecha": "26/11/2026, 19:30",
-      "fechaISO": "2026-11-26T22:30:00.000Z",
-      "timestamp": 1795732200,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8375",
-      "totalLotes": 172,
-      "vinilos": [],
-      "datosDe": "2026-11-26T13:38:50.931Z"
-    },
     {
       "id": "8507",
       "nombre": "IMPERDIBLE REMATE MULTIRUBRO EN DONDE SE DESTACA ADORNOS, VARIEDAD EN PLANTAS DECORATIVAS, MÁQUINA DE PASTAS, SET DE UTENSILIOS DE COCINA NUEVOS, JUEGOS DE XBOX 360, PINCELES DIFERENTES MODELOS, VALIJAS DE HERRAMIENTAS, 30 DISCOS DE CORTE CAT, GUANTES DE TRABAJO, LOTES DE MECHAS, CAJONES PLÁSTICOS LECHEROS, Y MÁS❗️",
       "empresa": "Emilio Baptista Martínez",
       "departamento": "Montevideo",
       "lugar": "Domingo Aramburu 1647, Montevideo",
-      "fecha": "27/11/2026, 16:00",
-      "fechaISO": "2026-11-27T19:00:00.000Z",
-      "timestamp": 1795806000,
+      "fecha": "27/11/2026, 20:59",
+      "fechaISO": "2026-11-27T23:59:00.000Z",
+      "timestamp": 1795823940,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8507",
       "totalLotes": 100,
@@ -64,7 +34,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-26T13:38:50.931Z"
+      "datosDe": "2026-11-27T03:34:25.442Z"
     },
     {
       "id": "7448",
@@ -79,7 +49,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/7448",
       "totalLotes": 262,
       "vinilos": [],
-      "datosDe": "2026-11-26T13:38:50.931Z"
+      "datosDe": "2026-11-27T03:34:25.442Z"
     },
     {
       "id": "8553",
@@ -92,9 +62,24 @@
       "timestamp": 1795870800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8553",
-      "totalLotes": 470,
+      "totalLotes": 563,
       "vinilos": [],
-      "datosDe": "2026-11-26T13:38:50.931Z"
+      "datosDe": "2026-11-27T03:34:25.442Z"
+    },
+    {
+      "id": "8537",
+      "nombre": "Se cuelgan fotos y medidas hasta la noche del viernes..REMATAZO!!! Remates Nenhof, antigüedades, coleccionismo, bazar, adornos y más.",
+      "empresa": "Nenhof",
+      "departamento": "Montevideo",
+      "lugar": "Gregorio Suárez 2772, Montevideo",
+      "fecha": "28/11/2026, 14:00",
+      "fechaISO": "2026-11-28T17:00:00.000Z",
+      "timestamp": 1795885200,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8537",
+      "totalLotes": 305,
+      "vinilos": [],
+      "datosDe": "2026-11-27T03:34:25.442Z"
     },
     {
       "id": "8522",
@@ -107,9 +92,9 @@
       "timestamp": 1795960800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8522",
-      "totalLotes": 225,
+      "totalLotes": 255,
       "vinilos": [],
-      "datosDe": "2026-11-26T13:38:50.931Z"
+      "datosDe": "2026-11-27T03:34:25.442Z"
     },
     {
       "id": "8475",
@@ -117,12 +102,12 @@
       "empresa": "Escritorio de Remates CV",
       "departamento": "Colonia",
       "lugar": "Leyenda Patria , Colonia",
-      "fecha": "29/11/2026, 17:55",
-      "fechaISO": "2026-11-29T20:55:00.000Z",
-      "timestamp": 1795985700,
+      "fecha": "29/11/2026, 17:00",
+      "fechaISO": "2026-11-29T20:00:00.000Z",
+      "timestamp": 1795982400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8475",
-      "totalLotes": 689,
+      "totalLotes": 687,
       "vinilos": [
         {
           "id": 1233816,
@@ -161,7 +146,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-26T13:38:50.931Z"
+      "datosDe": "2026-11-27T03:34:25.442Z"
     },
     {
       "id": "8532",
@@ -176,7 +161,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8532",
       "totalLotes": 188,
       "vinilos": [],
-      "datosDe": "2026-11-26T13:38:50.931Z"
+      "datosDe": "2026-11-27T03:34:25.442Z"
     },
     {
       "id": "8546",
@@ -210,7 +195,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-26T13:38:50.931Z"
+      "datosDe": "2026-11-27T03:34:25.442Z"
     },
     {
       "id": "8535",
@@ -281,11 +266,11 @@
           ]
         }
       ],
-      "datosDe": "2026-11-26T13:38:50.931Z"
+      "datosDe": "2026-11-27T03:34:25.442Z"
     },
     {
       "id": "8506",
-      "nombre": "LIQUIDACION TOTAL POR VENTA DE CASA TODAS SUS EXISTENCIAS : DORMITORIOS COMPLETOS DE 2 Y UNA PLAZA, COMEDOR, LIVING, MUEBLES DE COCINA, HELADERA, FREEZER, TRES GARRAFAS DE 13 KG, COCINA, OLLA ESSEN GRANDE, ELECTRODOMESTICOS, TV, RADIO, AIRES ACONDICIONADOS, TERMOFON, COLECCION DE ELEFANTES, ARTICULOS DE COCINA, ANTIGUEDADES, 25 METROS DE REPISA DE VIDRIO, REPISAS, JUEGO DE PATIO EN HIERRO, CUNA ANTIGUA, HERRAMIENTAS VARIAS, MACETAS , PARRILLA, ETCC ETC NO S ELO PIERDA ESTE 30 DE NOVIEMBRE A LAS 19 HORAS ON LINE 240 COLONIA",
+      "nombre": "LIQUIDACION TOTAL POR VENTA DE CASA TODAS SUS EXISTENCIAS : DORMITORIOS COMPLETOS DE 2 Y UNA PLAZA, COMEDOR, LIVING, MUEBLES DE COCINA, HELADERA, FREEZER, TRES GARRAFAS DE 13 KG, COCINA, OLLA ESSEN GRANDE, ELECTRODOMESTICOS, TV, RADIO,TERMOFON, COLECCION DE ELEFANTES, ARTICULOS DE COCINA, ANTIGUEDADES, 25 METROS DE REPISA DE VIDRIO, REPISAS, JUEGO DE PATIO EN HIERRO, CUNA ANTIGUA, HERRAMIENTAS VARIAS, MACETAS , PARRILLA, ETCC ETC NO S ELO PIERDA ESTE 30 DE NOVIEMBRE A LAS 19 HORAS ON LINE 240 COLONIA",
       "empresa": "Gardiol y otros",
       "departamento": "Colonia",
       "lugar": "Colonia, Colonia",
@@ -296,7 +281,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8506",
       "totalLotes": 171,
       "vinilos": [],
-      "datosDe": "2026-11-26T13:38:50.931Z"
+      "datosDe": "2026-11-27T03:34:25.442Z"
     },
     {
       "id": "8410",
@@ -311,7 +296,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8410",
       "totalLotes": 192,
       "vinilos": [],
-      "datosDe": "2026-11-26T13:38:50.931Z"
+      "datosDe": "2026-11-27T03:34:25.442Z"
     },
     {
       "id": "8229",
@@ -326,7 +311,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8229",
       "totalLotes": 264,
       "vinilos": [],
-      "datosDe": "2026-11-26T13:38:50.931Z"
+      "datosDe": "2026-11-27T03:34:25.442Z"
     },
     {
       "id": "8480",
@@ -360,7 +345,22 @@
           ]
         }
       ],
-      "datosDe": "2026-11-26T13:38:50.931Z"
+      "datosDe": "2026-11-27T03:34:25.442Z"
+    },
+    {
+      "id": "8563",
+      "nombre": "REMATE DE FINA PINACOTECA, CUADROS SELECCIONADOS PROVENIENTES DE SUCESION",
+      "empresa": "Rey Antigüedades & Subastas",
+      "departamento": "Montevideo",
+      "lugar": "Maldonado 1083 esq Paraguay, Montevideo",
+      "fecha": "03/12/2026, 18:59",
+      "fechaISO": "2026-12-03T21:59:00.000Z",
+      "timestamp": 1796335140,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8563",
+      "totalLotes": 50,
+      "vinilos": [],
+      "datosDe": "2026-11-27T03:34:25.442Z"
     },
     {
       "id": "8483",
@@ -890,7 +890,7 @@
           "anio": "1977",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222714/14203174e13c9be7cd857fac04eaca36.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=125",
           "motivos": [
@@ -1023,7 +1023,7 @@
           "anio": "1976",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222721/112c6433b5f7ca3eb874a338030fa007.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=132",
           "motivos": [
@@ -1099,7 +1099,7 @@
           "anio": "1980",
           "moneda": "$",
           "base": 200,
-          "oferta": 250,
+          "oferta": 300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222725/5325a7a10998d4a683e8a02a99fea145.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=136",
           "motivos": [
@@ -1212,7 +1212,7 @@
           "anio": "1980",
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222731/cfaa15ec702c1407e3b7d62568c4dbbe.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=142",
           "motivos": [
@@ -1325,7 +1325,7 @@
           "anio": "1973",
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 650,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222737/fe5ca072d30ff98d35194f6b0065655b.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=148",
           "motivos": [
@@ -1420,7 +1420,7 @@
           "anio": "1972",
           "moneda": "$",
           "base": 200,
-          "oferta": 250,
+          "oferta": 350,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222742/1cc6d7d384e35251e33f0aa061a9e862.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=153",
           "motivos": [
@@ -1800,7 +1800,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222762/a9adc105b181a69f4e33e6ec077eb2e6.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=173",
           "motivos": [
@@ -1922,7 +1922,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-26T13:38:50.931Z"
+      "datosDe": "2026-11-27T03:34:25.442Z"
     },
     {
       "id": "8200",
@@ -1930,14 +1930,14 @@
       "empresa": "Roberto Vizoso Diaz",
       "departamento": "MONTEVIDEO",
       "lugar": "Ruta 5 y Camino La Redencion , MONTEVIDEO",
-      "fecha": "05/12/2026, 11:00",
-      "fechaISO": "2026-12-05T14:00:00.000Z",
-      "timestamp": 1796479200,
+      "fecha": "05/12/2026, 12:30",
+      "fechaISO": "2026-12-05T15:30:00.000Z",
+      "timestamp": 1796484600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8200",
       "totalLotes": 28,
       "vinilos": [],
-      "datosDe": "2026-11-26T13:38:50.931Z"
+      "datosDe": "2026-11-27T03:34:25.442Z"
     },
     {
       "id": "8439",
@@ -1952,7 +1952,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8439",
       "totalLotes": 43,
       "vinilos": [],
-      "datosDe": "2026-11-26T13:38:50.931Z"
+      "datosDe": "2026-11-27T03:34:25.442Z"
     },
     {
       "id": "8467",
@@ -1965,7 +1965,7 @@
       "timestamp": 1796506200,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8467",
-      "totalLotes": 155,
+      "totalLotes": 156,
       "vinilos": [
         {
           "id": 1235572,
@@ -2008,7 +2008,7 @@
         {
           "id": 1235579,
           "lote": "12",
-          "titulo": "OSVALDO PUGLIESE MATO Y VOY – OSV.PUGLIESE Y SU ORQUESTA EMI 1979/ 10 /CANTA: ABEL CORDOBA",
+          "titulo": "OSVALDO PUGLIESE MATO Y VOY – OSV.PUGLIESE Y SU ORQUESTA EMI 1979/ 10 TANGOS /CANTA: ABEL CORDOBA",
           "descripcion": null,
           "artista": "OSVALDO PUGLIESE MATO Y VOY",
           "album": "OSV",
@@ -2027,7 +2027,7 @@
         {
           "id": 1235582,
           "lote": "15",
-          "titulo": "OSVALDO PUGLIESE EL ALBUM DE ORO DE OSVALDO PUGLIESE EMI/ODEON 1981 /12 /CANTAN ALBERTO MORAN, JORGE VIDAL, R.CHANEL, M.MONTERO, ETC",
+          "titulo": "OSVALDO PUGLIESE EL ALBUM DE ORO DE OSVALDO PUGLIESE EMI/ODEON 1981 /12 TANGOS / CANTAN ALBERTO MORAN, JORGE VIDAL, R.CHANEL, M.MONTERO, ETC",
           "descripcion": null,
           "artista": null,
           "album": null,
@@ -2046,10 +2046,10 @@
         {
           "id": 1235610,
           "lote": "43",
-          "titulo": "TROILO - PIAZZOLLA TANGO EN TEATRO COLON, C/SEXTETO TANGO RCA/VICTOR 1972/ 11 /ORQUESTAS: TROILO – ASTOR PIAZZOLLA – SEXTETO TANGO, CANTA: R.GOYENECHE",
+          "titulo": "TROILO - PIAZZOLLA TANGO EN TEATRO COLON, C/SEXTETO TANGO RCA/VICTOR 1972/ 11 TANGOS /ORQUESTAS: TROILO – ASTOR PIAZZOLLA – SEXTETO TANGO, CANTA: R.GOYENECHE",
           "descripcion": null,
           "artista": "TROILO",
-          "album": "PIAZZOLLA TANGO EN TEATRO COLON, C/SEXTETO TANGO RCA/VICTOR 1972/ 11 /ORQUESTAS",
+          "album": "PIAZZOLLA TANGO EN TEATRO COLON, C/SEXTETO TANGO RCA/VICTOR 1972/ 11 TANGOS /ORQ",
           "sello": "RCA",
           "anio": "1972",
           "moneda": "$",
@@ -2065,7 +2065,7 @@
         {
           "id": 1235619,
           "lote": "52",
-          "titulo": "JULIO DE CARO EPOCA DE ORO. JULIO DE CARO Y SU ORQUESTA RCA/VICTOR 1959/ 14/ GRABADOS ENTRE 1926 Y 1928 - RESEÑA: FRANCISCO GARCIA JIMENEZ",
+          "titulo": "JULIO DE CARO EPOCA DE ORO. JULIO DE CARO Y SU ORQUESTA RCA/VICTOR 1959/ 14 TANGOS/ GRABADOS ENTRE 1926 Y 1928 - RESEÑA: FRANCISCO GARCIA JIMENEZ",
           "descripcion": null,
           "artista": null,
           "album": null,
@@ -2084,7 +2084,7 @@
         {
           "id": 1235621,
           "lote": "54",
-          "titulo": "EDMUNDO RIVERO EDMUNDO RIVERO CANTA A DISCEPOLO PHILIPS 1977/ 12 /INCLUYE: CAFETIN DE BS.AIRES, CHORRA, INFAMIA - ORQUESTA: ATILIO STAMPONI",
+          "titulo": "EDMUNDO RIVERO EDMUNDO RIVERO CANTA A DISCEPOLO PHILIPS 1977/ 12TANGOS /INCLUYE: CAFETIN DE BS.AIRES, CHORRA, INFAMIA - ORQUESTA: ATILIO STAMPONI",
           "descripcion": null,
           "artista": null,
           "album": null,
@@ -2103,7 +2103,7 @@
         {
           "id": 1235622,
           "lote": "55",
-          "titulo": "CARLOS ROLDAN CARLOS ROLDAN CON FRANCISCO CANARO ODEON/EMI 1969/ 14/ INCLUYE: UNO, EL NEGRO RAMON, DOS MINUTOS - ORQUESTA: FRANCISCO CANARO",
+          "titulo": "CARLOS ROLDAN CARLOS ROLDAN CON FRANCISCO CANARO ODEON/EMI 1969/ 14 TANGOS/ INCLUYE: UNO, EL NEGRO RAMON, DOS MINUTOS - ORQUESTA: FRANCISCO CANARO",
           "descripcion": null,
           "artista": null,
           "album": null,
@@ -2122,7 +2122,7 @@
         {
           "id": 1235623,
           "lote": "56",
-          "titulo": "DONATO RACCIATTI SU ORQUESTA Y LA VOZ DE CARLOS ROLDAN SONDOR 1959 /12/ INCL: DESORIENTADO, QUE LINDO TIEMPO AQUEL, ESTA NOCHE ME EMBORRACHO",
+          "titulo": "DONATO RACCIATTI SU ORQUESTA Y LA VOZ DE CARLOS ROLDAN SONDOR 1959 /12 TANGOS/ INCL: DESORIENTADO, QUE LINDO TIEMPO AQUEL, ESTA NOCHE ME EMBORRACHO",
           "descripcion": null,
           "artista": null,
           "album": null,
@@ -2159,10 +2159,10 @@
         {
           "id": 1235642,
           "lote": "75",
-          "titulo": "ANIBAL TROILO LA HISTORIA DE ANIBAL TROILO – 3 LPS RCACAMDEN 1967/ 41 /ESTUCHE C/3 LPS Y REVISTA GRAN FORMATO C/FOTOS, LETRAS Y DISCOGR.COMPLETA",
+          "titulo": "ANIBAL TROILO LA HISTORIA DE ANIBAL TROILO – 3 LPS RCACAMDEN 1967/ 41 TANGOS /ESTUCHE C/3 LPS Y REVISTA GRAN FORMATO C/FOTOS, LETRAS Y DISCOGR.COMPLETA",
           "descripcion": null,
           "artista": "ANIBAL TROILO LA HISTORIA DE ANIBAL TROILO",
-          "album": "3 LPS RCACAMDEN 1967/ 41 /ESTUCHE C/3 LPS Y REVISTA GRAN FORMATO C/FOTOS, LETRAS",
+          "album": "3 LPS RCACAMDEN 1967/ 41 TANGOS /ESTUCHE C/3 LPS Y REVISTA GRAN FORMATO C/FOTOS",
           "sello": null,
           "anio": "1967",
           "moneda": "$",
@@ -2214,7 +2214,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-26T13:38:50.931Z"
+      "datosDe": "2026-11-27T03:34:25.442Z"
     },
     {
       "id": "8484",
@@ -2278,7 +2278,7 @@
           "anio": "1980",
           "moneda": "$",
           "base": 200,
-          "oferta": null,
+          "oferta": 200,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222899/215a223dcb3a04a8f3c65b537f5f44ab.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8484?lote=129",
           "motivos": [
@@ -2363,7 +2363,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-26T13:38:50.931Z"
+      "datosDe": "2026-11-27T03:34:25.442Z"
     },
     {
       "id": "8562",
@@ -2397,7 +2397,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-26T13:38:50.931Z"
+      "datosDe": "2026-11-27T03:34:25.442Z"
     },
     {
       "id": "7651",
@@ -5536,11 +5536,11 @@
           ]
         }
       ],
-      "datosDe": "2026-11-26T13:38:50.931Z"
+      "datosDe": "2026-11-27T03:34:25.442Z"
     },
     {
       "id": "8513",
-      "nombre": "✅ Remate de antigüedades y coleccionables, Destacamos antiguos juegos de caja, libros, piezas de barro esmaltado, compases, escuadras, instrumentos de laboratorios, relojes y mucho más!!! Estamos cargando lotes",
+      "nombre": "✅ Remate de antigüedades y coleccionables, Destacamos antiguos juegos de caja, libros, piezas de barro esmaltado, compases, escuadras, instrumentos de laboratorios, relojes, microscopios, teodolitos, coleccionables de estaciones de servicio, piezas art Deco, art nouveau  y mucho más!!! Estamos cargando lotes",
       "empresa": "Valentina Rodríguez",
       "departamento": "Montevideo",
       "lugar": "Saint Bois 4623 esq. Cam. Corrales, Montevideo",
@@ -5549,7 +5549,7 @@
       "timestamp": 1796925600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8513",
-      "totalLotes": 151,
+      "totalLotes": 148,
       "vinilos": [
         {
           "id": 1227336,
@@ -5588,7 +5588,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-26T13:38:50.931Z"
+      "datosDe": "2026-11-27T03:34:25.442Z"
     },
     {
       "id": "8128",
@@ -5603,7 +5603,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8128",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-11-26T13:38:50.931Z"
+      "datosDe": "2026-11-27T03:34:25.442Z"
     }
   ]
 }
