@@ -1,56 +1,7 @@
 {
-  "generado": "2026-11-27T13:34:46.134Z",
+  "generado": "2026-11-28T03:11:24.760Z",
   "fallos": 0,
   "remates": [
-    {
-      "id": "8507",
-      "nombre": "IMPERDIBLE REMATE MULTIRUBRO EN DONDE SE DESTACA ADORNOS, VARIEDAD EN PLANTAS DECORATIVAS, MÁQUINA DE PASTAS, SET DE UTENSILIOS DE COCINA NUEVOS, JUEGOS DE XBOX 360, PINCELES DIFERENTES MODELOS, VALIJAS DE HERRAMIENTAS, 30 DISCOS DE CORTE CAT, GUANTES DE TRABAJO, LOTES DE MECHAS, CAJONES PLÁSTICOS LECHEROS, Y MÁS❗️",
-      "empresa": "Emilio Baptista Martínez",
-      "departamento": "Montevideo",
-      "lugar": "Domingo Aramburu 1647, Montevideo",
-      "fecha": "27/11/2026, 20:59",
-      "fechaISO": "2026-11-27T23:59:00.000Z",
-      "timestamp": 1795823940,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/8507",
-      "totalLotes": 100,
-      "vinilos": [
-        {
-          "id": 1230323,
-          "lote": "16",
-          "titulo": "Lote de controles, sensor de XBOK y discos",
-          "descripcion": null,
-          "artista": "XBOK",
-          "album": null,
-          "sello": null,
-          "anio": null,
-          "moneda": "$",
-          "base": 200,
-          "oferta": null,
-          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1230323/941f9a79d75d2cc0dee91cff4503ca05.jpeg",
-          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8507?lote=16",
-          "motivos": [
-            "dice \"disco\""
-          ]
-        }
-      ],
-      "datosDe": "2026-11-27T13:34:46.134Z"
-    },
-    {
-      "id": "7448",
-      "nombre": "SALDRAN A REMATE LOTES PRE-OFERTADOS - SIN BASE LA COLECCION DE STICKERS LOTE 250 EN DELANTE - MUEBLES, ROPA USADA SELECCIONADA, PELUCHES, LIBROS, APROX. 100 STICKERS LENTICULARES, LIBROS DE TODO TIPO, TEMATICA INFANTIL, INGLÉS, GEOGRAFIA, ETC. PIEDRAS SEMIPRECIOSAS DE ARTIGAS - GRAN ÁRBOL DE LA VIDA. STICKERS LENTICULARES CON EFECTO VISUAL 3D O CAMBIO DE IMAGEN SEGÚN EL ÁNGULO DE VISIÓN. RIVERA – ENVÍOS A TODO EL PAÍS. ¿TENÉS ARTÍCULOS, MERCADERÍA O STOCK SIN VENDER? ¡NOSOTROS LOS VENDEMOS POR VOS! OFRECEMOS SERVICIO INTEGRAL DE REMATES ONLINE PARA PARTICULARES Y COMERCIOS. CONVERTÍ EN DINERO AQUELLO QUE YA NO USÁS O TENÉS INMOVILIZADO. NOS ENCARGAMOS DE LA PUBLICACIÓN, PROMOCIÓN Y GESTIÓN DEL REMATE. SERVICIO DISCRETO Y PERSONALIZADO. CONSULTANOS SIN COMPROMISO Y TRANSFORMÁ TUS ARTÍCULOS EN DINERO. WHATSAPP 092 222 266",
-      "empresa": "Vip Subastas",
-      "departamento": "Rivera",
-      "lugar": "Ver cada Lote - Envío a todo el país , Rivera",
-      "fecha": "27/11/2026, 21:00",
-      "fechaISO": "2026-11-28T00:00:00.000Z",
-      "timestamp": 1795824000,
-      "fechaDudosa": false,
-      "url": "https://www.remotes.com.uy/participar/remate/7448",
-      "totalLotes": 262,
-      "vinilos": [],
-      "datosDe": "2026-11-27T13:34:46.134Z"
-    },
     {
       "id": "8553",
       "nombre": "BLACK FRIDAY DE REMATE!!! Multirubro. Articulos Variados Todo nuevo sin uso. Atención Revendedores. Mercaderia a la Vista y sin reclamo. Los lotes tienen la base de la unidad pero debe de llevar todas las unidades que comprende el lote. Articulos del Hogar, BARRAS, decoracion, tecnología, electrodomesticos, perfumes, juguetes y muchos articulos mas. Sigo subiendo lotes hasta último momento. Se envía a todo el país. El envío lo abona al recibir.",
@@ -62,9 +13,9 @@
       "timestamp": 1795870800,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8553",
-      "totalLotes": 563,
+      "totalLotes": 801,
       "vinilos": [],
-      "datosDe": "2026-11-27T13:34:46.134Z"
+      "datosDe": "2026-11-28T03:11:24.760Z"
     },
     {
       "id": "8522",
@@ -79,7 +30,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8522",
       "totalLotes": 255,
       "vinilos": [],
-      "datosDe": "2026-11-27T13:34:46.134Z"
+      "datosDe": "2026-11-28T03:11:24.760Z"
     },
     {
       "id": "8475",
@@ -92,7 +43,7 @@
       "timestamp": 1795982400,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8475",
-      "totalLotes": 687,
+      "totalLotes": 721,
       "vinilos": [
         {
           "id": 1233816,
@@ -131,7 +82,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-27T13:34:46.134Z"
+      "datosDe": "2026-11-28T03:11:24.760Z"
     },
     {
       "id": "8532",
@@ -146,7 +97,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8532",
       "totalLotes": 188,
       "vinilos": [],
-      "datosDe": "2026-11-27T13:34:46.134Z"
+      "datosDe": "2026-11-28T03:11:24.760Z"
     },
     {
       "id": "8546",
@@ -180,7 +131,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-27T13:34:46.134Z"
+      "datosDe": "2026-11-28T03:11:24.760Z"
     },
     {
       "id": "8535",
@@ -251,7 +202,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-27T13:34:46.134Z"
+      "datosDe": "2026-11-28T03:11:24.760Z"
     },
     {
       "id": "8506",
@@ -266,7 +217,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8506",
       "totalLotes": 171,
       "vinilos": [],
-      "datosDe": "2026-11-27T13:34:46.134Z"
+      "datosDe": "2026-11-28T03:11:24.760Z"
     },
     {
       "id": "8549",
@@ -281,7 +232,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8549",
       "totalLotes": 96,
       "vinilos": [],
-      "datosDe": "2026-11-27T13:34:46.134Z"
+      "datosDe": "2026-11-28T03:11:24.760Z"
     },
     {
       "id": "8410",
@@ -296,7 +247,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8410",
       "totalLotes": 192,
       "vinilos": [],
-      "datosDe": "2026-11-27T13:34:46.134Z"
+      "datosDe": "2026-11-28T03:11:24.760Z"
     },
     {
       "id": "8229",
@@ -311,7 +262,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8229",
       "totalLotes": 264,
       "vinilos": [],
-      "datosDe": "2026-11-27T13:34:46.134Z"
+      "datosDe": "2026-11-28T03:11:24.760Z"
     },
     {
       "id": "8480",
@@ -345,7 +296,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-27T13:34:46.134Z"
+      "datosDe": "2026-11-28T03:11:24.760Z"
     },
     {
       "id": "8563",
@@ -360,7 +311,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8563",
       "totalLotes": 50,
       "vinilos": [],
-      "datosDe": "2026-11-27T13:34:46.134Z"
+      "datosDe": "2026-11-28T03:11:24.760Z"
     },
     {
       "id": "8483",
@@ -516,7 +467,7 @@
           "anio": null,
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222694/ff6f48800599e4d1929c1c0a7c325bdc.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=105",
           "motivos": [
@@ -834,7 +785,7 @@
           "anio": "1991",
           "moneda": "$",
           "base": 200,
-          "oferta": 500,
+          "oferta": 550,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222711/b22510dffaa6e7497d073c42c0146d71.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=122",
           "motivos": [
@@ -1061,7 +1012,7 @@
           "anio": "1974",
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222723/59e920552e3d085985770713bdca54c6.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=134",
           "motivos": [
@@ -1686,7 +1637,7 @@
           "anio": "1978",
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 250,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222756/f3b9f2689d4a28f79dec8bdfd5141ce9.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=167",
           "motivos": [
@@ -1837,7 +1788,7 @@
           "anio": "1973",
           "moneda": "$",
           "base": 200,
-          "oferta": 200,
+          "oferta": 300,
           "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1222764/c02ad7c3245ee1a92e72200b1c9b804f.jpeg",
           "enlaceLote": "https://www.remotes.com.uy/participar/remate/8483?lote=175",
           "motivos": [
@@ -1922,7 +1873,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-27T13:34:46.134Z"
+      "datosDe": "2026-11-28T03:11:24.760Z"
     },
     {
       "id": "8200",
@@ -1935,9 +1886,9 @@
       "timestamp": 1796484600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8200",
-      "totalLotes": 28,
+      "totalLotes": 239,
       "vinilos": [],
-      "datosDe": "2026-11-27T13:34:46.134Z"
+      "datosDe": "2026-11-28T03:11:24.760Z"
     },
     {
       "id": "8439",
@@ -1952,7 +1903,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8439",
       "totalLotes": 43,
       "vinilos": [],
-      "datosDe": "2026-11-27T13:34:46.134Z"
+      "datosDe": "2026-11-28T03:11:24.760Z"
     },
     {
       "id": "8467",
@@ -2214,7 +2165,41 @@
           ]
         }
       ],
-      "datosDe": "2026-11-27T13:34:46.134Z"
+      "datosDe": "2026-11-28T03:11:24.760Z"
+    },
+    {
+      "id": "8589",
+      "nombre": "Gran Remate Online de Antigüedades y Coleccionables:Artículos Ferroviarios de AFE, Botellas Históricas Uruguayas, Piezas Originales de Coca-Cola, Cartelería Vial de Chapa, Chapas Matrícula Antiguas, Relojes Deportivos, envíos a todo el país.",
+      "empresa": "Flores Montaña Subastas",
+      "departamento": "SALTO",
+      "lugar": "SALTO, SALTO",
+      "fecha": "06/12/2026, 20:00",
+      "fechaISO": "2026-12-06T23:00:00.000Z",
+      "timestamp": 1796598000,
+      "fechaDudosa": false,
+      "url": "https://www.remotes.com.uy/participar/remate/8589",
+      "totalLotes": 63,
+      "vinilos": [
+        {
+          "id": 1240797,
+          "lote": "40",
+          "titulo": "Portavelas en cristal tallado años 70",
+          "descripcion": "Portavelas vintage de los años 70 en cristal transparente tallado con base facetada tipo bola de disco (ver video). Altura: 19 cm.",
+          "artista": null,
+          "album": null,
+          "sello": null,
+          "anio": null,
+          "moneda": "$",
+          "base": 800,
+          "oferta": null,
+          "imagen": "https://static3.remotes.com.uy/img/thumb/800/files/items/1240797/2c90cf9fe03f1f7992bba977cf1e9087.jpeg",
+          "enlaceLote": "https://www.remotes.com.uy/participar/remate/8589?lote=40",
+          "motivos": [
+            "dice \"disco\""
+          ]
+        }
+      ],
+      "datosDe": "2026-11-28T03:11:24.760Z"
     },
     {
       "id": "8484",
@@ -2363,7 +2348,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-27T13:34:46.134Z"
+      "datosDe": "2026-11-28T03:11:24.760Z"
     },
     {
       "id": "8562",
@@ -2397,7 +2382,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-27T13:34:46.134Z"
+      "datosDe": "2026-11-28T03:11:24.760Z"
     },
     {
       "id": "7651",
@@ -5536,11 +5521,11 @@
           ]
         }
       ],
-      "datosDe": "2026-11-27T13:34:46.134Z"
+      "datosDe": "2026-11-28T03:11:24.760Z"
     },
     {
       "id": "8513",
-      "nombre": "✅ Remate de antigüedades y coleccionables, Destacamos antiguos juegos de caja, libros, piezas de barro esmaltado, compases, escuadras, instrumentos de laboratorios, relojes, microscopios, teodolitos, coleccionables de estaciones de servicio, piezas art Deco, art nouveau  y mucho más!!! Estamos cargando lotes",
+      "nombre": "✅ Remate de antigüedades y coleccionables, Destacamos antiguos juegos de caja, libros, piezas de barro esmaltado, compases, escuadras, instrumentos de laboratorios, relojes, microscopios, teodolitos, coleccionables de estaciones de servicio, piezas art Deco, art nouveau, petit bronce, coleccionables de ómnibus, barcos y mucho más!!!",
       "empresa": "Valentina Rodríguez",
       "departamento": "Montevideo",
       "lugar": "Saint Bois 4623 esq. Cam. Corrales, Montevideo",
@@ -5549,7 +5534,7 @@
       "timestamp": 1796925600,
       "fechaDudosa": false,
       "url": "https://www.remotes.com.uy/participar/remate/8513",
-      "totalLotes": 148,
+      "totalLotes": 150,
       "vinilos": [
         {
           "id": 1227336,
@@ -5588,7 +5573,7 @@
           ]
         }
       ],
-      "datosDe": "2026-11-27T13:34:46.134Z"
+      "datosDe": "2026-11-28T03:11:24.760Z"
     },
     {
       "id": "8128",
@@ -5603,7 +5588,7 @@
       "url": "https://www.remotes.com.uy/participar/remate/8128",
       "totalLotes": 82,
       "vinilos": [],
-      "datosDe": "2026-11-27T13:34:46.134Z"
+      "datosDe": "2026-11-28T03:11:24.760Z"
     }
   ]
 }
